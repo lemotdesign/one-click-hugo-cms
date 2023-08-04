@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Yes, I am a cat.
 subtitle: Support sustainable farming while enjoying a cuppa
 image: img/1689901941906466.jpg
 blurb:
