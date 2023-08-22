@@ -10,18 +10,17 @@ blurb:
   text: Trust our team of experts to provide advanced and reliable pest control
     services tailored to your needs.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. Hello.
+  heading: Get expert advice & service
+  text: >-
+    Friendly professional technicians that will treat you and your home with
+    respect.
+
+    Bugs can be scary; the pest control guy shouldn’t be!
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: |-
+      **Termite Treatments**
+      Industry experts in termite treatments
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
