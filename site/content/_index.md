@@ -3,12 +3,12 @@ title: YOUR LOCAL GOLD COAST TERMITE & PEST CONTROL PROFESSIONALS
 subtitle: Brisbane & Gold Coast termite and pest control experts
 image: img/1689901941906466.jpg
 blurb:
-  heading: At Conquer Termites Gold Coast, we're committed to delivering safe and
+  heading: Trust our team of experts to provide advanced and reliable pest control
+    services tailored to your needs.
+  text: At Conquer Termites Gold Coast, we're committed to delivering safe and
     effective pest control solutions for homeowners. Our mission is to protect
     your home from termite and pest damage while prioritizing the health and
     safety of your family.
-  text: Trust our team of experts to provide advanced and reliable pest control
-    services tailored to your needs.
 intro:
   heading: Get expert advice & service
   text: >-
