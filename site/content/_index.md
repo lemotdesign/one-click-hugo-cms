@@ -1,13 +1,14 @@
 ---
-title: Yes, I am a cat.
-subtitle: Support sustainable farming while enjoying a cuppa
+title: YOUR LOCAL GOLD COAST TERMITE & PEST CONTROL PROFESSIONALS
+subtitle: Brisbane & Gold Coast termite and pest control experts
 image: img/1689901941906466.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: At Conquer Termites Gold Coast, we're committed to delivering safe and
+    effective pest control solutions for homeowners. Our mission is to protect
+    your home from termite and pest damage while prioritizing the health and
+    safety of your family.
+  text: Trust our team of experts to provide advanced and reliable pest control
+    services tailored to your needs.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
