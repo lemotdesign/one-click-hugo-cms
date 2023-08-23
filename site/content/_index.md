@@ -28,9 +28,12 @@ products:
   - image: img/about-direct-sourcing.jpg
     text: Hi
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.  Derp.
+  heading: WHY CHOOSE CONQUER TERMITES?
+  text: |-
+    - Friendly with a caring attitude
+    - Gold Coast’s best-equipped and experienced technicians
+    - Reputation built on excellent service
+    - Fully Insuranced $5,000,000
+    - QBCC License for termite work
+    - Family owned 20 years+
 ---
