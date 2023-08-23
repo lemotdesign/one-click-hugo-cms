@@ -31,9 +31,14 @@ values:
   heading: WHY CHOOSE CONQUER TERMITES?
   text: |-
     - Friendly with a caring attitude
+
     - Gold Coast’s best-equipped and experienced technicians
+
     - Reputation built on excellent service
+
     - Fully Insuranced $5,000,000
+
     - QBCC License for termite work
+
     - Family owned 20 years+
 ---
