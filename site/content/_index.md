@@ -1,4 +1,13 @@
 ---
+values:
+  heading: testing
+  text: testing
+found:
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.  Derp.
 title: YOUR LOCAL GOLD COAST TERMITE & PEST CONTROL PROFESSIONALS
 subtitle: Brisbane & Gold Coast termite and pest control experts
 image: img/1689901941906466.jpg
@@ -8,13 +17,6 @@ blurb:
     effective pest control solutions for homeowners. Our mission is to protect
     your home from termite and pest damage while prioritizing the health and
     safety of your family.
-intro:
-  heading: Get expert advice & service
-  text: >-
-    Friendly professional technicians that will treat you and your home with
-    respect.
-
-    Bugs can be scary; the pest control guy shouldn’t be!
 products:
   - image: img/illustrations-coffee.svg
     text: |-
@@ -33,12 +35,13 @@ why:
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.  Derp.
-found:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.  Derp.
+intro:
+  heading: Get expert advice & service
+  text: >-
+    Friendly professional technicians that will treat you and your home with
+    respect.
+
+    Bugs can be scary; the pest control guy shouldn’t be!
 treatment:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
