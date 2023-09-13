@@ -3,7 +3,8 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 <div class="mw7 center ph3 pt4">
-.
+{{ partial "4-up" .Params.intro }}
+
   {{ range $index, $element := .Params.values }}
     {{ if modBool $index 3 }}
       {{ partial "media-block" $element }}
