@@ -101,6 +101,46 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/pest-control/_index.md"
+        label: "Pest Control Page"
+        name: "PestControlPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Pest Control
+            name: pest-control
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+          - label: Pest Control Entries
+            name: pest_control_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/termite-treatments/_index.md"
+        label: "Termite Treatments Page"
+        name: "TermiteTreatmentsPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Termite Treatments
+            name: termite-treatments
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+          - label: Termite Treatments Entries
+            name: termite_treatments_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
   - name: "site_settings"
     label: "Site Settings"
     files:
