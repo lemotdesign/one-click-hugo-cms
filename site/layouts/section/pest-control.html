@@ -2,9 +2,21 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-<div class="mw10 center ph3 pt4">
+<div class="mw9 center ph3 pt4">
 
-  {{ range $index, $element := .Params.pest_control_entries}}
+{{ partial "short-text" .Params.blurb}}
+
+  {{ range $index, $element := .Params.pest_control_entries_b1}}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block-reverse" $element }}
+    {{ end }}
+  {{ end }}
+
+{{ partial "short-text" .Params.blurb}}
+
+  {{ range $index, $element := .Params.pest_control_entries_b2}}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}
