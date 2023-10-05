@@ -14,9 +14,32 @@ pest_inspections_entries:
 
       [This is a test link](https://www.conquertermites.com.au/)
     imageUrl: img/about-single-origin.jpg
-  - heading: Found Termites – What should I do?
-    text: The mere thought of termites devouring your home can be a terrible
-      nightmare. Discovering live termites in your house or garden can cause
-      panic and distress.
+  - heading: "You can trust Conquer Termites for your termite inspection and
+      treatment needs. "
+    text: >-
+      Our team of fully licensed technicians are experts in the field, with
+      exceptional skills and extensive experience to deliver reliable termite
+      detection and effective treatment solutions.\
+
+      \
+
+      How Conquer Termites conducts a termite inspection
+
+
+      **[CONQUER TERMITES PEST CONTROL VIDEO 2020](https://youtube.com)**
     imageUrl: img/about-shade-grown.jpg
+  - heading: Found Termites – What should I do?
+    imageUrl: img/1689901941906466.jpg
+    text: >-
+      The mere thought of termites devouring your home can be a terrible
+      nightmare. Discovering live termites in your house or garden can cause
+      panic and distress.\
+
+      \
+
+      **Don’t disturb them**\
+
+      \
+
+      **[Follow the Three-step process](https://youtube.com)**
 ---
