@@ -4,7 +4,7 @@
 
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.inspections_entries}}
+  {{ range $index, $element := .Params.pest_inspections_entries}}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}

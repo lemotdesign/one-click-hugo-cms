@@ -1,7 +1,7 @@
 ---
 title: Gold Coast Termite & Pest Inspection Experts
 image: /img/about-jumbotron.jpg
-inspections_entries:
+pest_inspections_entries:
   - heading: Gold Coast Termite & Pest Inspection Experts
     text: >-
       Thinking you have found termites (white ants) in your home is scary and

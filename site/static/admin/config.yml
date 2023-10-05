@@ -81,21 +81,21 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
-      - file: "site/content/inspections/_index.md"
-        label: "Inspections Page"
-        name: "inspectionsPage"
+      - file: "site/content/pest-inspections/_index.md"
+        label: "Pest Inspections Page"
+        name: "pestinspectionsPage"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: Inspections
-            name: inspections
+          - label: Pest Inspections
+            name: pest-inspections
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
-          - label: Inspections Entries
-            name: inspections_entries
+          - label: Pest Inspections Entries
+            name: pest_inspections_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
