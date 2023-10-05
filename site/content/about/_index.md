@@ -37,4 +37,8 @@ values:
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
+about:
+  - heading: Some text here
+    text: some other text here
+    imageUrl: img/about-direct-sourcing.jpg
 ---
