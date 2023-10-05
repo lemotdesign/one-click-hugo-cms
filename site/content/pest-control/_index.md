@@ -1,6 +1,9 @@
 ---
 title: Gold Coast Termite & Pest Inspection Experts
 image: /img/about-jumbotron.jpg
+blurb:
+  heading: Testing & Heading
+  body: B﻿ody Copy for the test heading.
 pest_control_entries:
   - heading: Gold Coast Termite & Pest Inspection Experts
     text: >-
