@@ -6,7 +6,7 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-  {{ range $index, $element := .Params.pest_control_entries_b1}}
+  {{ range $index, $element := .Params.pest_control_entries}}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}
