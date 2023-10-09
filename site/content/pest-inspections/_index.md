@@ -1,6 +1,6 @@
 ---
 title: Gold Coast Termite & Pest Inspection Experts
-image: /img/about-jumbotron.jpg
+image: img/who-to-call-for-termites.jpg
 pest-inspections: []
 pest_inspections_entries:
   - heading: Gold Coast Termite & Pest Inspection Experts
