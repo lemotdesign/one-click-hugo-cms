@@ -6,13 +6,11 @@ pest_inspections_entries:
     text: >-
       Thinking you have found termites (white ants) in your home is scary and
       unsettling. But for some homeowners, finding a reputable Pest Company to
-      sort out the problem can be just as daunting.
+      sort out the problem can be just as daunting.\
 
+      \
 
-      All you want to know is, ‘Can I trust you, and will you give me the right advice’?
-
-
-      [This is a test link](https://www.conquertermites.com.au/)
+      All you want to know is, ***‘Can I trust you, and will you give me the right advice’?***
     imageUrl: img/about-single-origin.jpg
   - heading: "You can trust Conquer Termites for your termite inspection and
       treatment needs. "
