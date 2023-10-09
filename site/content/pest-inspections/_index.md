@@ -36,20 +36,14 @@ pest_inspections_entries:
       ### Some other questions about termites:
 
 
-      	What are the signs of termites?
+      * What are the signs of termites?
 
-      	 What do termites look like?
-
-      	What are the signs of termites in a wall?
-
-      	What do termites sound like?
-
-      	What are flying termites, and what do they look like?
-
-      	What are dry-wood termites? 
-
-      	How you can check your home and garden for termites
-
+      *  What do termites look like?
+        What are the signs of termites in a wall?
+        What do termites sound like?
+        What are flying termites, and what do they look like?
+        What are dry-wood termites? 
+        How you can check your home and garden for termites
 
       ### How Conquer Termites conducts a termite inspection
 
@@ -60,21 +54,13 @@ pest_inspections_entries:
       ### Important questions about termite inspections
 
 
-      	Detection Devices for a Termite Inspection – link to 'Device Page'
-
-
-      	Conquer Termites digital inspection report & treatment proposal – drop-down tab (see below)
-
-      	Five points to consider when selecting a Termite Inspection on the Gold Coast – drop-down tab
-
-      	How much does a termite inspection cost on the Gold Coast? – drop-down tab
-
-      	How often should I get a termite Inspection done?
-
-      	Pre-purchase termite inspection – timber pest inspection – What’s the difference? – drop-down tab
-
-      	Consumer Warning about termite inspections on the Gold Coast – drop-down tabo 
-
+      Detection Devices for a Termite Inspection – link to 'Device Page'
+        Conquer Termites digital inspection report & treatment proposal – drop-down tab (see below)
+        Five points to consider when selecting a Termite Inspection on the Gold Coast – drop-down tab
+        How much does a termite inspection cost on the Gold Coast? – drop-down tab
+        How often should I get a termite Inspection done?
+        Pre-purchase termite inspection – timber pest inspection – What’s the difference? – drop-down tab
+        Consumer Warning about termite inspections on the Gold Coast – drop-down tabo 
 
       ### Conquer Termites digital inspection report & treatment proposal
 
