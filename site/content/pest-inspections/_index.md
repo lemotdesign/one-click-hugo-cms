@@ -40,4 +40,25 @@ pest_inspections_entries:
       \
 
       **[Follow the Three-step process](https://youtube.com)**
+  - heading: "Some other questions about termites:"
+    text: >-
+      The mere thought of termites devouring your home can be a terrible
+      nightmare. Discovering live termites in your house or garden can cause
+      panic and distress.
+
+
+      **[What are the signs of termites?](#)**\
+
+      **[What do termites look like?](#)**\
+
+      **[What are the signs of termites in a wall?](#)**\
+
+      **[What do termites sound like?](#)**\
+
+      **[What are flying termites, and what do they look like?](#)**\
+
+      **[What are dry-wood termites?](#)**\
+
+      **[How you can check your home and garden for termites](#)**
+    imageUrl: img/icon.svg
 ---
