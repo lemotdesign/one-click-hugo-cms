@@ -2,7 +2,7 @@
 title: How do you know if you got termites?
 image: /img/about-jumbotron.jpg
 termite_treatments_entries:
-  - heading: Five signs you might have termites: 
+  - heading: "Five signs you might have termites:"
     text: >-
       1. **Mud tubes or mudding:** Termites build mud tubes as a protective
       shield to access food. If you see mud tubes along your walls or
@@ -56,7 +56,7 @@ termite_treatments_entries:
     imageUrl: img/icon.svg
   - heading: How can you tell?
     text: >-
-      ### Tapping on the suspected area and listening for a hollow sound is a
+      #### Tapping on the suspected area and listening for a hollow sound is a
       simple way to determine if termites are present. Using a sharp knife to
       make a small slit and inspecting the interior of the wood can also provide
       evidence of termites.
