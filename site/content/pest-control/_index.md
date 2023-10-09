@@ -1,25 +1,60 @@
 ---
-title: Gold Coast Termite & Pest Inspection Experts
+title: Best Pest Control Solutions for a Safe and Effective Treatment of Gold
+  Coast Homes
 image: /img/about-jumbotron.jpg
 blurb:
-  heading: "Testing & Heading"
+  heading: The Conquer Termites team is highly trained and licensed to treat all
+    those pesky pests in and around your home.
   text: Body Copy for the test heading.
+  body: It’s not about ‘spray and pray’. It’s about the targeted application of
+    proven chemicals to get a great outcome - a pest-free home.
 pest_control_entries:
-  - heading: Gold Coast Termite & Pest Inspection Experts
+  - heading: "General Pest Control Package:"
     text: >-
-      Thinking you have found termites (white ants) in your home is scary and
-      unsettling. But for some homeowners, finding a reputable Pest Company to
-      sort out the problem can be just as daunting.
+      With our Pest Control services, you can rest assured that we provide
+      effective\
+
+      management of the following pests:
 
 
-      All you want to know is, ‘Can I trust you, and will you give me the right advice’?
+      * **Spiders**
+
+      * **Cockroaches**
+
+      * **Black ants**
+
+      * **Silverfish**
 
 
-      [This is a test link](https://www.conquertermites.com.au/)
+      \
+
+      Here’s a short 3-minute video explaining how Conquer Pest Management will treat your home.\
+
+      \
+
+      **CONQUER TERMITES PEST CONTROL VIDEO 2020**
     imageUrl: img/about-single-origin.jpg
-  - heading: Found Termites – What should I do?
-    text: The mere thought of termites devouring your home can be a terrible
-      nightmare. Discovering live termites in your house or garden can cause
-      panic and distress.
+  - heading: Do you treat other types of pests?
+    text: >-
+      As an established pest control company on the Gold Coast, we know that
+      our\
+
+      customers might experience other annoying pests like:
+
+
+      * **Rodents and mice**
+
+      * **Fleas**
+
+      * **Lawn grubs**
+
+      * **Bed bugs**
+
+      * **Weevils**
+
+      * **Mosquitos**
+
+
+      Check our Specialised Pest Treatment page for more information.
     imageUrl: img/about-shade-grown.jpg
 ---
