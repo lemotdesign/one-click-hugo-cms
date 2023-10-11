@@ -31,7 +31,9 @@ Think again. Most homes have wooden structures, making them vulnerable to termit
 A popular misconception. While termites can't eat through concrete, they're experts at exploiting minuscule cracks. Over time, as they travel back and forth, these cracks can widen, giving the illusion of them "eating" through.
 
 **5. Hardwood Homes are Immune to Termites**\
-While it's true that some hardwoods are naturally resistant, not all are. Termites have a preference for softwoods but won't say no to a hardwood feast.
+While it's true that some hardwoods are naturally resistant, not all are. Homes built on the Gold Coast before the 1960s were constructed using eucalyptus timbers (gum trees). A timber that termites have been eating and nesting in for millions of years.
+
+I﻿f your home was built after the 1970s, there is a good chance the builder used pine radiata, a soft wood, that termites can quickly consume. 
 
 **6. Baiting Systems are the Ultimate Protection**\
 Baiting systems have their merits, and we install them too. However, they're not the definitive solution. If termites don't discover the bait, it won't help. A comprehensive chemical barrier treatment, like the ones we offer using Termidor, is often the most effective method.
