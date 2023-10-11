@@ -40,8 +40,10 @@ Baiting systems have their merits, and we install them too. However, they're not
 
 However, if the construction is complicated and makes it difficult to effectively install a chemical termite treatment, then a baiting program is a better option. 
 
-**7. TIreating my Neighbour's House Pushed Termites to Mine**\
-Termite colonies are vast and complex. While treating one home might increase termite activity in neighbouring houses, it doesn't "push" them from one house to another. Effective treatments target the entire colony.
+**7. If my Neighbour's House w  as treated, Does that Mean I Will get Termites?**\
+Termite colonies are vast and complex and can forage 150 meters from their nest. While treating one home might increase the chance of a termite attack to your home as they need to find another food source.
+
+Effective treatments target the entire colony.
 
 **8. Termites: Only Destructive Pests**\
 On the contrary, termites play a vital role in our ecosystem, helping to decompose dead wood. It's only when they enter our homes that they become a problem.
