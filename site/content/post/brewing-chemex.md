@@ -1,26 +1,57 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: "Common Myths about Termites "
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+  In the world of termites, myths abound, often driven by the desire to save
+  money. These misconceptions will cost you more in the long run. 
+
+  So old Tom over the back fence might be telling you something that his dad did back on the farm last century, but now, as then, it has no relevance and is just right out dangerous and inappropriate. 
+
+
+  Don't get information from amateurs, get advice from termite experts.    
+image: img/shutterstock_424573720-copy.jpg
 ---
+Let us debunk termite myths:  
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+**1. "White Ants" are Actually Termites**
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+Contrary to popular belief, termites, colloquially known as "White Ants" in Australia, aren't ants at all. The similarity in appearance between Black Ants and Termites can lead to this confusion. Both species have six legs, antennas, and live in colonies. Yet, they differ in many ways, from body shape to behaviour. 
 
-## The little secrets of Chemex brewing
+![Termite identification diagram](img/difference-betwen-termites-and-black-ants.jpg)
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+WHAT DO TERMITE WHITE ANTS ) LOOK LIKE PAGE LINK-
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+**2. Termites in the Garden? Leave them Be!**\
+Wrong! Ignoring termites in your garden can have disastrous consequences. Environments with timber, old tree stumps, and moisture act as termite magnets. Left unchecked, these critters can advance from feasting on your fences to threatening your home. Act promptly!
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+**3. A brick house on a concrete slab is safe from termites**\
+Think again. Most homes have wooden structures, making them vulnerable to termites. Concrete slabs may not offer as much protection as you think; termites can find their way through cracks, pipes, and even brick mortar gaps.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+**4. Termites Can Chew Through Concrete**\
+A popular misconception. While termites can't eat through concrete, they're experts at exploiting minuscule cracks. Over time, as they travel back and forth, these cracks can widen, giving the illusion of them "eating" through.
+
+**5. Hardwood Homes are Immune to Termites**\
+While it's true that some hardwoods are naturally resistant, not all are. Homes built on the Gold Coast before the 1960s were constructed using eucalyptus timbers (gum trees). A timber that termites have been eating and nesting in for millions of years.
+
+I﻿f your home was built after the 1970s, there is a good chance the builder used pine radiata, a soft wood, that termites can quickly consume. 
+
+**6. Baiting Systems are the Ultimate Protection**\
+Baiting systems have their merits, and we install them too. However, they're not the definitive solution. If termites don't discover the bait, it won't help. A comprehensive chemical barrier treatment, like the ones we offer using Termidor, is often the most effective method.
+
+However, if the construction is complicated and makes it difficult to effectively install a chemical termite treatment, then a baiting program is a better option. 
+
+**7. If my Neighbour's House was Treated, Does that Mean I will get Termites?**\
+Termite colonies are vast and complex and can forage 150 meters from their nest. While treating one home might increase the chance of a termite attack to your home as they need to find another food source.
+
+Effective treatments target the entire colony.
+
+**8. Termites: Only Destructive Pests**\
+On the contrary, termites play a vital role in our ecosystem, helping to decompose dead wood. It's only when they enter our homes that they become a problem.
+
+**9. Annual Termite Control is Mandatory**\
+Modern termiticides can last between 5 and 10 years. However, annual inspections are crucial to ensure there's no breach in the protective barrier.
+
+**10. All Termite Companies Offer the Same Service**\
+Absolutely not. Companies vary in their chemical use, service quality, and warranties. Don't settle for the cheapest option without researching first. Ask for testimonials and recommendations.
+
+Knowledge is power. Equip yourself with accurate information to protect your home effectively.

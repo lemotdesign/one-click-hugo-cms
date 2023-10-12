@@ -1,5 +1,5 @@
 ---
-title: About
+title: A pest control company you can trust.
 image: /img/about-jumbotron.jpg
 values:
   - heading: Shade-grown coffee
@@ -38,7 +38,18 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
 about:
-  - heading: Some text here
-    text: some other text here
+  - heading: What makes Conquer Termites great?
+    text: >-
+      Great Google Reviews and testimonials – customers like us!
+
+      Insured to the maximum amount – $10,000,000, for Public Liability
+
+      Commitment to excellence – always strive to deliver “best practice”
+
+      Strong emphasis on in-house training to ensure all technicians have the practical knowledge to problem solve all situations
+
+      All our technicians are equipped with the full array of detection devices such as thermal imaging cameras, moisture meters and termitrac detection devices. detection devices we use info
+
+      We have developed our own digital reporting system that goes beyond industry standards to deliver you understandable outcomes.
     imageUrl: img/about-direct-sourcing.jpg
 ---
