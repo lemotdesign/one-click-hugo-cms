@@ -40,7 +40,7 @@ Baiting systems have their merits, and we install them too. However, they're not
 
 However, if the construction is complicated and makes it difficult to effectively install a chemical termite treatment, then a baiting program is a better option. 
 
-**7. If my Neighbour's House w  as treated, Does that Mean I Will get Termites?**\
+**7. If my Neighbour's House was Treated, Does that Mean I will get Termites?**\
 Termite colonies are vast and complex and can forage 150 meters from their nest. While treating one home might increase the chance of a termite attack to your home as they need to find another food source.
 
 Effective treatments target the entire colony.
