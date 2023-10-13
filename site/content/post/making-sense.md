@@ -1,27 +1,27 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: When & Where are Termites most active on the Gold Coast
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+description: >-
+  CSIRO did a survey to map where termites were most active in Australia. Guess
+  what, Gold Coast is bang in the middle of 'High Termite Activity'
+
+  Termites can be foraging in any suburb on the Gold Coast at any time!
+image: img/csiro-termite-hazard-maps.jpg
 ---
+### Gold Coast homes are very vulnerable to Termite Attack 
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+A question many homeowners ask our technicians; “Is the Gold Coast a bad area for termites”? Meaning, is their home located in an area where they are more susceptible to a termite attack. To answer that question you need to consider the macro and micro environmental factors that influence termites.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+On a **macro level**, Gold Coast is located in a **high-risk** area, as illustrated by the CISRO map supplied below. Homes in these areas are at higher risk of being attacked by termites due to the high mean temperature experienced through winter and high rainfalls. Nests need to be maintained at a temperature between 25°C - 36°C. (Australian Museum). Basically, the cooler it gets, fewer the termites. That is why Tasmania and New Zealand are termite-free.
 
-## What the updates mean to you
+![CSIRO Termite Hazard Map Australia](img/termite-csiro-hazard-map.jpg)
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+On a **Micro level**, (these are the factors you can see around your home). You can actually influence the outcome of your home being, or not being, attacked by termites. For example:
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+* Large native trees (Gum Trees) - are a favourite nesting place for termites 
+* Moisture in the ground near the house - provides conducive conditions for the termites - that leaking shower or tap
+* Construction of the house - structural timbers might be in direct contact with the soil allowing direct entry.
+* Tree stumps, wooden retaining walls and loose timbers on the ground allow a higher population of termites to survive near your home.
+* Current chemical treatment - this is the biggest positive or negative factor in preventing termites from attacking your home.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Control the things you can control and ensure your home is not one of the thousand attacked by termites on the Gold Coast annually. Call us on [1300 417 007](tel:1300417007) to arrange an inspection and treatment proposal.
