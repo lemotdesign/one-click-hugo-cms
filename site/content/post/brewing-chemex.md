@@ -21,11 +21,11 @@ Contrary to popular belief, termites, colloquially known as "White Ants" in Aust
 
 WHAT DO TERMITE WHITE ANTS ) LOOK LIKE PAGE LINK-
 
-**2. Termites in the Garden? Leave them Be!**\
+**2. Termites in the Garden - Should leave them alone.**\
 Wrong! Ignoring termites in your garden can have disastrous consequences. Environments with timber, old tree stumps, and moisture act as termite magnets. Left unchecked, these critters can advance from feasting on your fences to threatening your home. Act promptly!
 
 **3. A brick house on a concrete slab is safe from termites**\
-Think again. Most homes have wooden structures, making them vulnerable to termites. Concrete slabs may not offer as much protection as you think; termites can find their way through cracks, pipes, and even brick mortar gaps.
+Think again. Most homes have wooden internal frames, making them vulnerable to termites. Concrete slabs may not offer as much protection as you think; termites can find their way through cracks, pipes, and even brick mortar gaps.
 
 **4. Termites Can Chew Through Concrete**\
 A popular misconception. While termites can't eat through concrete, they're experts at exploiting minuscule cracks. Over time, as they travel back and forth, these cracks can widen, giving the illusion of them "eating" through.
