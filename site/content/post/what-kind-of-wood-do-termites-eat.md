@@ -1,5 +1,5 @@
 ---
-title: "What Kind of Wood do Termites Eat?? "
+title: What Kind of Wood do Termites Like to Eat?
 date: 2023-10-13T03:48:54.190Z
 description: >
   Termites absolutely relish timber! They've mastered the technique of breaking
