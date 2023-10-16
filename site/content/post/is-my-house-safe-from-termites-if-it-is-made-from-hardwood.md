@@ -3,9 +3,9 @@ title: Is my House Safe from Termites if it is made from Hardwood?
 date: 2023-10-13T04:06:16.642Z
 description: >-
   "But my house is built with hardwood, I'm safe from termites" This is a common
-  misunderstanding among a lot of homeowners on the Gold Coast.
+  misunderstanding among many homeowners on the Gold Coast.
 
-  Sadly it's just not that convenient or true. Sure hardwood is hard to cut and nail into, but Australian termites have been eating eucalyptus wood for millions of years. In fact, their preferred place to set up home is in Gum trees. 
+  Sadly it's just not that convenient or true. Sure hardwood is hard to cut and nail into, but Australian termites have been eating eucalyptus wood for millions of years. In fact, their preferred place to set up home is in a gum tree. 
 image: img/termite-damage-hardwood.jpg
 ---
 **Which Timbers are Termites' Top Picks?**
