@@ -1,5 +1,5 @@
 ---
-title: Found Flying Termites on the Gold Coast
+title: Flying Termites on the Gold Coast
 date: 2023-10-16T23:59:20.004Z
 description: Are you discovering a sudden invasion of winged insects within your
   Gold Coast home? Curious about their identity? They could be 'Alates' -
