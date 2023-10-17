@@ -8,6 +8,8 @@ image: img/alates-flying-termites.jpg
 ---
 During the spring and early summer months, the Gold Coast experiences warm and humid nights, creating the ideal environment for reproductive termites to embark on mass flights in search of a mate to establish their own colonies. It's almost eerie how colonies throughout South East Queensland synchronize their activities for this night of opportunity!
 
+#### Found a Swarm of Insects inside your Home?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZJcj4T8ulc?si=0doAKCWnN-7XX1h_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Throughout the winter and autumn seasons, each termite colony has been diligently breeding thousands upon thousands of winged termites, known as Alates. Once they receive the signal, these Alates emerge from exit holes strategically constructed near their nests.
