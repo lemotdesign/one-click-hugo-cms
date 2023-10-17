@@ -16,7 +16,7 @@ Throughout the winter and autumn seasons, each termite colony has been diligentl
 
 #### Flight Tubes
 
-You can also spot these exit holes high up in gum trees, resembling small wounds. The higher the exit hole, the better the chances for the winged termites to launch into the air and catch the breeze since they aren't particularly adept flyers. Essentially, they rely on the wind to carry them wherever it may lead.
+You can spot these exit holes high up in gum trees, resembling small wounds, or on the ground as 'mud towers'. The higher the exit hole, the better the chances for the winged termites to launch into the air and catch the breeze since they aren't particularly adept flyers. Essentially, they rely on the wind to carry them wherever it may lead.
 
 #### What do Winged Termites look like?
 
