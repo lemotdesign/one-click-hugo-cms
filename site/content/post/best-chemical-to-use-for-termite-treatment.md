@@ -41,7 +41,7 @@ Our preferred go-to chemical is **Termidor HE**, manufactured by BASF.
 
 Termidor stands out as a non-repellent transfer product with a remarkable lifespan of up to eight years. The ingenious concept lies in termites' inability to detect Termidor in the treated soil. They unwittingly transport it back to their nest, ultimately annihilating the colony.
 
-The latest formulation of Termidor HE boasts superior dispersion properties, penetrating wider and deeper into the soil while forming a robust bond with soil particles, preventing leaching.
+The latest formulation of Termidor HE boasts superior dispersion properties, penetrating wider and deeper into the soil while forming a robust bond with soil particles, preventing leaching. Also allows us to drill wider apart between tiled areas. 
 
 Notably, the active ingredient in Termidor, Fipronil, is employed in pet care products such as Frontline for flea and tick control. What pet owners apply directly to their furry companions, we strategically apply to your soil around your home's perimeter.
 
