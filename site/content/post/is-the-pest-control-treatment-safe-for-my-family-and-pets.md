@@ -26,6 +26,8 @@ Got kiddos or furry friends? No worries! We always adjust our methods based on y
 
 We will be applying a mix of treatments like gel bait, dust, and surface sprays. All products we apply meet the Australian Pesticides and Veterinary Medicines Authority guidelines. Safety first, always!
 
+![Conquer Pest Control is safe for pets](img/conquer-termites-furry-friends.jpg)
+
 ### Do I need to stay away?
 
 Where possible we ask that you go outside while we spray inside and stay inside while we spray the outside. You should keep all people and pets away from treated areas until dry. 
