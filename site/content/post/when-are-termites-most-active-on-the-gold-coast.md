@@ -2,7 +2,7 @@
 title: When are Termites Most Active on the Gold Coast?
 date: 2023-10-18T01:21:58.853Z
 description: >-
-  As a homeowner, Termites are most active when you find them in your home! 
+  Termites are most active when you find them in your home! 
 
   Take it as a given that they will be foraging outside in your garden all year round trying to find a way in. 
 image: img/termites-living-on-the-gold-coast.jpg
