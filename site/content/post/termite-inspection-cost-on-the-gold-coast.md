@@ -5,7 +5,7 @@ description: "Suspect you've discovered termites? Now you're wondering, how bad
   is the damage and how deep will I need to dig into my pockets? "
 image: img/stay-away-termite-inspector.jpg
 ---
-## How much does a Termite Inspection cost on the Gold Coast? 
+## How much does a Termite Inspection cost on the Gold Coast?
 
 ## All You Need to Know:
 
@@ -21,6 +21,7 @@ A good quality termite inspection in Brisbane for an average-sized house typical
 
 **This should include the following:**
 
+* The Inspector should be fully licensed, insured and have a QBCC license
 * Utilization of devices such as thermal cameras, moisture meters, and termatrac motion detectors.
 * Examination of the garden, fenceline, perimeter of the house, subfloor, internal exposed timbers, and the roof cavity.
 * A digital report delivered on the same day, alongside a treatment proposal.
