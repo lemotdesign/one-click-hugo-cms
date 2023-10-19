@@ -1,9 +1,8 @@
 ---
 title: Termite Inspection Cost on the Gold Coast
 date: 2023-10-19T02:58:15.479Z
-description: Suspect you've discovered termites? Now you're wondering, how bad
-  is the damage and how deep will I need to dig into my pockets? But first
-  things first, get a proper inspection done.
+description: "Suspect you've discovered termites? Now you're wondering, how bad
+  is the damage and how deep will I need to dig into my pockets? "
 image: img/stay-away-termite-inspector.jpg
 ---
 ## The Cost of Termite Inspection on the Gold Coast: All You Need to Know
