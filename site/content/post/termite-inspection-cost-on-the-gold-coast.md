@@ -1,18 +1,17 @@
 ---
 title: Termite Inspection Cost on the Gold Coast
 date: 2023-10-19T02:58:15.479Z
-description: Suspect you've discovered termites? Now you're wondering, how bad
-  is the damage and how deep will I need to dig into my pockets? But first
-  things first, get a proper inspection done.
+description: "Suspect you've discovered termites? Now you're wondering, how bad
+  is the damage and how deep will I need to dig into my pockets? "
 image: img/stay-away-termite-inspector.jpg
 ---
 ## The Cost of Termite Inspection on the Gold Coast: All You Need to Know
 
 Discovering termites in your home can be daunting, and you might be asking yourself – who do I contact and how much will it set me back?
 
-### **Price Matters:** 
+### **Price Matters:**
 
-If you're not well-acquainted with termites or have never worked with a pest control expert before, this is likely your first question. However, it's crucial to ensure you’re comparing similar services when picking a company for your termite inspection. The sad reality is that the standard of service can vary widely in this field.
+If you're not well-acquainted with termites or have never worked with a pest control expert before, it is likely your first question will be "How much"? However, it's crucial to ensure you’re comparing similar services when picking a company for your termite inspection. The sad reality is that the standard of service can vary widely and this is reflected in price.
 
 ### **Termite Inspection Cost on the Gold Coast**
 
@@ -23,7 +22,7 @@ A good quality termite inspection in Brisbane for an average-sized house typical
 * Utilization of devices such as thermal cameras, moisture meters, and termatrac motion detectors.
 * Examination of the garden, fenceline, perimeter of the house, subfloor, internal exposed timbers, and the roof cavity.
 * A digital report delivered on the same day, alongside a treatment proposal.
-* An inspection duration ranging between one to two hours.
+* An inspection duration ranges between one (minimum) to two hours. 
 
 ### Proper Procedure for a Termite Inspection
 
@@ -35,7 +34,7 @@ A good quality termite inspection in Brisbane for an average-sized house typical
 
 * #### **Fake companies - no QBCC license**
 
-es might give the impression of being local, but they might operate from distant call centers without the requisite Queensland licenses.![](https://www.conquertermites.com.au/images/uploads/qbcc-license-cards.jpg)
+es might give the impression of being local, but they might operate from distant call centres without the requisite Queensland licenses.![](https://www.conquertermites.com.au/images/uploads/qbcc-license-cards.jpg)
 
 For legitimate operation in Queensland, companies must possess a [QBCC license](https://www.qbcc.qld.gov.au/). Without it, these are essentially **subcontractors** who might not have proper insurance and shouldn't advertise termite-related services.
 
