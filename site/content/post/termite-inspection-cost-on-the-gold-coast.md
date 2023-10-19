@@ -5,7 +5,9 @@ description: "Suspect you've discovered termites? Now you're wondering, how bad
   is the damage and how deep will I need to dig into my pockets? "
 image: img/stay-away-termite-inspector.jpg
 ---
-## The Cost of Termite Inspection on the Gold Coast: All You Need to Know
+## How much does a Termite Inspection cost on the Gold Coast? 
+
+## All You Need to Know:
 
 Discovering termites in your home can be daunting, and you might be asking yourself – who do I contact and how much will it set me back?
 
