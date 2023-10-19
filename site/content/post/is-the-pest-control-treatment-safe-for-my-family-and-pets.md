@@ -16,10 +16,6 @@ If you have an issue with pests such as fleas, pantry moths, rodents or any othe
 
 ![The four pests we pest control - Conquer Termites Gold Coast](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
 
-### How long does it take?
-
-The treatment will be straightforward, usually wrapping up in about 1 to 1.5 hours.
-
 ### Children or pets, is it safe?
 
 Got kiddos or furry friends? No worries! We always adjust our methods based on your home's unique needs, to only apply the safest product available in Australia.
@@ -27,6 +23,10 @@ Got kiddos or furry friends? No worries! We always adjust our methods based on y
 We will be applying a mix of treatments like gel bait, dust, and surface sprays. All products we apply meet the Australian Pesticides and Veterinary Medicines Authority guidelines. Safety first, always!
 
 ![Conquer Pest Control is safe for pets](img/conquer-termites-furry-friends.jpg)
+
+### How long does it take?
+
+The treatment will be straightforward, usually wrapping up in about 1 to 1.5 hours.
 
 ### Do I need to stay away?
 
