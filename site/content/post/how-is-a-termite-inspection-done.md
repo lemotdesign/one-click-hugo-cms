@@ -55,7 +55,7 @@ When an inspector arrives without essential tools like a Thermal Camera or Terma
 
 **4. How long should a Termite Inspection take?**
 
-Here at Conquer Termites, we schedule two hours to conduct an annual termite inspection. Time can vary due to the size and difficultly of the house or if we have discovered live termites. Then it will be a proposition of "the time it takes".
+Here at Conquer Termites, we schedule two hours to conduct an annual termite inspection. Time can vary due to the size and difficulty of the house or if we have discovered live termites. Then it will be a proposition of "the time it takes".
 
 **5. On the Day - Comprehensive Digital Inspection Report**: 
 
