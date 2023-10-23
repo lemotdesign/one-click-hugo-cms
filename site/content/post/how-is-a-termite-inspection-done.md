@@ -8,7 +8,7 @@ description: >-
   How do I know if I will I get a proper inspection done by a competent inspector? 
 image: img/best-termite-inspection-on-the-gold-coast.jpg
 ---
-## Professional Termite Inspections on the Gold Coast:
+## Best Termite Inspections on the Gold Coast:
 
 Have you recently stumbled upon an area on your property that has raised suspicions of live termite activity? Questions may be swirling in your mind: "*How extensive is the termite infestation?" "What's going on in those hidden spaces, like inside the walls?"*
 
@@ -53,11 +53,11 @@ Professional termite inspectors frequently employ cutting-edge technology to imp
 
 When an inspector arrives without essential tools like a Thermal Camera or Termatrac Device, it's a clear indication that they may not deliver the most thorough inspection results.
 
-**4. Termite Species Identification**: 
+**4. How long should a Termite Inspection take?**
 
-A Licensed Termite Inspector should be able to identify the type of termite they encounter. This knowledge is crucial in determining the appropriate treatment and prevention methods.
+Here at Conquer Termites, we schedule two hours to conduct an annual termite inspection. Time can vary due to the size and difficultly of the house or if we have discovered live termites. Then it will be a proposition of "the time it takes".
 
-**5. Comprehensive Digital Report**: 
+**5. On the Day - Comprehensive Digital Inspection Report**: 
 
 After the inspection, you should receive a detailed report outlining the findings. This report must include:
 
