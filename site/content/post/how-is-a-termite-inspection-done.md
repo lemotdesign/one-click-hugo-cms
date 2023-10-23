@@ -55,7 +55,7 @@ When an inspector arrives without essential tools like a Thermal Camera or Terma
 
 **4. How long should a Termite Inspection take?**
 
-Here at Conquer Termites, we schedule two hours to conduct an annual termite inspection. Time can vary due to the size and difficultly of the house or if we have discovered live termites. Then it will be a proposition of "the time it takes".
+Here at Conquer Termites, we schedule two hours to conduct an annual termite inspection. Time can vary due to the size and difficulty of the house or if we have discovered live termites. Then it will be a proposition of "the time it takes".
 
 **5. On the Day - Comprehensive Digital Inspection Report**: 
 
@@ -66,13 +66,13 @@ After the inspection, you should receive a detailed report outlining the finding
 * Recommendations for treatment, if necessary.
 * Preventative measures to protect your property from future infestations.
 
-**6. Treatment Proposal:** 
+**6. Termite Treatment Proposal - supplied on the day Free:** 
 
 If your property lacks an existing Termite Management System or if termite activity is identified during the inspection, it is imperative that the Inspector supply you with a Treatment Proposal. This proposal will recommend the most suitable treatment strategy for your home.
 
 If the Inspector doesn't supply you with this document, then they are not following the guidelines in the Australian Standards. Always ask if the company knows how to quote and do termite treatments.
 
-## Have a watch of our Termite Inspection Video
+## Watch our Termite Inspection Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
