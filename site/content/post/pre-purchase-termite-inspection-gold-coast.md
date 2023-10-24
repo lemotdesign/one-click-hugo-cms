@@ -15,6 +15,16 @@ In our industry, we really take the Pre-purchase Termite Inspection seriously. I
 
 But to be honest with you, the Pre-purchase Timber Pest Inspection causes the most litigation. This can be a result of the inspector's incompetency (missed something oblivious or didn't give the right recommendations and advice). But a lot of times it is a buyer thinking they can get easy monies from the inspection company's insurer.  
 
+### Things to Know about a Pre-purchase Inspection:
+
+* It is only a **visual inspection** of areas that are exposed. As of yet, inspectors cannot see through walls and behind built-in cabinetry. 
+* The scope of the inspection includes Subterranean Termites, Borer activity and Fugal Decay. It does not involve the inspection of Drywood Termites (Family: KALOTERMITIDAE)
+* There are a lot of **limitations**. In fact, we are duty-bound to send you a "Timber Pest Inspection Agreement" form that you need to read and acknowledge prior to the inspection. 
+
+
+
+
+
 ### Limitations on Timber Pest Inspections
 
 
