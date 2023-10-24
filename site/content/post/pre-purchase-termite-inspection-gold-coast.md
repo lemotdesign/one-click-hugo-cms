@@ -35,8 +35,6 @@ Investing in a home is no small feat, and a Pre-purchase Inspection can be one o
 
 Remember, a home's vulnerability to termites on the Gold Coast isn't just about its location or the time of year. More often than not, the real issue is the absence of a current termite prevention system. Ensure your dream home has the best defence against these unwelcome guests.
 
-
-
 ## Invasive Inspection for Termites
 
 A big frustration for Home Buyers is getting a report recommending an "Invasive" inspection. The problem is that it's not your home to pull things away or cut access points to check. And then there's the question; is it really necessary?
@@ -56,6 +54,8 @@ In many cases, termite damage could be lurking just beyond view, behind wall lin
 2. Strategically insert a Borecsope' to check inside the wall cavities that doesn't cause significant damage.
 3. Use a Termatrac Motion Detection Device to confirm the presence of live termites.
 4. Engage a qualified Tradesperson to remove the wall lining. Remember, you can only do this with the permission of the Seller. 
+
+![Hearing Termites in your wall](img/termite-noises-in-your-wall.jpg)
 
 ### Let it be your dream home
 
