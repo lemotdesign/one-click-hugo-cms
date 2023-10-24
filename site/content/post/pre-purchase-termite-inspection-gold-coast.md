@@ -23,9 +23,7 @@ Beyond the controversies, the core purpose of this inspection remains clear: to 
 
 In the end, when you're making such a significant commitment, you deserve to have all the facts at your fingertips. Entrust this task to seasoned experts, and ensure your dream home remains just that – a dream come true.
 
-### Understanding the Pre-purchase Inspection: 
-
-### What It Is and What It Isn't
+### Understanding the Pre-purchase Inspection: What It Is and What It Isn't
 
 Investing in a home is no small feat, and a Pre-purchase Inspection can be one of the most crucial steps to ensure that your investment is sound. Here's what you should know about the process:
 
