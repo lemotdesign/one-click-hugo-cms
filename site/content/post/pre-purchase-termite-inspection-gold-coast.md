@@ -26,8 +26,25 @@ The purpose of the inspection is to provide advice about the condition of the pr
 
 *We get so many calls from Home Buyers on the Gold Coast who have had a Pre-purchase Inspection Report done that have a recommendation for an invasive inspection. Have a read below about what you need to do or organise.*
 
-* There should be clear advice about the status of the **Termite Management System**. Is it current or is it suitable? If there is no evidence of a current Termite Treatment in place, then the inspector is duty-bound to rate the structure at HIGH risk of a termite infestation. (*Advice: You need to negotiate the cost to install a chemical treatment prior to settlement)
+* There should be clear advice about the status of the **Termite Management System**. Is it current or is it suitable? If there is no evidence of a current Termite Treatment in place, then the inspector is duty-bound to rate the structure at HIGH risk of a termite infestation. (*Advice: You should negotiate the cost to install a chemical treatment prior to settlement).
+
+The main reason homes get termites on the Gold Coast is that there is not the appropriate protection in place. It's not the area, season or construction type (maybe a little of this), but that there was no system stopping the termites.
 
 ### Invasive Inspection for Termites
 
-A big frustration for Home Buyers is getting a report recommending an "Invasive" inspection
+A big frustration for Home Buyers is getting a report recommending an "Invasive" inspection. The problem is that it's not your home to pull things away or cut access points to check. And then there's the question; is it really necessary?
+
+Normally, an inspector will suggest this invasive approach only when there's a strong suspicion of termite activity in a particular area. It shouldn’t be a generalized recommendation to absolve them of accountability. Instead, it should be grounded in specific observations.
+
+In many cases, termite damage could be lurking just beyond view, behind wall linings. Without direct visual access, it’s almost impossible to determine the severity of this damage.
+
+#### The Two Dilemmas  
+
+1. The potential cost and aftermath of removing wall linings or fixtures might exceed the actual costs of termite repair.
+2. You could be buying a house with extensive hidden termite damage if you don't check.
+
+#### The Solution:
+
+1. Start with a time-honored technique: gently knock on the wall. Listening for the tell-tale signs of crumbling termite residue can provide initial insights.
+2. Strategically insert a Borecsope' to check inside the wall cavities that doesn't cause significant damage.
+3. Use a Termatrac Motion Detection Device to confirm the presence of live termites.
