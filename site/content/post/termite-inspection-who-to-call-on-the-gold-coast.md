@@ -52,7 +52,7 @@ On the Gold Coast, a standard termite inspection for an average-sized house rang
 
 ### **Consumer Alert: Termite Inspection Scams**
 
-* **Imitations**: Beware of companies lacking a [QBCC license](https://www.qbcc.qld.gov.au/). Many may seem local online but are operated from distant call centers. In Queensland, possessing a QBCC license is non-negotiable. Without it, they can't be insured and shouldn't advertise termite-related services.
+* **Imitations**: Beware of companies lacking a [QBCC license](https://www.qbcc.qld.gov.au/). Many may seem local online but are operated from distant call centres. In Queensland, possessing a QBCC license is non-negotiable. Without it, they can't be insured and shouldn't advertise termite-related services.
 
 ![Termite licenses Queensland](img/termite-licenses.jpg)
 
