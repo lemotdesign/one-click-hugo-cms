@@ -46,10 +46,6 @@ The question of **"How much?"** is inevitable. With limited knowledge about term
 
 On the Gold Coast, a standard termite inspection for an average-sized house ranges from **$280 to $330**.
 
-### **Must-See: Conquer Termites Inspection Video**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=ukPwa7HjXuzETfb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### **Consumer Alert: Termite Inspection Scams**
 
 * **Imitations**: Beware of companies lacking a [QBCC license](https://www.qbcc.qld.gov.au/). Many may seem local online but are operated from distant call centres. In Queensland, possessing a QBCC license is non-negotiable. Without it, they can't be insured and shouldn't advertise termite-related services.
@@ -57,6 +53,12 @@ On the Gold Coast, a standard termite inspection for an average-sized house rang
 ![Termite licenses Queensland](img/termite-licenses.jpg)
 
 * **Misleading Free Offers**: Some might tempt you with a "free termite check," pushing for an overpriced baiting system. They aren't qualified, and you'd typically have to sign a waiver, indicating it's just a 'check', not a comprehensive inspection.
+
+### **How is a Proper Termite Inspection done:** 
+
+### **Conquer Termites Inspection Video**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=ukPwa7HjXuzETfb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### **Your Gold Coast Termite Solution Company: Conquer Termites**
 
