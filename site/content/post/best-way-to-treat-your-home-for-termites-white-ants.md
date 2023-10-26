@@ -1,5 +1,5 @@
 ---
-title: Best Way To Treat Your Home for Termites - White Ants - Gold Coast
+title: Best Way To Treat Termites - White Ants - Gold Coast
 date: 2023-10-26T04:05:41.895Z
 description: >-
   Whether your home has already faced a termite infestation or you're
