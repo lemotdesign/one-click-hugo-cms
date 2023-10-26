@@ -13,7 +13,7 @@ image: img/types-of-termite-management-system.jpg
 
 Selecting the best termite treatment isn't a straightforward task; there's no one-size-fits-all solution. A tailored treatment plan is essential, taking into account several key factors:
 
-Before recommending a treatment there are factors that need to be considered:
+Before recommending a treatment these are the factors that need to be considered:
 
 * **Species and Colony Size**: Different termite species have varied behaviours and threats. Knowing the species and understanding the size of the colony is fundamental in determining treatment.
 * **Extent of the Infestation**: A localized problem may require a different strategy compared to a widespread infestation.
