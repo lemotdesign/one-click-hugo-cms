@@ -32,11 +32,11 @@ You don't need to understand these variables, but the Termite Technician you eng
 When engaging a true termite profession, they should be jumping through all of these hoops:
 
 1. **Termite Inspection:** A requirement of our insurance, QBBC and the Australian Standards, an inspection needs to be done prior to any treatment.
-2. **Licensing**: Possession of a Queensland Health Timber Pest license is mandatory, signifying their authorization to manage termite issues in the area.
+2. **Licensing**: Possession of a Queensland Health Timber Pest license is mandatory, signifying their authorization to manage termite treatments.
 3. **Insurance**: It's crucial they carry industry-specific insurance, safeguarding both you and them against potential unforeseen complications.
-4. **Building License**: For treatments that cost more than $1300, a valid QBCC (Queensland Building Construction Commission) license is imperative.
+4. **Termite Treatment License**: For treatments that cost more than $1300, a valid **QBCC** (Queensland Building Construction Commission) license is imperative.
 5. **Chemical Accreditation**: The professional should be a certified applicator of the chemical they recommend, an endorsement given by the manufacturer.
-6. Have a company **Safety Plan** and appropriate PPE
+6. **Safety First**: They should have a comprehensive company **Safety Plan** in place. Additionally, using appropriate Personal Protective Equipment (PPE) is vital to ensure the safety of your property, yourself, and the professionals at work. This demonstrates their commitment to health and security protocols, reducing potential risks during treatment procedures.
 
 Ensuring your chosen professional ticks these boxes guarantees a competent, trustworthy, and effective service.
 
