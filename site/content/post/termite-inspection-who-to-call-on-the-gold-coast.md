@@ -4,7 +4,7 @@ date: 2023-10-25T03:26:15.042Z
 description: Termite inspections on the Gold Coast vary in quality and accuracy.
   While some companies believe they're offering top-notch service, others truly
   stand out by delivering exceptional inspections.
-image: img/who-to-call-for-termites.jpg
+image: img/termite-inspection-gold-coast.jpg
 ---
 ### **Concerned About Termites in Your Home on the Gold Coast?** 
 
