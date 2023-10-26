@@ -13,6 +13,8 @@ image: img/dead-termites-costumes.jpg
 
 Selecting the best termite treatment isn't a straightforward task; there's no one-size-fits-all solution. A tailored treatment plan is essential, taking into account several key factors:
 
+#### What the 'Best' Treatment Company needs to consider
+
 Before recommending a termite treatment these are the factors that need to be considered:
 
 * **Species and Colony Size**: Different termite species have varied behaviours and threats. Knowing the species and understanding the size of the colony is fundamental in determining treatment.
@@ -20,11 +22,10 @@ Before recommending a termite treatment these are the factors that need to be co
 * **Termite Entry Points**: Identifying how and where termites are entering your home can help target the treatment effectively.
 * **Home Construction and Foundation Type**: Different building materials and foundation types can influence which treatment methods are most appropriate.
 * **Surrounding Landscaping**: Trees, plants, and other landscaping elements around your property can impact termite behaviour and treatment choices.
-* **Budget Considerations**: Naturally, cost is a significant factor for most homeowners. Finding a balance between effectiveness and affordability is crucial.
 
 You don't need to understand these variables, but the Termite Technician you engage certainly does!
 
-### Check List for Your Termite Professional:
+### Check List - To Choose the Right Pest Company:
 
 When you're working with a bona fide termite expert, you should expect the following standard of service:
 
@@ -35,6 +36,7 @@ When you're working with a bona fide termite expert, you should expect the follo
 5. **Termite Treatment License**: For treatments that cost more than $1300, a valid **QBCC** (Queensland Building Construction Commission) license is imperative.
 6. **Chemical Accreditation**: The professional should be a certified applicator of the chemical they recommend, an endorsement given by the manufacturer.
 7. **Safety First**: They should have a comprehensive company **Safety Plan** in place. Additionally, using appropriate Personal Protective Equipment (PPE) is vital to ensure the safety of your property, yourself, and the professionals at work. This demonstrates their commitment to health and security protocols, reducing potential risks during treatment procedures.
+8. **Budget Considerations**: Naturally, cost is a significant factor for most homeowners. Finding a balance between effectiveness and affordability is crucial.
 
 Ensuring your chosen professional ticks these boxes guarantees a competent, trustworthy, and effective service.
 
