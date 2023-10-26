@@ -1,5 +1,5 @@
 ---
-title: Best Way To Treat Your Home for Termites - White Ants
+title: Best Way To Treat Your Home for Termites - White Ants - Gold Coast
 date: 2023-10-26T04:05:41.895Z
 description: >-
   Whether your home has already faced a termite infestation or you're
@@ -29,7 +29,7 @@ You don't need to understand these variables, but the Termite Technician you eng
 
 ### Check List for Your Termite Professional:
 
-When you're working with a bona fide termite expert, expect the following standard of service:
+When you're working with a bona fide termite expert, you should expect the following standard of service:
 
 1. **Termite Inspection:** A requirement of our insurance, QBBC and the Australian Standards, an inspection needs to be done prior to any treatment. 
 2. **Detailed Treatment Proposal**: It's imperative they provide you with a written **Treatment Proposal**. This isn't just a simple quote; it should clearly itemize the specific areas of treatment, the chemicals they plan to use, and any potential limitations or considerations. This ensures transparency, letting you know precisely what to expect and helps in setting clear expectations for both parties.
