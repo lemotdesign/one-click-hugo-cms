@@ -7,7 +7,7 @@ description: >-
   company and placing your trust in their advice can be daunting.  
 
   Best to do your homework so you can ask the right questions and get the best outcome.
-image: img/types-of-termite-management-system.jpg
+image: img/dead-termites-costumes.jpg
 ---
 ## Choosing the Right Termite Treatment for Your Home
 
@@ -39,6 +39,8 @@ When you're working with a bona fide termite expert, you should expect the follo
 Ensuring your chosen professional ticks these boxes guarantees a competent, trustworthy, and effective service.
 
 ## Types of Termite Treatments on the Gold Coast
+
+![Types of Termite Treatments](img/types-of-termite-management-system.jpg)
 
 1. **Chemical Soil Treatment - Barriers**: This is a common and effective treatment method on the Gold Coast. A liquid chemical is applied to the soil around and under a structure. Termites that pass through the treated soil are either repelled or killed.
 2. **Termite Baiting Systems**: These are plastic stations filled with bait rods, cellulose material that's treated with a slow-acting growth inhibitor agent. Termites consume the bait and share it with their colony, eventually killing the colony over time.
