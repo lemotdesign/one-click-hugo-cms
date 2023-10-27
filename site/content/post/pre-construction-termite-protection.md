@@ -1,15 +1,16 @@
 ---
-title: Pre-Construction Termite Protection
+title: Pre-Construction Termite Protection - are you getting the Best Treatment?
 date: 2023-10-26T23:59:20.470Z
 description: If done right, the installation of a termite management system at
   the time of construction can be a pivotal step in safeguarding your new home
   from termite invasions.
+image: img/homeguard-install-pre-construction.jpg
 ---
 ## Does your Builder have Your long term insterest?
 
 It might come off as a tough query, but unfortunately, this reflects a genuine concern within the construction sector, especially when it pertains to adhering to top-notch termite protection standards for new constructions.
 
-#### The Unsettling Truth of Termite Certification for Property Owners
+#### The Unsettling Truth of Termite Certification
 
 Let's clarify: there are numerous dedicated and upright builders operating in the Gold Coast. However, a concerning trend we've observed is that a significant fraction are primarily looking to procure the 'Form 43' at the lowest possible price. For instance, while you may have been charged $3,000 for the installation of a termite management system, the actual cost might have been a mere $600. You don't need to be a math expert to see where the extra cash is funnelled!
 
@@ -17,7 +18,7 @@ It's wise to request a glimpse of the Termite Installer's invoice. This adds a l
 
 ### Working to the Minimum Requirements
 
-See, the thing is, the minimum reqirement for certification under the Australian Building Code is to stop 'concealed' termite ingress. Then it is relienent on a continuous Visual Inspection Zone of 75 mm to detect any external ingress.
+See, the thing is, the minimum reqirement for certification under the Australian Building Code is to stop '**concealed**' termite ingress through the concrete slab. Then it is relienent on a continuous Visual Inspection Zone of 75 mm to detect any **external** ingress.
 
 Majority of the 'New Builds' on the Gold Coast compromise this Visual Inspection Zone with paths, driveways and landscaping. If you walk around your new house and cannot see a continuous 75 mm of the slab edge, then it doesn't comply and a Form 43 **cannot** be issued. 
 
@@ -40,3 +41,15 @@ It's crucial to address these checkpoints to ensure that your property remains c
 ### Minimum Requirements for Visual Inspection Zones 
 
 ![](img/measurement-diagram-external-structure-for-fb.jpg)
+
+### Termite Solutions Recommended by Conquer Termites for New Builds
+
+At Conquer Termites, we vouch for several products tailored for New Builds. Depending on the construction specifics, we might recommend a combination of products or just one solitary application.
+
+1. **FMC Homeguard**: This product comes in two forms - as sheeting or as a parging paint. It's designed to provide a reliable barrier against termites, ensuring they don't gain access to the property.
+2. **Greenzone**: This is an Ableflex foam insert embedded with termite repellent properties. Not only does it serve as a cushioning insert, but it also actively deters termites from encroaching upon the property.
+3. **Reticulation System**: This system involves the installation of a tubing around the external perimeter of the property. Its primary function is to facilitate the easy redistribution of chemicals at future intervals, ensuring long-term protection against termite invasions.
+
+Each solution has its strengths, and the choice often hinges on the specifics of the construction and the preferences of the homeowner.
+
+![](img/protectacote-on-concrete-block-wall.jpg)
