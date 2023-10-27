@@ -7,13 +7,13 @@ description: If done right, the installation of a termite management system at
 ---
 ## Does your Builder have Your long term insterest?
 
-This might seem a harsh question, but this sadly is the reality in the building industry when it comes to complying with ensuring the best termite protection has been installed to a new construction.
+It might come off as a tough query, but unfortunately, this reflects a genuine concern within the construction sector, especially when it pertains to adhering to top-notch termite protection standards for new constructions.
 
-#### The Scary Thing about Termite Certification for Homeowners
+#### The Unsettling Truth of Termite Certification for Property Owners
 
-This is no a blanket statement, as there are many honest and reputable Builders on the Gold Coast. But we find a significant number just want to secure the 'Form 43' for the cheapest price. Now, they might have allocated and charge you $3,000 to have a termite management syetem installed, but got it done for only $600. Guess where the cut goes!
+Let's clarify: there are numerous dedicated and upright builders operating in the Gold Coast. However, a concerning trend we've observed is that a significant fraction are primarily looking to procure the 'Form 43' at the lowest possible price. For instance, while you may have been charged $3,000 for the installation of a termite management system, the actual cost might have been a mere $600. You don't need to be a math expert to see where the extra cash is funnelled!
 
-Ask to see the Termite Installer's invoice.
+It's wise to request a glimpse of the Termite Installer's invoice. This adds a layer of transparency and ensures you're getting what you've paid for.
 
 ### Working to the Minimum Requirements
 
@@ -23,17 +23,19 @@ Majority of the 'New Builds' on the Gold Coast compromise this Visual Inspection
 
 ### Visual Inspection Zones - The Truth
 
-Just before you move into your new home, the Builder gives you the keys and a bundle of documents. The Builder tells you they have gotten 'XYZ' system installed to protect you from termites. You think it's all tickyboo and your home will be safe from termites.
+Here's the crux: the Australian Building Code stipulates the baseline requirement for termite protection certification as halting 'concealed' termite entry. Following this, there's a reliance on a consistent Visual Inspection Zone spanning 75 mm to identify any external breaches.
 
-If the Builder didn't tell you that you should walk around your home every 3 months to check the slab edge for termite mud leads, then you **aren't** maintaining the Visual Inspection Zone that they have signed off on. 
+A significant portion of 'New Builds' in the Gold Coast inadvertently or intentionally obscure this Visual Inspection Zone through the addition of pathways, driveways, and landscaping features. If you take a walk around your newly constructed property and are unable to spot a continuous 75 mm of the slab edge exposed, then it's not in compliance. Under these conditions, a Form 43 should **not** be legitimately issued.
 
-#### Visual Inspection Zone Check Points:
+#### Key Points for Visual Inspection Zone:
 
-1. Did the Builder tell you about the reguarlar checking that needs to be done?
-2. Has the exposed slab visual inspection zone of 75 mm been compromise. Easy, check your driveway edges where it abutts the house.  
-3. The slab edge should not be rendered, tiled, clad or concealed by flashing. You can paint it, but thats all. 
-4. Has an attachement (deck, patio or cabintery) been constructed up against the external perimeter concealing the visual inspection zone?
-5. Is there a termite management system in place on top or at the base of the slab edge?
+1. **Communication**: Did your Builder inform you about the periodic inspections necessary to ensure termite protection?
+2. **Integrity of the Inspection Zone**: Evaluate whether the stipulated 75 mm visual inspection zone around the slab has been maintained. A quick way to assess this is by inspecting the edges of your driveway where it meets the house.
+3. **Slab Edge Alterations**: The slab edge should remain free from renderings, tiles, claddings, or concealments via flashing. Painting is permissible, but any other treatment or alteration compromises the inspection zone.
+4. **Additional Attachments**: Has any structure like a deck, patio, or cabinetry been added adjacent to the external perimeter, thereby obscuring the visual inspection zone?
+5. **Termite Management System**: Is there an effective termite prevention system integrated either atop or at the base of the slab edge?
+
+It's crucial to address these checkpoints to ensure that your property remains compliant with regulations and, more importantly, safe from potential termite invasions.
 
 ### Minimum Requirements for Visual Inspection Zones 
 
