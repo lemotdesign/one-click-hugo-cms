@@ -34,3 +34,7 @@ If the Builder didn't tell you that you should walk around your home every 3 mon
 3. The slab edge should not be rendered, tiled, clad or concealed by flashing. You can paint it, but thats all. 
 4. Has an attachement (deck, patio or cabintery) been constructed up against the external perimeter concealing the visual inspection zone?
 5. Is there a termite management system in place on top or at the base of the slab edge?
+
+### Minimum Requirements for Visual Inspection Zones 
+
+![](img/measurement-diagram-external-structure-for-fb.jpg)
