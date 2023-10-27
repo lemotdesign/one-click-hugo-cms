@@ -19,7 +19,7 @@ Ask to see the Termite Installer's invoice.
 
 See, the thing is, the minimum reqirement for certification under the Australian Building Code is to stop 'concealed' termite ingress. Then it is relienent on a continuous Visual Inspection Zone of 75 mm to detect any external ingress.
 
-Majority of the 'New Builds' on the Gold Coast compromise this Visual Inspection Zone with paths, driveways and landscaping. If you walk around your new house and cannot see a continuous 75 mm of the slab edge, then it doesn't comply and should not be issued with a Form 43 saiding that it has passed on this.
+Majority of the 'New Builds' on the Gold Coast compromise this Visual Inspection Zone with paths, driveways and landscaping. If you walk around your new house and cannot see a continuous 75 mm of the slab edge, then it doesn't comply and a Form 43 **cannot** be issued. 
 
 ### Visual Inspection Zones - The Truth
 
