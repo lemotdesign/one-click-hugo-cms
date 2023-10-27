@@ -8,7 +8,7 @@ image: img/homeguard-install-pre-construction.jpg
 ---
 ## Does your Builder have Your long term interest?
 
-It might come off as a tough query, but unfortunately, this reflects a genuine concern within the construction sector, especially when it pertains to adhering to top-notch termite protection standards for new constructions.
+It might come off as a tough query, but unfortunately, this reflects a genuine concern within the construction sector, especially when it comes to adhering to top-notch termite protection standards for new constructions.
 
 ### The Unsettling Truth of Termite Certification
 
