@@ -6,13 +6,15 @@ image: img/trelona-baiting-system.jpg
 ---
 ## What is the Best Termite Baiting Options on the Gold Coast?
 
+The best Termite Baiting Syetem is the one that works! 
+
+I know we are stating the oblivious but you will find there is significant differences in effectiveness, longtivity and cost between baiting system availiable on the Gold Coast.
+
+ 
+
 
 
 More information: [Trelona Information brochure](https://pest-control.basf.com.au/sites/basf.com.au/files/2023-08/214037_PSS_Trelona_Fact_Sheet_Update_Jul23_WEB_v3.pdf)
-
-
-
-
 
 * Is Trelona effective?
 
@@ -34,14 +36,6 @@ Accredited Termidor pest specialists can use products such as Trelona Advance Te
 
 <!--EndFragment-->
 
-
-
-
-
-
-
 ![]()
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XtxOUnOzd0?si=NNnSBAx0sIrNIHYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
