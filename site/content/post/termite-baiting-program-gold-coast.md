@@ -6,22 +6,23 @@ image: img/trelona-baiting-system.jpg
 ---
 ## What is the Best Termite Baiting Options on the Gold Coast?
 
-The best Termite Baiting Syetem is the one that works! 
+ The best Termite Baiting System is the one that works!
 
-I know we are stating the oblivious but you will find there is significant differences in effectiveness, longtivity and cost between baiting system availiable on the Gold Coast.
+ I know we are stating the oblivious, but you will find there are significant differences in effectiveness, longevity and cost between the baiting system available on the Gold Coast.
 
 ### Things to Consider When Choosing a Termite Baiting System:
 
-1. Can you 'Self Monitor' or are you locked into a 'Monitoring Program"?
-2. Is the bait (celleous material) really desirable for termites? If they aren't attracted to it, they won't eat it.
-3. Is the active ingredient really effective. 
-4. Are the In-ground stations robust and easy to open
-
-
+1.  Can you 'Self-Monitor' or are you locked into a 'Monitoring Program"?
+2. Is the bait (cellulous material) really desirable for termites? If they aren't attracted to it, they won't eat it.
+3. Is the active ingredient really effective? How quickly do you achieve colony elimination?
+4. Are the In-ground stations robust and easy to open? If you have pets or need to mow over it the station, you want a strong one.
+5. Cost: How much does it cost to install a baiting system, how much to monitor it for 12 months and how much to replace eaten bait capsules?
 
 
 
 More information: [Trelona Information brochure](https://pest-control.basf.com.au/sites/basf.com.au/files/2023-08/214037_PSS_Trelona_Fact_Sheet_Update_Jul23_WEB_v3.pdf)
+
+
 
 * Is Trelona effective?
 
