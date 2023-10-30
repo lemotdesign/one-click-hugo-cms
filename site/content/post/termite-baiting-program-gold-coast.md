@@ -41,30 +41,12 @@ The Trelona system offers a frontline defense, targeting foraging termites befor
 3. **Innovative Bait Formulation**: With a cutting-edge bait matrix, termites find it hard to resist the lure of Trelona.
 4.  **Compatibility:** Can be used in conjuction with BASF's **Termidor HE** chemical application. 
 
+### More information: [Trelona Information brochure](https://pest-control.basf.com.au/sites/basf.com.au/files/2023-08/214037_PSS_Trelona_Fact_Sheet_Update_Jul23_WEB_v3.pdf)
 
-
-![]()
-
-More information: [Trelona Information brochure](https://pest-control.basf.com.au/sites/basf.com.au/files/2023-08/214037_PSS_Trelona_Fact_Sheet_Update_Jul23_WEB_v3.pdf)
-
-
-
-### Understanding Trelona: A Comprehensive Guide
-
-* **Effectiveness of Trelona**:
-
-  Trelona stands out as an advanced termite bait system, specifically crafted to control subterranean termite colonies. Its uniquely designed bait stations promote termite interception and foster rapid feeding, ensuring efficient pest control.
-* **Durability of Trelona**:
-
-  Designed for endurance, Trelona ATBS combines effectiveness with longevity. When synergized with other Termidor products, its bait cartridges have the resilience to last up to 5 years in Australian conditions. An authorized Trelona ATBS pest expert can set up these baiting stations and guide you on the appropriate inspection intervals. These intervals can range between one and six months, contingent upon factors like termite activity intensity, site-associated risks, and the specific system version in place.
-* **Trelona's Active Component**:
-
-  Novaluron takes center stage as the potent active ingredient in Trelona ATBS. Its groundbreaking formula ensures that Trelona needs notably less bait to achieve total termite colony elimination, distinguishing it from competing termite baits.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0XtxOUnOzd0?si=NNnSBAx0sIrNIHYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Trelona vs. Sentricon: Making the Choice
 
 When stacked against other products, Trelona ATBS showcases several notable merits. It boasts 50% more bait in every application and remains unparalleled in its ability to be used alongside the Termidor range.
 
 Seasoned Termidor pest professionals can integrate the Trelona Advance Termite Bait System into a comprehensive termite management plan, complemented by products like Termidor Residual or Termidor HE. With a reputation spanning over two decades, Termidor has cemented its place as a reliable termite solution. To connect with a certified Termidor specialist, visit [termidor.com.au](https://www.termidor.com.au/).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0XtxOUnOzd0?si=NNnSBAx0sIrNIHYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
