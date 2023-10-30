@@ -10,7 +10,14 @@ The best Termite Baiting Syetem is the one that works!
 
 I know we are stating the oblivious but you will find there is significant differences in effectiveness, longtivity and cost between baiting system availiable on the Gold Coast.
 
- 
+### Things to Consider When Choosing a Termite Baiting System:
+
+1. Can you 'Self Monitor' or are you locked into a 'Monitoring Program"?
+2. Is the bait (celleous material) really desirable for termites? If they aren't attracted to it, they won't eat it.
+3. Is the active ingredient really effective. 
+4. Are the In-ground stations robust and easy to open
+
+
 
 
 
