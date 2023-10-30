@@ -27,7 +27,9 @@ Before diving into the specifics of termite baiting systems, it's crucial to add
 
 The suitability of either approach largely hinges on factors like the construction of your property and its termite history. Sometimes, the nature and design of a building may make chemical treatments more effective.
 
-However, the best guidance doesn't come from generic recommendations. Rather, it's derived from termite experts who are versatile in both baiting systems and chemical treatments. Such professionals can provide an unbiased perspective, steering clear of the 'one-size-fits-all' mindset, and offer solutions tailored to your unique situation. Always remember, the right solution is one that's best suited to your property and its specific challenges.
+However, the best guidance doesn't come from generic recommendations. Rather, it's derived from termite experts who are versatile in both baiting systems and chemical treatments. Such professionals can provide an unbiased perspective, steering clear of the 'one-size-fits-all' mindset, and offer solutions tailored to your unique situation. 
+
+If a "Pestie" is exclusively suggesting one method simply because that's their only offering, it could indicate they're not considering the optimal solution for your needs.
 
 ## Conquer Termites Gold Coast's Preferred Baiting System
 
@@ -42,7 +44,7 @@ The Trelona system offers a frontline defense, targeting foraging termites befor
 1. **Robust and Strong**: It features a durable well designed bait station, cleverly crafted to promote termite interception and active feeding.
 2. **Long lasting bait**: Durable bait capsule that is resilient to endure for over five years. The bait capsules is designed to last  and stay effective against diverse weather conditions. Their capsule design ensures straightforward monitoring and hassle-free replenishment.
 3. **Innovative Bait Formulation**: With a cutting-edge bait matrix, termites find it hard to resist the lure of Trelona.
-4.  **Compatibility:** Can be used in conjuction with BASF's **Termidor HE** chemical application. 
+4. **Compatibility:** Can be used in conjuction with BASF's **Termidor HE** chemical application. 
 
 ### More information: [Trelona Information brochure](https://pest-control.basf.com.au/sites/basf.com.au/files/2023-08/214037_PSS_Trelona_Fact_Sheet_Update_Jul23_WEB_v3.pdf)
 
