@@ -27,9 +27,9 @@ Here's a really big one!
 #### Three things to look out for:
 
 * **Golden body colour** - Most flying termites's bodies are golden brown in colour.
-* **Wings** – flying termites have equal wing lengths, normally gray in colour. They do shed them once they land, so you might find a pile in your bathroom.
+* **Wings** – flying termites have equal wing lengths, normally grey in colour. They do shed them once they land, so you might find a pile in your bathroom.
 * **Antennae** – flying termites have straight antennae, not bent like black ants'.
-* **Waist**– flying termites have a straight waist like a small cigar. Not pinched waist of flying black ants.
+* **Waist** – flying termites have a straight waist like a small cigar. Not pinched waist of flying black ants.
 
 ![Differrence between termites and black ants](img/difference-betwen-termites-and-black-ants.jpg)
 
@@ -40,7 +40,7 @@ Here's a really big one!
 If you've come across winged termites (remember, they might have already shed their wings) in your home, follow these steps:
 
 1. Collect a few of the winged termites and place them in a sealed plastic bag, then refrigerate them. This will help us accurately identify them as termites and not just ordinary black ants.
-2. Or, take a close up photo to show us
+2. Or, take a close-up photo to show us
 3. Now, feel free to grab a can of insect spray and eliminate any termites you see. We understand the urge!
 
 #### Panic a little if you see this:
