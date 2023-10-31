@@ -7,7 +7,7 @@ description: Getting a termite treatment is akin to a dentist visit; it's not
   your wallet.
 image: img/termite-treatment-cost-2.jpg
 ---
-## How much does a termite treatment cost - Gold Coast?
+## How much does a Termite Treatment Cost - Gold Coast?
 
 Stumbled upon termites around your home? Wondering which treatment will best shield your haven?
 The expense of termite treatments can vary based on your home's size, the type of treatment chosen, and the severity of the termite infestation.
@@ -20,7 +20,7 @@ The expense of termite treatments can vary based on your home's size, the type o
 
 ![Termite treatment Barrier Cost](img/termite-treatment-cost.jpg)
 
-## Termite Management Solutions Costs
+## Termite Treatment Costs
 
 1. **Chemical treatments** (barriers) are a favoured choice for Homeowners on the Gold Coast. A standard chemical termite treatment using Termidor HE is usually between **$3000 to $4000**. Variables such as the home's external perimeter (average is 65 lineal meters) and chemical type can influence the cost. 
 
