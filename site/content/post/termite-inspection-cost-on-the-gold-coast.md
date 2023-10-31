@@ -37,7 +37,9 @@ A good quality termite inspection in Brisbane for an average-sized house typical
 
 * #### **Fake companies - no QBCC license**
 
-es might give the impression of being local, but they might operate from distant call centres without the requisite Queensland licenses.![](https://www.conquertermites.com.au/images/uploads/qbcc-license-cards.jpg)
+es might give the impression of being local, but they might operate from distant call centres without the requisite Queensland licenses.
+
+![Licenses for termite inspection on the Gold Coast](img/termite-licenses.jpg)
 
 For legitimate operation in Queensland, companies must possess a [QBCC license](https://www.qbcc.qld.gov.au/). Without it, these are essentially **subcontractors** who might not have proper insurance and shouldn't advertise termite-related services.
 
