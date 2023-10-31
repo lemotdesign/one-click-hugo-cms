@@ -2,11 +2,11 @@
 title: Pre-Construction Termite Protection - are you getting the Best Treatment?
 date: 2023-10-26T23:59:20.470Z
 description: If done right, the installation of a termite management system at
-  the time of construction can be a pivotal step in safeguarding your new home
-  from termite invasions.
+  the time of construction (Pre-Con) can be a pivotal step in safeguarding your
+  new home from termite invasions.
 image: img/homeguard-install-pre-construction.jpg
 ---
-## Does your Builder have Your long term interest?
+## Does your Builder have Your long-term interest?
 
 It might come off as a tough query, but unfortunately, this reflects a genuine concern within the construction sector, especially when it comes to adhering to top-notch termite protection standards for new constructions.
 
@@ -26,7 +26,7 @@ If you take a walk around your newly constructed property and are unable to spot
 
 #### Key Points for Visual Inspection Zone:
 
-1. **Communication**: Did your Builder inform you about the periodic inspections of the visual inspection zone is necessary to ensure termite protection?
+1. **Communication**: Did your Builder inform you about the requirement for periodic inspections of the visual inspection zone are necessary to ensure termite protection?
 2. **Integrity of the Inspection Zone**: Evaluate whether the stipulated 75 mm visual inspection zone around the slab is actually there. A quick way to assess this is by inspecting the edges of your driveway where it meets the house.
 3. **Slab Edge Alterations**: The slab edge should remain free from renderings, tiles, claddings, or concealments via flashing. Painting is permissible, but any other coating or alteration compromises the inspection zone.
 4. **Additional Attachments**: Has any structure like a deck, patio, or cabinetry been added adjacent to the external perimeter, thereby obscuring the visual inspection zone?
@@ -43,8 +43,8 @@ It's crucial to address these checkpoints to ensure that your property remains c
 At Conquer Termites, we vouch for several products tailored for New Builds. Depending on the construction specifics, we might recommend a combination of products or just one solitary application.
 
 1. **FMC Homeguard**: This product comes in two forms - as sheeting or as a parging paint. It's designed to provide a reliable barrier against termites, ensuring they don't gain access to the property.
-2. **Greenzone**: This is an Ableflex expansion foam insert embedded with termite repellent properties. Not only does it serve as a cushioning insert, but it also actively deters termites from encroaching upon the property.
-3. **Reticulation System**: This system involves the installation of a tubing around the external perimeter of the property. Its primary function is to facilitate the easy redistribution of chemicals at future intervals, ensuring long-term protection against termite invasions.
+2. **Greenzone**: This is an Ableflex expansion foam insert embedded with termite-repellent properties. Not only does it serve as a cushioning insert, but it also actively deters termites from encroaching upon the property.
+3. **Reticulation System**: This system involves the installation of a tube/pipe around the external perimeter of the property. Its primary function is to facilitate the easy redistribution of chemicals at future intervals, ensuring long-term protection against termite invasions.
 
 Each solution has its strengths, and the choice often hinges on the specifics of the construction and the preferences of the homeowner.
 
