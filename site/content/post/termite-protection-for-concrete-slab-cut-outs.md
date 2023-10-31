@@ -5,13 +5,13 @@ description: What is the best way to ensure termites don't gain entry into your
   home when you cut a hole in the concrete slab?
 image: img/termite-protection-concrete-slab-cutout.jpg
 ---
-## Best Termite Treatment for a Cut-out in a concrete slab
+## Best Termite Treatment for a Cut-out in a Concrete Slab
 
 Whenever a hole or cut-out is made in an existing concrete slab, especially for modifications such as repositioning plumbing, it becomes a potential entry point for termites. 
 
 Ensuring protection at this stage is essential not only for the integrity of your property but also to comply with regulations and achieve proper termite certification.
 
-### FMC Homeguard Collars & Protectacote: 
+### FMC Homeguard Collars & Protectacote:
 
 ### The Premier Termite Treatment for Concrete Slab Cut-outs
 
@@ -24,7 +24,7 @@ Here's why we trust and recommend FMC Homeguard for concrete slab cut-outs:
 * **Robust Protection**: The system effectively seals the gaps and joins, making it virtually impossible for termites to penetrate through.
 * **Reputation**: FMC has a longstanding reputation in the industry for producing reliable and effective termite protection products. Their dedication to research and development means that when you choose FMC Homeguard, you're choosing a product at the forefront of termite prevention technology.
 
-### The Two Visit - Four Step Process
+### The Two-Visit - Four-Step Process
 
 Ensuring a cut-out in a concrete slab is comprehensively protected from termites involves a multi-step approach. Here's a breakdown of our two-visit, four-step process:
 
@@ -46,8 +46,6 @@ To guarantee the integrity of the joint and prevent potential cracking, we overl
 
 ![Termite protection - Fibreglass strips for FMC Protectacote Parging](img/homeguard-cutout-fibreglass-strips.jpg)
 
-
-
 #### 4. Homeguard Protectacote Parging Application
 
 The final layer is the FMC Protectacote parging application. This product is enriched with Bifenthrin, a potent termite repellent. Its efficacy is underscored by the manufacturer, FMC, who vouches for its durability with a 50-year lifespan!
@@ -61,7 +59,7 @@ It might take several applications to get the 8 mm thickness.
 In the Gold Coast region, our pricing structure for safeguarding a standard cut-out in your concrete slab against termites starts at **$495**. This cost encapsulates:
 
 * Two scheduled visits to your property.
-* Provision of requisite documentation, notably the Form 43 and the Certificate of Installation.
+* Provision of requisite documentation, notably **Form 43** and the Certificate of Installation.
 
 For larger cut-outs or those with more than three penetrations, additional costs may be incurred due to the extra work and materials required. 
 
