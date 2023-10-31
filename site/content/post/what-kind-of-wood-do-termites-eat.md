@@ -32,7 +32,7 @@ Did you know? On average, an Australian single or two-storey house contains abou
 
 Contrary to popular belief, termites don't shy away from hardwood. They're smart about selecting the most nutritious timber, aiming for efficient foraging and ensuring a balanced diet for the colony. Many Australians mistakenly believe their homes are made of hardwood, but it's often just eucalyptus. Although tougher than pine, eucalyptus is a termite delight.
 
-In fact, eucalyptus timber is highly attractive to termites and is used effectively in bait stations. While we're not implying that your home is a massive bait, to termites, it's a sumptuous buffet.
+Eucalyptus timber is highly attractive to termites and is used effectively in bait stations. While we're not implying that your home is a massive bait, to termites, it's a sumptuous buffet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xWYY5tW5muQ?si=QQizZDUVuQfk3A3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -44,6 +44,4 @@ In fact, eucalyptus timber is highly attractive to termites and is used effectiv
 4. Address any moisture-related issues that might affect timber structures.
 5. Stay alert - if you suspect anything, don't hesitate.
 
-For all your termite concerns, reach out to **Conquer Termites** at 1300 417 007. We're here to help!
-
-<!--EndFragment-->
+#### For all your termite concerns, reach out to **Conquer Termites** at 1300 417 007. We're here to help!
