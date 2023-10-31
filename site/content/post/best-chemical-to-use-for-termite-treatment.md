@@ -3,8 +3,8 @@ title: Best Chemical to use for Termite Treatment
 date: 2023-10-17T04:30:04.143Z
 description: >-
   Conquer Termites has been in business for over twenty years allowing us to
-  workout what is the best termite treatment chemical to recommend to Homeowners
-  on the Gold Coast.
+  work out what is the best termite treatment chemical to recommend to
+  Homeowners on the Gold Coast.
 
   It's BASF Termidor HE
 image: img/termidor-he-basf.jpg
@@ -43,7 +43,7 @@ Termidor stands out as a non-repellent transfer product with a remarkable lifesp
 
 The latest formulation of Termidor HE boasts superior dispersion properties, penetrating wider and deeper into the soil while forming a robust bond with soil particles, preventing leaching. Also allows us to drill wider apart between tiled areas. 
 
-Notably, the active ingredient in Termidor, Fipronil, is employed in pet care products such as Frontline for flea and tick control. What pet owners apply directly to their furry companions, we strategically apply to your soil around your home's perimeter.
+Notably, the active ingredient in Termidor, Fipronil, is employed in pet care products such as Frontline for flea and tick control. What pet owners apply directly to their furry companions, we strategically apply to the soil around your home's perimeter.
 
 [![Watch Video](https://img.youtube.com/vi/Z2doi9j6GA4/0.jpg)](https://www.youtube.com/watch?v=Z2doi9j6GA4)
 
