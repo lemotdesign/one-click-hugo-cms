@@ -29,10 +29,10 @@ You don't need to understand these variables, but the Termite Technician you eng
 
 When you're working with a bona fide termite expert, you should expect the following standard of service:
 
-1. **Termite Inspection:** A requirement of our insurance, QBBC and the Australian Standards, an inspection needs to be done prior to any treatment. 
-2. **Detailed Treatment Proposal**: It's imperative they provide you with a written **Treatment Proposal**. This isn't just a simple quote; it should clearly itemize the specific areas of treatment, the chemicals they plan to use, and any potential limitations or considerations. This ensures transparency, letting you know precisely what to expect and helps in setting clear expectations for both parties.
+1. **Termite Inspection:** A requirement of our insurance, QBBC and the Australian Standards, an inspection needs to be done before any treatment. 
+2. **Detailed Treatment Proposal**: They must provide you with a written **Treatment Proposal**. This isn't just a simple quote; it should clearly itemize the specific areas of treatment, the chemicals they plan to use, and any potential limitations or considerations. This ensures transparency, letting you know precisely what to expect and helps in setting clear expectations for both parties.
 3. **Licensing**: Possession of a Queensland Health Timber Pest license is mandatory, signifying their authorization to manage termite treatments.
-4. **Insurance**: It's crucial they carry industry-specific insurance, safeguarding both you and them against potential unforeseen complications.
+4. **Insurance**:They must have industry-specific insurance, safeguarding both you and them against potential unforeseen complications.
 5. **Termite Treatment License**: For treatments that cost more than $1300, a valid **QBCC** (Queensland Building Construction Commission) license is imperative.
 6. **Chemical Accreditation**: The professional should be a certified applicator of the chemical they recommend, an endorsement given by the manufacturer.
 7. **Safety First**: They should have a comprehensive company **Safety Plan** in place. Additionally, using appropriate Personal Protective Equipment (PPE) is vital to ensure the safety of your property, yourself, and the professionals at work. This demonstrates their commitment to health and security protocols, reducing potential risks during treatment procedures.
