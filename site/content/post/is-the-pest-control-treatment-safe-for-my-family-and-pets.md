@@ -43,14 +43,14 @@ Just a small note, if your place is a commercial premise or if we're dealing wit
 
 ### Talk to us
 
-Let us know what is really 'bugging' you. That way we can really target our treatment to get the best outcomes for you. 
+Let us know what is really 'bugging' you. That way, we can really target our treatment to get the best outcomes for you. 
 
 Also, please let our technician know if you have any allergies or have particular areas that you don’t want to be treated.
 
 ### General Information about our Pest Control Treatment:
 
 1. The idea of ‘Pest Control’ is about reducing the pesty pests’ population to near zero. It is not about applying a nasty product to keep all insects away for 12 months. Insects will recolonise your home naturally over time.
-2. There is a residual action with the treatment, so it might take several weeks to be fully effective. In the case where the pest population or conditions are server, we might recommend more frequent treatments.\
+2. There is a residual action with the treatment, so it might take several weeks to be fully effective. In the case where the pest population or conditions are severe, we might recommend more frequent treatments.\
 
 #### Watch how we do a Pest Control in your home:
 
