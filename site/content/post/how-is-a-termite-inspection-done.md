@@ -5,7 +5,7 @@ description: >-
   What are the important points to consider when getting your home checked for
   Termites (White Ants)? 
 
-  How do I know if I will I get a proper inspection done by a competent inspector? 
+  How do I know if I will get a proper inspection done by a competent inspector? 
 image: img/best-termite-inspection-on-the-gold-coast.jpg
 ---
 ## Best Termite Inspections on the Gold Coast:
@@ -63,7 +63,7 @@ After the inspection, you should receive a detailed report outlining the finding
 
 * Documentation of any signs of termite activity or damage.
 * Identification of the termite species, if present.
-* Recommendations for treatment, if necessary.
+* Recommendations for treatment(s), if necessary.
 * Preventative measures to protect your property from future infestations.
 
 **6. Termite Treatment Proposal - supplied on the day Free:** 
