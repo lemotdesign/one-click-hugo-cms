@@ -18,7 +18,7 @@ Subterranean termite attacking a home
 
 **2. Rapid Reproduction:** One of the reasons termites seem to appear suddenly is their impressive rate of reproduction. A single termite queen can lay thousands of eggs daily, leading to large colonies forming quickly and discreetly. A couple of years ago, there might just not have been a termite nest near your home.
 
-**3. Swarmers:** On the Gold Coast, through the months of October to February, mature termite colonies release swarmers (Alates) – winged termites whose primary goal is to start new colonies. If you spot a group of winged insects inside or around your home, it's possible they've been there for a while and are now seeking a place to set up home!
+**3. Swarmers:** On the Gold Coast, from October to February, mature termite colonies release swarmers (Alates) – winged termites whose primary goal is to start new colonies. If you spot a group of winged insects inside or around your home, it's possible they've been there for a while and are now seeking a place to set up home!
 
 **4. Underground Movement:** Subterranean (under the ground) termites, are the most common type on the Gold Coast. They construct mud tubes to traverse between their underground home and their food source (your house!). These mud tubes protect them from predators and the environment, making their movement and presence hidden.
 
@@ -38,11 +38,11 @@ Termites will eat all types of timber, but they are super clever in sourcing the
 
 A big mistake Australian homeowners make is thinking their home is constructed with hardwood, when in fact, it is just plantation eucalyptus (gum trees). Yes, it is considerably harder than radiata pine, but it is highly desirable timber for termites to eat.
 
-Eucalyptus timbers have been found to be the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
+Eucalyptus timbers are the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
 
 #### Don't wait until you see evidence of termites - Act now and get your home inspected
 
-Termites don't really appear out of nowhere; they've usually been around for longer than you realize. 
+Termites don't appear out of nowhere; they've usually been around for longer than you realize. 
 
 Regular home inspections and being aware of the subtle signs of their presence can help in early detection, preventing extensive damage to your home. 
 
