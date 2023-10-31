@@ -10,7 +10,7 @@ image: img/how-often-should-a-termite-treatment-be-done.jpg
 ---
 ### Termite Treatment Maintenance: How Often and Why?
 
-Many residents in the Gold Coast often wonder about the necessity of topping up their termite treatments and how frequently it should be done. We're here to shed some light on this important topic.
+Many residents on the Gold Coast often wonder about the necessity of topping up their termite treatments and how frequently it should be done. We're here to shed some light on this important topic.
 
 **Here are some crucial facts to keep in mind:**
 
@@ -71,4 +71,4 @@ Additionally, there should be a **Durable Treatment Label** in the electrical me
 
 ##### Don't be that Homeowner that waits for Termites before doing something
 
-As we mentioned before, the main reason homes get infested by termites is that there was no appropriate treatment stopping them. Call Conquer Termites Gold Coast now to arrange an inspection and free treatment proposal.
+As we mentioned before, the main reason homes get infested by termites is that there is no appropriate treatment to stop them. Call Conquer Termites Gold Coast now to arrange an inspection and free treatment proposal.
