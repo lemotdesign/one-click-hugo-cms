@@ -49,7 +49,7 @@ It's crucial to compare options comprehensively when deciding on a termite treat
 1. **Licensing**: Do they have the required license to administer a chemical treatment in Queensland?
 2. **Insurance**: Have they secured the appropriate insurance coverage?
 3. **Accreditation**: Are they endorsed by the manufacturer of the chemical they propose to use?
-4. Treatment Options: Can they recommend both chemical treatments and baiting systems to give you the right option?
+4. **Treatment Options**: Can they recommend both chemical treatments and baiting systems to give you the right option?
 5. **Paver Management**: Will they lift and reset pavers if necessary? Lazy companies just drill.
 6. **Aesthetic Concerns**: Do they ensure the mortar's colour matches the patched drill holes, or do they use cheap plastic plugs?
 7. **Safety Measures**: Are they equipped with a spill kit and the necessary Personal Protective Equipment (PPE)?
