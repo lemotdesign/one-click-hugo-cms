@@ -2,8 +2,9 @@
 title: How often should a Termite Treatment be done?
 date: 2023-10-17T03:55:40.588Z
 description: >-
-  Many homeowners on the Gold Coast are unaware that their Termite Treatment
-  needs to be replenished on the recommended chemical manufacturers' life cycle.
+  How many years does a termite treatment last?
+
+  Many homeowners on the Gold Coast are unaware that their Termite Treatment needs to be replenished on the recommended chemical manufacturers' life cycle.
 
   The main reason homes get attacked by Termites is that there was no current chemical treatment in place! 
 image: img/how-often-should-a-termite-treatment-be-done.jpg
