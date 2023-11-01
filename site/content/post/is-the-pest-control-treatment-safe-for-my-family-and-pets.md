@@ -6,6 +6,16 @@ description: At Conquer Termites, we truly get the worries Gold Coast homeowners
   goodbye without compromising your family's well-being.
 image: img/pest-control-3.jpg
 ---
+## Is Pest Control Safe for Pets and Humans?
+
+### Children or pets, is it safe?
+
+Got kiddos or furry friends? No worries! We always adjust our methods based on your home's unique needs, to only apply the safest product available in Australia.
+
+We will be applying a mix of treatments like gel bait, dust, and surface sprays. All products we apply meet the Australian Pesticides and Veterinary Medicines Authority guidelines. Safety first, always!
+
+![Conquer Pest Control is safe for pets](img/conquer-termites-furry-friends.jpg)
+
 Before we dive into the nitty-gritty of our general pest control, we wanted to give you a heads-up on what to expect and how to prepare. 
 
 ### What are we treating?
@@ -15,14 +25,6 @@ Our general pest control package covers cockroaches, spiders, black ants and sil
 If you have an issue with pests such as fleas, pantry moths, rodents or any other annoying pest, these will require a special and separate treatment. 
 
 ![The four pests we pest control - Conquer Termites Gold Coast](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
-
-### Children or pets, is it safe?
-
-Got kiddos or furry friends? No worries! We always adjust our methods based on your home's unique needs, to only apply the safest product available in Australia.
-
-We will be applying a mix of treatments like gel bait, dust, and surface sprays. All products we apply meet the Australian Pesticides and Veterinary Medicines Authority guidelines. Safety first, always!
-
-![Conquer Pest Control is safe for pets](img/conquer-termites-furry-friends.jpg)
 
 ### How long does it take?
 
@@ -52,11 +54,11 @@ Also, please let our technician know if you have any allergies or have particula
 1. The idea of ‘Pest Control’ is about reducing the pesty pests’ population to near zero. It is not about applying a nasty product to keep all insects away for 12 months. Insects will recolonise your home naturally over time.
 2. There is a residual action with the treatment, so it might take several weeks to be fully effective. In the case where the pest population or conditions are severe, we might recommend more frequent treatments.\
 
-#### Watch how we do a Pest Control in your home:
+### How a Pest Control is done at your home:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OuGdMcjGAVY?si=NacB_OGuSUah_Dcm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### What to do before we come:
+## What to do before we come:
 
 1. Vacuum along the skirting boards and wet clean all hard floors (tiles, timber floors and laminate planks). The reason is that we don’t want you to ‘wet wipe’ the edges of the hard floors for at least four weeks where we have sprayed our product. 
    The longer you can leave it there, the better it will work. You can vacuum or sweep.  
