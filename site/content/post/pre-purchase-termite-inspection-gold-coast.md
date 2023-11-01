@@ -6,6 +6,8 @@ description: "If you're in the midst of purchasing a house on the Gold Coast and
   services of Gold Coast Termite Experts - Conquer Termites. "
 image: img/conquer-termite-local-experts-copy-copy.jpg
 ---
+## Best Pest Inspection on the Gold Coast
+
 #### Purchasing Your Dream Home: Secure Your Investment
 
 Taking the leap to purchase your dream home is a monumental decision. While you're envisioning sunny mornings and cozy evenings, you certainly don't want to discover that behind those beautiful walls lies a ticking time bomb of termite damage, turning your dream into a nightmare.
