@@ -6,7 +6,7 @@ description: Termite inspections on the Gold Coast vary in quality and accuracy.
   stand out by delivering exceptional inspections.
 image: img/termite-inspection-gold-coast.jpg
 ---
-### **Concerned About Termites in Your Home on the Gold Coast?** 
+## Termite inspection, who to call on the Gold Coast
 
 Discovering potential termite presence in your home can be deeply unnerving. As intimidating as it may be, choosing a trustworthy Gold Coast Pest Company shouldn't add to your worries.
 
@@ -54,7 +54,7 @@ On the Gold Coast, a standard termite inspection for an average-sized house rang
 
 * **Misleading Free Offers**: Some might tempt you with a "free termite check," pushing for an overpriced baiting system. They aren't qualified, and you'd typically have to sign a waiver, indicating it's just a 'check', not a comprehensive inspection.
 
-### **How is a Proper Termite Inspection done:** 
+### **How is a Proper Termite Inspection done:**
 
 ### **Conquer Termites Inspection Video**
 
