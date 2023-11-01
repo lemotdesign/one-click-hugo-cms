@@ -1,22 +1,23 @@
 ---
 title: Is my House Safe from Termites if it is made from Hardwood?
 date: 2023-10-13T04:06:16.642Z
-description: >-
-  "But my house is built with hardwood, I'm safe from termites" This is a common
-  misunderstanding among many homeowners on the Gold Coast.
-
-  Sadly it's just not that convenient or true. Sure hardwood is hard to cut and nail into, but Australian termites have been eating eucalyptus wood for millions of years. In fact, their preferred place to set up home is in a gum tree. 
+description: "\"But my house is built with hardwood, I'm safe from termites\"
+  This is a common misunderstanding among many homeowners on the Gold Coast."
 image: img/termite-damage-hardwood.jpg
 ---
-**Which Timbers are Termites' Top Picks?**
+**Do Termites Eat Hardwood? YES**
 
-While termites aren't fussy eaters and will dine on all kinds of timber, they do have some favourites. Their choices are all about finding the best nutritional value and ensuring a balanced diet for their colony.
+Sure hardwood is hard to cut and nail into, but Australian termites have been eating eucalyptus wood for millions of years. In fact, their preferred place to set up home is in a gum tree. 
 
-**Eucalyptus: A Common Misconception**
+**Eucalyptus: A Common Misconception:** 
 
 Many Australian homeowners often believe their homes are built from hardwood. In reality, a lot of Australian homes are constructed with plantation eucalyptus, derived from gum trees. Though tougher than radiata pine, this wood is a termite delicacy.
 
 Interestingly, eucalyptus is a top pick for bait stations that attract termites. This doesn’t mean your home is a termite magnet, but given the chance, they'd see it as an all-you-can-eat buffet.
+
+**Which Timbers are Termites' Top Picks?**
+
+While termites aren't fussy eaters and will dine on all kinds of timber, they do have some favourites. Their choices are all about finding the best nutritional value and ensuring a balanced diet for their colony.
 
 **Understanding Hardwood**
 
@@ -30,7 +31,7 @@ Some examples of Australian hardwoods include Merbau, Tassie Oak, Walnut, Ash, B
 * **Colour:** Hardwoods generally have a darker hue than softwoods.
 * **Durability:** Hardwoods tend to be more robust and durable.
 
-![wood cellular structure - soft or hard](img/hardwood-vs-softwood-diagram.jpg)
+![wood cellular structure - soft or hard *Source: MDPI - Illustrations of hardwood and softwood cellular structures provided.*](img/hardwood-vs-softwood-diagram.jpg)
 
 *Source: MDPI - Illustrations of hardwood and softwood cellular structures provided.*
 
