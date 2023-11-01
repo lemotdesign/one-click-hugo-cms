@@ -9,7 +9,9 @@ description: >-
   Best to do your homework so you can ask the right questions and get the best outcome.
 image: img/dead-termites-costumes.jpg
 ---
-## Start with Choosing the Best Termite Treatment Company
+## How do you get rid of white ants termites?
+
+#### Start with Choosing the Best Termite Treatment Company
 
 Selecting the best termite treatment isn't a straightforward task; there's no one-size-fits-all solution. A tailored treatment plan is essential, taking into account several key factors:
 
