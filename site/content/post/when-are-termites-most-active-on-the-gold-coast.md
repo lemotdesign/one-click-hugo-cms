@@ -13,6 +13,30 @@ Termites, often called the "silent destroyers," are a constant concern for homeo
 
 Several factors, including seasons, rainfall, your suburb environment, and construction types, play a significant role in determining when termites are most active.
 
+### Common Questions about Termites:
+
+**When are termites most active - Day or Night?**
+
+Termites operate **24/7**! They don't know daytime as they are in their subterranean tunnels and are blind.
+
+**What time of the day are termites active?**
+
+Eating time! Basically, they will forage, eat and move around all hours of the day. You might hear them at night when the house is quiet. 
+
+**Are Termites active in Winter?**
+
+Yes, termites are active during the months of winter here on the Gold Coast. But they are **less** active than in the warmer and more humid months of summer.
+
+**When are Flying Termites Most Active?**
+
+On the Gold Coast, Flying Termites (Alates) are taking to flight from October to March. Read more below.
+
+**Can you hear termites?**
+
+Yes, when the house quietens down, you might hear a very faint gnawing noise as their cutting jaws chew the timber. Or you might hear a 'tapping' noise emanate from the wall when you disturb them
+
+![Hearing termites in your wall](img/termite-noises-in-your-wall.jpg)
+
 ## Seasonal Fluctuations
 
 Termites on the Gold Coast, like elsewhere, exhibit seasonal variations in their activity levels. In subtropical regions such as the Gold Coast, termites remain active throughout the year, but there are still peak periods to be aware of:
