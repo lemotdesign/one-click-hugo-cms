@@ -1,5 +1,5 @@
 ---
-title: How is a Termite Inspection done
+title: How is a Termite Inspection Done - Gold Coast
 date: 2023-10-19T22:43:45.673Z
 description: >-
   What are the important points to consider when getting your home checked for
@@ -26,7 +26,7 @@ In this guide, we will outline the important points to consider when choosing a 
 
 Check that the company has the appropriate Timber Pest license that is issued by Queensland Health. The Inspector should be able to show you an ID card and produce a PMT license number. 
 
-If they are doing an inspection or termite treatment anywhere in Queensland, then they also need a QBCC (Queensland Building & Construction Commission) license. You can check the company's with this link: **QBCC License Check**
+If they are doing an inspection or termite treatment anywhere in Queensland, then they also need a QBCC (Queensland Building & Construction Commission) license. You can check the company's with this link: **[QBCC License Check](https://www.qbcc.qld.gov.au/)**
 
 ![Termite inspection licenses](img/termite-licenses.jpg)
 
@@ -68,7 +68,7 @@ After the inspection, you should receive a detailed report outlining the finding
 
 **6. Termite Treatment Proposal - supplied on the day Free:** 
 
-If your property lacks an existing Termite Management System or if termite activity is identified during the inspection, it is imperative that the Inspector supply you with a Treatment Proposal. This proposal will recommend the most suitable treatment strategy for your home.
+If your property lacks an existing Termite Management System or if termite activity is identified during the inspection, the Inspector must supply you with a Treatment Proposal. This proposal will recommend the most suitable treatment strategy for your home.
 
 If the Inspector doesn't supply you with this document, then they are not following the guidelines in the Australian Standards. Always ask if the company knows how to quote and do termite treatments.
 
@@ -76,7 +76,7 @@ If the Inspector doesn't supply you with this document, then they are not follow
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Get a Pest Company on the Gold Coast you can Trust
+### Book a Pest Company on the Gold Coast you can Trust
 
 Professional termite inspections in Australia are a crucial step in protecting your home from these destructive pests. By hiring a licensed and experienced termite inspection company, you can trust that your property will be thoroughly assessed, and appropriate measures will be taken to safeguard your investment.
 
