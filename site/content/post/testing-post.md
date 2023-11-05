@@ -5,7 +5,7 @@ description: Getting a termite treatment is akin to a dentist visit; it's not
   the most exciting way to part with your money, but it's essential. We
   understand that such a significant investment can feel like a hefty blow to
   your wallet.
-image: img/termite-treatment-cost-2.jpg
+image: img/termite-treatment-cost.png
 ---
 ## How much does a Termite Treatment Cost - Gold Coast?
 
@@ -18,7 +18,7 @@ The expense of termite treatments can vary based on your home's size, the type o
    *Typically, a termite inspection falls within the $300 range. This covers a comprehensive inspection of your property to ascertain the infestation's reach and the termite species involved.*
 2. A **Treatment Proposal** should be provided, outlining costs, strategy, and any constraints. 
 
-![Termite treatment Barrier Cost](img/termite-treatment-cost.jpg)
+![Termite treatment Barrier Cost](img/termite-treatment-how-much-does-it-cost.png)
 
 ## Termite Treatment Costs
 
@@ -76,6 +76,6 @@ Often, a waiver must be signed, clarifying the service as a 'check' rather than 
 
 Reach out to Conquer Termites, your neighbourhood expert with 20 years of service on the Gold Coast. Boasting 25 adept, fully licensed technicians, we're adept at spotting and eliminating termites tailored to the unique requirements of South East Queensland homes.
 
-![Conquer Termites Gold Coast Team](img/the-gold-coast-team.jpg)
+![Conquer Termites Gold Coast Team](img/conquer-termites-gold-coast-team.png)
 
 ### Call Conquer Termites & Pest Management on 1300 417 007
