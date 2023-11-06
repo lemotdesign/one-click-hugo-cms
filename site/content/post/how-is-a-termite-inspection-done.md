@@ -16,6 +16,10 @@ The logical thought that often follows is, *"I should engage the services of a p
 
 You're not the Termite Expert and you probably don't know what to look for. But you are the person who will face great financial and emotional costs if you don't get the problem fixed.
 
+## Watch our Termite Inspection Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### How can I ensure that the Termite Inspection has been conducted correctly?
 
 In this guide, we will outline the important points to consider when choosing a company to conduct a termite inspection.
@@ -71,10 +75,6 @@ After the inspection, you should receive a detailed report outlining the finding
 If your property lacks an existing Termite Management System or if termite activity is identified during the inspection, the Inspector must supply you with a Treatment Proposal. This proposal will recommend the most suitable treatment strategy for your home.
 
 If the Inspector doesn't supply you with this document, then they are not following the guidelines in the Australian Standards. Always ask if the company knows how to quote and do termite treatments.
-
-## Watch our Termite Inspection Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Book a Pest Company on the Gold Coast you can Trust
 
