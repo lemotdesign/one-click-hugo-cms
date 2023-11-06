@@ -10,7 +10,7 @@ description: >-
 
 
   Don't get information from amateurs, get advice from termite experts.    
-image: img/shutterstock_424573720-copy.jpg
+image: img/common-myths-about-termites.png
 ---
 ## Let us debunk termite myths:
 
@@ -18,7 +18,7 @@ image: img/shutterstock_424573720-copy.jpg
 
 Contrary to popular belief, termites, colloquially known as "White Ants" in Australia, aren't ants at all. The similarity in appearance between Black Ants and Termites can lead to this confusion. Both species have six legs, antennas, and live in colonies. Yet, they differ in many ways, from body shape to behaviour. 
 
-![Termite identification diagram](img/difference-betwen-termites-and-black-ants.jpg)
+![Termite identification diagram](img/black-ant-vs-termite-body-shape.png)
 
 WHAT DO TERMITE WHITE ANTS ) LOOK LIKE PAGE LINK-
 
@@ -57,6 +57,6 @@ Modern termiticides can last between 5 and 10 years as recommended by the manufa
 **10. All Termite Companies Offer the Same Service**\
 Absolutely not. Companies vary in their chemical use, service quality, and warranties. Don't settle for the cheapest option without researching first. Ask for testimonials and recommendations.
 
-![](img/dead-termites-costumes.jpg)
+![Get rid of termites in your home](img/get-rid-of-termites.png)
 
 Knowledge is power. Equip yourself with accurate information to protect your home effectively.
