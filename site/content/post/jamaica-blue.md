@@ -3,7 +3,7 @@ title: What is the Difference between Termites and White Ants?
 date: 2017-01-04T15:04:10.000Z
 description: |
   The difference between termites & white ants - NOTHING!
-image: img/termite-or-white-ants.jpg
+image: img/termites-or-white-ants.png
 ---
 ## Embrace the Australian Vernacular
 
@@ -13,7 +13,7 @@ But here's the twist: Termites, affectionately referred to as "White Ants" Down 
 
 ### Difference Between Termites & Black Ants
 
-![Difference between Black Ants and Termites diagram](img/difference-betwen-termites-and-black-ants.jpg)
+![Difference between Black Ants and Termites diagram](img/black-ant-vs-termite-body-shape.png)
 
 ### Let's Dive into the Science
 
