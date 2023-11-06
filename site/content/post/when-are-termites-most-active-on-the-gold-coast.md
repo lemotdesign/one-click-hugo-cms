@@ -5,7 +5,7 @@ description: >-
   Termites are most active when you find them in your home! 
 
   Take it as a given that they will be foraging outside in your garden all year round trying to find a way in. 
-image: img/termites-living-on-the-gold-coast.jpg
+image: img/new-image-template.png
 ---
 ## Termites can appear anytime!
 
@@ -35,7 +35,7 @@ On the Gold Coast, Flying Termites (Alates) are taking to flight from October to
 
 Yes, when the house quietens down, you might hear a very faint gnawing noise as their cutting jaws chew the timber. Or you might hear a 'tapping' noise emanate from the wall when you disturb them
 
-![Hearing termites in your wall](img/termite-noises-in-your-wall.jpg)
+![Hearing termites in your wall](img/hearing-termite-noises-in-your-wall.png)
 
 ## Seasonal Fluctuations
 
@@ -55,7 +55,7 @@ As the weather starts to cool down in autumn and winter, termite activity decrea
 
 One of the most visible signs of termite activity is the emergence of **flying termites** or alates. These winged termites are reproductive members of the colony, and their primary purpose is to establish new termite colonies. 
 
-![Flying Termites called Alates](img/flying-termites-alates.jpg)
+![Flying Termites called Alates](img/flying-termites.png)
 
 Flying termite swarms are commonly observed during spring and summer evenings, especially after rain showers. If you see a termite swarm around your property, it's a clear indication of nearby termite activity.
 
@@ -69,7 +69,7 @@ The type of construction and certain architectural details can significantly inf
 
 1. **Embedded Brick Footings**: These provide an easy pathway for termites. Bricks are porous, and they can retain moisture. This makes them a conducive environment for termites. When these bricks are in contact with the soil, subterranean termites can travel through the weep holes or cracks and reach the structural wood parts of a home without detection.
 
-![Concealed termite entry through bricks](img/conceal-entry-through-brickwork.jpg)
+![Concealed termite entry through bricks](img/termite-ingres-through-brick-footings.png)
 
 1. **Structural Timbers in Contact with the Ground**: Termites are subterranean by nature, meaning they live underground. When timber, which is a primary food source for them, is in direct contact with the soil (like a wooden post or stump), it provides a direct highway for the termites to reach their food without having to expose themselves. This is especially risky when the timber is untreated or not protected by a termite barrier system.
 2. **Landscaping Too High Against External Perimeter**: Mulch, soil, or garden beds that are placed too high against the home can provide concealed access for termites. This landscaping can also trap moisture against the foundation of the home, making the environment even more conducive for termites.
