@@ -6,7 +6,7 @@ description: >
   down wood into sugars. It's awe-inspiring how these tiny creatures coordinate
   their entire colony to forage and transport wood to their nest via their
   hidden tunnels.
-image: img/damaged-timber-hollowed-by-termites-copy.jpg
+image: img/what-kind-of-wood-do-termites-like-to-eat.png
 ---
 If your home is constructed from softwood (pine radiate) or hardwood (eucalyptus - gum tree), it doesn't matter. Termite WILL eat both. The soft pine trim timbers like the skirting boards, door and window frames are exposed and normally easier to detect termite activity.
 
@@ -16,7 +16,7 @@ But how do termites manage to devour wood? Their unique digestive system hosts c
 
 *For a quick biology refresher: Protozoa are single-celled organisms, prevalent worldwide. They can live freely or can be parasitic, feeding on organic matter.*
 
-![Protozoa are single-celled organisms - help termites eat wood](img/how-a-termite-processes-food-diagram.jpg)
+![Protozoa are single-celled organisms - help termites eat wood](img/termite-gut.png)
 
 **Understanding the Termite Diet:**
 
@@ -26,7 +26,7 @@ Think of it this way: Just as cows graze on grass, termites feast on wood. This 
 
 Did you know? On average, an Australian single or two-storey house contains about 14.58 m3 of wood (based on 2017-18 data). Once termites sense this timber treasure trove, they quickly create concealed pathways from their nest to access it. For termites, your home is essentially a gourmet meal!
 
-![How much timber termites can eat in your home](img/how-much-timber-in-an-average-australian-house.jpg)
+![How much timber termites can eat in your home](img/how-much-timber-termites-can-eat-in-your-home.png)
 
 **Busting the Hardwood Myth:**
 
@@ -45,3 +45,5 @@ Eucalyptus timber is highly attractive to termites and is used effectively in ba
 5. Stay alert - if you suspect anything, don't hesitate.
 
 #### For all your termite concerns, reach out to **Conquer Termites** at 1300 417 007. We're here to help!
+
+![](img/conquer-termites-gold-coast-team.png)
