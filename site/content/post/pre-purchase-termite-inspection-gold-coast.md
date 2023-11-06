@@ -4,7 +4,7 @@ date: 2023-10-23T01:27:46.100Z
 description: "If you're in the midst of purchasing a house on the Gold Coast and
   want to ensure that you're making a sound investment, consider booking the
   services of Gold Coast Termite Experts - Conquer Termites. "
-image: img/conquer-termite-local-experts-copy-copy.jpg
+image: img/gold-coast-prepurchase-termite-inspection.png
 ---
 ## Best Pest Inspection on the Gold Coast
 
@@ -57,7 +57,7 @@ In many cases, termite damage could be lurking just beyond view, behind wall lin
 3. Use a Termatrac Motion Detection Device to confirm the presence of live termites.
 4. Engage a qualified Tradesperson to remove the wall lining. Remember, you can only do this with the permission of the Seller. 
 
-![Hearing Termites in your wall](img/termite-noises-in-your-wall.jpg)
+![Timber Pest Termite  Inspection Gold Coast](img/termite-pest-inspection.png)
 
 ### Let it be your dream home
 
