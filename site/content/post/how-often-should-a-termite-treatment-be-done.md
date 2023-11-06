@@ -7,7 +7,7 @@ description: >-
   Many homeowners on the Gold Coast are unaware that their Termite Treatment needs to be replenished on the recommended chemical manufacturers' life cycle.
 
   The main reason homes get attacked by Termites is that there was no current chemical treatment in place! 
-image: img/how-often-should-a-termite-treatment-be-done.jpg
+image: img/how-often-should-you-get-your-home-checked-for-termites.png
 ---
 ### Termite Treatment Maintenance: How Often and Why?
 
@@ -68,7 +68,7 @@ Following a chemical treatment, the company is legally required to provide a **C
 
 Additionally, there should be a **Durable Treatment Label** in the electrical meter box for your reference.
 
-![Termite Treatment Label in the electric meter box](img/durabel-treatment-label.jpg)
+![Termite Treatment Label in the electric meter box](img/treatment-label.png)
 
 ##### Don't be that Homeowner that waits for Termites before doing something
 
