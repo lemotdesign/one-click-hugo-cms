@@ -57,7 +57,7 @@ In many cases, termite damage could be lurking just beyond view, behind wall lin
 3. Use a Termatrac Motion Detection Device to confirm the presence of live termites.
 4. Engage a qualified Tradesperson to remove the wall lining. Remember, you can only do this with the permission of the Seller. 
 
-![Hearing Termites in your wall](img/termite-pest-inspection.png)
+![Timber Pest Termite  Inspection Gold Coast](img/termite-pest-inspection.png)
 
 ### Let it be your dream home
 
