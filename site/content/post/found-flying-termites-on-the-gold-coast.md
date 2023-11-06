@@ -4,7 +4,7 @@ date: 2023-10-16T23:59:20.004Z
 description: Are you discovering a sudden invasion of winged insects within your
   Gold Coast home? Curious about their identity? They could be 'Alates' -
   reproductive winged termites!
-image: img/alates-flying-termites.jpg
+image: img/flying-termites-gold-coast.png
 ---
 During the spring and early summer months, the Gold Coast experiences warm and humid nights, creating the ideal environment for reproductive termites to embark on mass flights in search of a mate to establish their own colonies. It's almost eerie how colonies throughout South East Queensland synchronize their activities for this night of opportunity!
 
@@ -22,7 +22,7 @@ You can spot these exit holes high up in gum trees, resembling small wounds, or 
 
 Here's a really big one!
 
-![What an Alate Winged Termite looks like](img/alate-termite-photo.jpg)
+![What an Alate Winged Termite looks like](img/flying-termite-alate.png)
 
 #### Three things to look out for:
 
@@ -31,7 +31,7 @@ Here's a really big one!
 * **Antennae** – flying termites have straight antennae, not bent like black ants'.
 * **Waist** – flying termites have a straight waist like a small cigar. Not pinched waist of flying black ants.
 
-![Differrence between termites and black ants](img/difference-betwen-termites-and-black-ants.jpg)
+![Differrence between termites and black ants](img/black-ant-vs-termite-body-shape.png)
 
 #### What Should I Do If I Find Winged Termites?
 
@@ -61,12 +61,12 @@ During this time of year, these termites vacate their nests, which can be found 
 
 All termite species function within a caste system, sharing this trait with ants as their only notable commonality. Among their castes are the winged reproductive alates, often referred to as flying termites. While they can be mistaken for flying ants, distinguishing between them is relatively straightforward.
 
-![Termite Life Cycle](img/termite-life-cycle-2.jpg)
+![Termite Life Cycle](img/3.png)
 
 When a termite colony reaches a certain size and maturity, several thousand reproductive termites undergo wing development in preparation for a once-in-a-lifetime flight. This process can take several months, during which they receive the best nourishment and care. 
 
 Once they are fully prepared, and under suitable weather conditions (some swarm after rain, but most do so during highly humid conditions, typically at dusk), thousands upon thousands of them take flight from their nests in the area, primed to establish new colonies.
 
-![Winged Termites flying around an outdoor light](img/shutterstock_643002118-1-copy.jpg)
+![Winged Termites flying around an outdoor light](img/flying-termites-around-a-light.png)
 
 These winged or flying termites are frequently observed swarming around lights, whether they are streetlights or outdoor lights left on. It is here that they encounter other termites of the same species, also swarming from their respective colonies. After this encounter, the fertilized Alates shed their wings and search for a suitable location to create a nest and initiate a new colony.
