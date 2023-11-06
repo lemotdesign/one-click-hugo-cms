@@ -4,7 +4,7 @@ date: 2023-10-13T03:21:47.725Z
 description: Termites, often dubbed the "silent destroyers," have a knack for
   making themselves known only after they've caused significant damage. But how
   do these tiny critters seemingly pop up out of nowhere?
-image: img/conceal-entry-through-brickwork.jpg
+image: img/termites-can-appaer-from-anywhere.png
 ---
 Have you just found evidence of termites in your home and wondered how they came in? You hadn’t seen any signs of termites, mud leads, or termite trails, but suddenly they appear in your home!
 
@@ -12,7 +12,7 @@ Termites are **constantly** foraging around your house in subterranean tunnels
 
 Subterranean termite attacking a home 
 
-![Subterranean termite attacking a home](img/termites-attacking-a-house-diagram.jpg)
+![Subterranean termite attacking a home](img/termites-attacking-a-house.png)
 
 **1. Silent Workers:** Termites are notoriously discreet and enter your home in a concealed manner. They operate in the dark, concealed spaces of your home like within walls, under floorboards, or in any other tiny crevice they can find. This means they can be feasting on your home's structure for a long time before any obvious signs emerge.
 
@@ -30,7 +30,7 @@ Subterranean termite attacking a home
 
 The latest data from a long-running FWPA project demonstrates that Australia’s average one- and two-storey detached house used 14.58 m3 of wood (2017-18).
 
-![Volume of timber in an average house in Australia](https://www.conquertermites.com.au/images/uploads/how-much-timber-in-an-average-australian-house.jpg)
+![Volume of timber in an average house in Australia](img/how-much-timber-termites-can-eat-in-your-home.png)
 
 **[Termites eat hardwood](https://www.conquertermites.com.au/admin/#/collections/article/entries/2023-01-11-will-termites-white-ants-eat-hardwood) too.**
 
