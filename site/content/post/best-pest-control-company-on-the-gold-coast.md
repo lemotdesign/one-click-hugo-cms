@@ -7,7 +7,7 @@ description: >-
 
 
   Pest can be scary! Your Pest Control guy shouldn't be.
-image: img/choose-a-pest-control-company.jpg
+image: img/conquer-termites-gold-coast-best-pest-control-company.png
 ---
 ### How to pick a company to do your termite treatment?
 
@@ -36,7 +36,7 @@ Check our [Recommended Chemicals](https://www.conquertermites.com.au/termite-co
 
 ### How to choose a company to do your termite treatment
 
-![Best Pest Control company on the Gold Coast](img/compare-apples-with-apples-conquer-termites.jpg)
+![Best Pest Control company on the Gold Coast](img/when-choosing-a-pest-inspection-compare-apples-with-apples.png)
 
 Homeowners should carefully consider their options and choose the best treatment for their property to protect it from the damage caused by termites.
 
