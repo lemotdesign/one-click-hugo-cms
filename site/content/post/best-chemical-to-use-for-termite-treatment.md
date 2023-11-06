@@ -7,7 +7,7 @@ description: >-
   Homeowners on the Gold Coast.
 
   It's BASF Termidor HE
-image: img/termidor-he-basf.jpg
+image: img/best-chemical-to-use-for-termite-treatment.png
 ---
 ### Trusted Termite Treatment company on the Gold Coast
 
@@ -53,10 +53,10 @@ An added assurance is that Termidor HE is produced by BASF, a prominent chemical
 
 Rest easy, knowing that all Conquer Termites Technicians are fully licensed and BASF accredited, delivering the highest standard of care.
 
-![Conquer Termites an accredited applicator of Termidor HE](img/conquer-termites-accredited-basf-applicator.jpg)
+![Conquer Termites an accredited applicator of Termidor HE](img/accredited-termidor-applicator.png)
 
 #### More information:
 
 For a more in-depth understanding of Termidor HE, you can explore this informative link: [BASF Termidor HE](https://pest-control.basf.com.au/products/termidor-he#how-it-works)
 
-![Termidor brochures](img/basf-brouchers-1.jpg)
+![Termidor brochures](img/basf-brochures.png)
