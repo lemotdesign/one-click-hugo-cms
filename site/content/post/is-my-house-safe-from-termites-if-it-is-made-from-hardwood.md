@@ -3,7 +3,7 @@ title: Is my House Safe from Termites if it is made from Hardwood?
 date: 2023-10-13T04:06:16.642Z
 description: "\"But my house is built with hardwood, I'm safe from termites\"
   This is a common misunderstanding among many homeowners on the Gold Coast."
-image: img/termite-damage-hardwood.jpg
+image: img/hardwood-and-termites.png
 ---
 **Do Termites Eat Hardwood? YES**
 
@@ -31,7 +31,7 @@ Some examples of Australian hardwoods include Merbau, Tassie Oak, Walnut, Ash, B
 * **Colour:** Hardwoods generally have a darker hue than softwoods.
 * **Durability:** Hardwoods tend to be more robust and durable.
 
-![wood cellular structure - soft or hard *Source: MDPI - Illustrations of hardwood and softwood cellular structures provided.*](img/hardwood-vs-softwood-diagram.jpg)
+![wood cellular structure - soft or hard *Source: MDPI - Illustrations of hardwood and softwood cellular structures provided.*](img/illustrations-of-hardwood-and-softwood-cellular-structures-provided..png)
 
 *Source: MDPI - Illustrations of hardwood and softwood cellular structures provided.*
 
@@ -43,7 +43,7 @@ Termites, sometimes referred to as "White Ants," have an affinity for wood becau
 
 Termites can digest wood due to their unique digestive system. They house specific microorganisms and protozoa that break down cellulose, turning it into glucose. This symbiotic relationship with protozoa is crucial for their survival.
 
-![Protozoa are single-celled organisms that help termites eat wood](img/symbiotic-protozoa-in-termite-gut.jpg)
+![Protozoa are single-celled organisms that help termites eat wood](img/protozoa-are-single-celled-organisms.png)
 
 *Fun Fact: Protozoa are single-celled organisms that feed on organic matter. They're widespread, and many species live freely, but some can also be parasitic.*
 
