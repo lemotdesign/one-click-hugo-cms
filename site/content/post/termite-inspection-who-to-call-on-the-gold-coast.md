@@ -4,7 +4,7 @@ date: 2023-10-25T03:26:15.042Z
 description: Termite inspections on the Gold Coast vary in quality and accuracy.
   While some companies believe they're offering top-notch service, others truly
   stand out by delivering exceptional inspections.
-image: img/termite-inspection-gold-coast.jpg
+image: img/termite-inspection-who-to-call-on-the-gold-coast.png
 ---
 ## Termite inspection, who to call on the Gold Coast
 
@@ -38,7 +38,7 @@ To assist you, here's a **checklist** of crucial questions to pose when reaching
 
 The initial phone interaction and the level of assistance can be as telling as the aforementioned factors.
 
-![](img/compare-apples-with-apples-conquer-termites.jpg)
+![When choosing a Pest Inspection - compare apples with apples](img/when-choosing-a-pest-inspection-compare-apples-with-apples.png)
 
 ### **Cost Breakdown: Termite Inspection on the Gold Coast**
 
@@ -50,7 +50,7 @@ On the Gold Coast, a standard termite inspection for an average-sized house rang
 
 * **Imitations**: Beware of companies lacking a [QBCC license](https://www.qbcc.qld.gov.au/). Many may seem local online but are operated from distant call centres. In Queensland, possessing a QBCC license is non-negotiable. Without it, they can't be insured and shouldn't advertise termite-related services.
 
-![Termite licenses Queensland](img/termite-licenses.jpg)
+![Termite licenses Queensland](img/termite-licenses-queensland.png)
 
 * **Misleading Free Offers**: Some might tempt you with a "free termite check," pushing for an overpriced baiting system. They aren't qualified, and you'd typically have to sign a waiver, indicating it's just a 'check', not a comprehensive inspection.
 
