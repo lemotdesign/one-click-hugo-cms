@@ -4,7 +4,7 @@ date: 2023-10-19T00:05:44.294Z
 description: At Conquer Termites, we truly get the worries Gold Coast homeowners
   face when considering pest control for their homes. Our priority? Bidding bugs
   goodbye without compromising your family's well-being.
-image: img/pest-control-3.jpg
+image: img/safe-effective-pest-control-2.png
 ---
 ## Is Pest Control Safe for Pets and Humans?
 
@@ -14,7 +14,7 @@ Got kiddos or furry friends? No worries! We always adjust our methods based on y
 
 We will be applying a mix of treatments like gel bait, dust, and surface sprays. All products we apply meet the Australian Pesticides and Veterinary Medicines Authority guidelines. Safety first, always!
 
-![Conquer Pest Control is safe for pets](img/conquer-termites-furry-friends.jpg)
+![Conquer Pest Control is safe for pets](img/pest-control-is-safe-for-pets-and-family.png)
 
 Before we dive into the nitty-gritty of our general pest control, we wanted to give you a heads-up on what to expect and how to prepare. 
 
