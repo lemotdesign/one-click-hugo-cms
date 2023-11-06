@@ -3,7 +3,7 @@ title: Termite Protection for Concrete Slab Cut-Outs
 date: 2023-10-27T03:43:47.909Z
 description: What is the best way to ensure termites don't gain entry into your
   home when you cut a hole in the concrete slab?
-image: img/termite-protection-concrete-slab-cutout.jpg
+image: img/termite-protection-concrete-slab-cut-out.png
 ---
 ## Best Termite Treatment for a Cut-out in a Concrete Slab
 
@@ -32,19 +32,19 @@ Ensuring a cut-out in a concrete slab is comprehensively protected from termites
 
 **First Visit:** Before the fresh concrete is poured, our expert team will fit sheeting collars around all plumbing pipes, electrical conduits, and other service channels. These collars serve as a preliminary shield against termites.
 
-![Termite protection to plumbing penetration - Homeguard](img/homeguard-cutout-collar-install.jpg)
+![Termite protection to plumbing penetration - Homeguard](img/penetration-collar.png)
 
 #### 2. Protectacoate Primer Application
 
 **Second Visit:** After the concrete has set, our technicians return to address the 'Cold Joins' – the gaps existing between the old slab and the new concrete pour. The process starts with the application of a primer to ensure the Protectacote adheres firmly and effectively.
 
-![Termite protection to a slab cut out - Homeguard Primer](img/homeguard-cutout-primer-application.jpg)
+![Termite protection to a slab cut out - Homeguard Primer](img/protectacote-primer.png)
 
-#### 3. Fibreglass Strengthening Strips
+#### 3. Fiberglass Strengthening Strips
 
 To guarantee the integrity of the joint and prevent potential cracking, we overlay a 10 cm wide fibreglass strip. This strip bonds with the parging application, ensuring a fortified and lasting barrier.
 
-![Termite protection - Fibreglass strips for FMC Protectacote Parging](img/homeguard-cutout-fibreglass-strips.jpg)
+![Termite protection - Fiberglass strips for FMC Protectacote Parging](img/termite-protection-fiberglass-strips.png)
 
 #### 4. Homeguard Protectacote Parging Application
 
@@ -52,7 +52,7 @@ The final layer is the FMC Protectacote parging application. This product is enr
 
 It might take several applications to get the 8 mm thickness.
 
-![FMC Protectacote Parging](img/homeguard-cutout-protectacote-parging.jpg)
+![FMC Protectacote Parging](img/protectacote-parging.png)
 
 ## Pricing for Termite Protection of a Concrete Slab Cut-out
 
