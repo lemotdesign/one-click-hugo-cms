@@ -7,7 +7,7 @@ description: >-
   company and placing your trust in their advice can be daunting.  
 
   Best to do your homework so you can ask the right questions and get the best outcome.
-image: img/dead-termites-costumes.jpg
+image: img/conquer-termites-gold-coast.png
 ---
 ## How do you get rid of white ants termites?
 
@@ -50,8 +50,10 @@ Ensuring your chosen professional ticks these boxes guarantees a competent, trus
 2. **Termite Baiting Systems**: These are plastic stations filled with bait rods, cellulose material that's treated with a slow-acting growth inhibitor agent. Termites consume the bait and share it with their colony, eventually killing the colony over time.
 3. **Physical Barriers**: These aren't designed to kill termites but rather deter them from entering the structure. These can include metal or crushed rock barriers, or specially-designed fabrics that are typically installed when a house is being built.
 
-###### Start with a phone call to Gold Coast's leading Termite Treatment company - Conquer Termites
-
 ### What does a Treatment look like:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jX0IASCNbSA?si=or8gOT4c62ybK7QB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+###### Start with a phone call to Gold Coast's leading Termite Treatment company - Conquer Termites
+
+![Conquer Termite Gold Coast Team](img/conquer-termites-gold-coast-team.png)
