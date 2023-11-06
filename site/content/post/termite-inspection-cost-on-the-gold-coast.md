@@ -3,7 +3,7 @@ title: Termite Inspection Cost on the Gold Coast
 date: 2023-10-19T02:58:15.479Z
 description: "Suspect you've discovered termites? Now you're wondering, how bad
   is the damage and how deep will I need to dig into my pockets? "
-image: img/stay-away-termite-inspector.jpg
+image: img/termite-inspection-cost-on-the-gold-coast.png
 ---
 ## How much does a Termite Inspection cost on the Gold Coast?
 
@@ -39,7 +39,7 @@ A good quality termite inspection in Brisbane for an average-sized house typical
 
 es might give the impression of being local, but they might operate from distant call centres without the requisite Queensland licenses.
 
-![Licenses for termite inspection on the Gold Coast](img/termite-licenses.jpg)
+![Licenses for termite inspection on the Gold Coast](img/termite-licenses-queensland.png)
 
 For legitimate operation in Queensland, companies must possess a [QBCC license](https://www.qbcc.qld.gov.au/). Without it, these are essentially **subcontractors** who might not have proper insurance and shouldn't advertise termite-related services.
 
@@ -67,4 +67,4 @@ To help you, we would like to give you a **checklist** of questions you should
 
 Call Conquer Termites, a trusted, local Gold Coast company that has been in business for 20 years.
 
-![Conquer Termites Team](img/conquer-termites-team-photo.jpg)
+![Conquer Termites Team](img/conquer-termites-gold-coast-team.png)
