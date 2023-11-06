@@ -6,7 +6,7 @@ description: If you're pondering over using baiting systems to shield your home
   consider. But is it the most effective method for you? And with a plethora of
   baiting systems available in the market, which one ensures maximum protection?
   m
-image: img/basf-trelona-batiting-system.jpg
+image: img/termite-treatment-baiting-system.png
 ---
 ## What is the Best Termite Baiting Options on the Gold Coast?
 
@@ -38,7 +38,7 @@ When it comes to termite protection, Conquer Termites Gold Coast recommends the 
 
 The Trelona system offers a frontline defence, targeting foraging termites before they infiltrate your home. Developed and brought to Australia by the leading chemical conglomerate, **BASF**, Trelona has established itself as a baiting system of excellence for Australian conditions.
 
-![](img/trelona-baiting-system.jpg)
+![Trelona termite baiting system](img/termite-treatment-baiting-system-trelona.png)
 
 #### What Sets Trelona Apart:
 
