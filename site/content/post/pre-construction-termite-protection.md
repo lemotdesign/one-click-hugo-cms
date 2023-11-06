@@ -4,7 +4,7 @@ date: 2023-10-26T23:59:20.470Z
 description: If done right, the installation of a termite management system at
   the time of construction (Pre-Con) can be a pivotal step in safeguarding your
   new home from termite invasions.
-image: img/homeguard-install-pre-construction.jpg
+image: img/pre-con-homeguard-install.png
 ---
 ## Does your Builder have Your long-term interest?
 
@@ -48,4 +48,4 @@ At Conquer Termites, we vouch for several products tailored for New Builds. Depe
 
 Each solution has its strengths, and the choice often hinges on the specifics of the construction and the preferences of the homeowner.
 
-![](img/protectacote-on-concrete-block-wall.jpg)
+![Termite protection - FMC Protectacote](img/fmc-protectacote-protection.png)
