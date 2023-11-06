@@ -6,7 +6,7 @@ description: >-
   Termites (White Ants)? 
 
   How do I know if I will get a proper inspection done by a competent inspector? 
-image: img/best-termite-inspection-on-the-gold-coast.jpg
+image: img/how-is-a-termite-inspection-done-gold-coast.png
 ---
 ## Best Termite Inspections on the Gold Coast:
 
@@ -28,13 +28,13 @@ Check that the company has the appropriate Timber Pest license that is issued by
 
 If they are doing an inspection or termite treatment anywhere in Queensland, then they also need a QBCC (Queensland Building & Construction Commission) license. You can check the company's with this link: **[QBCC License Check](https://www.qbcc.qld.gov.au/)**
 
-![Termite inspection licenses](img/termite-licenses.jpg)
+![Termite inspection licenses](img/termite-licenses-queensland.png)
 
 **Australian Standards for Termite Inspection & Treatments**
 
 The inspection should follow the two Australian Standards that pertain to Subterranean Termite Visual Inspection: AS 3660.2.2007 & AS 4349.3.2010. Plus there is the AEMPA's, Australian Pest Control Association, 'Code of Practice'.
 
-![Australian Standards 3660.2 Termite Inspection](img/australian-standards-termites.jpg)
+![Australian Standards 3660.2 Termite Inspection](img/australian-standards.png)
 
 **2. Visual Inspection:** A visual inspection is a critical component of every termite inspection. This is where the Inspector goes around your home 'tapping' all the exposed timbers and checking thoroughly with his/her eyes. It might look easy, but if done properly, it is the most important component of the 'Visual' inspection.
 
@@ -49,7 +49,7 @@ The inspection should follow the two Australian Standards that pertain to Subter
 
 Professional termite inspectors frequently employ cutting-edge technology to improve the accuracy of their assessments. Equipment such as Thermal Imaging Cameras, Termatrac devices, and Moisture Meters play a pivotal role in uncovering concealed termite activity that might remain unnoticed during a conventional visual inspection.
 
-![Termite Detection Devices](img/detection-devices.jpg)
+![Termite Detection Devices](img/termite-detection-devices.png)
 
 When an inspector arrives without essential tools like a Thermal Camera or Termatrac Device, it's a clear indication that they may not deliver the most thorough inspection results.
 
