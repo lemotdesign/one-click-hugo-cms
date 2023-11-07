@@ -7,7 +7,9 @@ description: >-
   Take it as a given that they will be foraging outside in your garden all year round trying to find a way in. 
 image: img/new-image-template.png
 ---
-## Termites can appear anytime!
+## Are Termites an Issue on the Gold Coast?
+
+### Termites can appear anytime!
 
 Termites, often called the "silent destroyers," are a constant concern for homeowners on the Gold Coast. Understanding when these pests are most active can be crucial in safeguarding your property. 
 
