@@ -9,7 +9,7 @@ description: >-
   It's BASF Termidor HE
 image: img/best-chemical-to-use-for-termite-treatment.png
 ---
-### Trusted Termite Treatment company on the Gold Coast
+## Trusted Termite Treatment company on the Gold Coast
 
 With over two decades of dedicated service, Conquer Termites has honed its expertise in recommending the most effective termite treatment chemicals for homeowners on the Gold Coast. 
 
