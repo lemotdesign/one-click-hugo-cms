@@ -6,6 +6,8 @@ description: Termites, often dubbed the "silent destroyers," have a knack for
   do these tiny critters seemingly pop up out of nowhere?
 image: img/termites-can-appaer-from-anywhere.png
 ---
+## Should I panic about termites?
+
 Have you just found evidence of termites in your home and wondered how they came in? You hadn’t seen any signs of termites, mud leads, or termite trails, but suddenly they appear in your home!
 
 Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
