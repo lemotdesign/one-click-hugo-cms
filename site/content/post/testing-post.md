@@ -5,20 +5,12 @@ description: Getting a termite treatment is akin to a dentist visit; it's not
   the most exciting way to part with your money, but it's essential. We
   understand that such a significant investment can feel like a hefty blow to
   your wallet.
-image: img/termite-treatment-cost.png
+image: img/termite-treatment-how-much-does-it-cost.png
 ---
 ## How much does a Termite Treatment Cost - Gold Coast?
 
 Stumbled upon termites around your home? Wondering which treatment will best shield your haven?
 The expense of termite treatments can vary based on your home's size, the type of treatment chosen, and the severity of the termite infestation.
-
-### Must Do's Before a Termite Treatment
-
-1. A mandatory **Termite Inspection** is essential, not only to meet the Australian Standards but also to adhere to insurance policies. If this isn't part of the plan, be wary.
-   *Typically, a termite inspection falls within the $300 range. This covers a comprehensive inspection of your property to ascertain the infestation's reach and the termite species involved.*
-2. A **Treatment Proposal** should be provided, outlining costs, strategy, and any constraints. 
-
-![Termite treatment Barrier Cost](img/termite-treatment-how-much-does-it-cost.png)
 
 ## Termite Treatment Costs
 
@@ -29,6 +21,14 @@ The expense of termite treatments can vary based on your home's size, the type o
 3. **Physical Barriers** act as deterrents, halting termite entry. These systems, are often integrated during construction. It's very much a quote-and-do proposition. 
 
 **Combined treatments**: Sometimes, we will recommend combining a chemical treatment with a baiting system for ultimate protection.
+
+![Termite treatment Barrier Cost](img/termite-treatment-cost.png)
+
+### Must Do's Before a Termite Treatment
+
+1. A mandatory **Termite Inspection** is essential, not only to meet the Australian Standards but also to adhere to insurance policies. If this isn't part of the plan, be wary.
+   *Typically, a termite inspection falls within the $300 range. This covers a comprehensive inspection of your property to ascertain the infestation's reach and the termite species involved.*
+2. A **Treatment Proposal** should be provided, outlining costs, strategy, and any constraints. 
 
 ### How long does a Termite Treatment Last?
 
@@ -44,7 +44,7 @@ Choosing the right termite treatment is paramount to safeguard your home from po
 
 It's crucial to compare options comprehensively when deciding on a termite treatment company. Regrettably, there are significant variations in the industry when it comes to quality, expertise, methods, and integrity.
 
-**Here's a checklist to guide you in your selection:**
+#### **Here's a checklist to guide you in your selection:**
 
 1. **Licensing**: Do they have the required license to administer a chemical treatment in Queensland?
 2. **Insurance**: Have they secured the appropriate insurance coverage?
