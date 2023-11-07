@@ -6,6 +6,8 @@ description: Are you discovering a sudden invasion of winged insects within your
   reproductive winged termites!
 image: img/flying-termites-gold-coast.png
 ---
+## Are Flying Termites Common on the Gold Coast?
+
 During the spring and early summer months, the Gold Coast experiences warm and humid nights, creating the ideal environment for reproductive termites to embark on mass flights in search of a mate to establish their own colonies. It's almost eerie how colonies throughout South East Queensland synchronize their activities for this night of opportunity!
 
 #### Found a Swarm of Insects inside your Home?
