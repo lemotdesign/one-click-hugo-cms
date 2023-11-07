@@ -9,7 +9,7 @@ description: >-
   The main reason homes get attacked by Termites is that there was no current chemical treatment in place! 
 image: img/how-often-should-you-get-your-home-checked-for-termites.png
 ---
-### Termite Treatment Maintenance: How Often and Why?
+## How many times should you spray for termites?
 
 Many residents on the Gold Coast often wonder about the necessity of topping up their termite treatments and how frequently it should be done. We're here to shed some light on this important topic.
 
