@@ -24,9 +24,9 @@ You're not the Termite Expert and you probably don't know what to look for. But 
 
 In this guide, we will outline the important points to consider when choosing a company to conduct a termite inspection.
 
-#### Termite Inspection Guidelines:
+### Termite Inspection - Six Check Points
 
-**1. Qualified and Licensed Inspectors**: 
+##### **1. Qualified and Licensed Inspectors**: 
 
 Check that the company has the appropriate Timber Pest license that is issued by Queensland Health. The Inspector should be able to show you an ID card and produce a PMT license number. 
 
@@ -34,13 +34,13 @@ If they are doing an inspection or termite treatment anywhere in Queensland, the
 
 ![Termite inspection licenses](img/termite-licenses-queensland.png)
 
-**Australian Standards for Termite Inspection & Treatments**
+##### **2. Australian Standards for Termite Inspection & Treatments**
 
 The inspection should follow the two Australian Standards that pertain to Subterranean Termite Visual Inspection: AS 3660.2.2007 & AS 4349.3.2010. Plus there is the AEMPA's, Australian Pest Control Association, 'Code of Practice'.
 
 ![Australian Standards 3660.2 Termite Inspection](img/australian-standards.png)
 
-**2. Visual Inspection:** A visual inspection is a critical component of every termite inspection. This is where the Inspector goes around your home 'tapping' all the exposed timbers and checking thoroughly with his/her eyes. It might look easy, but if done properly, it is the most important component of the 'Visual' inspection.
+**Visual Inspection:** A visual inspection is a critical component of every termite inspection. This is where the Inspector goes around your home 'tapping' all the exposed timbers and checking thoroughly with his/her eyes. It might look easy, but if done properly, it is the most important component of the 'Visual' inspection.
 
 **Areas they should check:**
 
@@ -49,7 +49,7 @@ The inspection should follow the two Australian Standards that pertain to Subter
 * Examine exposed timbers inside such as skirting boards, door and window frames. 
 * Check the garden and fenceline 50 m from the house. 
 
-**3. Detection Devices**: 
+##### **3. What Termite Detection Devices should be used**: 
 
 Professional termite inspectors frequently employ cutting-edge technology to improve the accuracy of their assessments. Equipment such as Thermal Imaging Cameras, Termatrac devices, and Moisture Meters play a pivotal role in uncovering concealed termite activity that might remain unnoticed during a conventional visual inspection.
 
@@ -57,11 +57,11 @@ Professional termite inspectors frequently employ cutting-edge technology to imp
 
 When an inspector arrives without essential tools like a Thermal Camera or Termatrac Device, it's a clear indication that they may not deliver the most thorough inspection results.
 
-**4. How long should a Termite Inspection take?**
+##### **4. How long should a Termite Inspection take?**
 
 Here at Conquer Termites, we schedule two hours to conduct an annual termite inspection. Time can vary due to the size and difficulty of the house or if we have discovered live termites. Then it will be a proposition of "the time it takes".
 
-**5. On the Day - Comprehensive Digital Inspection Report**: 
+##### **5. On the Day - Comprehensive Digital Inspection Report**: 
 
 After the inspection, you should receive a detailed report outlining the findings. This report must include:
 
@@ -70,11 +70,13 @@ After the inspection, you should receive a detailed report outlining the finding
 * Recommendations for treatment(s), if necessary.
 * Preventative measures to protect your property from future infestations.
 
-**6. Termite Treatment Proposal - supplied on the day Free:** 
+##### **6. Termite Treatment Proposal - supplied on the day Free:** 
 
 If your property lacks an existing Termite Management System or if termite activity is identified during the inspection, the Inspector must supply you with a Treatment Proposal. This proposal will recommend the most suitable treatment strategy for your home.
 
 If the Inspector doesn't supply you with this document, then they are not following the guidelines in the Australian Standards. Always ask if the company knows how to quote and do termite treatments.
+
+![Best Termite company on the Gold Coast](img/conquer-termites-gold-coast-best-pest-control-company.png)
 
 ### Book a Pest Company on the Gold Coast you can Trust
 
