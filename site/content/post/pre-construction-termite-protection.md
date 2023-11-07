@@ -1,11 +1,24 @@
 ---
-title: Pre-Construction Termite Protection - are you getting the Best Treatment?
+title: Pre-Construction Termite Protection - Gold Coast
 date: 2023-10-26T23:59:20.470Z
-description: If done right, the installation of a termite management system at
+description: "If done right, the installation of a termite management system at
   the time of construction (Pre-Con) can be a pivotal step in safeguarding your
-  new home from termite invasions.
+  new home from termite invasions. But you need to trust it will be installed
+  correctly. "
 image: img/pre-con-homeguard-install.png
 ---
+## Termite Solutions for New Builds (Pre-con)
+
+At Conquer Termites, we vouch for several products tailored for New Builds. Depending on the construction specifics, we might recommend a combination of products or just one solitary application.
+
+1. **FMC Homeguard**: This product comes in two forms - as sheeting or as a parging paint. It's designed to provide a reliable barrier against termites, ensuring they don't gain access to the property.
+2. **Greenzone**: This is an Ableflex expansion foam insert embedded with termite-repellent properties. Not only does it serve as a cushioning insert, but it also actively deters termites from encroaching upon the property.
+3. **Reticulation System**: This system involves the installation of a tube/pipe around the external perimeter of the property. Its primary function is to facilitate the easy redistribution of chemicals at future intervals, ensuring long-term protection against termite invasions.
+
+Each solution has its strengths, and the choice often hinges on the specifics of the construction and the preferences of the homeowner.
+
+![Termite protection - FMC Protectacote](img/fmc-protectacote-protection.png)
+
 ## Does your Builder have Your long-term interest?
 
 It might come off as a tough query, but unfortunately, this reflects a genuine concern within the construction sector, especially when it comes to adhering to top-notch termite protection standards for new constructions.
@@ -37,15 +50,3 @@ It's crucial to address these checkpoints to ensure that your property remains c
 ### Minimum Requirements for Visual Inspection Zones
 
 ![](img/measurement-diagram-external-structure-for-fb.jpg)
-
-### Termite Solutions Recommended by Conquer Termites for New Builds
-
-At Conquer Termites, we vouch for several products tailored for New Builds. Depending on the construction specifics, we might recommend a combination of products or just one solitary application.
-
-1. **FMC Homeguard**: This product comes in two forms - as sheeting or as a parging paint. It's designed to provide a reliable barrier against termites, ensuring they don't gain access to the property.
-2. **Greenzone**: This is an Ableflex expansion foam insert embedded with termite-repellent properties. Not only does it serve as a cushioning insert, but it also actively deters termites from encroaching upon the property.
-3. **Reticulation System**: This system involves the installation of a tube/pipe around the external perimeter of the property. Its primary function is to facilitate the easy redistribution of chemicals at future intervals, ensuring long-term protection against termite invasions.
-
-Each solution has its strengths, and the choice often hinges on the specifics of the construction and the preferences of the homeowner.
-
-![Termite protection - FMC Protectacote](img/fmc-protectacote-protection.png)
