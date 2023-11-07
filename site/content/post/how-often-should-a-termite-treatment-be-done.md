@@ -18,7 +18,7 @@ Many residents on the Gold Coast often wonder about the necessity of topping up 
 1. **Termites Are A Constant Threat**: It's a fact that all gardens on the Gold Coast have termites foraging from multiple nests nearby or on your property.
 2. **Vulnerable Homes**: Without a current and suitable termite management system in place, your house is at risk of termite infestations.
 
-### **Frequency of Termite Treatments**
+### **Recommended Frequency of Termite Treatments**
 
 The frequency of replenishing your termite treatment depends on the manufacturer's recommendations for the specific chemical used. Following the manufacturer's guidelines ensures the chemical protection lasts as indicated on the label.
 
