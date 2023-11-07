@@ -8,6 +8,8 @@ description: >
   hidden tunnels.
 image: img/what-kind-of-wood-do-termites-like-to-eat.png
 ---
+## What is a termite's favourite wood?
+
 If your home is constructed from softwood (pine radiate) or hardwood (eucalyptus - gum tree), it doesn't matter. Termite WILL eat both. The soft pine trim timbers like the skirting boards, door and window frames are exposed and normally easier to detect termite activity.
 
 **Why Wood is Termites' Favourite Dish:**
