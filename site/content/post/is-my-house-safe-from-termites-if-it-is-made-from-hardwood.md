@@ -5,7 +5,9 @@ description: "\"But my house is built with hardwood, I'm safe from termites\"
   This is a common misunderstanding among many homeowners on the Gold Coast."
 image: img/hardwood-and-termites.png
 ---
-**Do Termites Eat Hardwood? YES**
+## Are termites attracted to hardwood?
+
+#### **Do Termites Eat Hardwood? YES**
 
 Sure hardwood is hard to cut and nail into, but Australian termites have been eating eucalyptus wood for millions of years. In fact, their preferred place to set up home is in a gum tree. 
 
