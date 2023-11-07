@@ -9,6 +9,8 @@ image: img/termites-or-white-ants.png
 
 In Australia, we've always had a knack for calling things exactly as we see them. Once upon a time, when we laid our eyes on these tiny, communal-dwelling creatures that bore a striking resemblance to ants, we dubbed them "White Ants." It seemed like a logical name at the time.
 
+### Are white ants the same as termites?
+
 But here's the twist: Termites, affectionately referred to as "White Ants" Down Under, are not ants by any stretch of the imagination. The confusion stems from their uncanny physical similarities. Both species boast six legs, sport antennae, and live in tight-knit colonies. However, that's where the similarities end, as they differ substantially in body structure and behaviour.
 
 ### Difference Between Termites & Black Ants
