@@ -9,7 +9,7 @@ description: >-
   Pest can be scary! Your Pest Control guy shouldn't be.
 image: img/conquer-termites-gold-coast-best-pest-control-company.png
 ---
-### How to pick a company to do your termite treatment?
+## How to pick a company to do your termite treatment?
 
 Determining the best termite treatment company on the Gold Coast is subjective as it depends on individual needs and preferences.
 
