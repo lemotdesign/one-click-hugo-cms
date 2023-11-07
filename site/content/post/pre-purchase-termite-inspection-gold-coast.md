@@ -18,6 +18,8 @@ In the realm of property inspection, a Pre-purchase Termite Inspection stands ou
 
 However, we won't sugarcoat it: Pre-purchase Timber Pest Inspections have been a point of contention. There have been instances where inspectors, unfortunately, either overlook evident signs or fail to provide the necessary guidance. Such oversights can lead to disputes and, in some cases, legal battles. Some buyers might even perceive this as an opportunity to claim compensation from the inspection company's insurance.
 
+![Thermal camera - termite detection](img/thermal-camera-termite-detection.png)
+
 #### The Real Objective of the Inspection
 
 Beyond the controversies, the core purpose of this inspection remains clear: to offer a comprehensive insight into the property's condition in terms of timber pest activity. This ensures that you, as a buyer, are well-informed about any potential threats and can make decisions that safeguard your investment.
