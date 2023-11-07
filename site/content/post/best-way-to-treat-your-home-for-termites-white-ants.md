@@ -15,9 +15,9 @@ image: img/conquer-termites-gold-coast.png
 
 Selecting the best termite treatment isn't a straightforward task; there's no one-size-fits-all solution. A tailored treatment plan is essential, taking into account several key factors:
 
-#### What the 'Best' Treatment Company needs to consider
+#### How do you know you are getting the 'Best' Treatment Company?
 
-Before recommending a termite treatment these are the factors that need to be considered:
+Before installing a termite treatment, these are the factors that need to be considered:
 
 * **Species and Colony Size**: Different termite species have varied behaviours and threats. Knowing the species and understanding the size of the colony is fundamental in determining treatment.
 * **Extent of the Infestation**: A localized problem may require a different strategy compared to a widespread infestation.
@@ -34,7 +34,7 @@ When you're working with a bona fide termite expert, you should expect the follo
 1. **Termite Inspection:** A requirement of our insurance, QBBC and the Australian Standards, an inspection needs to be done before any treatment. 
 2. **Detailed Treatment Proposal**: They must provide you with a written **Treatment Proposal**. This isn't just a simple quote; it should clearly itemize the specific areas of treatment, the chemicals they plan to use, and any potential limitations or considerations. This ensures transparency, letting you know precisely what to expect and helps in setting clear expectations for both parties.
 3. **Licensing**: Possession of a Queensland Health Timber Pest license is mandatory, signifying their authorization to manage termite treatments.
-4. **Insurance**:They must have industry-specific insurance, safeguarding both you and them against potential unforeseen complications.
+4. **Insurance**: They must have industry-specific insurance, safeguarding both you and them against potential unforeseen complications.
 5. **Termite Treatment License**: For treatments that cost more than $1300, a valid **QBCC** (Queensland Building Construction Commission) license is imperative.
 6. **Chemical Accreditation**: The professional should be a certified applicator of the chemical they recommend, an endorsement given by the manufacturer.
 7. **Safety First**: They should have a comprehensive company **Safety Plan** in place. Additionally, using appropriate Personal Protective Equipment (PPE) is vital to ensure the safety of your property, yourself, and the professionals at work. This demonstrates their commitment to health and security protocols, reducing potential risks during treatment procedures.
@@ -47,13 +47,15 @@ Ensuring your chosen professional ticks these boxes guarantees a competent, trus
 ![Types of Termite Treatments](img/types-of-termite-management-system.jpg)
 
 1. **Chemical Soil Treatment - Barriers**: This is a common and effective treatment method on the Gold Coast. A liquid chemical is applied to the soil around and under a structure. Termites that pass through the treated soil are either repelled or killed.
-2. **Termite Baiting Systems**: These are plastic stations filled with bait rods, cellulose material that's treated with a slow-acting growth inhibitor agent. Termites consume the bait and share it with their colony, eventually killing the colony over time.
+2. ### **Termite Baiting Systems**: These are plastic stations filled with bait rods, cellulose material that's treated with a slow-acting growth inhibitor agent. Termites consume the bait and share it with their colony, eventually killing the colony over time.
 3. **Physical Barriers**: These aren't designed to kill termites but rather deter them from entering the structure. These can include metal or crushed rock barriers, or specially-designed fabrics that are typically installed when a house is being built.
 
 ### What does a Treatment look like:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jX0IASCNbSA?si=or8gOT4c62ybK7QB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-###### Start with a phone call to Gold Coast's leading Termite Treatment company - Conquer Termites
+### Contact a company you can trust
+
+Start with a phone call to Gold Coast's leading Termite Treatment company - Conquer Termites
 
 ![Conquer Termite Gold Coast Team](img/conquer-termites-gold-coast-team.png)
