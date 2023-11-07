@@ -1,5 +1,5 @@
 ---
-title: When are Termites most active on the Gold Coast
+title: Are termites an issue in Gold Coast?
 date: 2016-12-17T15:04:10.000Z
 description: >-
   CSIRO did a survey to map where termites were most active in Australia. Guess
@@ -12,13 +12,15 @@ image: img/termite-map-australia.png
 
 A question many homeowners ask our technicians; “Is the Gold Coast a bad area for termites”? Meaning, is their home located in an area where they are more susceptible to a termite attack. To answer that question you need to consider the macro and micro environmental factors that influence termites.
 
-### What month are termites most active?
+### Gold Coast is in a High-Risk Area for Termites
 
 On a **macro level**, Gold Coast is located in a **high-risk** area, as illustrated by the CISRO map supplied below. Homes in these areas are at higher risk of being attacked by termites due to the high mean temperature experienced through winter and high rainfalls. Nests need to be maintained at a temperature between 25°C - 36°C. (Australian Museum). Basically, the cooler it gets, fewer the termites. That is why Tasmania and New Zealand are termite-free.
 
 ![Termites love the Gold Coast](img/termites-on-holiday-on-the-gold-coast.png)
 
-On a **Micro level**, (these are the factors you can see and deal with around your home). You can actually influence the outcome of your home being, or not being, attacked by termites. For example:
+On a **Micro level**, (these are the factors you can see and deal with around your home). You can actually influence the outcome of your home being, or not being, attacked by termites. 
+
+#### **For example:**
 
 * Large native trees (Gum Trees) - are a favourite nesting place for termites 
 * Moisture in the ground near the house - provides conducive conditions for the termites - that leaking shower or tap
