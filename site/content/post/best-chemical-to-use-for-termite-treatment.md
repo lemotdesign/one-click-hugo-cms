@@ -7,7 +7,7 @@ description: Conquer Termites has been on the front lines battling termites on
   treatment.
 image: img/best-chemical-to-use-for-termite-treatment.png
 ---
-## What is the most effective chemical against Termites?  
+## What is the most effective chemical against Termites?
 
 The most effective termite treatment is one that stops termites, right? But knowing there are **no** absolutes when protecting a house and that treatments can fail, it's crucial to weigh all the factors before you decide on a company to handle your termite situation.
 
@@ -27,7 +27,7 @@ The most effective termite treatment is one that stops termites, right? But know
 
 ![Termite treatment options](img/types-of-termite-management-system.jpg)
 
-### Horses for Courses - a tailored approach 
+### Horses for Courses - a tailored approach
 
 The choice between chemical and non-chemical termite management should be tailored to **your** home's construction and unique circumstances. 
 
@@ -47,7 +47,7 @@ Notably, the active ingredient in Termidor, ***Fipronil***, is employed in pet c
 
 [![Watch Video](https://img.youtube.com/vi/Z2doi9j6GA4/0.jpg)](https://www.youtube.com/watch?v=Z2doi9j6GA4)
 
-#### Conquer Termites is an Accredited Termidor Applicator
+### Conquer Termites is an Accredited Termidor Applicator
 
 An added assurance is that Termidor HE is produced by BASF, a prominent chemical corporation with a strong commitment to quality and operations in Australia. They offer accreditation courses to ensure the proper application of their product.
 
