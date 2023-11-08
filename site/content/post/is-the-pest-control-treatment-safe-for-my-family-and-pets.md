@@ -8,7 +8,7 @@ image: img/safe-effective-pest-control-2.png
 ---
 ## Is Pest Control Safe for Pets and Humans?
 
-### Children or pets, is it safe?
+### Children or pets, is it safe for them?
 
 Got kiddos or furry friends? No worries! We always adjust our methods based on your home's unique needs, to only apply the safest product available in Australia.
 
