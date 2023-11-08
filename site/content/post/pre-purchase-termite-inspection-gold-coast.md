@@ -20,7 +20,7 @@ However, we won't sugarcoat it: Pre-purchase Timber Pest Inspections have been a
 
 ![Thermal camera - termite detection](img/thermal-camera-termite-detection.png)
 
-#### The Real Objective of the Inspection
+#### The Real Objective of a Pre-Purchase Inspection
 
 Beyond the controversies, the core purpose of this inspection remains clear: to offer a comprehensive insight into the property's condition in terms of timber pest activity. This ensures that you, as a buyer, are well-informed about any potential threats and can make decisions that safeguard your investment.
 
@@ -28,20 +28,22 @@ In the end, when you're making such a significant commitment, you deserve to hav
 
 ### Understanding the Pre-purchase Inspection: What It Is and What It Isn't
 
-Investing in a home is no small feat, and a Pre-purchase Inspection can be one of the most crucial steps to ensure that your investment is sound. Here's what you should know about the process:
+Investing in a home is no small feat, and a Pre-purchase Inspection (Timber Pest) can be one of the most crucial steps to ensure that your investment is sound. Here's what you should know about the process:
 
 * **What You See is What You Get**: This inspection is **strictly visual**. Despite technological advances, we haven't yet achieved X-ray vision capabilities. So, don't expect insights into areas hidden behind walls or concealed by permanent fixtures.
 * **What are we looking for:** The inspection targets specific pests: Subterranean Termites, Borer activity, and Fungal Decay. Note: Drywood Termites (Family: KALOTERMITIDAE) are not on this list. 
 * **Scope and Limitations**: There are inherent limitations to this process. It's so vital that we have a mandatory "Timber Pest Inspection Agreement" form, which every client must acknowledge before proceeding. This isn't us avoiding responsibility but ensuring transparency and setting clear expectations.
 * **Non-invasive Approach**: Don't expect any 'House MD' style operations here. The inspection remains non-intrusive, meaning there's no cutting, dismantling, or moving of any part of the property or fixtures.
 * **Recommendations for 'Invasive' Inspection**: We frequently hear from Gold Coast homebuyers receiving a recommendation for a more in-depth, invasive inspection. If you find yourself in this situation, check below for the next steps and things you may need to arrange.
-* **Assessment of Termite Defense**: A critical part of the report should address the **Termite Management System**. Is it up to date? Is it effective? No signs of a current termite protection means a red flag: the structure becomes a HIGH risk for termite invasion. **Pro Tip**: If the house lacks this protection, consider negotiating the installation cost of a chemical treatment before finalizing your purchase.
+* **Assessment of Termite Defense**: A critical part of the report should address the **Termite Management System**. Is it up to date? Is it effective? 
+
+No signs of a current termite protection means a red flag: the structure becomes a **HIGH** risk for termite invasion. **Pro Tip**: If the house lacks this protection, consider negotiating the installation cost of a chemical treatment before finalizing your purchase.
 
 Remember, a home's vulnerability to termites on the Gold Coast isn't just about its location or the time of year. More often than not, the real issue is the absence of a current termite prevention system. Ensure your dream home has the best defence against these unwelcome guests.
 
 ## Invasive Inspection for Termites
 
-A big frustration for Home Buyers is getting a report recommending an "Invasive" inspection. The problem is that it's not your home to pull things away or cut access points to check. And then there's the question; is it really necessary?
+A big frustration for home buyers is getting a report recommending an "**Invasive**" inspection. The problem is that it's not your home to pull things away or cut access points to check. And then there's the question; is it really necessary?
 
 Normally, an inspector will suggest this invasive approach only when there's a strong suspicion of termite activity in a particular area. It shouldn’t be a generalized recommendation to absolve them of accountability. Instead, it should be grounded in specific observations.
 
