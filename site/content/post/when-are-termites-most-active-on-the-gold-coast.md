@@ -106,10 +106,6 @@ Seek professional advice on the best termite management system for your home. At
 
 ## Termites are Thriving All Year Round on the Gold Coast
 
-Termites remain active throughout the year on the Gold Coast, with heightened activity during spring and summer. 
-
-Flying termites, climate change, and construction types all play a role in determining when termites are most active. 
-
-To protect your property effectively, it's crucial to adopt a year-round termite management strategy that includes inspections, treatments, monitoring, maintenance, and professional guidance. 
+So why wait for them to arrive in your home?
 
 Don't wait until termites become a problem – take proactive steps to safeguard your home against these silent destroyers - Call Conquer Termites now.
