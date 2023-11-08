@@ -35,8 +35,6 @@ At Conquer Termites, we maintain our independence from chemical companies and re
 
 ## Best Termite Treatment on the Gold Coast
 
-Conquer Termites has been safeguarding Gold Coast homes for over twenty years, granting us invaluable insights into what works and what to steer clear of. 
-
 Our preferred go-to chemical is **Termidor HE**, manufactured by BASF.
 
 Termidor stands out as a non-repellent transfer product with a remarkable lifespan of up to **eight** years. The ingenious concept lies in termites' inability to detect Termidor in the treated soil. They unwittingly transport it back to their nest, ultimately annihilating the colony.
