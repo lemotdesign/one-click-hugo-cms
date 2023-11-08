@@ -20,13 +20,13 @@ You're not the Termite Expert and you probably don't know what to look for. But 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### How can I ensure that the Termite Inspection has been conducted correctly?
+### How do I know the Termite Inspection has been done correctly?
 
 In this guide, we will outline the important points to consider when choosing a company to conduct a termite inspection.
 
 ### Termite Inspection - Six Check Points
 
-##### **1. Qualified and Licensed Inspectors**: 
+##### **1. Qualified and Licensed Inspectors**:
 
 Check that the company has the appropriate Timber Pest license that is issued by Queensland Health. The Inspector should be able to show you an ID card and produce a PMT license number. 
 
@@ -49,7 +49,7 @@ The inspection should follow the two Australian Standards that pertain to Subter
 * Examine exposed timbers inside such as skirting boards, door and window frames. 
 * Check the garden and fenceline 50 m from the house. 
 
-##### **3. What Termite Detection Devices should be used**: 
+##### **3. What Termite Detection Devices should be used**:
 
 Professional termite inspectors frequently employ cutting-edge technology to improve the accuracy of their assessments. Equipment such as Thermal Imaging Cameras, Termatrac devices, and Moisture Meters play a pivotal role in uncovering concealed termite activity that might remain unnoticed during a conventional visual inspection.
 
@@ -61,7 +61,7 @@ When an inspector arrives without essential tools like a Thermal Camera or Terma
 
 Here at Conquer Termites, we schedule two hours to conduct an annual termite inspection. Time can vary due to the size and difficulty of the house or if we have discovered live termites. Then it will be a proposition of "the time it takes".
 
-##### **5. On the Day - Comprehensive Digital Inspection Report**: 
+##### **5. On the Day - Comprehensive Digital Inspection Report**:
 
 After the inspection, you should receive a detailed report outlining the findings. This report must include:
 
@@ -70,7 +70,7 @@ After the inspection, you should receive a detailed report outlining the finding
 * Recommendations for treatment(s), if necessary.
 * Preventative measures to protect your property from future infestations.
 
-##### **6. Termite Treatment Proposal - supplied on the day Free:** 
+##### **6. Termite Treatment Proposal - supplied on the day Free:**
 
 If your property lacks an existing Termite Management System or if termite activity is identified during the inspection, the Inspector must supply you with a Treatment Proposal. This proposal will recommend the most suitable treatment strategy for your home.
 
