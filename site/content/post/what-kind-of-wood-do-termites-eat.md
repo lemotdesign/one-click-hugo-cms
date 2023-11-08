@@ -12,7 +12,7 @@ image: img/what-kind-of-wood-do-termites-like-to-eat.png
 
 If your home is constructed from softwood (pine radiate) or hardwood (eucalyptus - gum tree), it doesn't matter. Termite WILL eat both. The soft pine trim timbers like the skirting boards, door and window frames are exposed and normally easier to detect termite activity.
 
-**Why Wood is Termites' Favourite Dish:**
+#### **Why Wood is Termites' Favourite Dish:**
 
 But how do termites manage to devour wood? Their unique digestive system hosts certain microorganisms and protozoa that break down cellulose from the wood, turning it into glucose. This digestion process is vital for their survival. In fact, without the symbiotic relationship with these protozoa, termites wouldn't even exist.
 
@@ -20,17 +20,17 @@ But how do termites manage to devour wood? Their unique digestive system hosts c
 
 ![Protozoa are single-celled organisms - help termites eat wood](img/termite-gut.png)
 
-**Understanding the Termite Diet:**
+#### **Understanding the Termite Diet:**
 
 Think of it this way: Just as cows graze on grass, termites feast on wood. This gives termites access to cellulose, an essential component in plants, which many organisms can't digest. Cellulose is everywhere - from wood to paper, cardboard, and even books.
 
-**The Timber in Your Home:**
+#### **The Timber in Your Home:**
 
 Did you know? On average, an Australian single or two-storey house contains about 14.58 m3 of wood (based on 2017-18 data). Once termites sense this timber treasure trove, they quickly create concealed pathways from their nest to access it. For termites, your home is essentially a gourmet meal!
 
 ![How much timber termites can eat in your home](img/how-much-timber-termites-can-eat-in-your-home.png)
 
-**Busting the Hardwood Myth:**
+#### **Busting the Hardwood Myth:**
 
 Contrary to popular belief, termites don't shy away from hardwood. They're smart about selecting the most nutritious timber, aiming for efficient foraging and ensuring a balanced diet for the colony. Many Australians mistakenly believe their homes are made of hardwood, but it's often just eucalyptus. Although tougher than pine, eucalyptus is a termite delight.
 
@@ -38,7 +38,7 @@ Eucalyptus timber is highly attractive to termites and is used effectively in ba
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xWYY5tW5muQ?si=QQizZDUVuQfk3A3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Your Action Plan:**
+#### **Your Action Plan:**
 
 1. Schedule annual termite inspections.
 2. Ensure you have an active termite management system.
@@ -46,6 +46,8 @@ Eucalyptus timber is highly attractive to termites and is used effectively in ba
 4. Address any moisture-related issues that might affect timber structures.
 5. Stay alert - if you suspect anything, don't hesitate.
 
-#### For all your termite concerns, reach out to **Conquer Termites** at 1300 417 007. We're here to help!
+##### For all your termite concerns, reach out to **Conquer Termites** on 1300 417 007. 
+
+##### We're here to help!
 
 ![](img/conquer-termites-gold-coast-team.png)
