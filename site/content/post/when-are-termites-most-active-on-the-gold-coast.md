@@ -69,15 +69,16 @@ Climate change can have a significant impact on termite activity. Rising tempera
 
 The type of construction and certain architectural details can significantly influence the risk of termite infestation. Let's delve a bit deeper into some of these factors:
 
+![Concealed termite ingress through brick foootings](img/termite-ingres-through-brick-footings.png)
+
+
+
 1. **Embedded Brick Footings**: These provide an easy pathway for termites. Bricks are porous, and they can retain moisture. This makes them a conducive environment for termites. When these bricks are in contact with the soil, subterranean termites can travel through the weep holes or gaps in the mortar and reach the structural wood parts of a home without detection.
-
-   ![Concealed termite ingress through brick foootings](img/termite-ingres-through-brick-footings.png)
-
 2. **Structural Timbers in Contact with the Ground**: Termites are subterranean by nature, meaning they live underground. When timber, which is a primary food source for them, is in direct contact with the soil (like a wooden post or stump), it provides a direct highway for the termites to reach their food without having to expose themselves. This is especially risky when the timber is untreated or not protected by a termite barrier system.
 3. **Landscaping Too High Against External Perimeter**: Mulch, soil, or garden beds that are placed too high against the home can provide concealed access for termites. This landscaping can also trap moisture against the foundation of the home, making the environment even more conducive for termites.
 4. **Lack of Proper Drainage**: This can lead to excessive moisture near the foundation of the home. Termites are attracted to moisture, so areas with poor drainage can be fuel stations for termite activity.
 5. **Voids and Cracks in the Foundation**: Any gaps or breaches in the foundation or slab of a home can provide an entry point for termites. This is particularly the case for slab-on-ground constructions where small gaps or cracks can go unnoticed. Check your weepholes regularly. 
-6. **Inadequate Ventilation in your sub-floor**: A lack of proper ventilation can lead to moisture build-up, which can be inviting to termites. Especially in crawl spaces or basements, proper ventilation can help reduce the risk.
+6. **Inadequate Ventilation in your subfloor**: A lack of proper ventilation can lead to moisture build-up, which can be inviting to termites. Especially in crawl spaces or basements, proper ventilation can help reduce the risk.
 
 ## Protecting Your Property Year-Round
 
