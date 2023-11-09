@@ -252,7 +252,9 @@ pest_inspections_entries:
       termites and probably have never engaged a pest control company
       specialising in treating termites.
 
+
       But you must compare apples with apples when selecting a company for your termite inspection. Sadly, our industry significantly differs in quality, knowledge, and approach.
+
 
       On the Gold Coast, the average termite inspection cost for an average-sized house is between $280 and $330.
 
