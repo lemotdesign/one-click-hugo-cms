@@ -33,6 +33,9 @@ pest_inspections_entries:
       panic and distress.
 
 
+      Don't reach for the bug spray, as temping as it is! Call an expert and get the job done right. 
+
+
       * Don’t disturb them
 
       * Follow the **Three-step Process** 
