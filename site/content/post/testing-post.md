@@ -58,7 +58,7 @@ It's crucial to compare options comprehensively when deciding on a termite treat
 
 Arming yourself with these questions will help you choose a company that not only offers effective termite treatments but also provides a service that's thorough, responsible, and professional.
 
-### How a termite treatment should be done
+### How a termite treatment should be done 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jX0IASCNbSA?si=wChTViGOM20O9Amt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
