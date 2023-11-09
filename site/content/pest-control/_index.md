@@ -1,7 +1,7 @@
 ---
 title: Best Pest Control Solutions for a Safe and Effective Treatment of Gold
   Coast Homes
-image: /img/about-jumbotron.jpg
+image: img/pest-control-photo.jpg
 blurb:
   heading: The Conquer Termites team is highly trained and licensed to treat all
     those pesky pests in and around your home.
@@ -64,6 +64,9 @@ pest_control_entries:
       and underdelivers!
 
 
+      ![Conquer Termites Pest Control warranties](img/conquer-termites-pest-control-warranties.jpg)
+
+
       ### **Pest control warranties**
 
 
@@ -78,7 +81,7 @@ pest_control_entries:
 
       **Fleas - nil**\
 
-      Nees to be treated until infestation is under control.
+      Needs to be treated until the infestation is under control.
 
 
       **Spiders - 3 months**
@@ -86,7 +89,7 @@ pest_control_entries:
 
       **Rodents - nil**\
 
-      Nees to be replenished until infestation is under control.
+      Needs to be replenished until the infestation is under control.
 
 
       Proper pest control treatment is about eradicating pests and bringing the population down to zero. It is not designed to keep pests away for 12 months.\
@@ -119,7 +122,7 @@ pest_control_entries:
       * We don’t spray inside your kitchen cupboards but apply gel bait.\
 
       *  The spray we apply outside to control spiders and black ants has the same active ingredient used in Frontline for flea and tick control for your dogs and cats.
-    imageUrl: img/icon.svg
+    imageUrl: img/pest-control-is-safe-for-pets-and-family.png
   - heading: Do I need to leave during the Pest Treatment?
     text: >-
       No, there is no need for you to leave the house while we are applying the
@@ -154,10 +157,10 @@ pest_control_entries:
 
       To finish, we target spray the outside.\
 
-      **Big house 1 &amp; 1/2 hours**\
+      **Big home: 1 & 1/2 hours**\
 
-      **Average size house 1+ hours**\
+      **Average size home: 1+ hour**\
 
-      **Small house or apartment 1 hour**
+      **Smaller homes or apartment: 1 hour**
     imageUrl: img/icon.svg
 ---
