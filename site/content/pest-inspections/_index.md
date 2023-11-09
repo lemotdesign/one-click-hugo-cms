@@ -172,20 +172,12 @@ pest_inspections_entries:
       **Free check offers - not licensed**
 
       Some companies offer a free “termite check” and quickly suggest a dodgy, overpriced wooden box baiting system. These guys aren’t licensed or qualified. Often you need to sign a waiver to say you are accepting a ‘check’, not an inspection to the Australian Standards.
-    imageUrl: img/about-single-origin.jpg
+    imageUrl: img/conquer-termites-gold-coast.png
   - heading: "You can trust Conquer Termites for your termite inspection and
       treatment needs. "
-    text: >-
-      Our team of fully licensed technicians are experts in the field, with
+    text: Our team of fully licensed technicians are experts in the field, with
       exceptional skills and extensive experience to deliver reliable termite
-      detection and effective treatment solutions.\
-
-      \
-
-      How Conquer Termites conducts a termite inspection
-
-
-      **[CONQUER TERMITES PEST CONTROL VIDEO 2020](https://youtube.com)**
+      detection and effective treatment solutions.
     imageUrl: img/conquer-termites-gold-coast-team.png
   - heading: Found Termites – What should I do?
     imageUrl: img/found-termites-three-step-process.jpg
@@ -197,9 +189,9 @@ pest_inspections_entries:
 
       * Don’t disturb them
 
-      * Follow the **Three-step Process** (link to relevant page)
+      * Follow the **Three-step Process** 
 
-      * C﻿all a professional Termite Expert (Have our contact details below)
+      * C﻿all a professional Termite Expert
   - heading: "Some other questions about termites:"
     text: >-
       The mere thought of termites devouring your home can be a terrible
@@ -207,20 +199,20 @@ pest_inspections_entries:
       panic and distress.
 
 
-      **[What are the signs of termites?](#)**\
+      * What are the signs of termites?
 
-      **[What do termites look like?](#)**\
+      * What do termites look like?
 
-      **[What are the signs of termites in a wall?](#)**\
+      * What are the signs of termites in a wall?
 
-      **[What do termites sound like?](#)**\
+      * What do termites sound like?
 
-      **[What are flying termites, and what do they look like?](#)**\
+      * What are flying termites, and what do they look like?
 
-      **[What are dry-wood termites?](#)**\
+      * What are dry-wood termites?
 
-      **[How you can check your home and garden for termites](#)**
-    imageUrl: img/icon.svg
+      * How you can check your home and garden for termites
+    imageUrl: img/asking-termite-questions-2.jpg
   - heading: How Conquer Termites conducts a Termite Inspection
     text: l
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
@@ -238,7 +230,7 @@ pest_inspections_entries:
       * Pre-purchase termite inspection – timber pest inspection – What’s the difference? 
 
       * Consumer Warning about termite inspections on the Gold Coast
-    heading: "### Important questions about termite inspections"
+    heading: Important questions about termite inspections
     imageUrl: img/hearing-termite-noises-in-your-wall.png
   - heading: Conquer Termites Digital Inspection Report & Treatment Proposal
     text: >-
