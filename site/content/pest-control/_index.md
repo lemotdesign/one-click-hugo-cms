@@ -33,7 +33,7 @@ pest_control_entries:
       \
 
       **CONQUER TERMITES PEST CONTROL VIDEO 2020**
-    imageUrl: img/about-single-origin.jpg
+    imageUrl: img/general-pest-control-make-your-home-safe.jpg
   - heading: Do you treat other types of pests?
     text: >-
       As an established pest control company on the Gold Coast, we know that
@@ -56,7 +56,7 @@ pest_control_entries:
 
 
       Check our Specialised Pest Treatment page for more information.
-    imageUrl: img/about-shade-grown.jpg
+    imageUrl: img/rodent-control-keep-unwanted-guest-away-.jpg
   - heading: Is there a warranty for pest control treatment?
     text: >-
       Yes, we do offer a pest treatment warranty, mean to say, we want you to be
@@ -97,7 +97,7 @@ pest_control_entries:
       \
 
       How long it takes for new insects to recolonise your home depends on the surroundings and environment. It might take many months before spiders, and black ants recolonise, or they could come back sooner.
-    imageUrl: img/home-jumbotron.jpg
+    imageUrl: img/cockroach-bait-gel-safe-and-effective.jpg
   - heading: Will the treatment be safe for my family and pests?
     text: >-
       This is an understandable question; Sadly, our industry has its’ fair
@@ -139,7 +139,7 @@ pest_control_entries:
       \
 
       But if you want to pop out for a walk or coffee, we understand.
-    imageUrl: img/icon.svg
+    imageUrl: img/pest-control-greeting-2.jpg
   - heading: How long does a Pest Control Treatment take?
     text: >-
       At Conquer, we prioritize thoroughness over speed when it comes to pest
@@ -162,5 +162,5 @@ pest_control_entries:
       **Average size home: 1+ hour**\
 
       **Smaller homes or apartment: 1 hour**
-    imageUrl: img/icon.svg
+    imageUrl: img/dusting-treatment-for-difficult-to-get-to-places.jpg
 ---
