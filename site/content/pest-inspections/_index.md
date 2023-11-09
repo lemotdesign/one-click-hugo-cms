@@ -221,4 +221,7 @@ pest_inspections_entries:
 
       **[How you can check your home and garden for termites](#)**
     imageUrl: img/icon.svg
+  - heading: How Conquer Termites conducts a Termite Inspection
+    text: l
+    imageUrl: img/termite-inspection-conquer-termites-2.jpg
 ---
