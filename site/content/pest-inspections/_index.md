@@ -1,6 +1,6 @@
 ---
 title: Gold Coast Termite & Pest Inspection Experts
-image: img/pest-control-2-copy.jpg
+image: img/termite-inspection-conquer-termites-2.jpg
 pest-inspections: []
 pest_inspections_entries:
   - heading: Gold Coast Termite & Pest Inspection Experts
@@ -38,12 +38,18 @@ pest_inspections_entries:
 
       * What are the signs of termites?
 
-      *  What do termites look like?
-        What are the signs of termites in a wall?
-        What do termites sound like?
-        What are flying termites, and what do they look like?
-        What are dry-wood termites? 
-        How you can check your home and garden for termites
+      * What do termites look like?
+
+      * What are the signs of termites in a wall?
+
+      * What do termites sound like?
+
+      * What are flying termites, and what do they look like?
+
+      * What are dry-wood termites? 
+
+      * How you can check your home and garden for termites
+
 
       ### How Conquer Termites conducts a termite inspection
 
@@ -173,9 +179,9 @@ pest_inspections_entries:
 
 
       **[CONQUER TERMITES PEST CONTROL VIDEO 2020](https://youtube.com)**
-    imageUrl: img/about-shade-grown.jpg
+    imageUrl: img/conquer-termites-gold-coast-team.png
   - heading: Found Termites – What should I do?
-    imageUrl: img/1689901941906466.jpg
+    imageUrl: img/found-termites-three-step-process.jpg
     text: >-
       The mere thought of termites devouring your home can be a terrible
       nightmare. Discovering live termites in your house or garden can cause
