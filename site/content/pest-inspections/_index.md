@@ -37,16 +37,16 @@ pest_inspections_entries:
       * Follow the **Three-step Process**
   - heading: How Conquer Termites conducts a Termite Inspection
     text: >-
-      ## Best Termite Inspections on the Gold Coast:
+      ## Premier Termite Inspections in the Gold Coast:
 
 
-      Have you recently stumbled upon an area on your property that has raised suspicions of live termite activity? Questions may be swirling in your mind: "*How extensive is the termite infestation?" "What's going on in those hidden spaces, like inside the walls?"*
+      Discovering signs of potential termite activity on your property can be alarming, leading to questions about the severity of the infestation and what might be happening in concealed areas like wall interiors.
 
 
-      The logical thought that often follows is, *"I should engage the services of a professional pest control company with extensive experience that truly knows how to find termites."*
+      This concern naturally progresses to the realization that the expertise of a seasoned pest control service is crucial—one with a proven track record of accurately detecting termites.
 
 
-      You're not the Termite Expert and you probably don't know what to look for. But you are the person who will face great financial and emotional costs if you don't get the problem fixed.
+      While you may not be a termite specialist, you certainly understand the significant financial and emotional repercussions of untreated termite damage. Securing professional intervention is key to protecting your property and peace of mind.
 
 
       ## Watch our Termite Inspection Video
@@ -55,60 +55,7 @@ pest_inspections_entries:
       <iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-      ### How do I know the Termite Inspection has been done correctly?
-
-
-      In this guide, we will outline the important points to consider when choosing a company to conduct a termite inspection.
-
-
-      ### Termite Inspection - Six Check Points
-
-
-
-
-      ### Five points to consider when choosing a Gold Coast Termite Company
-
-
-      To help you, we would like to give you a checklist of questions you should ask when calling companies on the Gold Coast. You don’t need to ask them all - choose your best three:
-
-
-      1. Are they local and based in Brisbane (beware of calling a call centre in Sydney or Melbourne)
-
-      2. How long have they been in business, and do they have a good-size crew?
-
-      3. How are their Google Reviews?
-
-      4. Do they have a Queensland Health Timber Pest license?
-
-      5. Do they have a QBCC (Queensland Building Construction Commission) license?
-         Additional points to consider
-         •	Does the inspection have the right kind of insurance, and how much does it cover?
-         •	Do all the technicians carry and use Thermal Cameras, Moisture Meters and Motion Detection devices?
-         •	Do they inspect the roof void and all the subfloor (space under the floor)?
-         •	How many hours do they assign to do a termite inspection?
-         •	Do you get a digital report on the day?
-         •	Can they supply a treatment proposal and do the work?
-         •	Are they accredited through the chemical company to apply the product?
-
-      Read more ....
-
-
-      ### Important questions about termite inspections
-
-
-      * Detection Devices for a Termite Inspection – link to 'Device Page'
-
-      * Conquer Termites digital inspection report & treatment proposal – drop-down tab (see below)
-
-      * Five points to consider when selecting a Termite Inspection on the Gold Coast – drop-down tab
-
-      * How much does a termite inspection cost on the Gold Coast? – drop-down tab
-
-      * How often should I get a termite Inspection done?
-
-      * Pre-purchase termite inspection – timber pest inspection – What’s the difference? – drop-down tab
-
-      * Consumer Warning about termite inspections on the Gold Coast – drop-down tabo
+      Check: **'How is a Termite Inspection Done - Gold Coast'**
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - heading: Conquer Termites Digital Report & Treatment Proposal
     text: >-
