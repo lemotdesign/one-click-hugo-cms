@@ -1,17 +1,17 @@
 ---
 title: "Common Myths about Termites "
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  In the world of termites, myths abound, often driven by the desire to save
-  money. Be careful, these misconceptions will cost you more in the long run. 
-
-
-  So old Tom over the back fence might be telling you something that his dad did back on the farm last century, but now, as then, it has no relevance and is just right out dangerous and inappropriate. 
-
-
-  Don't get information from amateurs, get advice from termite experts.    
+description: "In the world of termites, myths abound, often driven by the desire
+  to save money. Be careful, these misconceptions will cost you more in the long
+  run. "
 image: img/common-myths-about-termites.png
 ---
+## Termite Myths = Not Spending Money 
+
+So old Tom over the back fence might be telling you something that his dad did back on the farm last century, but now, as then, it has no relevance and is just right out dangerous and inappropriate. 
+
+Don't get information from amateurs, get advice from termite experts.    
+
 ## Let us debunk termite myths:
 
 **1. "White Ants" are Actually Termites**
