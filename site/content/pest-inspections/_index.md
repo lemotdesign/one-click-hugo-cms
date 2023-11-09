@@ -185,7 +185,7 @@ pest_inspections_entries:
          •	Are they accredited through the chemical company to apply the product?
     heading: Five points to consider when choosing a Gold Coast Termite Company
     imageUrl: img/when-choosing-a-pest-inspection-compare-apples-with-apples.png
-  - heading: "Some other questions about termites:"
+  - heading: "Some common questions about Termites:"
     text: |-
       ### Common Q&A about Termites on the Gold Coast
 
@@ -197,23 +197,6 @@ pest_inspections_entries:
       * What are dry-wood termites?
       * How you can check your home and garden for termites
     imageUrl: img/asking-termite-questions-2.jpg
-  - heading: Consumer Warning about Termite Inspections on the Gold Coast
-    text: >-
-      **Fake companies - no QBCC license**
-
-      Many pest control companies construct a website to make them look local but have their call centre in another city and don’t have the appropriate Queensland licenses.
-
-      (photo of QBCC cards)
-
-      All companies operating in Queensland need to have a QBCC license. Otherwise, you are engaging a subcontractor. If they don’t have a QBCC license, they can’t get insurance and shouldn’t be advertising that they do termite inspections and treatments.
-
-      **Free check offers - not licensed**
-
-      Some companies offer a free “termite check” and quickly suggest a dodgy, overpriced wooden box baiting system. These guys aren’t licensed or qualified. Often you need to sign a waiver to say you are accepting a ‘check’, not an inspection to the Australian Standards.
-
-
-      Read more ...
-    imageUrl: img/termite-licenses-queensland.png
   - text: >-
       The Australian Standards 3660.2 recommends that homeowners have a
       qualified pest control technician inspect their property for termites
@@ -270,4 +253,21 @@ pest_inspections_entries:
 
       •	It should take one to two hours
     imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
+  - heading: Consumer Warning about Termite Inspections on the Gold Coast
+    text: >-
+      **Fake companies - no QBCC license**
+
+      Many pest control companies construct a website to make them look local but have their call centre in another city and don’t have the appropriate Queensland licenses.
+
+      (photo of QBCC cards)
+
+      All companies operating in Queensland need to have a QBCC license. Otherwise, you are engaging a subcontractor. If they don’t have a QBCC license, they can’t get insurance and shouldn’t be advertising that they do termite inspections and treatments.
+
+      **Free check offers - not licensed**
+
+      Some companies offer a free “termite check” and quickly suggest a dodgy, overpriced wooden box baiting system. These guys aren’t licensed or qualified. Often you need to sign a waiver to say you are accepting a ‘check’, not an inspection to the Australian Standards.
+
+
+      Read more ...
+    imageUrl: img/termite-licenses-queensland.png
 ---
