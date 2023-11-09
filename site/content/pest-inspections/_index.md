@@ -11,13 +11,13 @@ pest_inspections_entries:
       Finding termites (white ants) in your home or garden is scary and unsettling. But for some homeowners, finding a reputable Pest Company to sort out the problem can be just as daunting.
 
 
-      *All you want to know is, ‘Can I trust you, and will you give me the right advice’?*
+      *All you want to know is, ‘Can I trust them, and will they give me the right advice’?*
 
 
       You can trust Conquer Termites for your termite inspection and treatment needs. Our team of fully licensed technicians are experts in the field, with exceptional skills and extensive experience to deliver reliable termite detection and effective treatment solutions. 
 
 
-      Choose Conquer Termites for peace of mind and the best pest service on the Gold Coast!
+      Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
     imageUrl: img/conquer-termites-gold-coast-best-pest-control-company.png
   - heading: "You can trust Conquer Termites for your termite inspection and
       treatment needs. "
