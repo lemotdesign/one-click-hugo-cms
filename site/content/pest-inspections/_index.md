@@ -110,48 +110,34 @@ pest_inspections_entries:
 
       * Consumer Warning about termite inspections on the Gold Coast – drop-down tabo
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
-  - heading: Conquer Termites Digital Inspection Report & Treatment Proposal
+  - heading: Conquer Termites Digital Report & Treatment Proposal
     text: >-
-      At Conquer Termites, we understand that you want a prompt and
-      easy-to-understand report of the inspection results. In the event of a
-      termite issue, you need to know what it is and what solutions we
-      recommend. 
+      #### Clear Information & Treatment Recommendations
 
 
-      ### First Digital Report in Australia
+      Conquer Termites is committed to delivering swift and comprehensible inspection outcomes. We know the importance of having clear information, particularly when dealing with termite issues, and we ensure you're well-informed about any problems and the treatments we advocate.
 
 
-      To address these concerns, we were the first in Australia to create digital inspection reports that included photos. We continue to enhance our reports and proposals to help you make informed decisions.
+      #### **Australia's Pioneering Digital Inspection Reports**
 
 
-      ### Australian Standards 3660.2
+      We led the way in Australia by introducing digital inspection reports that incorporate photographic evidence, enhancing the clarity and detail of our feedback. Our ongoing improvements to our reports and recommendations are designed to empower you with the knowledge to make the best decisions for your property.
 
 
-      While the AS 3660.2.2017 Standards outline the minimum inspection requirements in Australia, we exceed these standards at Conquer Termites. We set high standards for every inspection, taking the necessary time to examine your property and gardens thoroughly. Our comprehensive and easy-to-read 22-page digital report includes photos to aid in understanding the results.
+      #### **Surpassing Australian Standards 3660.2**
 
 
-      *At Conquer Termites, we strive for excellent results with every inspection.*
+      While the AS 3660.2.2017 Standards set the baseline for termite inspections, Conquer Termites goes above and beyond. We pride ourselves on conducting detailed evaluations of your property and gardens, not just meeting but exceeding the required standards. Our thorough 22-page digital report, complete with illustrative photos, ensures you have a clear and complete understanding of the inspection findings.
+
+
+      #### Comprehensive Treatment Proposal
+
+
+      In alignment with our thorough inspection report, Conquer Termites will furnish a detailed Termite Treatment Proposal when it's required. This proposal will accompany our report, offering a clear, itemized, and priced plan for termite treatment, ensuring you have all the information needed to protect your home effectively.
+
+
+      *Conquer Termites is dedicated to excellence in every inspection, aiming to provide not just results, but peace of mind.*
     imageUrl: img/termite-inspection-report.jpg
-  - text: >-
-      ### 
-
-
-
-      * Detection Devices for a Termite Inspection 
-
-      * Conquer Termites digital inspection report & treatment proposal 
-
-      * Five points to consider when selecting a Termite Inspection on the Gold Coast 
-
-      * How much does a termite inspection cost on the Gold Coast? 
-
-      * How often should I get a termite Inspection done?
-
-      * Pre-purchase termite inspection – timber pest inspection – What’s the difference? 
-
-      * Consumer Warning about termite inspections on the Gold Coast
-    heading: Important questions about Termite Inspections
-    imageUrl: img/termite-inspection-who-to-call-on-the-gold-coast.png
   - text: >-
       To help you, we would like to give you a checklist of questions you should
       ask when calling companies on the Gold Coast. 
