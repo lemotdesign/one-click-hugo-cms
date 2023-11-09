@@ -221,4 +221,75 @@ pest_inspections_entries:
 
       **[How you can check your home and garden for termites](#)**
     imageUrl: img/icon.svg
+  - heading: How Conquer Termites conducts a Termite Inspection
+    text: l
+    imageUrl: img/termite-inspection-conquer-termites-2.jpg
+  - text: >-
+      * Detection Devices for a Termite Inspection 
+
+      * Conquer Termites digital inspection report & treatment proposal 
+
+      * Five points to consider when selecting a Termite Inspection on the Gold Coast 
+
+      * How much does a termite inspection cost on the Gold Coast? 
+
+      * How often should I get a termite Inspection done?
+
+      * Pre-purchase termite inspection – timber pest inspection – What’s the difference? 
+
+      * Consumer Warning about termite inspections on the Gold Coast
+    heading: "### Important questions about termite inspections"
+    imageUrl: img/hearing-termite-noises-in-your-wall.png
+  - heading: Conquer Termites Digital Inspection Report & Treatment Proposal
+    text: >-
+      At Conquer Termites, we understand that you want a prompt and
+      easy-to-understand report of the inspection results. In the event of a
+      termite issue, you need to know what it is and what solutions we
+      recommend. 
+
+
+      ### First Digital Report in Australia
+
+
+      To address these concerns, we were the first in Australia to create digital inspection reports that included photos. We continue to enhance our reports and proposals to help you make informed decisions.
+
+
+      ### Australian Standards 3660.2
+
+
+      While the AS 3660.2.2017 Standards outline the minimum inspection requirements in Australia, we exceed these standards at Conquer Termites. We set high standards for every inspection, taking the necessary time to examine your property and gardens thoroughly. Our comprehensive and easy-to-read 22-page digital report includes photos to aid in understanding the results.
+
+
+      *At Conquer Termites, we strive for excellent results with every inspection.*
+    imageUrl: img/termite-inspection-report.jpg
+  - text: >-
+      To help you, we would like to give you a checklist of questions you should
+      ask when calling companies on the Gold Coast. 
+
+
+      #### You don’t need to ask them all - choose your best three:
+
+
+      1. Are they local and based in Brisbane (beware of calling a call centre in Sydney or Melbourne)
+
+      2. How long have they been in business, and do they have a good-size crew?
+
+      3. How are their Google Reviews?
+
+      4. Do they have a Queensland Health Timber Pest license?
+
+      5. Do they have a QBCC (Queensland Building Construction Commission) license?
+
+
+      #### Additional points to consider
+
+         •	Does the inspection have the right kind of insurance, and how much does it cover?
+         •	Do all the technicians carry and use Thermal Cameras, Moisture Meters and Motion Detection devices?
+         •	Do they inspect the roof void and all the subfloor (space under the floor)?
+         •	How many hours do they assign to do a termite inspection?
+         •	Do you get a digital report on the day?
+         •	Can they supply a treatment proposal and do the work?
+         •	Are they accredited through the chemical company to apply the product?
+    heading: Five points to consider when choosing a Gold Coast Termite Company
+    imageUrl: img/termite-inspection-who-to-call-on-the-gold-coast.png
 ---
