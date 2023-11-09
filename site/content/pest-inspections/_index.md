@@ -206,6 +206,36 @@ pest_inspections_entries:
     imageUrl: img/asking-termite-questions-2.jpg
   - heading: How Conquer Termites conducts a Termite Inspection
     text: >-
+      ## Best Termite Inspections on the Gold Coast:
+
+
+      Have you recently stumbled upon an area on your property that has raised suspicions of live termite activity? Questions may be swirling in your mind: "*How extensive is the termite infestation?" "What's going on in those hidden spaces, like inside the walls?"*
+
+
+      The logical thought that often follows is, *"I should engage the services of a professional pest control company with extensive experience that truly knows how to find termites."*
+
+
+      You're not the Termite Expert and you probably don't know what to look for. But you are the person who will face great financial and emotional costs if you don't get the problem fixed.
+
+
+      ## Watch our Termite Inspection Video
+
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+      ### How do I know the Termite Inspection has been done correctly?
+
+
+      In this guide, we will outline the important points to consider when choosing a company to conduct a termite inspection.
+
+
+      ### Termite Inspection - Six Check Points
+
+
+      Read more ....
+
+
       ### Important questions about termite inspections
 
 
