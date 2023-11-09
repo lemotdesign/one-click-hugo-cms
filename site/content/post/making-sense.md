@@ -1,5 +1,5 @@
 ---
-title: Are termites an issue in Gold Coast?
+title: Are Termites an issue on the Gold Coast?
 date: 2016-12-17T15:04:10.000Z
 description: CSIRO did a survey to map where termites are most active in
   Australia. Guess what, Gold Coast is bang in the middle of 'High Termite
