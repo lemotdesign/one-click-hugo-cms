@@ -195,48 +195,73 @@ pest_inspections_entries:
       * How you can check your home and garden for termites
     imageUrl: img/asking-termite-questions-2.jpg
   - text: >-
-      The Australian Standards 3660.2 recommends that homeowners have a
-      qualified pest control technician inspect their property for termites
-      every 12 months. This is the minimum requirement; some houses might need
-      more frequent inspections due to construction, age and high termite
-      pressure (near bushland).
+      Ensure your home is safeguarded against termites by scheduling a
+      professional inspection at least **once every year**, as per the
+      Australian Standards 3660.2 guidelines. 
 
 
-      If you don’t have a termite barrier (external chemical treatment) continuously around the external perimeter of your home, termites can gain concealed entry or enter by mud leads at any time. This is why you might be told to get your home inspected more frequently.
+      **Maybe more frequently**
 
 
-      Think of an annual termite inspection like your yearly dentist appointment. It’s not fun, but it is vital to be proactive before a small problem becomes significant and painful!
+      Given that certain factors such as the structure's age, construction type, and proximity to woodlands may elevate the risk of termite infestation, more regular check-ups might be necessary for some properties.
+
+
+      **Do you have a current chemical treatment?**
+
+
+      Lacking a continuous chemical barrier around your home's perimeter can leave it very vulnerable to undetected termite invasions. That's why, similar to how you wouldn't skip your annual dental check-up, keeping up with termite inspections is crucial for early detection and prevention - especially if you don't have a treatment!
+
+
+      Check '**How is a Termite Inspection Done**'
     heading: How often should I get a termite Inspection done?
-    imageUrl: img/how-often-should-you-get-your-home-checked-for-termites.png
+    imageUrl: img/termite-inspection-how-often.jpg
   - text: >-
       Purchasing a home is a significant investment, and the last thing you want
       is to end up with a lemon or a termite-infested property. That's why it's
       crucial to schedule the right kind of inspection with a qualified and
-      experienced inspector who can conduct a Timber Pest Inspection to the
-      Australian Standard 4349.3.2010.
+      experienced inspector who can conduct a **Timber Pest Inspection**
+      according to the Australian Standard 4349.3.2010.
 
 
+      Unlike a regular visual termite inspection, a Timber Pest Inspection covers:
 
-      Unlike a regular visual termite inspection, a Timber Pest Inspection covers termite infestation, fungal decay (wet rot), and borer infestation. 
 
+      * Termite infestation  
+
+      * Fungal decay (wet rot)
+
+      * Borer infestation.
 
 
       This thorough inspection will give you a comprehensive understanding of the condition of the property's timber and identify any pest-related issues that may affect the structural integrity of the building.
 
-      At Conquer Termites, our expert inspectors will provide you with a detailed report and a treatment proposal that offers advice on treatments and costs. With our pre-purchase termite inspection service, you can make an informed decision about your potential property investment and ensure your peace of mind.
+
+      #### For more information about:
+
+
+      * Timber Pest Inspection - What It Is and What It Isn't
+
+      * Invasive recommendation - What does that mean?
+
+
+      Read More
     heading: Pre-purchase Termite Inspection – Timber Pest Inspection
     imageUrl: img/gold-coast-prepurchase-termite-inspection.png
-  - heading: How much does a termite (white ant) inspection cost on the Gold Coast?
+  - heading: Termite Inspection Cost on the Gold Coast
     text: >-
-      ‘What is the price’ is an obvious question. You know very little about
-      termites and probably have never engaged a pest control company
-      specialising in treating termites.
+      ## How much does a termite (white ant) inspection cost on the Gold Coast?
+
+
+      Suspect you've discovered termites? Now you're wondering, how bad is the damage and how deep will I need to dig into my pockets? 
+
+
+      ‘What is the price’ is an obvious question. You know very little about termites and probably have never engaged a pest control company specialising in treating termites.
+
+
+      On the Gold Coast, the average termite inspection cost for an average-sized house is between **$280 and $330.**
 
 
       But you must compare apples with apples when selecting a company for your termite inspection. Sadly, our industry significantly differs in quality, knowledge, and approach.
-
-
-      On the Gold Coast, the average termite inspection cost for an average-sized house is between $280 and $330.
 
 
       ##### This should include the following:
@@ -246,21 +271,28 @@ pest_inspections_entries:
 
       •	Inspect the fenceline, garden, house perimeter, subfloor, internal exposed timbers and roof void
 
-      •	Digital report completed on the day, plus a treatment proposal (and they should be able to do the work)
+      •	Digital report completed on the day, plus a treatment proposal
 
-      •	It should take one to two hours
+      •	It should take up to two hours
+
+
+      For more information: Read More
     imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
   - heading: Consumer Warning about Termite Inspections on the Gold Coast
     text: >-
-      **Fake companies - no QBCC license**
+      #### **Fake companies - no QBCC license**
+
 
       Many pest control companies construct a website to make them look local but have their call centre in another city and don’t have the appropriate Queensland licenses.
 
       (photo of QBCC cards)
 
+
       All companies operating in Queensland need to have a QBCC license. Otherwise, you are engaging a subcontractor. If they don’t have a QBCC license, they can’t get insurance and shouldn’t be advertising that they do termite inspections and treatments.
 
-      **Free check offers - not licensed**
+
+      #### **Free check offers - not licensed**
+
 
       Some companies offer a free “termite check” and quickly suggest a dodgy, overpriced wooden box baiting system. These guys aren’t licensed or qualified. Often you need to sign a waiver to say you are accepting a ‘check’, not an inspection to the Australian Standards.
 
