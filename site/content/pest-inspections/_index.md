@@ -224,4 +224,20 @@ pest_inspections_entries:
   - heading: How Conquer Termites conducts a Termite Inspection
     text: l
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
+  - text: >-
+      * Detection Devices for a Termite Inspection 
+
+      * Conquer Termites digital inspection report & treatment proposal 
+
+      * Five points to consider when selecting a Termite Inspection on the Gold Coast 
+
+      * How much does a termite inspection cost on the Gold Coast? 
+
+      * How often should I get a termite Inspection done?
+
+      * Pre-purchase termite inspection – timber pest inspection – What’s the difference? 
+
+      * Consumer Warning about termite inspections on the Gold Coast
+    heading: "### Important questions about termite inspections"
+    imageUrl: img/hearing-termite-noises-in-your-wall.png
 ---
