@@ -215,6 +215,20 @@ pest_inspections_entries:
       Read more ...
     imageUrl: img/termite-licenses-queensland.png
   - text: >-
+      The Australian Standards 3660.2 recommends that homeowners have a
+      qualified pest control technician inspect their property for termites
+      every 12 months. This is the minimum requirement; some houses might need
+      more frequent inspections due to construction, age and high termite
+      pressure (near bushland).
+
+
+      If you don’t have a termite barrier (external chemical treatment) continuously around the external perimeter of your home, termites can gain concealed entry or enter by mud leads at any time. This is why you might be told to get your home inspected more frequently.
+
+
+      Think of an annual termite inspection like your yearly dentist appointment. It’s not fun, but it is vital to be proactive before a small problem becomes significant and painful!
+    heading: How often should I get a termite Inspection done?
+    imageUrl: img/how-often-should-you-get-your-home-checked-for-termites.png
+  - text: >-
       Purchasing a home is a significant investment, and the last thing you want
       is to end up with a lemon or a termite-infested property. That's why it's
       crucial to schedule the right kind of inspection with a qualified and
@@ -232,20 +246,6 @@ pest_inspections_entries:
       At Conquer Termites, our expert inspectors will provide you with a detailed report and a treatment proposal that offers advice on treatments and costs. With our pre-purchase termite inspection service, you can make an informed decision about your potential property investment and ensure your peace of mind.
     heading: Pre-purchase Termite Inspection – Timber Pest Inspection
     imageUrl: img/gold-coast-prepurchase-termite-inspection.png
-  - text: >-
-      The Australian Standards 3660.2 recommends that homeowners have a
-      qualified pest control technician inspect their property for termites
-      every 12 months. This is the minimum requirement; some houses might need
-      more frequent inspections due to construction, age and high termite
-      pressure (near bushland).
-
-
-      If you don’t have a termite barrier (external chemical treatment) continuously around the external perimeter of your home, termites can gain concealed entry or enter by mud leads at any time. This is why you might be told to get your home inspected more frequently.
-
-
-      Think of an annual termite inspection like your yearly dentist appointment. It’s not fun, but it is vital to be proactive before a small problem becomes significant and painful!
-    heading: How often should I get a termite Inspection done?
-    imageUrl: img/how-often-should-you-get-your-home-checked-for-termites.png
   - heading: How much does a termite (white ant) inspection cost on the Gold Coast?
     text: >-
       ‘What is the price’ is an obvious question. You know very little about
