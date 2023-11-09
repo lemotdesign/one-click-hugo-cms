@@ -19,12 +19,6 @@ pest_inspections_entries:
 
       Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
     imageUrl: img/conquer-termites-gold-coast-best-pest-control-company.png
-  - heading: "You can trust Conquer Termites for your termite inspection and
-      treatment needs. "
-    text: Our team of fully licensed technicians are experts in the field, with
-      exceptional skills and extensive experience to deliver reliable termite
-      detection and effective treatment solutions.
-    imageUrl: img/conquer-termites-gold-coast-team.png
   - heading: Found Termites – What should I do?
     imageUrl: img/found-termites-three-step-process.jpg
     text: >-
@@ -38,9 +32,9 @@ pest_inspections_entries:
 
       * Don’t disturb them
 
-      * Follow the **Three-step Process** 
-
       * C﻿all a professional Termite Expert
+
+      * Follow the **Three-step Process**
   - heading: How Conquer Termites conducts a Termite Inspection
     text: >-
       ## Best Termite Inspections on the Gold Coast:
