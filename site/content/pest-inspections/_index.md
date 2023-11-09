@@ -160,26 +160,36 @@ pest_inspections_entries:
       #### You don’t need to ask them all - choose your best three:
 
 
-      1. Are they local and based in Brisbane (beware of calling a call centre in Sydney or Melbourne)
+      1. Is the company genuinely local to the Gold Coast? (Avoid call centres from Sydney or Melbourne).
 
-      2. How long have they been in business, and do they have a good-size crew?
+      2. What's their business tenure and team size?
 
-      3. How are their Google Reviews?
+      3. How do their Google Reviews fare?
 
-      4. Do they have a Queensland Health Timber Pest license?
+      4. Do they hold a Queensland Health Timber Pest **license**?
 
-      5. Do they have a QBCC (Queensland Building Construction Commission) license?
+      5. Are they licensed under the [QBCC](https://www.qbcc.qld.gov.au/node/2526) (Queensland Building Construction Commission)?
 
 
       #### Additional points to consider
 
-         •	Does the inspection have the right kind of insurance, and how much does it cover?
-         •	Do all the technicians carry and use Thermal Cameras, Moisture Meters and Motion Detection devices?
-         •	Do they inspect the roof void and all the subfloor (space under the floor)?
-         •	How many hours do they assign to do a termite inspection?
-         •	Do you get a digital report on the day?
-         •	Can they supply a treatment proposal and do the work?
-         •	Are they accredited through the chemical company to apply the product?
+
+      * Is the company **insured**, and to what extent?
+
+      * Do all technicians utilize **[Thermal Cameras and Termatrac](https://www.conquertermites.com.au/inspections/termite-inspections/detection-devices/)** Motion Detection tools?
+
+      * Does the inspection cover getting into the roof and the subfloor areas?
+
+      * What's the duration of a typical termite inspection?
+
+      * Will I receive a **digital report** on the same day?
+
+      * Can they offer a **treatment proposal** and execute it?
+
+      * Do they possess **accreditations** from the chemical manufacturers they use?
+
+
+      Check: **Termite Inspection - Who to call on the Gold Coast?**
     heading: Five points to consider when choosing a Gold Coast Termite Company
     imageUrl: img/when-choosing-a-pest-inspection-compare-apples-with-apples.png
   - heading: "Some common questions about Termites:"
