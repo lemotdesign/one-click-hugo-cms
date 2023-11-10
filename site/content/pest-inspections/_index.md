@@ -49,7 +49,7 @@ pest_inspections_entries:
       **5. Termite Swarms:** Seeing flying termites or their lost wings around lights? They might be setting up shop.
 
 
-      For more information, read:
+      For more information, read: **Five Tell Tail Signs of Termites**
     imageUrl: img/signs-of-termites-2.jpg
     heading: What are the Signs of Termites - Gold Coast
   - heading: Gold Coast Termite & Pest Inspection Experts
