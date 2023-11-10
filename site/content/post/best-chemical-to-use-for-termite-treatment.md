@@ -7,9 +7,7 @@ description: Conquer Termites has been on the front lines battling termites on
   treatment.
 image: img/best-chemical-to-use-for-termite-treatment.png
 ---
-## What is the most effective chemical against Termites?
-
-![](img/1636799987841.png)
+## What is the most effective chemical against Termites? 
 
 The most effective termite treatment is one that stops termites, right? But knowing there are **no** absolutes when protecting a house and that treatments can fail, it's crucial to weigh all the factors before you decide on a company to handle your termite situation.
 
