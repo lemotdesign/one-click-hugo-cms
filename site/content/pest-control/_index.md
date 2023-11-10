@@ -151,25 +151,25 @@ pest_control_entries:
     imageUrl: img/pest-control-greeting-2.jpg
   - heading: How long does a Pest Control Treatment take?
     text: >-
-      At Conquer, we prioritize thoroughness over speed when it comes to pest
-      control treatment. We allocate a minimum of 2 hours to each pest
-      treatment, and often more, to ensure that the job is done properly.\
-
-      \
-
-      With our pre-check, we typically start with a chat to find out your main concerns so we can address them before doing a walk-around check.
+      ### Our Commitment to Comprehensive Pest Control
 
 
-      From there, we will usually treat the inside, applying the gel bait and spraying the skirting broads. We also apply a dusting treatment through the access point into your roof.\
+      At Conquer, we stand by the belief that quality takes precedence over haste. 
 
-      \
 
-      To finish, we target spray the outside.\
+      Effective pest control is not just a matter of treatment but also about understanding and addressing your specific concerns. That's why we dedicate a generous amount of time for your pest treatment:
 
-      **Big home: 1 & 1/2 hours**\
 
-      **Average size home: 1+ hour**\
+      **Time Allocation Based on Home Size:**
 
-      **Smaller homes or apartment: 1 hour**
+
+      * **Large Homes:** Approximately 1 & 1/2 to 2 hours are allocated to ensure all areas are comprehensively treated.
+
+      * **Average-Sized Homes:** We spend over 1 & 1/2 hours treating standard homes, covering all necessary aspects.
+
+      * **Smaller Homes or Apartments:** A full hour is dedicated even to the smallest properties, ensuring Conquer's high standards are met.
+
+
+      Our meticulous approach ensures that your pest control treatment is thorough, effective, and tailored to your home's specific needs.
     imageUrl: img/dusting-treatment-for-difficult-to-get-to-places.jpg
 ---
