@@ -37,7 +37,20 @@ termite_treatments_entries:
     text: l
   - heading: Termite Baiting on the Gold Coast
     imageUrl: img/termite-treatment-baiting-system.png
-    text: l
+    text: >-
+      ### Selecting the Ideal Termite Baiting System for Gold Coast Homes
+
+
+      In the quest for the ultimate termite baiting solution on the Gold Coast, it's imperative to look beyond the surface and choose a system that delivers real results. 
+
+
+      The effectiveness of a baiting system is contingent upon several factors, including its ability to attract termites, the bait's quality, and the system's design.
+
+
+      Here at Conquer Termites, we understand that the Gold Coast's unique climate and termite species require a baiting system that is robust and reliable. 
+
+
+      Read more about our recommended Baiting System; **BASF Trelona**
   - heading: Pre-Construction Termite Protection Gold Coast
     imageUrl: img/pre-con-homeguard-install.png
     text: >-
