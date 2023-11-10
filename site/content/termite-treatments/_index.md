@@ -40,5 +40,27 @@ termite_treatments_entries:
     text: l
   - heading: Pre-Construction Termite Protection Gold Coast
     imageUrl: img/pre-con-homeguard-install.png
-    text: l
+    text: >-
+      For new construction projects, implementing termite control measures
+      during the building phase (commonly referred to as pre-construction or
+      "Pre-Con") is a smart strategy to safeguard the property from future
+      termite threats. At Conquer Termites, we offer a range of specialized
+      solutions suitable for various construction types and requirements:
+
+
+      1. **FMC Homeguard**: Available as both a physical sheeting and a parging paint, FMC Homeguard acts as an effective termite barrier. It is specifically engineered to prevent termite entry, providing lasting defence for the new build.
+
+      2. **Greenzone**: This innovative product combines the functions of an expansion joint foam with termite-repellent capabilities. Greenzone is an excellent choice for builders looking for a dual-purpose solution that also repels termites.
+
+      3. **Reticulation System**: A reticulation system is installed along the external perimeter of the building and involves a network of underground pipes. This system is designed for the future reapplication of termite control chemicals, offering a long-term termite management solution without the need for disruptive re-treatment processes.
+
+
+      **Read more about:**
+
+
+      * Termite Treatment Certification requirements
+
+      * Visual Inspection Zone
+
+      * Concrete Cut-Out Protection
 ---
