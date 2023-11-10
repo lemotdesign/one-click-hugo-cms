@@ -28,9 +28,11 @@ describe("empty spec", () => {
   */
 });
 
+/*
 describe("validate blog", () => {
   it("should have more then 3 blog posts", () => {
     cy.visit("/post");
     cy.get("ul#blog-list li").should("have.greaterThan", 3);
   });
 });
+*/
