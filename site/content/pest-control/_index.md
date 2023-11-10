@@ -11,11 +11,11 @@ blurb:
 pest_control_entries:
   - heading: "General Pest Control Package:"
     text: >-
-      With our General Pest Control treament, you can rest assured that we
+      With our General Pest Control treatment, you can rest assured that we
       provide effective management of the following pests:
 
 
-      * ![Pest we treat for general pest control](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
+      *   ![Pest we treat for general pest control](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
 
       * **Here's what you can expect from our thorough process:**
 
