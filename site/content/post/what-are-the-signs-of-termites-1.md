@@ -6,35 +6,35 @@ description: "Have you just found something in your home or garden and worried
   below.  "
 image: img/signs-of-termites-2.jpg
 ---
-### How do you know if you got termites?
+### How do you know if you have Termites?
 
-It can be a troubling question for an inexperienced homeowner…. Is this soft piece of timber a sign of termites?
+It can be a troubling question for an inexperienced homeowner…. 'Is this soft piece of timber a sign of termites'?
 
-### **Five signs you might have termites:**
+Termites are masters of concealment, navigating through underground tunnels and inside the wooden structures of your home, often undetected. It's not uncommon for their presence to go unnoticed until after they've caused significant damage.
 
-1. Mud tubes or mudding: Termites build mud tubes as a protective shield to access food. If you see mud tubes along your walls or foundation, it strongly indicates termites.
-2. Damaged wood: Termites eat wood from the inside out, causing it to become thin and brittle. If you see any damaged or softwood in your home, it could be a sign of termites.
-3. Hollow sounds: If you tap on wood and it sounds hollow, it may indicate that termites have eaten the inside of the wood.
-4. Cracked or bubbling paint: Moisture buildup from termite activity can cause the paint on wooden surfaces to crack or bubble.
-5. Termite noise: They make a tapping noise or a crunching munching sound.
+### **Five Signs of Termites:**
 
-### What are the most common signs of termites?
+**1. Termite tubes or leads**: Termites build mud tubes as a protective shield to access food. If you see mud tubes along your walls or foundation, it strongly indicates termites.
+
+**2. Hollow or Soft Timbers:** If you tap on wood and it sounds hollow, it may indicate that termites have eaten the inside of the wood. Damaged wood: Termites eat wood from the inside out, causing it to become thin and brittle. If you see any damaged or softwood in your home, it could be a sign of termites.
+
+**3. Cracked or bubbling paint**: Moisture buildup from termite activity can cause the paint on wooden surfaces to crack or bubble.
+
+**4. Termite noise**: At the quiet of the night, you might hear a tapping noise or a crunching munching sound.
+
+**5. Winged Termites -** **Swarms:** Occasionally, termites swarm to start new colonies. If you see a swarm of winged termites (Alates) or find discarded wings, especially near light sources, this could indicate a termite presence.
+
+## What are the most common signs of termites?
 
 ### Mudding - termite trail, lead
 
-Termites build mud tubes as a protective shield from the elements and predators as they travel from their colony to the food source. These tubes provide the dark, warm, and humid environment they need to survive. The mud tubes are made by mixing soil and termite saliva to form a paste-like substance that dries to a hardness similar to plaster.
+Termites build mud tubes as a protective shield from the elements and predators as they travel from their colony to the food source. These tubes provide the dark, warm, and humid environment they need to survive. 
+
+The mud tubes are made by mixing soil and termite saliva to form a paste-like substance that dries to a hardness similar to plaster.
 
 ![Termite lead going over an ant cap](img/termite-mudding-leads.jpg "Termites exposed in their mud tube")
 
 If you see mud tubes along your walls or foundation, it's a strong indication of a termite infestation and you should have a professional inspect your home as **soon** as possible.
-
-### Mudding coming out of a wall
-
-When you see a 'mud' pack coming out of a wall, it's a clear sign you have termites. It could be a nest behind the wall or a bivouac. A bivouac is not a nest as it doesn't have a nursery where the Queen termite lays eggs.
-
-It is normally a meeting area to feed the juvenile worker termites or grow their fungus source for their protein.
-
-![Termite mud pack coming out from a wall](img/termite-mudding-coming-out-of-a-wall-1.jpg "Termite mud pack coming out from a wall")
 
 ### Hollow or soft timbers
 
@@ -47,6 +47,14 @@ Soft pine timber is highly desirable for termites and is often used for door and
 Tapping on the suspected area and listening for a hollow sound is a simple way to determine if there may be termites present. Using a sharp knife to make a small slit and inspecting the interior of the wood can also provide evidence of termites.
 
 If you see evidence of termites, you must immediately contact a professional for a thorough inspection and treatment. Sealing the opened area with tape will prevent the termites from fleeing away and allow the inspector to understand the full extent of the problem.
+
+### Mudding coming out of a wall
+
+When you see a 'mud' pack coming out of a wall, it's a clear sign you have termites. It could be a nest behind the wall or a bivouac. A bivouac is not a nest as it doesn't have a nursery where the Queen termite lays eggs.
+
+It is normally a meeting area to feed the juvenile worker termites or grow their fungus source for their protein.
+
+![Termite mud pack coming out from a wall](img/termite-mudding-coming-out-of-a-wall-1.jpg "Termite mud pack coming out from a wall")
 
 ### Cracked or bubbling paint
 
@@ -66,13 +74,15 @@ If you hear [these sounds](https://www.conquertermites.com.au/inspections/found-
 
 {{< youtube youtube SjsUfFH22io >}}
 
-### Termite damage of fungal decay/rot?
+### Termite Damage of Fungal Decay/Wet Rot?
+
+Easy to confuse to the untrained eye.
 
 Termite damage and fungal rot are two **separate** issues that can affect the structure of the wood in a home.
 
-Termite damage occurs when termites consume wood, breaking it down and weakening its structural integrity. This type of damage is often hidden and can go undetected for a long time, leading to significant harm to the structure of a building.
+**Termite damage** occurs when termites consume wood, breaking it down and weakening its structural integrity. This type of damage is often hidden and can go undetected for a long time, leading to significant harm to the structure of a building.
 
-Fungal rot, on the other hand, occurs when certain types of fungi infect the wood, breaking down the cellulose and hemicellulose within it and causing it to become soft and crumbly. A musty odour and visible discolouration of the wood typically accompany this type of damage.
+**Fungal decay**, on the other hand, occurs when certain types of fungi infect the wood, breaking down the cellulose and hemicellulose within it and causing it to become soft and crumbly. A musty odour and visible discolouration of the wood typically accompany this type of damage.
 
 It's important to differentiate between termite damage and fungal rot, as they require different types of treatment and repair. A professional inspection can help determine the cause of the damage and provide the necessary recommendations for addressing it.
 
