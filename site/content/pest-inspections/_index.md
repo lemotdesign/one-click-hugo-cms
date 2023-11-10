@@ -27,6 +27,31 @@ pest_inspections_entries:
 
 
       Check: **'Best Way To Treat Termites - White Ants - Gold Coast'**
+  - text: >-
+      ### Got Termites? Here’s How to Tell
+
+
+      Wondering if those soft spots in your wood are from termites? These critters are sneaky, often doing their damage out of sight. But here's a quick hit-list to spot them:
+
+
+      **1. Mud Tubes:** Spot any weird mud lines on walls or the foundation? Yep, that's a termite sign.
+
+
+      **2. Hollow Wood:** Knock on wood and it sounds empty? Termites might be having a feast inside.
+
+
+      **3. Paint Problems:** Paint cracking or looking weirdly bumpy? Termites could be messing with the moisture in there.
+
+
+      **4. Nighttime Noises:** Hear soft tapping or munching sounds when everything else is quiet? Termites could be the noisy guests.
+
+
+      **5. Termite Swarms:** Seeing flying termites or their lost wings around lights? They might be setting up shop.
+
+
+      For more information, read:
+    imageUrl: img/signs-of-termites-2.jpg
+    heading: What are the Signs of Termites - Gold Coast
   - heading: Gold Coast Termite & Pest Inspection Experts
     text: >-
       ### Gold Coast Termite & Pest Inspection Experts
@@ -250,29 +275,4 @@ pest_inspections_entries:
 
       Read more ...
     imageUrl: img/termite-licenses-queensland.png
-  - text: >-
-      ### Got Termites? Here’s How to Tell
-
-
-      Wondering if those soft spots in your wood are from termites? These critters are sneaky, often doing their damage out of sight. But here's a quick hit-list to spot them:
-
-
-      **1. Mud Tubes:** Spot any weird mud lines on walls or the foundation? Yep, that's a termite sign.
-
-
-      **2. Hollow Wood:** Knock on wood and it sounds empty? Termites might be having a feast inside.
-
-
-      **3. Paint Problems:** Paint cracking or looking weirdly bumpy? Termites could be messing with the moisture in there.
-
-
-      **4. Nighttime Noises:** Hear soft tapping or munching sounds when everything else is quiet? Termites could be the noisy guests.
-
-
-      **5. Termite Swarms:** Seeing flying termites or their lost wings around lights? They might be setting up shop.
-
-
-      For more information, read:
-    imageUrl: img/signs-of-termites-2.jpg
-    heading: What are the Signs of Termites - Gold Coast
 ---
