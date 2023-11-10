@@ -25,7 +25,7 @@ It can be a troubling question for an inexperienced homeowner…. Is this soft p
 
 Termites build mud tubes as a protective shield from the elements and predators as they travel from their colony to the food source. These tubes provide the dark, warm, and humid environment they need to survive. The mud tubes are made by mixing soil and termite saliva to form a paste-like substance that dries to a hardness similar to plaster.
 
-![](/images/uploads/termite-mud-lead-2.jpg "Termites exposed in their mud tube")
+![](img/signs-of-termites-2.jpg "Termites exposed in their mud tube")
 
  If you see mud tubes along your walls or foundation, it's a strong indication of a termite infestation and you should have a professional inspect your home as **soon** as possible.
 
