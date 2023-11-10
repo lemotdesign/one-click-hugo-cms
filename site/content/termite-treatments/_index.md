@@ -32,24 +32,23 @@ termite_treatments_entries:
   - heading: Best Termite Treatments on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
     text: >-
-      #### How do you know you are getting the 'Best' Treatment Company?
+      In the search for the most formidable defence against termites, you must
+      look beyond just effectiveness. There are no guaranteed absolutes in
+      termite prevention, and treatment plans can vary in success. 
 
 
-      Before installing a termite treatment, these are the factors that need to be considered: 
+      #### Consider these essential factors when choosing a termite control provider:
 
 
-      *\*You don't need to understand these variables, but the Termite Technician you engage certainly does!*
+      1. **Proven Effectiveness**: The chemical should consistently stop termite activity.
 
+      2. **Safety Commitment**: The health of your family and the environment should not be compromised.
 
-      * **Species and Colony Size**: Different termite species have varied behaviours and threats. Knowing the species and understanding the size of the colony is fundamental in determining treatment.
+      3. **Lasting Protection**: The duration of the chemical's effectiveness.
 
-      * **Extent of the Infestation**: A localized problem may require a different strategy compared to a widespread infestation.
+      4. **Value for Money**: Invest in a solution that offers the best return, not just the lowest price.
 
-      * **Termite Entry Points**: Identifying how and where termites are entering your home can help target the treatment effectively.
-
-      * **Home Construction and Foundation Type**: Different building materials and foundation types can influence which treatment methods are most appropriate.
-
-      * **Surrounding Landscaping**: Trees, plants, and other landscaping elements around your property can impact termite behaviour and treatment choices.
+      5. **Quality Service**: A professional team should ensure your property is left neat post-treatment. The care factor matters.
 
 
       ### Important information, check these links:
@@ -57,8 +56,7 @@ termite_treatments_entries:
 
       * Check List - Points to consider when choosing the Best Treatment Company
         Types of Termite Treatments on the Gold Coast
-
-      1.
+      * How long does a treatment last
   - heading: Termite Treatment Cost on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
     text: >-
