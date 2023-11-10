@@ -3,22 +3,6 @@ title: Gold Coast Termite & Pest Inspection Experts
 image: img/termite-inspection-conquer-termites-2.jpg
 pest-inspections: []
 pest_inspections_entries:
-  - heading: Gold Coast Termite & Pest Inspection Experts
-    text: >-
-      ### Gold Coast Termite & Pest Inspection Experts
-
-
-      Finding termites (white ants) in your home or garden is scary and unsettling. But for some homeowners, finding a reputable Pest Company to sort out the problem can be just as daunting.
-
-
-      *All you want to know is, ‘Can I trust them, and will they give me the right advice’?*
-
-
-      You can trust Conquer Termites for your termite inspection and treatment needs. Our team of fully licensed technicians are experts in the field, with exceptional skills and extensive experience to deliver reliable termite detection and effective treatment solutions. 
-
-
-      Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
-    imageUrl: img/conquer-termites-gold-coast-best-pest-control-company.png
   - heading: Found Termites – What should I do?
     imageUrl: img/found-termites-three-step-process.jpg
     text: >-
@@ -43,6 +27,22 @@ pest_inspections_entries:
 
 
       Check: **'Best Way To Treat Termites - White Ants - Gold Coast'**
+  - heading: Gold Coast Termite & Pest Inspection Experts
+    text: >-
+      ### Gold Coast Termite & Pest Inspection Experts
+
+
+      Finding termites (white ants) in your home or garden is scary and unsettling. But for some homeowners, finding a reputable Pest Company to sort out the problem can be just as daunting.
+
+
+      *All you want to know is, ‘Can I trust them, and will they give me the right advice’?*
+
+
+      You can trust Conquer Termites for your termite inspection and treatment needs. Our team of fully licensed technicians are experts in the field, with exceptional skills and extensive experience to deliver reliable termite detection and effective treatment solutions. 
+
+
+      Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
+    imageUrl: img/conquer-termites-gold-coast-best-pest-control-company.png
   - heading: How Conquer Termites conducts a Termite Inspection
     text: >-
       ## Premier Termite Inspections in the Gold Coast:
@@ -65,6 +65,69 @@ pest_inspections_entries:
 
       Check: **'How is a Termite Inspection Done - Gold Coast'**
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
+  - heading: Termite Inspection Cost on the Gold Coast
+    text: >-
+      ## How much does a termite (white ant) inspection cost on the Gold Coast?
+
+
+      Suspect you've discovered termites? Now you're wondering, how bad is the damage and how deep will I need to dig into my pockets? 
+
+
+      ‘What is the price’ is an obvious question. You know very little about termites and probably have never engaged a pest control company specialising in treating termites.
+
+
+      On the Gold Coast, the average termite inspection cost for an average-sized house is between **$280 and $330.**
+
+
+      But you must compare apples with apples when selecting a company for your termite inspection. Sadly, our industry significantly differs in quality, knowledge, and approach.
+
+
+      ##### This should include the following:
+
+
+      •	Using devices - Thermal camera, Moisture meter and Termatrac motion detection
+
+      •	Inspect the fenceline, garden, house perimeter, subfloor, internal exposed timbers and roof void
+
+      •	Digital report completed on the day, plus a treatment proposal
+
+      •	It should take up to two hours
+
+
+      For more information: Read More
+    imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
+  - text: >-
+      Purchasing a home is a significant investment, and the last thing you want
+      is to end up with a lemon or a termite-infested property. That's why it's
+      crucial to schedule the right kind of inspection with a qualified and
+      experienced inspector who can conduct a **Timber Pest Inspection**
+      according to the Australian Standard 4349.3.2010.
+
+
+      Unlike a regular visual termite inspection, a Timber Pest Inspection covers:
+
+
+      * Termite infestation  
+
+      * Fungal decay (wet rot)
+
+      * Borer infestation.
+
+
+      This thorough inspection will give you a comprehensive understanding of the condition of the property's timber and identify any pest-related issues that may affect the structural integrity of the building.
+
+
+      #### For more information about:
+
+
+      * Timber Pest Inspection - What It Is and What It Isn't
+
+      * Invasive recommendation - What does that mean?
+
+
+      Read More
+    heading: Pre-purchase Termite Inspection – Timber Pest Inspection
+    imageUrl: img/gold-coast-prepurchase-termite-inspection.png
   - heading: Conquer Termites Digital Report & Treatment Proposal
     text: >-
       #### Clear Information & Treatment Recommendations
@@ -93,6 +156,27 @@ pest_inspections_entries:
 
       *Conquer Termites is dedicated to excellence in every inspection, aiming to provide not just results, but peace of mind.*
     imageUrl: img/termite-inspection-report.jpg
+  - text: >-
+      Ensure your home is safeguarded against termites by scheduling a
+      professional inspection at least **once every year**, as per the
+      Australian Standards 3660.2 guidelines. 
+
+
+      **Maybe more frequently**
+
+
+      Given that certain factors such as the structure's age, construction type, and proximity to woodlands may elevate the risk of termite infestation, more regular check-ups might be necessary for some properties.
+
+
+      **Do you have a current chemical treatment?**
+
+
+      Lacking a continuous chemical barrier around your home's perimeter can leave it very vulnerable to undetected termite invasions. That's why, similar to how you wouldn't skip your annual dental check-up, keeping up with termite inspections is crucial for early detection and prevention - especially if you don't have a treatment!
+
+
+      Check '**How is a Termite Inspection Done**'
+    heading: How often should I get a termite Inspection done?
+    imageUrl: img/termite-inspection-how-often.jpg
   - text: >-
       To help you, we would like to give you a checklist of questions you should
       ask when calling companies on the Gold Coast. 
@@ -145,90 +229,6 @@ pest_inspections_entries:
       * What are dry-wood termites?
       * How you can check your home and garden for termites
     imageUrl: img/asking-termite-questions-2.jpg
-  - text: >-
-      Ensure your home is safeguarded against termites by scheduling a
-      professional inspection at least **once every year**, as per the
-      Australian Standards 3660.2 guidelines. 
-
-
-      **Maybe more frequently**
-
-
-      Given that certain factors such as the structure's age, construction type, and proximity to woodlands may elevate the risk of termite infestation, more regular check-ups might be necessary for some properties.
-
-
-      **Do you have a current chemical treatment?**
-
-
-      Lacking a continuous chemical barrier around your home's perimeter can leave it very vulnerable to undetected termite invasions. That's why, similar to how you wouldn't skip your annual dental check-up, keeping up with termite inspections is crucial for early detection and prevention - especially if you don't have a treatment!
-
-
-      Check '**How is a Termite Inspection Done**'
-    heading: How often should I get a termite Inspection done?
-    imageUrl: img/termite-inspection-how-often.jpg
-  - text: >-
-      Purchasing a home is a significant investment, and the last thing you want
-      is to end up with a lemon or a termite-infested property. That's why it's
-      crucial to schedule the right kind of inspection with a qualified and
-      experienced inspector who can conduct a **Timber Pest Inspection**
-      according to the Australian Standard 4349.3.2010.
-
-
-      Unlike a regular visual termite inspection, a Timber Pest Inspection covers:
-
-
-      * Termite infestation  
-
-      * Fungal decay (wet rot)
-
-      * Borer infestation.
-
-
-      This thorough inspection will give you a comprehensive understanding of the condition of the property's timber and identify any pest-related issues that may affect the structural integrity of the building.
-
-
-      #### For more information about:
-
-
-      * Timber Pest Inspection - What It Is and What It Isn't
-
-      * Invasive recommendation - What does that mean?
-
-
-      Read More
-    heading: Pre-purchase Termite Inspection – Timber Pest Inspection
-    imageUrl: img/gold-coast-prepurchase-termite-inspection.png
-  - heading: Termite Inspection Cost on the Gold Coast
-    text: >-
-      ## How much does a termite (white ant) inspection cost on the Gold Coast?
-
-
-      Suspect you've discovered termites? Now you're wondering, how bad is the damage and how deep will I need to dig into my pockets? 
-
-
-      ‘What is the price’ is an obvious question. You know very little about termites and probably have never engaged a pest control company specialising in treating termites.
-
-
-      On the Gold Coast, the average termite inspection cost for an average-sized house is between **$280 and $330.**
-
-
-      But you must compare apples with apples when selecting a company for your termite inspection. Sadly, our industry significantly differs in quality, knowledge, and approach.
-
-
-      ##### This should include the following:
-
-
-      •	Using devices - Thermal camera, Moisture meter and Termatrac motion detection
-
-      •	Inspect the fenceline, garden, house perimeter, subfloor, internal exposed timbers and roof void
-
-      •	Digital report completed on the day, plus a treatment proposal
-
-      •	It should take up to two hours
-
-
-      For more information: Read More
-    imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
   - heading: Consumer Warning about Termite Inspections on the Gold Coast
     text: >-
       #### **Fake companies - no QBCC license**
