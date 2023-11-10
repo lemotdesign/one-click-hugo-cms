@@ -11,28 +11,22 @@ blurb:
 pest_control_entries:
   - heading: "General Pest Control Package:"
     text: >-
-      With our Pest Control services, you can rest assured that we provide
-      effective\
-
-      management of the following pests:
+      With our General Pest Control treament, you can rest assured that we
+      provide effective management of the following pests:
 
 
-      * **Spiders**
+      * ![Pest we treat for general pest control](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
 
-      * **Cockroaches**
+      * **Here's what you can expect from our thorough process:**
 
-      * **Black ants**
+        * **Initial Consultation:** We begin with a conversation to identify your primary pest concerns and tailor our approach accordingly.
+        * **Detailed Inspection:** Before any treatment, we conduct a walk-around examination to understand the scope of the issue. Remove pet feeding bowls and check for any high-risk areas.
+        * **Indoor Treatment:** Our team meticulously treats the inside of your home, utilizing gel baits and precise spraying along the skirting boards, ensuring every crawl point is covered.
+        * **Roof Treatment:** We administer a dusting treatment through the roof's access point, targeting any pests that may have settled in these less-visible areas.
+        * **Outdoor Treatment:** To conclude, we carefully spray the exterior of your home, forming a residual treatment against spiders and black ants.
 
-      * **Silverfish**
-
-
-      \
-
-      Here’s a short 3-minute video explaining how Conquer Pest Management will treat your home.\
-
-      \
-
-      **CONQUER TERMITES PEST CONTROL VIDEO 2020**
+        \
+        **CONQUER TERMITES PEST CONTROL VIDEO 2020**
     imageUrl: img/general-pest-control-make-your-home-safe.jpg
   - heading: Do you treat other types of pests?
     text: >-
