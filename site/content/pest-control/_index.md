@@ -15,7 +15,7 @@ pest_control_entries:
       provide effective management of the following pests:
 
 
-      * ![Pest we treat for general pest control](img/pest-control-greeting-2.jpg)
+      *   ![Pest we treat for general pest control](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
 
       * **Here's what you can expect from our thorough process:**
 
@@ -27,7 +27,7 @@ pest_control_entries:
 
         \
         **CONQUER TERMITES PEST CONTROL VIDEO 2020**
-    imageUrl: img/general-pest-control-make-your-home-safe.jpg
+    imageUrl: img/pest-control-greeting-2.jpg
   - heading: Do you treat other types of pests?
     text: >-
       As an established pest control company on the Gold Coast, we know that
