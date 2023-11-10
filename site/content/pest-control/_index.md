@@ -64,9 +64,6 @@ pest_control_entries:
       and underdelivers!
 
 
-      ![Conquer Termites Pest Control warranties](img/conquer-termites-pest-control-warranties.jpg)
-
-
       ### **Pest control warranties**
 
 
@@ -97,48 +94,60 @@ pest_control_entries:
       \
 
       How long it takes for new insects to recolonise your home depends on the surroundings and environment. It might take many months before spiders, and black ants recolonise, or they could come back sooner.
-    imageUrl: img/cockroach-bait-gel-safe-and-effective.jpg
+    imageUrl: img/conquer-termites-pest-control-warranties.jpg
   - heading: Will the treatment be safe for my family and pests?
     text: >-
-      This is an understandable question; Sadly, our industry has its’ fair
-      share of cowboys that do shoddy and cheap work, using inappropriate
-      chemicals.
+      ### Your Peace of Mind is Our Priority
 
 
-      ### Conquer only uses the safest and most proven products
+      We understand the concern about the integrity of services and products, particularly in industries like ours where the use of chemicals is involved. Unfortunately, the Pest Treatment sector is not immune to individuals who might cut corners with substandard work and improper chemicals.
 
 
-      For over 20 years, Conquer has carefully selected and tested the safest and most\
-
-      effective products to apply to your home.\
-
-      \
-
-      To reassure you:
+      ### Our Commitment to Safety and Efficacy
 
 
-      * We only use clear odourless Pyrethrin (based on a daisy extract) sprays inside your house
+      For more than two decades, Conquer has been dedicated to meticulously selecting and deploying the most reliable and safest products for use in your home. 
 
-      * We don’t spray inside your kitchen cupboards but apply gel bait.\
 
-      *  The spray we apply outside to control spiders and black ants has the same active ingredient used in Frontline for flea and tick control for your dogs and cats.
+      **Here's our assurance to you:**
+
+
+      * **Indoor Safety:** Inside your home, we utilize stable, odourless sprays derived from Pyrethrin, a natural extract found in chrysanthemum flowers, ensuring no offensive odours or residues.
+
+      * **Kitchen Consideration:** We opt for gel baits inside your kitchen cabinets instead of sprays, prioritizing your food safety and cleanliness.
+
+      * **Pet-Friendly Perimeter Protection:** The same active ingredient we use for outdoor pest control, particularly for spiders and black ants, is also used in Frontline products for flea and tick treatment on pets. This demonstrates our commitment to keeping your beloved animals safe.
+
+
+      At Conquer, we believe in doing things right the first time, with your family's safety and the environment at the forefront of our operations.
+
+
+      Read more ..
     imageUrl: img/pest-control-is-safe-for-pets-and-family.png
   - heading: Do I need to leave during the Pest Treatment?
     text: >-
-      No, there is no need for you to leave the house while we are applying the
-      pest control treatment.\
+      When it comes to pest control, your safety and comfort are paramount. We
+      arrange our treatment process to minimize disruption and maximize
+      protection for you, your family, and your pets.
 
-      \
 
-      We will ask you to vacate the room we are spraying inside and to be careful not to slip on the spray along the edges of the hard floors until it has dried.\
+      **Here's what we recommend during treatment:**
 
-      \
 
-      When we spray the outside, we will ask you to bring your pets in and temporarily close the windows.\
+      * **While Spraying Indoors:** We advise you to step outside. This allows the treatment to settle and minimizes exposure to the application process.
 
-      \
+      * **While Treating Outdoors:** Conversely, it's best to remain indoors. This helps prevent any direct contact with the treatments and ensures the application is undisturbed.
 
-      But if you want to pop out for a walk or coffee, we understand.
+      * **Post-Treatment:** We ask that you avoid the treated areas until they are completely dry. This drying period is crucial for the effectiveness of the treatment and your safety.
+
+
+      **We will send you information for the best outcome**
+
+
+      We will email you a "Pest Advice Notice" before the treatment so you know what to do before we come and what to do after the treatment
+
+
+      Read more...
     imageUrl: img/pest-control-greeting-2.jpg
   - heading: How long does a Pest Control Treatment take?
     text: >-
