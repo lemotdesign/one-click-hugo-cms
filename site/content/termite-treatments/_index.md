@@ -3,7 +3,7 @@ title: Termite Treatment Control Gold Coast
 image: img/termite-treatment-2.jpg
 termite_treatments_entries:
   - heading: Best Termite Treatments on the Gold Coast
-    imageUrl: img/termite-treatment-how-much-does-it-cost.png
+    imageUrl: img/conquer-termites-gold-coast.png
     text: >-
       ### Two Decades Strong in Termite Defense
 
@@ -100,38 +100,4 @@ termite_treatments_entries:
       * Visual Inspection Zone
 
       * Concrete Cut-Out Protection
-  - text: >-
-      The most effective termite treatment is one that stops termites, right?
-      But knowing there are **no** absolutes when protecting a house and that
-      treatments can fail, it's crucial to weigh all the factors before you
-      decide on a company to handle your termite situation.
-
-
-      ### Picking the Right Termite Treatment
-
-
-      Looking for the best termite killer? Remember, no one-size-fits-all here. Before you pick a pest control service, think about these:
-
-
-      1. Does it stop termites?
-
-      2. Is it safe for you and the planet?
-
-      3. Will it last long enough?
-
-      4. Is the price right for the quality?
-
-      5. Will they leave your place neat and tidy?
-
-
-      #### For more important information, please read: 
-
-
-      * Types of Termite Management Systems
-
-      * How long does the termite treatment last?
-
-      * How much is a Termite Treatment?
-    heading: What is the Best Treatment to stop Termites?
-    imageUrl: img/types-of-termite-management-system.jpg
 ---
