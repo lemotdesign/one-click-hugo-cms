@@ -32,9 +32,13 @@ termite_treatments_entries:
   - heading: Best Termite Treatments on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
     text: >-
-      In the search for the most formidable defence against termites, you must
-      look beyond just effectiveness. There are no guaranteed absolutes in
-      termite prevention, and treatment plans can vary in success. 
+      ### Two Decades Strong in Termite Defense
+
+
+      We've been tackling termite troubles on the Gold Coast for over 20 years at Conquer Termites. That's plenty of time to get really good at what we do – figuring out the best ways and the top-notch chemicals to keep those termites at bay. 
+
+
+      You can Trust us to keep your home safe; we've got this - It's what we specialise in.
 
 
       #### Consider these essential factors when choosing a termite control provider:
@@ -55,8 +59,10 @@ termite_treatments_entries:
 
 
       * Check List - Points to consider when choosing the Best Treatment Company
-        Types of Termite Treatments on the Gold Coast
-      * How long does a treatment last
+
+      * Types of Termite Treatments on the Gold Coast
+
+      * How long does a treatment last?
   - heading: Termite Treatment Cost on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
     text: >-
