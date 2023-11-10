@@ -3,6 +3,7 @@ title: What are the Signs of Termites
 date: 2023-11-10T00:37:26.003Z
 description: "Found something strange in your home or garden and you are
   wondering: Are these Termites? "
+image: img/signs-of-termites-2.jpg
 ---
 ### How do you know if you got termites?
 
