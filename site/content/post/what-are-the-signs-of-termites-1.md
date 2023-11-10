@@ -64,7 +64,7 @@ On quiet nights, you may be able to hear the soft gnawing sounds made by worker 
 
 If you hear [these sounds](https://www.conquertermites.com.au/inspections/found-termites/termite-sounds/), it's a strong indication of a termite infestation and you should have a professional inspect your home as soon as possible.
 
-
+{{< youtube youtube SjsUfFH22io >}}
 
 ### Termite damage of fungal decay/rot?
 
