@@ -15,7 +15,7 @@ pest_control_entries:
       provide effective management of the following pests:
 
 
-      * ![Pest we treat for general pest control](img/cockroach-bait-gel-safe-and-effective.jpg)
+      * ![Pest we treat for general pest control](img/pest-control-greeting-2.jpg)
 
       * **Here's what you can expect from our thorough process:**
 
