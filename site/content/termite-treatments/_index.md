@@ -31,7 +31,34 @@ termite_treatments_entries:
     imageUrl: img/signs-of-termites-2.jpg
   - heading: Best Termite Treatments on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
-    text: l
+    text: >-
+      #### How do you know you are getting the 'Best' Treatment Company?
+
+
+      Before installing a termite treatment, these are the factors that need to be considered: 
+
+
+      *\*You don't need to understand these variables, but the Termite Technician you engage certainly does!*
+
+
+      * **Species and Colony Size**: Different termite species have varied behaviours and threats. Knowing the species and understanding the size of the colony is fundamental in determining treatment.
+
+      * **Extent of the Infestation**: A localized problem may require a different strategy compared to a widespread infestation.
+
+      * **Termite Entry Points**: Identifying how and where termites are entering your home can help target the treatment effectively.
+
+      * **Home Construction and Foundation Type**: Different building materials and foundation types can influence which treatment methods are most appropriate.
+
+      * **Surrounding Landscaping**: Trees, plants, and other landscaping elements around your property can impact termite behaviour and treatment choices.
+
+
+      ### Important information, check these links:
+
+
+      * Check List - Points to consider when choosing the Best Treatment Company
+        Types of Termite Treatments on the Gold Coast
+
+      1.
   - heading: Termite Treatment Cost on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
     text: >-
