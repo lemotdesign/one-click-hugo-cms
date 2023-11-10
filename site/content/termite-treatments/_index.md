@@ -34,7 +34,27 @@ termite_treatments_entries:
     text: l
   - heading: Termite Treatment Cost on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
-    text: l
+    text: >-
+      ### Understanding Termite Treatment Costs on the Gold Coast
+
+
+      When termites invade, they can turn your safe abode into a risk zone. If you're encountering these unwelcome guests on the Gold Coast, it's natural to consider the financial aspect of the eradication process.
+
+
+      ##### Termite Treatment Costs Overview
+
+
+      The cost of termite treatment on the Gold Coast depends on the method used:
+
+
+      1. **Chemical Barriers:** Popular among homeowners, treatments like Termidor HE typically cost between $3,000 to $4,000, with variations based on the home's perimeter and chosen chemical.
+
+      2. **Baiting Systems:** These may range from $1,500 to $3,000 plus ongoing monitoring fees, determined by the property size and number of stations needed.
+
+      3. **Physical Barriers**: Prices for these pre-construction deterrents are custom quoted based on the specific project requirements.
+
+
+      For more detailed information, please refer to our pages on T**ermite Treatment Barrier Cost - Gold Coast**
   - heading: Termite Baiting on the Gold Coast
     imageUrl: img/termite-treatment-baiting-system.png
     text: >-
