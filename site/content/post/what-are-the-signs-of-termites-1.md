@@ -24,7 +24,7 @@ It can be a troubling question for an inexperienced homeowner…. Is this soft p
 
 Termites build mud tubes as a protective shield from the elements and predators as they travel from their colony to the food source. These tubes provide the dark, warm, and humid environment they need to survive. The mud tubes are made by mixing soil and termite saliva to form a paste-like substance that dries to a hardness similar to plaster.
 
-![](blob:https://www.conquertermites.com.au/fbc7bec2-0171-45b0-a695-b9a153149a2b "Termites exposed in their mud tube")
+![Termite lead going over an ant cap](img/termite-mudding-leads.jpg "Termites exposed in their mud tube")
 
 If you see mud tubes along your walls or foundation, it's a strong indication of a termite infestation and you should have a professional inspect your home as **soon** as possible.
 
@@ -34,13 +34,13 @@ When you see a 'mud' pack coming out of a wall, it's a clear sign you have termi
 
 It is normally a meeting area to feed the juvenile worker termites or grow their fungus source for their protein.
 
-![](blob:https://www.conquertermites.com.au/7d9070b2-6309-4b5a-9c6b-c5af8882d58b "Termite mud pack coming out from a wall")
+![Termite mud pack coming out from a wall](img/termite-mudding-coming-out-of-a-wall-1.jpg "Termite mud pack coming out from a wall")
 
 ### Hollow or soft timbers
 
 Soft pine timber is highly desirable for termites and is often used for door and window frames, skirting boards, and other wood structures in the home. Termites will eat the timber from the inside out, leaving a thin layer between them and the outside world.
 
-![](blob:https://www.conquertermites.com.au/483d3f73-db6c-4234-824a-04c1460cd494 "Hollow timber damaged by termites")
+![Termite damage in a roof - hollow timbers](img/termite-damage-in-a-roof-hollow-timber.jpg "Hollow timber damaged by termites")
 
 **How can you tell?**
 
