@@ -54,7 +54,7 @@ Moisture buildup from termite activity can cause paint on wooden surfaces to cra
 
 If you see cracked or bubbling paint, especially in areas where there may be termite activity, it's important to have a professional inspect your home to determine the cause and take appropriate action to address any termite infestations.
 
-![Bubbling cracked paint caused by termites](blob:https://www.conquertermites.com.au/26593f12-5160-49be-a410-0b15d23456b6)
+![Bubbling cracked paint caused by termites](img/termite-damage-cracked-or-bubbling-paint.jpg)
 
 ### Termite noise - sounds termites make
 
@@ -64,7 +64,7 @@ On quiet nights, you may be able to hear the soft gnawing sounds made by worker 
 
 If you hear [these sounds](https://www.conquertermites.com.au/inspections/found-termites/termite-sounds/), it's a strong indication of a termite infestation and you should have a professional inspect your home as soon as possible.
 
-![Youtube Video](https://i3.ytimg.com/vi/EbHTQqVe6YA/hqdefault.jpg)
+
 
 ### Termite damage of fungal decay/rot?
 
