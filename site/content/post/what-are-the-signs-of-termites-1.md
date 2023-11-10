@@ -64,7 +64,7 @@ On quiet nights, you may be able to hear the soft gnawing sounds made by worker 
 
 If you hear [these sounds](https://www.conquertermites.com.au/inspections/found-termites/termite-sounds/), it's a strong indication of a termite infestation and you should have a professional inspect your home as soon as possible.
 
-
+{{< youtube youtube SjsUfFH22io >}}
 
 ### Termite damage of fungal decay/rot?
 
@@ -76,7 +76,7 @@ Fungal rot, on the other hand, occurs when certain types of fungi infect the woo
 
 It's important to differentiate between termite damage and fungal rot, as they require different types of treatment and repair. A professional inspection can help determine the cause of the damage and provide the necessary recommendations for addressing it.
 
-![Fugal decay outside - not termite damage](blob:https://www.conquertermites.com.au/50ba302c-3dc1-4cf6-a375-7131433db733)
+![Fugal decay outside - not termite damage](img/fungal-decay-in-weatherboard-external-wall.jpg)
 
 ### Time to get the professionals in?
 
@@ -85,5 +85,3 @@ If you suspect that you have termites in your home, it's important to seek the a
 A Conquer Termites Inspector knows the best way to accurately assess the situation and provide a comprehensive report on what steps need to be taken to eliminate the termites.
 
 #### Call NOW on [1300 417 007](tel:1300417007)
-
-<!--EndFragment-->
