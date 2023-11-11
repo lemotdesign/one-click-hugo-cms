@@ -4,7 +4,7 @@
 
 <div class="center mw8 pv3">
 
-  {{ range $index, $element := .Params.3_step_process_entries}}
+  {{ range $index, $element := .Params.three_step_process_entries}}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}

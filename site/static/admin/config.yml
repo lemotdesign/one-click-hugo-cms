@@ -163,7 +163,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: 3 Step Process Entries
-            name: 3_step_process_entries
+            name: three_step_process_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
