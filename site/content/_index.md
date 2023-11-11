@@ -27,7 +27,7 @@ home_page_entries:
       What are the signs of termites?
       What should to do if I find termites in the garden/trees?
       Where do termites come from?
-      Who to call on the GC?
+      Send us a photo for expert identification
     imageUrl: img/hearing-termite-noises-in-your-wall.png
   - heading: Termite Pest Inspection Gold Coast
     text: |-
