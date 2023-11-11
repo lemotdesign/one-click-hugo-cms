@@ -149,8 +149,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: Found Termites Content
-            name: found-termites
+          - label: Found Termites Entries
+            name: found_termites_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}

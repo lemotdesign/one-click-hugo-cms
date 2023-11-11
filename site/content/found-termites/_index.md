@@ -1,7 +1,7 @@
 ---
 title: Found Termites
 image: img/termite-treatment-2.jpg
-termite_treatments_entries:
+found_termites_entries:
   - heading: Best Termite Treatments on the Gold Coast
     imageUrl: img/conquer-termites-gold-coast.png
     text: >-

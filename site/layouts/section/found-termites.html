@@ -4,7 +4,7 @@
 
 <div class="center mw8 pv3">
 
-  {{ range $index, $element := .Params.found-termites}}
+  {{ range $index, $element := .Params.found_termites_entries}}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}
