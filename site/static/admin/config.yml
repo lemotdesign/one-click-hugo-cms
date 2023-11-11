@@ -176,7 +176,59 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: What Do Termites Look Like Entries
-            name: termites_look_entries
+            name: what_do_termites_look_like_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/signs-of-termites/_index.md"
+        label: "Signs Of Termites"
+        name: "SignsOfTermitesPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Signs Of Termites Entries
+            name: signs_of_termites_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/termites-in-garden/_index.md"
+        label: "Termites In Garden"
+        name: "TermitesInGardenPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Termites In Garden Entries
+            name: termites_in_garden_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/termites-in-trees-and-stumps/_index.md"
+        label: "Termites In Trees And Stumps"
+        name: "TermitesInTreesAndPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Termites In Trees And Stumps Entries
+            name: termites_in_trees_and_stumps_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/where-do-termites-come-from/_index.md"
+        label: "Where Do Termites Come From"
+        name: "WhereDoTermitesComeFromPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Where Do Termites Come From Entries
+            name: where_do_termites_come_from_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}

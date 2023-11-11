@@ -1,5 +1,5 @@
 ---
-title: 3 Step Process
+title: What Do Termites Look Like?
 image: img/termite-treatment-2.jpg
-3_step_process_entries:
+what_do_termites_look_like_entries:
 ---
