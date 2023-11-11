@@ -18,7 +18,7 @@ You're not the Termite Expert and you probably don't know what to look for. But 
 
 ## Watch our Termite Inspection Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube ZE6jMsa2SBs >}}
 
 ### How do I know the Termite Inspection has been done correctly?
 
