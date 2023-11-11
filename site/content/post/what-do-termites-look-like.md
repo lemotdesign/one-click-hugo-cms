@@ -11,6 +11,20 @@ image: img/found-termites-live-termites.jpg
 
 Termites are indeed fascinating creatures, often hidden from sight. They are small, soft-bodied insects that live in large colonies. 
 
+### What to do if you think you have found termites?
+
+1. **Don’t Disturb Them**: Avoid disturbing the termites. This can cause them to scatter potentially making it harder to eradicate them.
+2. **Call a Professional Termite Expert**: Professional pest controllers have the skills, experience, and equipment necessary to effectively deal with termite problems. They can assess the situation, identify the termite species, and determine the best course of action.
+3. **Send us a photo**: For clear confirmation with an expert, send us a photo for quick and free identification. 
+
+### Here are some more useful pages you might want to check:
+
+1. What are the signs of Termites
+2. The Three-Step Process if you have Termites
+3. Best Way to Treat Termites
+
+### Are they Termites or White Ants?
+
 A lot of the lime homeowners confused termites with Black Ants. The confusion stems from their uncanny physical similarities. Both species boast six legs, sport antennae, and live in tight-knit colonies. However, that's where the similarities end, as they differ substantially in body structure and behaviour.
 
 ![Difference between a Termite and Black Ant](img/black-ant-vs-termite-body-shape.png)
@@ -24,15 +38,3 @@ Termite appearance can vary slightly depending on their role within the colony. 
 3. **Reproductive Termites**: These include the king, queen, and alates (winged termites). The queen is much larger than the other termites and can live for several years, laying thousands of eggs. Alates are the ones you might see during certain times of the year when they swarm to start new colonies.
 
 ![Termite Life Cycle Australia](img/3.png)
-
-### What to do if you think you have found termites?
-
-1. **Don’t Disturb Them**: Avoid disturbing the termites. This can cause them to scatter potentially making it harder to eradicate them.
-2. **Call a Professional Termite Expert**: Professional pest controllers have the skills, experience, and equipment necessary to effectively deal with termite problems. They can assess the situation, identify the termite species, and determine the best course of action.
-3. **Send us a photo**: For clear confirmation with an expert, send us a photo for quick and free identification. 
-
-### Here are some more useful pages you might want to check:
-
-1. What are the signs of Termites
-2. The Three Step Process if you have Termites
-3. Best Way to Treat Termites
