@@ -1,7 +1,7 @@
 ---
 title: YOUR LOCAL GOLD COAST TERMITE & PEST CONTROL PROFESSIONALS
-subtitle: Brisbane & Gold Coast termite and pest control experts
-image: img/pest-control-photo.jpg
+subtitle: Gold Coast Termite and Pest Control Experts
+image: img/conquer-termites-team.jpg
 home_page_entries:
   - heading: "At Conquer Termites Gold Coast, we're committed to delivering safe and
       effective pest control solutions for homeowners. Our mission is to protect
@@ -12,67 +12,59 @@ home_page_entries:
     imageUrl: img/team-conquer-termites.jpg
   - heading: Why choose Conquer Termites
     text: |-
-      - Friendly with a caring attitude\n\n
-      - Gold Coast’s best-equipped and experienced technicians\n\n
-      - Reputation built on excellent service\n\n
-      - Fully Insured to $5,000,000\n\n
-      - QBCC License for termite work\n\n
-      - Family owned 20 years+\n\n
-    imageUrl: img/cockroach-bait-gel-safe-and-effective.jpg
+      * Friendly with a caring attitude
+      * Gold Coast’s best-equipped and experienced technicians
+      * Reputation built on excellent service
+      * Fully Insured to $5,000,000
+      * QBCC License for all termite work
+      * Family-owned and operated for 20 years+
+    imageUrl: img/conquer-termites-team.jpg
   - heading: Found Termites on the Gold Coast?
     text: |-
       Found termites? **What to do**
-      **The 3 Step process to remove termites
+      The 3 Step process to remove termites
       What do termites look like?
       What are the signs of termites?
       What should to do if I find termites in the garden/trees?
       Where do termites come from?
-      Who to call on the GC?**
-    imageUrl: img/3.png
+      Who to call on the GC?
+    imageUrl: img/hearing-termite-noises-in-your-wall.png
   - heading: Termite Pest Inspection Gold Coast
     text: |-
-      **Termite inspection/check cost - Gold Coast**\
-      **How is a termite inspection done**\
-      How long does it take\
-      Where do you check\
-      What devices are used\
-      **Pre-purchase inspection** – Timber Pest Inspection – Are you buying?\
-      **Termite inspection - Who to call on the GC?**
-    imageUrl: img/asking-termite-questions-2.jpg
+      Termite inspection cost on the Gold Coast\
+      How is a termite inspection done?\
+      How long does a Termite Inspection take?\
+      Where do you check for Termites?\
+      What devices are used for a Termite Inspection?\
+      Pre-purchase inspection – Timber Pest Inspection-\
+      Best Termite inspection - Who to call on the Gold Coast?
+    imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - heading: Termite Treatment - Control Gold Coast
     text: |-
-      **Best way to treat your home for termites – White Ants**\
-      **What is the best Termite control, treatment, barrier**\
-      **Termite treatment cost on the Gold Coast**\
-      **Baiting programs/systems**\
-      **Pre-construction treatments**
-    imageUrl: img/asking-termite-questions-2.jpg
+      Best way to treat your home for Termites – White Ants\
+      What is the best Termite control - Treatment - Barrier\
+      Termite treatment cost on the Gold Coast\
+      Baiting programs - systems\
+      Pre-construction Treatments
+    imageUrl: img/conquer-termites-gold-coast.png
   - heading: Pest Control Treatments Gold Coast
     text: >-
       **General Pest Control Package**
 
 
-      Safe and effective treatment for your home, keeping your family and pets safe.\
-
-      \
-
-      **Specialised Pest Control Treatments**
+      Safe and effective treatment for your home, keeping your family and pets safe.
 
 
-      *Rodents*\
+      * What is treated?
 
-      *Fleas*\
+      * Is it safe for my family and pests?
 
-      *Weevils*\
+      * How long does it take?
 
-      *Carpet moth*\
+      * What are the Pest Control Warranties?
 
-      *Lawn grubs*\
-
-      *Bed bugs*\
-
-      *Mosquitoes*
-    imageUrl: img/black-ant-vs-termite-body-shape.png
+      * Do you treat other pests? **Specialised Pest Control Treatments**
+    imageUrl: img/pest-control-greeting-2.jpg
 blurb:
   heading: "Trust our team of experts "
   text: At Conquer Termites Gold Coast, we're committed to delivering safe and
