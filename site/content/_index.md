@@ -19,7 +19,7 @@ home_page_entries:
       * QBCC License for all termite work
       * Family-owned and operated for 20 years+
     imageUrl: img/conquer-termites-team.jpg
-  - heading: Found Termites on the Gold Coast?
+  - heading: Found Termites - What to Do
     text: |-
       Found termites? **What to do**
       The 3 Step process to remove termites
