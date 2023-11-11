@@ -24,7 +24,7 @@ home_page_entries:
       * Fully Insured to $5,000,000
       * QBCC License for all termite work
       * Family-owned and operated for 20 years+
-    imageUrl: img/asking-termite-questions-2.jpg
+    imageUrl: img/conquer-termites-on-the-goild-coast.jpg
   - heading: Found Termites - What to Do
     text: |-
       Found termites? **What to do**
