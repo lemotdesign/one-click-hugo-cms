@@ -149,15 +149,34 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: Found Termites
-            name: found-termites
+          - label: Found Termites Entries
+            name: found_termites_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
-          - label: Found Termites Entries
-            name: found_termites_entries
+      - file: "site/content/3-step-process/_index.md"
+        label: "3 Step Process"
+        name: "3StepProcessPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: 3 Step Process Entries
+            name: 3_step_process_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/what-do-termites-look-like/_index.md"
+        label: "What Do Termites Look Like"
+        name: "WhatDoTermitesLookLikePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: What Do Termites Look Like Entries
+            name: termites_look_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
