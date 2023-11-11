@@ -3,8 +3,7 @@ title: YOUR LOCAL GOLD COAST TERMITE & PEST CONTROL PROFESSIONALS
 subtitle: Gold Coast Termite and Pest Control Experts
 image: img/conquer-termites-crew-on-the-gold-coast.jpg
 home_page_entries:
-  - heading: Friendly professional Pest Technicians who will treat you and your home
-      with respect.
+  - heading: Bugs can be scary - the pest control guy shouldn’t be!
     text: >-
       At Conquer Termites Gold Coast, we're committed to delivering safe and
       effective pest control solutions for homeowners. Our mission is to protect
@@ -15,7 +14,7 @@ home_page_entries:
       Trust our team of experts to provide advanced and reliable pest control services tailored to your needs.
 
 
-       *Bugs can be scary; the pest control guy shouldn’t be!*
+      *Friendly professional Pest Technicians who will treat you and your home with respect.*
     imageUrl: img/team-conquer-termites.jpg
   - heading: Why choose Conquer Termites
     text: |-
@@ -25,7 +24,7 @@ home_page_entries:
       * Fully Insured to $5,000,000
       * QBCC License for all termite work
       * Family-owned and operated for 20 years+
-    imageUrl: img/conquer-termites-team.jpg
+    imageUrl: img/conquer-termites-on-the-goild-coast.jpg
   - heading: Found Termites - What to Do
     text: |-
       Found termites? **What to do**
