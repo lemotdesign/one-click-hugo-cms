@@ -27,12 +27,10 @@ pest_control_entries:
 
         \
         **CONQUER TERMITES PEST CONTROL VIDEO 2020**
-    imageUrl: img/pest-control-greeting-2.jpg
+    imageUrl: img/cockroach-bait-gel-safe-and-effective.jpg
   - heading: Do you treat other types of pests?
     text: >-
-      As an established pest control company on the Gold Coast, we know that
-      our\
-
+      As an established pest control company on the Gold Coast, we know that our
       customers might experience other annoying pests like:
 
 
