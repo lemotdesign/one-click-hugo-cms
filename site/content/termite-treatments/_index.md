@@ -1,41 +1,34 @@
 ---
 title: Termite Treatment Control Gold Coast
-image: img/termite-treatment-2.jpg
+image: img/conquer-termites-gold-coast.png
 termite_treatments_entries:
   - heading: Best Termite Treatments on the Gold Coast
-    imageUrl: img/conquer-termites-gold-coast.png
+    imageUrl: img/conquer-termites-two-utes-treating-a-house.jpg
     text: >-
+      ### What makes a Termite Pest Company the Best?
+
+
+      Consider these essential factors when choosing a termite control provider:
+
+
+      * **Locally based** company with proven treatment experience on the Gold Coast
+
+      * **Use best quality chemicals**: Conquer only applies Termidor HE - not cheap generic formulations
+
+      * **Safety Commitment**: The health of your family and the environment is paramount. 
+
+      * **Value for Money**: Invest in a solution that offers the best return, not just the lowest price.
+
+      * **Quality Service**: A professional team should ensure your property is left neat post-treatment. The care factor matters.
+
+
       ### Two Decades Strong in Termite Defense
 
 
       We've been tackling termite troubles on the Gold Coast for over 20 years at Conquer Termites. That's plenty of time to get really good at what we do – figuring out the best ways and the top-notch chemicals to keep those termites at bay. 
 
 
-      You can Trust us to keep your home safe; we've got this - It's what we specialise in.
-
-
-      #### Consider these essential factors when choosing a termite control provider:
-
-
-      1. **Proven Effectiveness**: The chemical should consistently stop termite activity.
-
-      2. **Safety Commitment**: The health of your family and the environment should not be compromised.
-
-      3. **Lasting Protection**: The duration of the chemical's effectiveness.
-
-      4. **Value for Money**: Invest in a solution that offers the best return, not just the lowest price.
-
-      5. **Quality Service**: A professional team should ensure your property is left neat post-treatment. The care factor matters.
-
-
-      ### Important information, check these links:
-
-
-      * Check List - Points to consider when choosing the Best Treatment Company
-
-      * Types of Termite Treatments on the Gold Coast
-
-      * How long does a treatment last?
+      *You can Trust us to keep your home safe; we've got this - It's what we specialise in.*
   - heading: Termite Treatment Cost on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
     text: >-
@@ -58,7 +51,7 @@ termite_treatments_entries:
       3. **Physical Barriers**: Prices for these pre-construction deterrents are custom quoted based on the specific project requirements.
 
 
-      For more detailed information, please refer to our pages on T**ermite Treatment Barrier Cost - Gold Coast**
+      For more detailed information, please read: **Termite Treatment Barrier Cost - Gold Coast**
   - heading: Termite Baiting on the Gold Coast
     imageUrl: img/termite-treatment-baiting-system.png
     text: >-
@@ -78,19 +71,15 @@ termite_treatments_entries:
   - heading: Pre-Construction Termite Protection Gold Coast
     imageUrl: img/pre-con-homeguard-install.png
     text: >-
-      For new construction projects, implementing termite control measures
-      during the building phase (commonly referred to as pre-construction or
-      "Pre-Con") is a smart strategy to safeguard the property from future
-      termite threats. At Conquer Termites, we offer a range of specialized
-      solutions suitable for various construction types and requirements:
+      ### Doing renovations or building your dream home?
 
 
-      1. **FMC Homeguard**: Available as both a physical sheeting and a parging paint, FMC Homeguard acts as an effective termite barrier. It is specifically engineered to prevent termite entry, providing lasting defence for the new build.
+      At Conquer Termites, we offer a range of specialized solutions suitable for various construction types and requirements:
 
-      2. **Greenzone**: This innovative product combines the functions of an expansion joint foam with termite-repellent capabilities. Greenzone is an excellent choice for builders looking for a dual-purpose solution that also repels termites.
 
-      3. **Reticulation System**: A reticulation system is installed along the external perimeter of the building and involves a network of underground pipes. This system is designed for the future reapplication of termite control chemicals, offering a long-term termite management solution without the need for disruptive re-treatment processes.
-
+      1. 1. **FMC Homeguard**: As physical sheeting or parging paint, it effectively prevents termite entry, ideal for new constructions.
+         2. **Greenzone**: Combines expansion joint foam with termite repellency, suitable for builders seeking a dual-purpose product.
+         3. **Reticulation System**: Installed underground around a building's perimeter, this network of pipes allows easy reapplication of termite control chemicals, providing a long-term, non-disruptive solution.
 
       **Read more about:**
 
