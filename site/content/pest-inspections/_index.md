@@ -4,29 +4,25 @@ image: img/termite-inspection-conquer-termites-2.jpg
 pest-inspections: []
 pest_inspections_entries:
   - heading: Found Termites – What should I do?
-    imageUrl: img/found-termites-three-step-process.jpg
+    imageUrl: img/found-termites-live-termites.jpg
     text: >-
       If you've discovered live termites in your home or garden, it's essential
-      to handle the situation calmly and strategically. 
+      to handle the situation calmly and strategically. *Don't Panic and reach
+      for that can of spray*
 
 
-      #### Here are the steps you should take:
+      ### You might want to read these pages:
 
 
-      1. **Don’t Disturb Them**: Avoid disturbing the termites. This can cause them to scatter potentially making it harder to eradicate them.
+      * What are the Signs of Termites
 
-      2. **Call a Professional Termite Expert**: Professional pest controllers have the skills, experience, and equipment necessary to effectively deal with termite problems. They can assess the situation, identify the termite species, and determine the best course of action.
+      * What do Termites look like?
 
-      3. **Follow the Three-Step Process**:
+      * The Three-Stage Treatment Process when you find Termites
 
-         * **Inspection**: Conquer Termites will carry out a thorough inspection of your property to determine the extent of the infestation and the species of termite.
-         * **Initial Treatment**: Once we have completed the full inspection, our Technician can apply a controlling agent to the areas where live termites have been found.
-         * **Long-term Prevention**: Based on the inspection and initial treatment, our Inspector will recommend a treatment plan. This may include bait systems, chemical barriers, or direct colony eradication methods.
+      * The Best way to treat Termites
 
-      #### Don't Panic and reach for that can of spray
-
-
-      Check: **'Best Way To Treat Termites - White Ants - Gold Coast'**
+      * What to do if you find Termites in a Tree
   - text: >-
       ### Got Termites? Here’s How to Tell
 
