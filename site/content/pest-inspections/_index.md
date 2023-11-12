@@ -11,7 +11,7 @@ pest_inspections_entries:
       for that can of spray*
 
 
-      ### You might want to read these pages:
+      ### You might want to read:
 
 
       * What are the Signs of Termites
@@ -27,25 +27,21 @@ pest_inspections_entries:
       ### Got Termites? Here’s How to Tell
 
 
-      Wondering if those soft spots in your wood are from termites? These critters are sneaky, often doing their damage out of sight. But here's a quick hit-list to spot them:
+      Wondering if those soft spots in your wood are from termites? These critters are sneaky, often doing their damage out of sight. 
 
 
-      **1. Mud Tubes:** Spot any weird mud lines on walls or the foundation? Yep, that's a termite sign.
+      ### Here's a few useful pages you might want to read:
 
 
-      **2. Hollow Wood:** Knock on wood and it sounds empty? Termites might be having a feast inside.
+      * **Five Signs** that you have Termites
 
+      * What do Termites look like?
 
-      **3. Paint Problems:** Paint cracking or looking weirdly bumpy? Termites could be messing with the moisture in there.
+      * What's the difference between a Termite and a Black Ant?
 
+      * Termite Noises - what sound do Termites make?
 
-      **4. Nighttime Noises:** Hear soft tapping or munching sounds when everything else is quiet? Termites could be the noisy guests.
-
-
-      **5. Termite Swarms:** Seeing flying termites or their lost wings around lights? They might be setting up shop.
-
-
-      For more information, read: **Five Tell Tail Signs of Termites**
+      * Termite damage or Fungal Decay?
     imageUrl: img/signs-of-termites-2.jpg
     heading: What are the Signs of Termites - Gold Coast
   - heading: Gold Coast Termite & Pest Inspection Experts
