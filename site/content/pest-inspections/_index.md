@@ -18,11 +18,14 @@ pest_inspections_entries:
 
       * What do Termites look like?
 
-      * The Three-Stage Treatment Process when you find Termites
+      * The Three-Stage Treatment Process 
 
       * The Best way to treat Termites
 
       * What to do if you find Termites in a Tree
+
+
+      Send us a photo, and one of our Termite Experts will identify it straight away.
   - text: >-
       ### Got Termites? Here’s How to Tell
 
