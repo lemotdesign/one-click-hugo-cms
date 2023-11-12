@@ -1,7 +1,7 @@
 ---
 title: YOUR LOCAL GOLD COAST TERMITE & PEST CONTROL PROFESSIONALS
 subtitle: Gold Coast Termite and Pest Control Experts
-image: img/conquer-termites-crew-on-the-gold-coast.jpg
+image: img/dan-outside-inspecting.jpg
 home_page_entries:
   - heading: Bugs can be scary - the pest control guy shouldn’t be!
     text: >-
