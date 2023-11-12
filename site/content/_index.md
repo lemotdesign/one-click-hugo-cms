@@ -1,7 +1,7 @@
 ---
 title: YOUR LOCAL GOLD COAST TERMITE & PEST CONTROL PROFESSIONALS
 subtitle: Gold Coast Termite and Pest Control Experts
-image: img/conquer-termites-crew-on-the-gold-coast.jpg
+image: img/dan-outside-inspecting.jpg
 home_page_entries:
   - heading: Bugs can be scary - the pest control guy shouldn’t be!
     text: >-
@@ -35,7 +35,7 @@ home_page_entries:
       Where do termites come from?
       Send us a photo for expert identification
     imageUrl: img/hearing-termite-noises-in-your-wall.png
-  - heading: Termite Pest Inspection Gold Coast
+  - heading: Termite Pest Inspection - Best on the Gold Coast
     text: |-
       Best Termite inspection - Who to call on the Gold Coast?
 
@@ -51,7 +51,7 @@ home_page_entries:
 
       Pre-purchase Inspection – Timber Pest Inspection
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
-  - heading: Termite Treatment - Control Gold Coast
+  - heading: Termite Treatment & Control - Gold Coast
     text: |-
       Best way to treat your home for Termites – White Ants
 
@@ -65,7 +65,7 @@ home_page_entries:
 
       Concrete Slab Cut Out Protection
     imageUrl: img/conquer-termites-gold-coast.png
-  - heading: Pest Control Treatments Gold Coast
+  - heading: Pest Control Treatments Best on the Gold Coast
     text: >-
       **General Pest Control Package**
 
