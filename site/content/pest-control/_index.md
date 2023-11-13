@@ -103,7 +103,7 @@ pest_control_entries:
       At Conquer, we believe in doing things right the first time, with your family's safety and the environment at the forefront of our operations.
 
 
-      Read more ..
+      Read more about our Safe Pest Control.
     imageUrl: img/pest-control-is-safe-for-pets-and-family.png
   - heading: Do I need to leave during the Pest Treatment?
     text: >-
