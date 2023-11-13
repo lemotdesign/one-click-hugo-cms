@@ -14,7 +14,7 @@ found_termites_entries:
 
       Still scratching your head? Just snap a **photo** and shoot it over to us. Our savvy technicians will have a look and get back to you with an answer in no time.
     heading: What do Termites look like?
-    imageUrl: img/found-termites-live-termites.jpg
+    imageUrl: img/new-image-template.jpg
   - text: >-
       What is the Difference between Termites and White Ants - NOTHING!
 
