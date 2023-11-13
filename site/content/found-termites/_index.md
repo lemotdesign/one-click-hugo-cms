@@ -91,4 +91,23 @@ found_termites_entries:
 
       Read more: **How and why do Termites suddenly appear out of nowhere**
     imageUrl: img/termites-can-appaer-from-anywhere.png
+  - text: >-
+      ## **Don't Panic - Termites Are Normal Here**
+
+
+      Spotting termites in trees or old stumps? That's pretty standard on the Gold Coast. It might seem worrying, but it's all part of nature's flow.
+
+
+      Still, it's smart to manage these critters to keep your home safe.
+
+
+      ### **Why Termites Dig Trees and Stumps**:
+
+
+      Termites have been munching on trees for ages, especially our Aussie eucalypts. They love the tree's heartwood – it's like their own skyscraper buffet. They get all the food and home they need. But at some stage, they will forage to your home.
+
+
+      Click **here** more information about how to check and treat trees & stumps for termites
+    imageUrl: img/termites-in-a-tree-stump-3.jpg
+    heading: Termites in Trees - What should you do?
 ---
