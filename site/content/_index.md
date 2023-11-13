@@ -63,21 +63,26 @@ home_page_entries:
     imageUrl: img/conquer-termites-gold-coast.png
   - heading: Pest Control Treatments Best on the Gold Coast
     text: >-
+      Safe and effective treatment for your home, keeping your family and pets
+      safe.
+
+
       **General Pest Control Package**
 
 
-      Safe and effective treatment for your home, keeping your family and pets safe.
+      **Specialised Pest Control Treatments**
 
 
-      * What is treated?
+      ### Do you have some questions?
 
-      * Is it safe for my family and pests?
 
-      * How long does it take?
+      * What is treated when we do a Pest Control?
+
+      * Is the treatment safe for my family and pests?
+
+      * How long does it take to do?
 
       * What are the Pest Control Warranties?
-
-      * Do you treat other pests? **Specialised Pest Control Treatments**
     imageUrl: img/pest-control-greeting-2.jpg
 blurb:
   heading: "Trust our team of experts "
