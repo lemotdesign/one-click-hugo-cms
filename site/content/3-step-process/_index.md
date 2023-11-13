@@ -1,6 +1,6 @@
 ---
 title: Three Step Process to Remove Termites
-image: img/termite-treatment-2.jpg
+image: img/conquer-termites-gold-coast.png
 3_step_process_entries: null
 three_step_process_entries:
   - heading: Step 1
