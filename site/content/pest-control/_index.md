@@ -11,6 +11,9 @@ blurb:
 
 
     It’s not about ‘spray and pray’. It’s about the targeted application of proven chemicals to get a great outcome - a pest-free home.
+
+
+    {{< youtube OuGdMcjGAVY >}}
 pest_control_entries:
   - heading: "General Pest Control Package:"
     text: >-
