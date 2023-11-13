@@ -1,5 +1,5 @@
 ---
-title: How Is A Termite Inspection Done?
+title: Termite inspection cost on the Gold Coast
 image: img/termite-treatment-2.jpg
-how_is_a_termite_inspection_done_entries:
+termite_cost_gc_entries:
 ---

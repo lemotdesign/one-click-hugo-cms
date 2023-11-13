@@ -273,6 +273,162 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/termite-inspection-cost-on-the-gold-coast/_index.md"
+        label: "Termite Inspection Cost On The Gold Coast"
+        name: "TermiteInspectionCostOnTheGoldCoast"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Termite Inspection Cost On The Gold Coast
+            name: termite_cost_gc_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/how-long-does-a-termite-inspection-take/_index.md"
+        label: "How Long Does A Termite Inspection Take"
+        name: "HowLongDoesATermiteInspectionTakePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: How Long Does A Termite Inspection Take Entries
+            name: how_long_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/invasive-inspection-for-termites/_index.md"
+        label: "Invasive Inspection For Termites"
+        name: "InvasiveInspectionForTermitesPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Invasive Inspection Entries
+            name: invasive_inspection_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/pre-purchase-inspection-timber-inspection/_index.md"
+        label: "Pre Purchase Timber Inspection"
+        name: "PrePurchaseTimberInspectionPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Invasive Inspection Entries
+            name: pre_purchase_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/best-way-to-treat-your-home-for-termites-white-ants/_index.md"
+        label: "Best Way To Treat For Termites"
+        name: "BestWayToTreatForTermitesPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: White Ants Entries
+            name: white_ants_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/what-is-the-best-termite-control-treatment-barrier/_index.md"
+        label: "What Is The Best Termite Control Treatment Barrier"
+        name: "WhatIsTheBestTermiteControlTreatmentBarrierPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Treatment Barrier Entries
+            name: treatment_barrier_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/termite-treatment-cost-on-the-gold-coast/_index.md"
+        label: "Termite Treatment Cost On The Gold Coast"
+        name: "TermiteTreatmentCostOnTheGoldCoastPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Termite Treatment Cost GC Entries
+            name: termite_treatment_gc_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/baiting-programs-systems/_index.md"
+        label: "Baiting Programs Systems"
+        name: "BaitingProgramsSystemsPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Baiting Programs Systems Entries
+            name: baiting_programs_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/pre-construction-treatments/_index.md"
+        label: "Pre Construction Systems"
+        name: "PreConstructionSystemsPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Pre Construction Treatments Entries
+            name: pre_contruction_treatments_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/concrete-slab-cut-out-protection/_index.md"
+        label: "Concrete Slab Cut Out Protection"
+        name: "ConcreteSlabCutOutProtectionPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Concrete Slab Cut Out Protection Entries
+            name: concrete_slab_entries_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/general-pest-control-package/_index.md"
+        label: "General Pest Control Package"
+        name: "GeneralPestControlPackagePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: General Pest Control Package Entries
+            name: general_pest_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/specialised-pest-control-treatments/_index.md"
+        label: "Specialised Pest Control Treatments"
+        name: "SpecialisedPestControlTreatmentsPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Specialised Pest Control Treatments Entries
+            name: specialised_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
   - name: "site_settings"
     label: "Site Settings"
     files:
