@@ -39,19 +39,13 @@ home_page_entries:
     imageUrl: img/hearing-termite-noises-in-your-wall.png
   - heading: Termite Pest Inspection - Best on the Gold Coast
     text: |-
-      Best Termite inspection - Who to call on the Gold Coast?
-
-      How is a termite inspection done?
-
-      What devices are used for a Termite Inspection?
-
-      Termite inspection cost on the Gold Coast
-
-      How long does a Termite Inspection take?
-
-      Invasive Inspection for Termites
-
-      Pre-purchase Inspection – Timber Pest Inspection
+      * Best Termite inspection - Who to call on the Gold Coast?
+      * How is a termite inspection done?
+      * What devices are used for a Termite Inspection?
+      * Termite inspection cost on the Gold Coast
+      * How long does a Termite Inspection take?
+      * Pre-purchase Inspection – Timber Pest Inspection
+      * Invasive Inspection for Termites
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - heading: Termite Treatment & Control - Gold Coast
     text: |-
