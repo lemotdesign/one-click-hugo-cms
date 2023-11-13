@@ -234,6 +234,45 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/best-termite-inspection-who-to-call-on-the-gold-coast/_index.md"
+        label: "Best Termite Inspection"
+        name: "BestTermiteInspectionPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Best Termite Inspection Entries
+            name: best_termite_inspection_entries_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/how-is-a-termite-inspection-done/_index.md"
+        label: "How Is A Termite Inspection Done"
+        name: "HowIsATermiteInspectionDonePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: How Is A Termite Inspection Done Entries
+            name: how_is_a_termite_inspection_done_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/what-devices-are-used-for-a-termite-inspection/_index.md"
+        label: "What Devices Are Used For Termite Inspection"
+        name: "WhatDevicesAreUsedForTermiteInspectionPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: What Devices Are Used For A Termite Inspection
+            name: what_devices_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
   - name: "site_settings"
     label: "Site Settings"
     files:
