@@ -78,19 +78,6 @@ found_termites_entries:
       Read more about this topic: **What is the Difference between Termites and White Ants?**
     heading: What is the Difference between Termites and White Ants?
     imageUrl: img/black-ant-vs-termite-body-shape.png
-  - heading: Where do Termites come from?
-    text: >-
-      ## Termites: A Sudden Home Invasion
-
-
-      Recently, your bathroom door was in perfect condition, with no signs of damage. However, now you find the timber deteriorating, crumbling, and flaking.
-
-
-      In areas like the Gold Coast, termites are always on the hunt for cellulose materials to consume and bring back to their colony. Without proper protection, your home can quickly become a target for these voracious pests.
-
-
-      Read more: **How and why do Termites suddenly appear out of nowhere**
-    imageUrl: img/termites-can-appaer-from-anywhere.png
   - text: >-
       ## **Don't Panic - Termites Are Normal Here**
 
@@ -110,4 +97,17 @@ found_termites_entries:
       Click **here** more information about how to check and treat trees & stumps for termites
     imageUrl: img/termites-in-a-tree-stump-3.jpg
     heading: Termites in Trees - What should you do?
+  - heading: Where do Termites come from?
+    text: >-
+      ## Termites: A Sudden Home Invasion
+
+
+      Recently, your bathroom door was in perfect condition, with no signs of damage. However, now you find the timber deteriorating, crumbling, and flaking.
+
+
+      In areas like the Gold Coast, termites are always on the hunt for cellulose materials to consume and bring back to their colony. Without proper protection, your home can quickly become a target for these voracious pests.
+
+
+      Read more: **How and why do Termites suddenly appear out of nowhere**
+    imageUrl: img/termites-can-appaer-from-anywhere.png
 ---
