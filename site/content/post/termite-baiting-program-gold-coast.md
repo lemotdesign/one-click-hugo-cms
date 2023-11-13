@@ -49,7 +49,7 @@ The Trelona system offers a frontline defence, targeting foraging termites befor
 
 ### More information: [Trelona Information brochure](https://pest-control.basf.com.au/sites/basf.com.au/files/2023-08/214037_PSS_Trelona_Fact_Sheet_Update_Jul23_WEB_v3.pdf)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0XtxOUnOzd0?si=NNnSBAx0sIrNIHYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube 0XtxOUnOzd0 >}}
 
 ### Trelona vs. Sentricon: Making the Choice
 
