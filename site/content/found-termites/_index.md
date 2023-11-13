@@ -6,15 +6,13 @@ found_termites_entries:
       ## What do Termites - White Ants look like in Australia?
 
 
-
-
       Ran into a little critter and can't tell if it's just a pesky black ant or a home-chomping termite?
 
 
       No worries, we've got you covered. Swing by our easy-to-follow "**What Do Termites Look Like**" page for some handy tips.
 
 
-      Still scratching your head? Just snap a photo and shoot it over to us. Our savvy technicians will have a look and get back to you with an answer in no time.
+      Still scratching your head? Just snap a **photo** and shoot it over to us. Our savvy technicians will have a look and get back to you with an answer in no time.
     heading: What do Termites look like?
     imageUrl: img/found-termites-live-termites.jpg
   - text: >-
