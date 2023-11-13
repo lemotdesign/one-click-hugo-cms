@@ -15,38 +15,6 @@ found_termites_entries:
       Still scratching your head? Just snap a **photo** and shoot it over to us. Our savvy technicians will have a look and get back to you with an answer in no time.
     heading: What do Termites look like?
     imageUrl: img/new-image-template.jpg
-  - text: >-
-      What is the Difference between Termites and White Ants - NOTHING!
-
-
-      ## Aussie Talk: White Ants or Termites?
-
-
-      In true Aussie style, we saw these critters that looked a bit like ants and called them "White Ants." Makes sense, right?
-
-
-      ### White Ants = Termites?
-
-
-      But here's the fun fact: what we casually call "White Ants" are actually termites. They're not even close to being real ants, despite looking similar with their six legs and antennae. They live in groups, sure, but that's about all they share. When it comes to body shape and how they behave, they're totally different beasts!
-
-
-      Read more about this topic: **What is the Difference between Termites and White Ants?**
-    heading: What is the Difference between Termites and White Ants?
-    imageUrl: img/black-ant-vs-termite-body-shape.png
-  - heading: Where do termites come from?
-    text: >-
-      ## Termites: A Sudden Home Invasion
-
-
-      Recently, your bathroom door was in perfect condition, with no signs of damage. However, now you find the timber deteriorating, crumbling, and flaking.
-
-
-      In areas like the Gold Coast, termites are always on the hunt for cellulose materials to consume and bring back to their colony. Without proper protection, your home can quickly become a target for these voracious pests.
-
-
-      Read more: **How and why do Termites suddenly appear out of nowhere**
-    imageUrl: img/termites-can-appaer-from-anywhere.png
   - heading: What are the Signs of Termites?
     text: >-
       ## How do you know if you have Termites?
@@ -72,4 +40,36 @@ found_termites_entries:
 
       Send us a photo for expert identification
     imageUrl: img/found-termites-live-termites.jpg
+  - text: >-
+      What is the Difference between Termites and White Ants - NOTHING!
+
+
+      ## Aussie Talk: White Ants or Termites?
+
+
+      In true Aussie style, we saw these critters that looked a bit like ants and called them "White Ants." Makes sense, right?
+
+
+      ### White Ants = Termites?
+
+
+      But here's the fun fact: what we casually call "White Ants" are actually termites. They're not even close to being real ants, despite looking similar with their six legs and antennae. They live in groups, sure, but that's about all they share. When it comes to body shape and how they behave, they're totally different beasts!
+
+
+      Read more about this topic: **What is the Difference between Termites and White Ants?**
+    heading: What is the Difference between Termites and White Ants?
+    imageUrl: img/black-ant-vs-termite-body-shape.png
+  - heading: Where do Termites come from?
+    text: >-
+      ## Termites: A Sudden Home Invasion
+
+
+      Recently, your bathroom door was in perfect condition, with no signs of damage. However, now you find the timber deteriorating, crumbling, and flaking.
+
+
+      In areas like the Gold Coast, termites are always on the hunt for cellulose materials to consume and bring back to their colony. Without proper protection, your home can quickly become a target for these voracious pests.
+
+
+      Read more: **How and why do Termites suddenly appear out of nowhere**
+    imageUrl: img/termites-can-appaer-from-anywhere.png
 ---
