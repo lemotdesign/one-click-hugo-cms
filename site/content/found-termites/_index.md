@@ -18,45 +18,24 @@ found_termites_entries:
     heading: What do Termites look like?
     imageUrl: img/found-termites-live-termites.jpg
   - text: >-
-      What is the Difference between Termites and White Ants?
+      What is the Difference between Termites and White Ants - NOTHING!
 
 
-      ## Embrace the Australian Vernacular
+      ## Aussie Talk: White Ants or Termites?
 
 
-      In Australia, we've always had a knack for calling things exactly as we see them. Once upon a time, when we laid our eyes on these tiny, communal-dwelling creatures that bore a striking resemblance to ants, we dubbed them "White Ants." It seemed like a logical name at the time.
+      In true Aussie style, we saw these critters that looked a bit like ants and called them "White Ants." Makes sense, right?
 
 
-      ### Are white ants the same as termites?
+      ### White Ants = Termites?
 
 
-      But here's the twist: Termites, affectionately referred to as "White Ants" Down Under, are not ants by any stretch of the imagination. The confusion stems from their uncanny physical similarities. Both species boast six legs, sport antennae, and live in tight-knit colonies. However, that's where the similarities end, as they differ substantially in body structure and behaviour.
+      But here's the fun fact: what we casually call "White Ants" are actually termites. They're not even close to being real ants, despite looking similar with their six legs and antennae. They live in groups, sure, but that's about all they share. When it comes to body shape and how they behave, they're totally different beasts!
 
 
-      ### Difference Between Termites & Black Ants
-
-
-      ![Difference between Black Ants and Termites diagram](img/black-ant-vs-termite-body-shape.png)
-
-
-      ### Let's Dive into the Science
-
-
-      From a scientific perspective, Termites belong to the cockroach family, specifically the sub-order of Blattodea, whereas Ants are part of the wasp family, known as the Order Hymenoptera. Termites lack the segmented bodies that are characteristic of ants.
-
-
-      ### The Fundamental Distinction
-
-
-      In a nutshell: Black ants might raid your kitchen and nibble on the food you've left out, but Termites, often dubbed "White Ants," have a more destructive appetite—they'll feast on your very home!
-
-
-      ### Black Ants don't keep Termites away!
-
-
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/04cg2Sw9wTY?si=iowienQfYyTWEU8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      Read more about this topic: **What is the Difference between Termites and White Ants?**
     heading: What is the Difference between Termites and White Ants?
-    imageUrl: img/termites-or-white-ants.png
+    imageUrl: img/black-ant-vs-termite-body-shape.png
   - heading: Where do termites come from?
     text: >-
       ## Termites: A Sudden Home Invasion
