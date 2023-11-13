@@ -1,6 +1,6 @@
 ---
 title: Termite Treatment Control Gold Coast
-image: img/conquer-termites-gold-coast.png
+image: img/termite-treatment-page.jpg
 termite_treatments_entries:
   - heading: Best Termite Treatments on the Gold Coast
     imageUrl: img/conquer-termites-two-utes-treating-a-house.jpg
