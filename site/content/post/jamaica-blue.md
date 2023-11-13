@@ -27,4 +27,4 @@ In a nutshell: Black ants might raid your kitchen and nibble on the food you've 
 
 ### Black Ants don't keep Termites away!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/04cg2Sw9wTY?si=iowienQfYyTWEU8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube 04cg2Sw9wTY >}}
