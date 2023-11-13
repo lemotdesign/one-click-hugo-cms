@@ -27,12 +27,14 @@ home_page_entries:
     imageUrl: img/conquer-termites-on-the-goild-coast.jpg
   - heading: Found Termites - What to Do
     text: |-
-      Found termites? **What to do**
-      The 3 Step process to remove termites
-      What do termites look like?
-      What are the signs of termites?
-      What should to do if I find termites in the garden/trees?
-      Where do termites come from?
+      * Found termites? **What to do**
+
+      * The 3 Step process to remove termites
+      * What do termites look like?
+      * What are the signs of termites?
+      * What should to do if I find termites in the garden/trees?
+      * Where do termites come from?
+
       Send us a photo for expert identification
     imageUrl: img/hearing-termite-noises-in-your-wall.png
   - heading: Termite Pest Inspection - Best on the Gold Coast
