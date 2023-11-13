@@ -3,30 +3,36 @@ title: Best Pest Control Solutions for a Safe and Effective Treatment of Gold
   Coast Homes
 image: img/pest-control-photo.jpg
 blurb:
-  heading: The Conquer Termites team is highly trained and licensed to treat all
-    those pesky pests in and around your home.
+  heading: It’s not about ‘spray and pray’
   text: Body Copy for the test heading.
-  body: It’s not about ‘spray and pray’. It’s about the targeted application of
-    proven chemicals to get a great outcome - a pest-free home.
+  body: >-
+    The Conquer Termites team is highly trained and licensed to treat all those
+    pesky pests in and around your home.
+
+
+    It’s not about ‘spray and pray’. It’s about the targeted application of proven chemicals to get a great outcome - a pest-free home.
+
+
+    {{< youtube OuGdMcjGAVY >}}
 pest_control_entries:
   - heading: "General Pest Control Package:"
     text: >-
       With our General Pest Control treatment, you can rest assured that we
-      provide effective management of the following pests:
+      provide effective management of the following pests (in no clear order of
+      yuckiness):
 
 
-      *   ![Pest we treat for general pest control](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
+      * Spiders
 
-      * **Here's what you can expect from our thorough process:**
+      * Cockroaches
 
-        * **Initial Consultation:** We begin with a conversation to identify your primary pest concerns and tailor our approach accordingly.
-        * **Detailed Inspection:** Before any treatment, we conduct a walk-around examination to understand the scope of the issue. Remove pet feeding bowls and check for any high-risk areas.
-        * **Indoor Treatment:** Our team meticulously treats the inside of your home, utilizing gel baits and precise spraying along the skirting boards, ensuring every crawl point is covered.
-        * **Roof Treatment:** We administer a dusting treatment through the roof's access point, targeting any pests that may have settled in these less-visible areas.
-        * **Outdoor Treatment:** To conclude, we carefully spray the exterior of your home, forming a residual treatment against spiders and black ants.
+      * Black Ants
 
-        \
-        **CONQUER TERMITES PEST CONTROL VIDEO 2020**
+      * Silverfish
+
+      * ![Pest we treat for general pest control](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
+
+      *
     imageUrl: img/cockroach-bait-gel-safe-and-effective.jpg
   - heading: Do you treat other types of pests?
     text: >-
@@ -68,17 +74,13 @@ pest_control_entries:
       **Black ants - 3 months**
 
 
-      **Fleas - nil**\
-
-      Needs to be treated until the infestation is under control.
+      **Fleas - nil** (Needs to be treated until the infestation is under control).
 
 
       **Spiders - 3 months**
 
 
-      **Rodents - nil**\
-
-      Needs to be replenished until the infestation is under control.
+      **Rodents - nil** (Needs to be replenished until the infestation is under control).
 
 
       Proper pest control treatment is about eradicating pests and bringing the population down to zero. It is not designed to keep pests away for 12 months.\
@@ -101,20 +103,10 @@ pest_control_entries:
       For more than two decades, Conquer has been dedicated to meticulously selecting and deploying the most reliable and safest products for use in your home. 
 
 
-      **Here's our assurance to you:**
-
-
-      * **Indoor Safety:** Inside your home, we utilize stable, odourless sprays derived from Pyrethrin, a natural extract found in chrysanthemum flowers, ensuring no offensive odours or residues.
-
-      * **Kitchen Consideration:** We opt for gel baits inside your kitchen cabinets instead of sprays, prioritizing your food safety and cleanliness.
-
-      * **Pet-Friendly Perimeter Protection:** The same active ingredient we use for outdoor pest control, particularly for spiders and black ants, is also used in Frontline products for flea and tick treatment on pets. This demonstrates our commitment to keeping your beloved animals safe.
-
-
       At Conquer, we believe in doing things right the first time, with your family's safety and the environment at the forefront of our operations.
 
 
-      Read more ..
+      Read more about our Safe Pest Control.
     imageUrl: img/pest-control-is-safe-for-pets-and-family.png
   - heading: Do I need to leave during the Pest Treatment?
     text: >-
