@@ -26,8 +26,6 @@ found_termites_entries:
       ### **Five Signs you might have Termites**
 
 
-
-
       ### Here are some more pages you might find informative:
 
 
@@ -38,7 +36,7 @@ found_termites_entries:
       * Where do termites come from?
 
 
-      Send us a photo for expert identification
+      Send us a **photo** for expert identification
     imageUrl: img/found-termites-live-termites.jpg
   - text: >-
       What is the Difference between Termites and White Ants - NOTHING!
