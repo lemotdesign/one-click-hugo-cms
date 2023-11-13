@@ -65,16 +65,9 @@ pest_inspections_entries:
     imageUrl: img/conquer-termites-gold-coast-best-pest-control-company.png
   - heading: How Conquer Termites conducts a Termite Inspection
     text: >-
-      ## Premier Termite Inspections in the Gold Coast:
-
-
-      Discovering signs of potential termite activity on your property can be alarming, leading to questions about the severity of the infestation and what might be happening in concealed areas like wall interiors.
-
-
-      This concern naturally progresses to the realization that the expertise of a seasoned pest control service is crucial—one with a proven track record of accurately detecting termites.
-
-
-      While you may not be a termite specialist, you certainly understand the significant financial and emotional repercussions of untreated termite damage. Securing professional intervention is key to protecting your property and peace of mind.
+      Check out this video for a real look at how we tackle Termite Inspections.
+      We hope it gives you a clear view of our dedication to providing the most
+      comprehensive inspection we can. Seeing is believing!
 
 
       ## Watch our Termite Inspection Video
