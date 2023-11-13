@@ -3,103 +3,39 @@ title: Found Termites
 image: img/termite-treatment-page.jpg
 found_termites_entries:
   - text: >-
-      Ever been pottering around in the garden and stumbled upon tiny white bugs
-      under a piece of old wood, and wondered if they're termites? Or, even more
-      alarming, have you ever poked a finger through a door frame in your house
-      and discovered creepy crawlies lurking inside?
-
-
       ## What do Termites - White Ants look like in Australia?
 
 
-      Termites are indeed fascinating creatures, often hidden from sight. They are small, soft-bodied insects that live in large colonies. 
 
 
-      ### What to do if you think you have found termites?
+      Ran into a little critter and can't tell if it's just a pesky black ant or a home-chomping termite?
 
 
-      1. **Don’t Disturb Them**: Avoid disturbing the termites. This can cause them to scatter potentially making it harder to eradicate them.
-
-      2. **Call a Professional Termite Expert**: Professional pest controllers have the skills, experience, and equipment necessary to effectively deal with termite problems. They can assess the situation, identify the termite species, and determine the best course of action.
-
-      3. **Send us a photo**: For clear confirmation with an expert, send us a photo for quick and free identification. 
+      No worries, we've got you covered. Swing by our easy-to-follow "**What Do Termites Look Like**" page for some handy tips.
 
 
-      ### Here are some more useful pages you might want to check:
-
-
-      1. What are the signs of Termites
-
-      2. The Three-Step Process if you have Termites
-
-      3. Best Way to Treat Termites
-
-
-      ### Are they Termites or White Ants?
-
-
-      A lot of the lime homeowners confused termites with Black Ants. The confusion stems from their uncanny physical similarities. Both species boast six legs, sport antennae, and live in tight-knit colonies. However, that's where the similarities end, as they differ substantially in body structure and behaviour.
-
-
-      ![Difference between a Termite and Black Ant](img/black-ant-vs-termite-body-shape.png)
-
-
-      ### Termite Life Cycle
-
-
-      Termite appearance can vary slightly depending on their role within the colony. There are three main types of termites in a colony: 
-
-
-      1. **Worker Termites**: These are the most numerous and are responsible for feeding the colony, building and repairing the nest, and taking care of the young. They are typically about 1/4 to 1/2 inch long, cream-colored, and have no wings.
-
-      2. **Soldier Termites**: Soldiers defend the colony against predators like ants. They are similar in size to workers but can be distinguished by their larger, darker heads and strong mandibles (jaws).
-
-      3. **Reproductive Termites**: These include the king, queen, and alates (winged termites). The queen is much larger than the other termites and can live for several years, laying thousands of eggs. Alates are the ones you might see during certain times of the year when they swarm to start new colonies.
-
-
-      ![Termite Life Cycle Australia](img/3.png)
+      Still scratching your head? Just snap a photo and shoot it over to us. Our savvy technicians will have a look and get back to you with an answer in no time.
     heading: What do Termites look like?
     imageUrl: img/found-termites-live-termites.jpg
   - text: >-
-      What is the Difference between Termites and White Ants?
+      What is the Difference between Termites and White Ants - NOTHING!
 
 
-      ## Embrace the Australian Vernacular
+      ## Aussie Talk: White Ants or Termites?
 
 
-      In Australia, we've always had a knack for calling things exactly as we see them. Once upon a time, when we laid our eyes on these tiny, communal-dwelling creatures that bore a striking resemblance to ants, we dubbed them "White Ants." It seemed like a logical name at the time.
+      In true Aussie style, we saw these critters that looked a bit like ants and called them "White Ants." Makes sense, right?
 
 
-      ### Are white ants the same as termites?
+      ### White Ants = Termites?
 
 
-      But here's the twist: Termites, affectionately referred to as "White Ants" Down Under, are not ants by any stretch of the imagination. The confusion stems from their uncanny physical similarities. Both species boast six legs, sport antennae, and live in tight-knit colonies. However, that's where the similarities end, as they differ substantially in body structure and behaviour.
+      But here's the fun fact: what we casually call "White Ants" are actually termites. They're not even close to being real ants, despite looking similar with their six legs and antennae. They live in groups, sure, but that's about all they share. When it comes to body shape and how they behave, they're totally different beasts!
 
 
-      ### Difference Between Termites & Black Ants
-
-
-      ![Difference between Black Ants and Termites diagram](img/black-ant-vs-termite-body-shape.png)
-
-
-      ### Let's Dive into the Science
-
-
-      From a scientific perspective, Termites belong to the cockroach family, specifically the sub-order of Blattodea, whereas Ants are part of the wasp family, known as the Order Hymenoptera. Termites lack the segmented bodies that are characteristic of ants.
-
-
-      ### The Fundamental Distinction
-
-
-      In a nutshell: Black ants might raid your kitchen and nibble on the food you've left out, but Termites, often dubbed "White Ants," have a more destructive appetite—they'll feast on your very home!
-
-
-      ### Black Ants don't keep Termites away!
-
-
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/04cg2Sw9wTY?si=iowienQfYyTWEU8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      Read more about this topic: **What is the Difference between Termites and White Ants?**
     heading: What is the Difference between Termites and White Ants?
-    imageUrl: img/termites-or-white-ants.png
+    imageUrl: img/black-ant-vs-termite-body-shape.png
   - heading: Where do termites come from?
     text: >-
       ## Termites: A Sudden Home Invasion
