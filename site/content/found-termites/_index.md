@@ -143,6 +143,12 @@ found_termites_entries:
     heading: What are the Signs of Termites?
     imageUrl: img/found-termites-three-step-process.jpg
   - text: >-
+      Ever been pottering around in the garden and stumbled upon tiny white bugs
+      under a piece of old wood, and wondered if they're termites? Or, even more
+      alarming, have you ever poked a finger through a door frame in your house
+      and discovered creepy crawlies lurking inside?
+
+
       ## What do Termites - White Ants look like in Australia?
 
 
