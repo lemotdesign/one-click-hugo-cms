@@ -1,5 +1,5 @@
 ---
-title: Found Termites
+title: Found Termites - How to Identify and What to do
 image: img/termite-treatment-page.jpg
 found_termites_entries:
   - text: >-
