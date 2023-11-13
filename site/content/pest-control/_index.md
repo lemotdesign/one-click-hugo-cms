@@ -71,17 +71,13 @@ pest_control_entries:
       **Black ants - 3 months**
 
 
-      **Fleas - nil**\
-
-      Needs to be treated until the infestation is under control.
+      **Fleas - nil** (Needs to be treated until the infestation is under control).
 
 
       **Spiders - 3 months**
 
 
-      **Rodents - nil**\
-
-      Needs to be replenished until the infestation is under control.
+      **Rodents - nil** (Needs to be replenished until the infestation is under control).
 
 
       Proper pest control treatment is about eradicating pests and bringing the population down to zero. It is not designed to keep pests away for 12 months.\
