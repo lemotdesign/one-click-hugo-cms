@@ -53,7 +53,7 @@ For all other situations, we recommend reaching out to us to schedule a comprehe
 
 ##### Winged Termites coming out of a hole in a tree stump
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J50mPJaNcDc?si=vkQheQ42zbxTdv4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube vkQheQ42zbxTdv4n >}}
 
 #### Some More Interesting Information about Winged Termites
 
