@@ -3,11 +3,14 @@ title: Best Pest Control Solutions for a Safe and Effective Treatment of Gold
   Coast Homes
 image: img/pest-control-photo.jpg
 blurb:
-  heading: The Conquer Termites team is highly trained and licensed to treat all
-    those pesky pests in and around your home.
+  heading: It’s not about ‘spray and pray’
   text: Body Copy for the test heading.
-  body: It’s not about ‘spray and pray’. It’s about the targeted application of
-    proven chemicals to get a great outcome - a pest-free home.
+  body: >-
+    The Conquer Termites team is highly trained and licensed to treat all those
+    pesky pests in and around your home.
+
+
+    It’s not about ‘spray and pray’. It’s about the targeted application of proven chemicals to get a great outcome - a pest-free home.
 pest_control_entries:
   - heading: "General Pest Control Package:"
     text: >-
