@@ -2,6 +2,27 @@
 title: Found Termites - How to Identify and What to do
 image: img/termite-treatment-page.jpg
 found_termites_entries:
+  - heading: Remove Termites - Three Step Process
+    imageUrl: img/found-termites-three-step-process.jpg
+    text: >-
+      If you're fairly certain you've got termites, it's time to take action to
+      eliminate them and safeguard your home.
+
+
+      **Don't distrub the Termites** - Avoid scaring them off before we can fully assess the situation. Put down that spray can!
+
+
+      ### The Three Recommended Steps:
+
+
+      1. Full Termite Inspection
+
+      2. Initial Treatment
+
+      3. Chemical Treatment around the house
+
+
+      For further details, visit our page: "**Remove Termites - Three Step Process**".
   - text: >-
       ## What do Termites - White Ants look like in Australia?
 
@@ -38,27 +59,6 @@ found_termites_entries:
 
       Send us a **photo** for expert identification
     imageUrl: img/found-termites-live-termites.jpg
-  - heading: Remove Termites - Three Step Process
-    imageUrl: img/found-termites-three-step-process.jpg
-    text: >-
-      If you're fairly certain you've got termites, it's time to take action to
-      eliminate them and safeguard your home.
-
-
-      **Don't distrub the Termites** - Avoid scaring them off before we can fully assess the situation. Put down that spray can!
-
-
-      ### The Three Recommended Steps:
-
-
-      1. Full Termite Inspection
-
-      2. Initial Treatment
-
-      3. Chemical Treatment around the house
-
-
-      For further details, visit our page: "**Remove Termites - Three Step Process**".
   - text: >-
       What is the Difference between Termites and White Ants - NOTHING!
 
