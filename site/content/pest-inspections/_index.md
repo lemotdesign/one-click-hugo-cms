@@ -62,7 +62,7 @@ pest_inspections_entries:
 
 
       Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
-    imageUrl: img/conquer-termites-team.jpg
+    imageUrl: img/conquer-termites-gold-coast-best-pest-control-company.png
   - heading: How Conquer Termites conducts a Termite Inspection
     text: >-
       ## Premier Termite Inspections in the Gold Coast:
@@ -80,14 +80,14 @@ pest_inspections_entries:
       ## Watch our Termite Inspection Video
 
 
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=_HG0M2oZ2AxbcYLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      {{< youtube ZE6jMsa2SBs >}}
 
 
       Check: **'How is a Termite Inspection Done - Gold Coast'**
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - heading: Termite Inspection Cost on the Gold Coast
     text: >-
-      ## How much does a termite (white ant) inspection cost on the Gold Coast?
+      ## How much does a Termite (White Ant) inspection cost? 
 
 
       Suspect you've discovered termites? Now you're wondering, how bad is the damage and how deep will I need to dig into my pockets? 
@@ -96,45 +96,29 @@ pest_inspections_entries:
       ‘What is the price’ is an obvious question. You know very little about termites and probably have never engaged a pest control company specialising in treating termites.
 
 
-      On the Gold Coast, the average termite inspection cost for an average-sized house is between **$280 and $330.**
+      On the Gold Coast, for an average-sized house a termite inspection costs between **$280 and $330.**
 
 
       But you must compare apples with apples when selecting a company for your termite inspection. Sadly, our industry significantly differs in quality, knowledge, and approach.
 
 
-      ##### This should include the following:
-
-
-      •	Using devices - Thermal camera, Moisture meter and Termatrac motion detection
-
-      •	Inspect the fenceline, garden, house perimeter, subfloor, internal exposed timbers and roof void
-
-      •	Digital report completed on the day, plus a treatment proposal
-
-      •	It should take up to two hours
-
-
-      For more information: Read More
+      For more information: **Read More**
     imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
   - text: >-
-      Purchasing a home is a significant investment, and the last thing you want
-      is to end up with a lemon or a termite-infested property. That's why it's
-      crucial to schedule the right kind of inspection with a qualified and
-      experienced inspector who can conduct a **Timber Pest Inspection**
-      according to the Australian Standard 4349.3.2010.
+      ## Buying a Home? Watch Out for Those Termites!
 
 
-      Unlike a regular visual termite inspection, a Timber Pest Inspection covers:
+      When you're splashing out on a new home, the last thing you want is a dud or a termite party house. That's why getting an Expert to do a **Timber Pest Inspection** is key. These aren't your average quick checks; they follow the Aussie Standard 4349.3.2010 and look at:
 
 
-      * Termite infestation  
+      * Termite infestation
 
       * Fungal decay (wet rot)
 
       * Borer infestation.
 
 
-      This thorough inspection will give you a comprehensive understanding of the condition of the property's timber and identify any pest-related issues that may affect the structural integrity of the building.
+      This isn't just a peek-around. It's a deep dive into the timber's health in your potential home, pointing out any creepy crawlies or issues that could mess with the building's strength.
 
 
       #### For more information about:
@@ -145,7 +129,7 @@ pest_inspections_entries:
       * Invasive recommendation - What does that mean?
 
 
-      Read More
+      Read More.....
     heading: Pre-purchase Termite Inspection – Timber Pest Inspection
     imageUrl: img/gold-coast-prepurchase-termite-inspection.png
   - heading: Conquer Termites Digital Report & Treatment Proposal
