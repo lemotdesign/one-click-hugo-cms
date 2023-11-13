@@ -3,50 +3,6 @@ title: Gold Coast Termite & Pest Inspection Experts
 image: img/termite-inspection-conquer-termites-2.jpg
 pest-inspections: []
 pest_inspections_entries:
-  - heading: Found Termites – What should I do?
-    imageUrl: img/found-termites-live-termites.jpg
-    text: >-
-      If you've discovered live termites in your home or garden, it's essential
-      to handle the situation calmly and strategically. *Don't Panic and reach
-      for that can of spray*
-
-
-      ### You might want to read:
-
-
-      * What are the Signs of Termites
-
-      * What do Termites look like?
-
-      * The Three-Stage Treatment Process 
-
-      * The Best way to treat Termites
-
-      * What to do if you find Termites in a Tree
-
-
-      Send us a photo, and one of our Termite Experts will identify it straight away.
-  - text: >-
-      ### Got Termites? Here’s How to Tell
-
-
-      Wondering if those soft spots in your wood are from termites? These critters are sneaky, often doing their damage out of sight. 
-
-
-      ### Here's a few useful pages you might want to read:
-
-
-      * **Five Signs** that you have Termites
-
-      * What do Termites look like?
-
-      * What's the difference between a Termite and a Black Ant?
-
-      * Termite Noises - what sound do Termites make?
-
-      * Termite damage or Fungal Decay?
-    imageUrl: img/signs-of-termites-2.jpg
-    heading: What are the Signs of Termites - Gold Coast
   - heading: Gold Coast Termite & Pest Inspection Experts
     text: >-
       ### Gold Coast Termite & Pest Inspection Experts
@@ -63,6 +19,34 @@ pest_inspections_entries:
 
       Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
     imageUrl: img/conquer-termites-gold-coast-best-pest-control-company.png
+  - text: >-
+      ## Buying a Home? Watch Out for Those Termites!
+
+
+      When you're splashing out on a new home, the last thing you want is a dud or a termite party house. That's why getting an Expert to do a **Timber Pest Inspection** is key. These aren't your average quick checks; they follow the Aussie Standard 4349.3.2010 and look at:
+
+
+      * Termite infestation
+
+      * Fungal decay (wet rot)
+
+      * Borer infestation.
+
+
+      This isn't just a peek-around. It's a deep dive into the timber's health in your potential home, pointing out any creepy crawlies or issues that could mess with the building's strength.
+
+
+      #### For more information about:
+
+
+      * Timber Pest Inspection - What It Is and What It Isn't
+
+      * Invasive recommendation - What does that mean?
+
+
+      Read More.....
+    heading: Pre-purchase Termite Inspection – Timber Pest Inspection
+    imageUrl: img/gold-coast-prepurchase-termite-inspection.png
   - heading: How Conquer Termites conducts a Termite Inspection
     text: >-
       Check out this video for a real look at how we tackle Termite Inspections.
@@ -97,34 +81,6 @@ pest_inspections_entries:
 
       For more information: **Read More**
     imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
-  - text: >-
-      ## Buying a Home? Watch Out for Those Termites!
-
-
-      When you're splashing out on a new home, the last thing you want is a dud or a termite party house. That's why getting an Expert to do a **Timber Pest Inspection** is key. These aren't your average quick checks; they follow the Aussie Standard 4349.3.2010 and look at:
-
-
-      * Termite infestation
-
-      * Fungal decay (wet rot)
-
-      * Borer infestation.
-
-
-      This isn't just a peek-around. It's a deep dive into the timber's health in your potential home, pointing out any creepy crawlies or issues that could mess with the building's strength.
-
-
-      #### For more information about:
-
-
-      * Timber Pest Inspection - What It Is and What It Isn't
-
-      * Invasive recommendation - What does that mean?
-
-
-      Read More.....
-    heading: Pre-purchase Termite Inspection – Timber Pest Inspection
-    imageUrl: img/gold-coast-prepurchase-termite-inspection.png
   - heading: Conquer Termites Digital Report & Treatment Proposal
     text: >-
       #### Clear Information & Treatment Recommendations
@@ -214,18 +170,6 @@ pest_inspections_entries:
       Check: **Termite Inspection - Who to call on the Gold Coast?**
     heading: Five points to consider when choosing a Gold Coast Termite Company
     imageUrl: img/when-choosing-a-pest-inspection-compare-apples-with-apples.png
-  - heading: "Some common questions about Termites:"
-    text: |-
-      ### Common Q&A about Termites on the Gold Coast
-
-      * What are the signs of termites?
-      * What do termites look like?
-      * What are the signs of termites in a wall?
-      * What do termites sound like?
-      * What are flying termites, and what do they look like?
-      * What are dry-wood termites?
-      * How you can check your home and garden for termites
-    imageUrl: img/asking-termite-questions-2.jpg
   - heading: Consumer Warning about Termite Inspections on the Gold Coast
     text: >-
       #### **Fake companies - no QBCC license**
@@ -247,4 +191,16 @@ pest_inspections_entries:
 
       Read more ...
     imageUrl: img/termite-licenses-queensland.png
+  - heading: "Some common questions about Termites:"
+    text: |-
+      ### Common Q&A about Termites on the Gold Coast
+
+      * What are the signs of termites?
+      * What do termites look like?
+      * What are the signs of termites in a wall?
+      * What do termites sound like?
+      * What are flying termites, and what do they look like?
+      * What are dry-wood termites?
+      * How you can check your home and garden for termites
+    imageUrl: img/asking-termite-questions-2.jpg
 ---
