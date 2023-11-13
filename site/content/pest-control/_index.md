@@ -100,16 +100,6 @@ pest_control_entries:
       For more than two decades, Conquer has been dedicated to meticulously selecting and deploying the most reliable and safest products for use in your home. 
 
 
-      **Here's our assurance to you:**
-
-
-      * **Indoor Safety:** Inside your home, we utilize stable, odourless sprays derived from Pyrethrin, a natural extract found in chrysanthemum flowers, ensuring no offensive odours or residues.
-
-      * **Kitchen Consideration:** We opt for gel baits inside your kitchen cabinets instead of sprays, prioritizing your food safety and cleanliness.
-
-      * **Pet-Friendly Perimeter Protection:** The same active ingredient we use for outdoor pest control, particularly for spiders and black ants, is also used in Frontline products for flea and tick treatment on pets. This demonstrates our commitment to keeping your beloved animals safe.
-
-
       At Conquer, we believe in doing things right the first time, with your family's safety and the environment at the forefront of our operations.
 
 
