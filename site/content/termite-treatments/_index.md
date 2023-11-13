@@ -68,7 +68,7 @@ termite_treatments_entries:
   - heading: Pre-Construction Termite Protection Gold Coast
     imageUrl: img/pre-con-homeguard-install.png
     text: >-
-      ### Doing renovations or building your dream home?
+      ## Doing renovations or building your dream home?
 
 
       At Conquer Termites, we offer a range of specialized solutions suitable for various construction types and requirements:
@@ -78,7 +78,7 @@ termite_treatments_entries:
          2. **Greenzone**: Combines expansion joint foam with termite repellency, suitable for builders seeking a dual-purpose product.
          3. **Reticulation System**: Installed underground around a building's perimeter, this network of pipes allows easy reapplication of termite control chemicals, providing a long-term, non-disruptive solution.
 
-      **Read more about:**
+      ### **Read more about:**
 
 
       * Termite Treatment Certification requirements
