@@ -26,7 +26,7 @@ invasive_inspection_entries:
       2. You could be buying a house with extensive hidden termite damage if you don't check.
 
 
-      #### The Solutions:
+      #### Options for an Invasive Inspection:
 
 
       1. Start with a time-honoured technique: gently knock on the wall with a closed fist. Listening for the tell-tale signs of crumbling termite residue can provide initial insights.
@@ -37,5 +37,5 @@ invasive_inspection_entries:
 
       4. Engage a qualified Tradesperson to remove the wall lining. Remember, you can only do this with the permission of the Seller.
     heading: When is an Invasive Inspection for Termites necessary?
-    imageUrl: img/termatrac-t3i.jpg
+    imageUrl: img/invasive-inspection-for-termites.jpg
 ---
