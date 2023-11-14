@@ -17,7 +17,7 @@ pest_inspections_entries:
 
 
       Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
-    imageUrl: img/conquer-termites-gold-coast-best-pest-control-company.png
+    imageUrl: img/team-conquer-termites.jpg
   - text: >-
       ## Buying a Home? Watch Out for Those Termites!
 
@@ -25,11 +25,7 @@ pest_inspections_entries:
       When you're splashing out on a new home, the last thing you want is a dud or a termite party house. That's why getting an Expert to do a **Timber Pest Inspection** is key. These aren't your average quick checks; they follow the Aussie Standard 4349.3.2010 and look at:
 
 
-      * Termite infestation
-
-      * Fungal decay (wet rot)
-
-      * Borer infestation.
+      * Termite infestation, Fungal decay (wet rot) and Borer infestation.
 
 
       This isn't just a peek-around. It's a deep dive into the timber's health in your potential home, pointing out any creepy crawlies or issues that could mess with the building's strength.
@@ -53,9 +49,6 @@ pest_inspections_entries:
       comprehensive inspection we can. Seeing is believing!
 
 
-      ## Watch our Termite Inspection Video
-
-
       {{< youtube ZE6jMsa2SBs >}}
 
 
@@ -63,7 +56,7 @@ pest_inspections_entries:
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - heading: Termite Inspection Cost on the Gold Coast
     text: >-
-      ## How much does a Termite (White Ant) inspection cost? 
+      ## How much does a Termite (White Ant) inspection cost?
 
 
       Suspect you've discovered termites? Now you're wondering, how bad is the damage and how deep will I need to dig into my pockets? 
@@ -75,66 +68,58 @@ pest_inspections_entries:
       On the Gold Coast, for an average-sized house a termite inspection costs between **$280 and $330.**
 
 
-      But you must compare apples with apples when selecting a company for your termite inspection. Sadly, our industry significantly differs in quality, knowledge, and approach.
-
-
       For more information: **Read More**
     imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
   - heading: Conquer Termites Digital Report & Treatment Proposal
     text: >-
-      #### Clear Information & Treatment Recommendations
+      Conquer Termites offers easy-to-understand inspection reports. We make
+      sure you get all the details about termite issues and our recommended
+      treatments.
 
 
-      Conquer Termites is committed to delivering swift and comprehensible inspection outcomes. We know the importance of having clear information, particularly when dealing with termite issues, and we ensure you're well-informed about any problems and the treatments we advocate.
+      #### **Digital Inspection Reports in Australia**
 
 
-      #### **Australia's Pioneering Digital Inspection Reports**
+      We were the first in Australia to use digital termite reports with photos, making our observations clearer and more detailed. Conquer will always look to the future to enhance better communication. 
 
 
-      We led the way in Australia by introducing digital inspection reports that incorporate photographic evidence, enhancing the clarity and detail of our feedback. Our ongoing improvements to our reports and recommendations are designed to empower you with the knowledge to make the best decisions for your property.
+      #### **Beyond Australian Standards 3660.2**
 
 
-      #### **Surpassing Australian Standards 3660.2**
+      We do more than just meet the AS 3660.2 Standards for termite inspections. Our detailed 22-page digital reports with photos give you a complete view of your property and garden inspections, going beyond the basics.
 
 
-      While the AS 3660.2.2017 Standards set the baseline for termite inspections, Conquer Termites goes above and beyond. We pride ourselves on conducting detailed evaluations of your property and gardens, not just meeting but exceeding the required standards. Our thorough 22-page digital report, complete with illustrative photos, ensures you have a clear and complete understanding of the inspection findings.
+      #### Detailed Treatment Plans
 
 
-      #### Comprehensive Treatment Proposal
+      If you need it, we provide a comprehensive Termite Treatment Proposal alongside our report. It lays out a clear, priced plan for termite treatment, so you know exactly what to expect.
 
 
-      In alignment with our thorough inspection report, Conquer Termites will furnish a detailed Termite Treatment Proposal when it's required. This proposal will accompany our report, offering a clear, itemized, and priced plan for termite treatment, ensuring you have all the information needed to protect your home effectively.
-
-
-      *Conquer Termites is dedicated to excellence in every inspection, aiming to provide not just results, but peace of mind.*
+      *At Conquer Termites, we're committed to top-notch inspections, giving you both results and reassurance.*
     imageUrl: img/termite-inspection-report.jpg
   - text: >-
-      Ensure your home is safeguarded against termites by scheduling a
-      professional inspection at least **once every year**, as per the
-      Australian Standards 3660.2 guidelines. 
+      Make sure to get your home checked for termites at least **once a year**,
+      following the Australian Standards 3660.2.
 
 
-      **Maybe more frequently**
+      **Consider more often**
 
 
-      Given that certain factors such as the structure's age, construction type, and proximity to woodlands may elevate the risk of termite infestation, more regular check-ups might be necessary for some properties.
+      If your house is older, built a certain way, or close to woods, you might need more frequent inspections.
 
 
-      **Do you have a current chemical treatment?**
+      **Current chemical treatment?**
 
 
-      Lacking a continuous chemical barrier around your home's perimeter can leave it very vulnerable to undetected termite invasions. That's why, similar to how you wouldn't skip your annual dental check-up, keeping up with termite inspections is crucial for early detection and prevention - especially if you don't have a treatment!
+      Without a chemical barrier around your home, termites can sneak in easily. Regular inspections are key for early detection and prevention, just like regular dental check-ups, especially if you don't have any termite treatment.
 
 
-      Check '**How is a Termite Inspection Done**'
+      See '**How is a Termite Inspection Done**' for more details.
     heading: How often should I get a termite Inspection done?
     imageUrl: img/termite-inspection-how-often.jpg
   - text: >-
       To help you, we would like to give you a checklist of questions you should
-      ask when calling companies on the Gold Coast. 
-
-
-      #### You don’t need to ask them all - choose your best three:
+      ask when calling Pest Control companies on the  Gold Coast. 
 
 
       1. Is the company genuinely local to the Gold Coast? (Avoid call centres from Sydney or Melbourne).
@@ -148,47 +133,24 @@ pest_inspections_entries:
       5. Are they licensed under the [QBCC](https://www.qbcc.qld.gov.au/node/2526) (Queensland Building Construction Commission)?
 
 
-      #### Additional points to consider
-
-
-      * Is the company **insured**, and to what extent?
-
-      * Do all technicians utilize **[Thermal Cameras and Termatrac](https://www.conquertermites.com.au/inspections/termite-inspections/detection-devices/)** Motion Detection tools?
-
-      * Does the inspection cover getting into the roof and the subfloor areas?
-
-      * What's the duration of a typical termite inspection?
-
-      * Will I receive a **digital report** on the same day?
-
-      * Can they offer a **treatment proposal** and execute it?
-
-      * Do they possess **accreditations** from the chemical manufacturers they use?
-
-
       Check: **Termite Inspection - Who to call on the Gold Coast?**
     heading: Five points to consider when choosing a Gold Coast Termite Company
     imageUrl: img/when-choosing-a-pest-inspection-compare-apples-with-apples.png
   - heading: Consumer Warning about Termite Inspections on the Gold Coast
     text: >-
-      #### **Fake companies - no QBCC license**
+      #### **Watch Out for Fake Companies**
 
 
-      Many pest control companies construct a website to make them look local but have their call centre in another city and don’t have the appropriate Queensland licenses.
-
-      (photo of QBCC cards)
+      Beware of pest control websites that look local but actually run their call center from another city and lack the right Queensland licenses. Remember, every legit company in Queensland needs a QBCC license to operate. No license? That means no insurance and they shouldn't be offering termite inspections or treatments.
 
 
-      All companies operating in Queensland need to have a QBCC license. Otherwise, you are engaging a subcontractor. If they don’t have a QBCC license, they can’t get insurance and shouldn’t be advertising that they do termite inspections and treatments.
+      #### **Be Wary of Free Checks**
 
 
-      #### **Free check offers - not licensed**
+      Watch out for companies offering a **free** "termite check" and then pushing some expensive and sketchy baiting system. These guys usually aren't licensed or qualified, and you might even be asked to sign a waiver acknowledging it's just a check, not a proper inspection to Australian Standards.
 
 
-      Some companies offer a free “termite check” and quickly suggest a dodgy, overpriced wooden box baiting system. These guys aren’t licensed or qualified. Often you need to sign a waiver to say you are accepting a ‘check’, not an inspection to the Australian Standards.
-
-
-      Read more ...
+      Read more about How to avoid the 'Dodgy Pest Control' companies on the Gold Coast
     imageUrl: img/termite-licenses-queensland.png
   - heading: "Some common questions about Termites:"
     text: |-
