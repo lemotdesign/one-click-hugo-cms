@@ -1,5 +1,5 @@
 ---
-title: Where Do Termites Come From?
+title: How much does a Pest Inspection cost on the Gold Coast?
 image: img/termite-inspection-cost-on-the-gold-coast.png
 best_termite_inspection_entries: null
 termite_cost_gc_entries:
