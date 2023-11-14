@@ -37,5 +37,5 @@ invasive_inspection_entries:
 
       4. Engage a qualified Tradesperson to remove the wall lining. Remember, you can only do this with the permission of the Seller.
     heading: When is an Invasive Inspection for Termites necessary?
-    imageUrl: img/termatrac-t3i.jpg
+    imageUrl: img/invasive-inspection-for-termites.jpg
 ---
