@@ -20,7 +20,7 @@ pest_control_entries:
       
 
       {{< youtube OuGdMcjGAVY >}}
-    imageUrl: img/pest-control-greeting-2.jpg
+    imageUrl: img/how-we-do-a-pest-control.jpg
   - heading: "General Pest Control Package:"
     text: >-
       With our General Pest Control treatment, you can rest assured that we
