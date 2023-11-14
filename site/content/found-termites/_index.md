@@ -24,13 +24,14 @@ found_termites_entries:
 
       For further details, visit our page: "**Remove Termites - Three Step Process**".
   - text: >-
-      ## What do Termites - White Ants look like in Australia?
-
-
-      Ran into a little critter and can't tell if it's just a pesky black ant or a home-chomping termite?
+      Ran into a little critter and can't tell if it's just a pesky black ant or
+      a home-chomping termite?
 
 
       No worries, we've got you covered. Swing by our easy-to-follow "**What Do Termites Look Like**" page for some handy tips.
+
+
+      ### Send us a Photo
 
 
       Still scratching your head? Just snap a **photo** and shoot it over to us. Our savvy technicians will have a look and get back to you with an answer in no time.
@@ -44,7 +45,9 @@ found_termites_entries:
       Have you just put a finger through a door frame or turned over a piece of timber in the garden and think you have found Termites? 
 
 
-      ### **Five Signs you might have Termites**
+      ### **Check: Five Signs You Might Have Termites**
+
+
 
 
       ### Here are some more pages you might find informative:
