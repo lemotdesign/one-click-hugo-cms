@@ -18,6 +18,18 @@ pest_inspections_entries:
 
       Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
     imageUrl: img/team-conquer-termites.jpg
+  - heading: How Conquer Termites conducts a Termite Inspection
+    text: >-
+      Check out this video for a real look at how we tackle Termite Inspections.
+      We hope it gives you a clear view of our dedication to providing the most
+      comprehensive inspection we can. Seeing is believing!
+
+
+      {{< youtube ZE6jMsa2SBs >}}
+
+
+      Check: **'How is a Termite Inspection Done - Gold Coast'**
+    imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - text: >-
       ## Buying a Home? Watch Out for Those Termites!
 
@@ -42,18 +54,6 @@ pest_inspections_entries:
       Read More.....
     heading: Pre-purchase Termite Inspection – Timber Pest Inspection
     imageUrl: img/gold-coast-prepurchase-termite-inspection.png
-  - heading: How Conquer Termites conducts a Termite Inspection
-    text: >-
-      Check out this video for a real look at how we tackle Termite Inspections.
-      We hope it gives you a clear view of our dedication to providing the most
-      comprehensive inspection we can. Seeing is believing!
-
-
-      {{< youtube ZE6jMsa2SBs >}}
-
-
-      Check: **'How is a Termite Inspection Done - Gold Coast'**
-    imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - heading: Termite Inspection Cost on the Gold Coast
     text: >-
       ## How much does a Termite (White Ant) inspection cost?
@@ -116,7 +116,7 @@ pest_inspections_entries:
 
       See '**How is a Termite Inspection Done**' for more details.
     heading: How often should I get a termite Inspection done?
-    imageUrl: img/termite-inspection-how-often.jpg
+    imageUrl: img/new-image-template-1.jpg
   - text: >-
       To help you, we would like to give you a checklist of questions you should
       ask when calling Pest Control companies on the  Gold Coast. 
