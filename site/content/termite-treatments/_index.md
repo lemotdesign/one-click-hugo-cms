@@ -1,54 +1,46 @@
 ---
 title: Termite Treatment Control Gold Coast
-image: img/conquer-termites-gold-coast.png
+image: img/termite-treatment-page.jpg
 termite_treatments_entries:
   - heading: Best Termite Treatments on the Gold Coast
     imageUrl: img/conquer-termites-two-utes-treating-a-house.jpg
     text: >-
-      ### Key Traits of a Top Termite Control Company
+      For the BEST termite control on the Gold Coast, look for:
 
 
-      When selecting a termite control service on the Gold Coast, look for:
+      * **Local Know-How**: Pick a company with proven Gold Coast experience.
+
+      * **Best Chemicals**: We use top-notch Termidor HE, not cheap alternatives.
+
+      * **Safety Focus**: We care about your family and the environment.
+
+      * **Good Value**: We aim for effective, cost-efficient solutions.
+
+      * **Professionalism**: Expect tidy, careful work on your property.
 
 
-      * **Local Expertise**: Choose a company with a strong track record on the Gold Coast.
-
-      * **Top-Quality Chemicals**: Conquer uses only premium Termidor HE, avoiding inferior generics.
-
-      * **Safety First**: Prioritizing the well-being of your family and the environment.
-
-      * **Value-Oriented**: Focus on effective solutions that offer great returns, beyond just low costs.
-
-      * **Professional Service**: Expect a neat, careful treatment of your property, reflecting high service standards.
+      With over 20 years in the game, Conquer Termites specializes in top-notch termite solutions on the Gold Coast, using the best methods and chemicals.
 
 
-      ### Over 20 Years of Excellence in Termite Protection
-
-
-      Conquer Termites brings over two decades of experience in combating termite issues on the Gold Coast. We've honed our skills in identifying the most effective methods and superior chemicals to ensure your home remains termite-free.
-
-
-      *Trust in our expertise to safeguard your home – termite protection is our specialty.*
+      *Count on us for expert termite protection for your home.*
   - heading: Termite Treatment Cost on the Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
     text: >-
-      ### Understanding Termite Treatment Costs on the Gold Coast
+      Dealing with termites on the Gold Coast? You'll want to know what it'll
+      cost to get rid of them.
 
 
-      When termites invade, they can turn your safe abode into a risk zone. If you're encountering these unwelcome guests on the Gold Coast, it's natural to consider the financial aspect of the eradication process.
+      ### Quick Cost Guide
 
 
-      ##### Termite Treatment Costs Overview
+      1. **Chemical Barriers:** Favorites like Termidor HE usually run **$3,000 to $4,000**, varying with your home's perimeter and the chemical used.
+
+      2. **Baiting Systems:** Expect to pay **$1,500 to $3,000**, plus extra for regular checks. Costs depend on your property size and how many bait stations you need.
+
+      3. **Physical Barriers**: These are priced per project for pre-construction protection.
 
 
-      1. **Chemical Barriers:** Popular among homeowners, treatments like Termidor HE typically cost between $3,000 to $4,000, with variations based on the home's perimeter and chosen chemical.
-
-      2. **Baiting Systems:** These may range from $1,500 to $3,000 plus ongoing monitoring fees, determined by the property size and number of stations needed.
-
-      3. **Physical Barriers**: Prices for these pre-construction deterrents are custom quoted based on the specific project requirements.
-
-
-      For more detailed information, please read: **Termite Treatment Barrier Cost - Gold Coast**
+      For more on costs, check out **Termite Treatment Barrier Cost - Gold Coast**.
   - heading: Termite Baiting on the Gold Coast
     imageUrl: img/termite-treatment-baiting-system.png
     text: >-
@@ -71,19 +63,22 @@ termite_treatments_entries:
       ## Doing renovations or building your dream home?
 
 
-      At Conquer Termites, we offer a range of specialized solutions suitable for various construction types and requirements:
+      Conquer Termites provides specialized solutions for different construction needs:
 
 
-      1. 1. **FMC Homeguard**: As physical sheeting or parging paint, it effectively prevents termite entry, ideal for new constructions.
-         2. **Greenzone**: Combines expansion joint foam with termite repellency, suitable for builders seeking a dual-purpose product.
-         3. **Reticulation System**: Installed underground around a building's perimeter, this network of pipes allows easy reapplication of termite control chemicals, providing a long-term, non-disruptive solution.
+      1. **FMC Homeguard**: Works as a physical barrier against termites, perfect for new buildings.
 
-      ### **Read more about:**
+      2. **Greenzone**: Merges joint foam with termite repellency, great for builders wanting a two-in-one product.
+
+      3. **Reticulation System**: An underground pipe network for easy chemical reapplication, offering a lasting, hassle-free termite control solution.
 
 
-      * Termite Treatment Certification requirements
+      ### **Learn More About:**
 
-      * Visual Inspection Zone
+
+      * Termite Treatment Certification
+
+      * Visual Inspection Zones
 
       * Concrete Cut-Out Protection
 ---
