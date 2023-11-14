@@ -1,7 +1,7 @@
 ---
 title: Best Pest Control Solutions for a Safe and Effective Treatment of Gold
   Coast Homes
-image: img/pest-control-photo.jpg
+image: img/conquer-termites-pest-control-on-the-gold-coast.jpg
 blurb:
   heading: It’s not about ‘spray and pray’
   text: Body Copy for the test heading.
