@@ -1,6 +1,6 @@
 ---
 title: Gold Coast Termite & Pest Inspection Experts
-image: img/termite-inspection-conquer-termites-2.jpg
+image: img/andy-in-sub-floor.jpg
 pest-inspections: []
 pest_inspections_entries:
   - heading: Gold Coast Termite & Pest Inspection Experts
