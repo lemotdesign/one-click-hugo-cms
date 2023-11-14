@@ -1,6 +1,6 @@
 ---
 title: Found Termites - How to Identify and What to do
-image: img/termite-treatment-page.jpg
+image: img/found-termites-page.jpg
 found_termites_entries:
   - heading: Remove Termites - Three Step Process
     imageUrl: img/found-termites-three-step-process.jpg
