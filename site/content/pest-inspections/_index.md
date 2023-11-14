@@ -154,7 +154,7 @@ pest_inspections_entries:
     imageUrl: img/termite-licenses-queensland.png
   - heading: "Some common questions about Termites:"
     text: |-
-      ### Common Q&A about Termites on the Gold Coast
+      
 
       * What are the signs of termites?
       * What do termites look like?
