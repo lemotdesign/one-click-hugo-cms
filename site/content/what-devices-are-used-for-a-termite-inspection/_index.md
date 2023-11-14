@@ -1,6 +1,6 @@
 ---
 title: Where Do Termites Come From?
-image: img/termites-can-appaer-from-anywhere.png
+image: img/termite-detection-devices-2.jpg
 what_devices_entries:
   - heading: How do Termites Appear out of Nowhere?
     text: >-
