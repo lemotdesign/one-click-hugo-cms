@@ -5,10 +5,9 @@ pest-inspections: []
 pest_inspections_entries:
   - heading: Gold Coast Termite & Pest Inspection Experts
     text: >-
-      ### Gold Coast Termite & Pest Inspection Experts
-
-
-      Finding termites (white ants) in your home or garden is scary and unsettling. But for some homeowners, finding a reputable Pest Company to sort out the problem can be just as daunting.
+      Finding termites (white ants) in your home or garden is scary and
+      unsettling. But for some homeowners, finding a reputable Pest Company to
+      sort out the problem can be just as daunting.
 
 
       *All you want to know is, ‘Can I trust them, and will they give me the right advice’?*
