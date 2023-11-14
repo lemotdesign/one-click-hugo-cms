@@ -1,77 +1,36 @@
 ---
-title: Where Do Termites Come From?
-image: img/termites-can-appaer-from-anywhere.png
+title: Devices Used To Detect Termites
+image: img/termite-detection-devices-2.jpg
 what_devices_entries:
-  - heading: How do Termites Appear out of Nowhere?
+  - heading: Thermal Camera
     text: >-
-      Termites, often dubbed the "silent destroyers," have a knack for making
-      themselves known only after they've caused significant damage. But how do
-      these tiny critters seemingly pop up out of nowhere?
+      Thermal Imaging is essential for finding termites in your home. It detects
+      temperature differences, indicating termite activity to skilled
+      inspectors. Our FLIR cameras spot these changes with high precision.
 
 
-      ## Should I panic about termites?
+      At Conquer Termites, we're all about using top tech for thorough inspections. That's why our inspectors all carry a FLIR Thermal Imaging camera. With us, you're getting an expert inspector armed with a camera that can help reveal what's going on in your home.
+    imageUrl: img/thermal-camera-termite-detection.png
+  - text: >-
+      The Termatrac T3i is like the Swiss Army knife for finding termites. It's
+      got radar, thermal, and moisture sensors all in one gadget.
 
 
-      Have you just found evidence of termites in your home and wondered how they came in? You hadn’t seen any signs of termites, mud leads, or termite trails, but suddenly they appear in your home!
+      The Termatrac T3i is all about detecting motion - termite motion, that is. Think of it as a high-tech bug detector. Using its radar technology, it can sense even the tiniest movements of termites through walls, floors, you name it. 
 
 
-      Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
+      No need to tear anything apart; just point it where you suspect these critters might be hiding, and it tells you if there's something moving. It's a handy tool for anyone trying to catch those sneaky termites without the mess.
+    heading: "Termatrac T3i - Motion Detection Device "
+    imageUrl: img/termatrac-t3i.jpg
+  - heading: "Moisture Meter - Termite Detection "
+    text: >-
+      A Moisture Meter is another essential gadget for pest inspections. Just
+      like its name implies, it measures how much moisture is in the walls.
+      Termites love moist and humid spots, so a higher-than-normal moisture
+      level in your walls could mean they're around. Plus, termites leave behind
+      a damp trail as they munch through materials. 
 
 
-      Subterranean termite attacking a home 
-
-
-      ![Subterranean termite attacking a home](img/termites-attacking-a-house.png)
-
-
-      **1. Silent Workers:** Termites are notoriously discreet and enter your home in a concealed manner. They operate in the dark, concealed spaces of your home like within walls, under floorboards, or in any other tiny crevice they can find. This means they can be feasting on your home's structure for a long time before any obvious signs emerge.
-
-
-      **2. Rapid Reproduction:** One of the reasons termites seem to appear suddenly is their impressive rate of reproduction. A single termite queen can lay thousands of eggs daily, leading to large colonies forming quickly and discreetly. A couple of years ago, there might just not have been a termite nest near your home.
-
-
-      **3. Swarmers:** On the Gold Coast, from October to February, mature termite colonies release swarmers (Alates) – winged termites whose primary goal is to start new colonies. If you spot a group of winged insects inside or around your home, it's possible they've been there for a while and are now seeking a place to set up home!
-
-
-      **4. Underground Movement:** Subterranean (under the ground) termites, are the most common type on the Gold Coast. They construct mud tubes to traverse between their underground home and their food source (your house!). These mud tubes protect them from predators and the environment, making their movement and presence hidden.
-
-
-      {{< youtube nQrQIAoJwSA >}}
-
-
-      **5. Your home is a Timber Buffet for Termites:** Once the termites have determined a timber structure above them, they will build subterranean tunnels from their nest to gain concealed entry. For them, your house is the trophy tree!
-
-
-      **There is a lot of timber in your house.**
-
-
-      The latest data from a long-running FWPA project demonstrates that Australia’s average one- and two-storey detached house used 14.58 m3 of wood (2017-18).
-
-
-      ![Volume of timber in an average house in Australia](img/how-much-timber-termites-can-eat-in-your-home.png)
-
-
-      **Termites eat hardwood too.**
-
-
-      Termites will eat all types of timber, but they are super clever in sourcing the wood with the most desirable nutrients and cellulose. It’s all about efficient foraging and a balanced diet for the colony.
-
-
-      A big mistake Australian homeowners make is thinking their home is constructed with hardwood, when in fact, it is just plantation eucalyptus (gum trees). Yes, it is considerably harder than radiata pine, but it is highly desirable timber for termites to eat.
-
-
-      Eucalyptus timbers are the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
-
-
-      #### Don't wait until you see evidence of termites - Act now and get your home inspected
-
-
-      Termites don't appear out of nowhere; they've usually been around for longer than you realize. 
-
-
-      Regular home inspections and being aware of the subtle signs of their presence can help in early detection, preventing extensive damage to your home. 
-
-
-      Remember, it's always easier to tackle a termite problem in its early stages than after they've firmly established themselves.
-    imageUrl: img/termites-can-appaer-from-anywhere.png
+      That's why, at Conquer Termites Gold Coast, we always use both a Thermal Camerar and a moisture meter in every inspection. These tools help us spot termite hangouts more effectively.
+    imageUrl: img/moisture-meter-detection-of-termites.jpg
 ---
