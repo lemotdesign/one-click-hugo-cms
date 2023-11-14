@@ -53,7 +53,7 @@ The inspection should follow the two Australian Standards that pertain to Subter
 
 Professional termite inspectors frequently employ cutting-edge technology to improve the accuracy of their assessments. Equipment such as Thermal Imaging Cameras, Termatrac devices, and Moisture Meters play a pivotal role in uncovering concealed termite activity that might remain unnoticed during a conventional visual inspection.
 
-![Termite Detection Devices](img/termite-detection-devices.png)
+![Termite Detection Devices](img/termite-detection-devices-2.jpg)
 
 When an inspector arrives without essential tools like a Thermal Camera or Termatrac Device, it's a clear indication that they may not deliver the most thorough inspection results.
 
