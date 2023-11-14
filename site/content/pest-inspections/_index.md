@@ -53,7 +53,7 @@ pest_inspections_entries:
 
       Read More.....
     heading: Pre-purchase Termite Inspection – Timber Pest Inspection
-    imageUrl: img/gold-coast-prepurchase-termite-inspection.png
+    imageUrl: img/anton-inspector.jpg
   - heading: Termite Inspection Cost on the Gold Coast
     text: >-
       ## How much does a Termite (White Ant) inspection cost?
