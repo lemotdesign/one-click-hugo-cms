@@ -22,4 +22,15 @@ what_devices_entries:
       No need to tear anything apart; just point it where you suspect these critters might be hiding, and it tells you if there's something moving. It's a handy tool for anyone trying to catch those sneaky termites without the mess.
     heading: "Termatrac T3i - Motion Detection Device "
     imageUrl: img/termatrac-t3i.jpg
+  - heading: "Moisture Meter - Termite Detection "
+    text: >-
+      A Moisture Meter is another essential gadget for pest inspections. Just
+      like its name implies, it measures how much moisture is in the walls.
+      Termites love moist and humid spots, so a higher-than-normal moisture
+      level in your walls could mean they're around. Plus, termites leave behind
+      a damp trail as they munch through materials. 
+
+
+      That's why, at Conquer Termites Gold Coast, we always use both a Thermal Camerar and a moisture meter in every inspection. These tools help us spot termite hangouts more effectively.
+    imageUrl: img/moisture-meter-detection-of-termites.jpg
 ---
