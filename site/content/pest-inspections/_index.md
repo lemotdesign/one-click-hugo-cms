@@ -125,7 +125,7 @@ pest_inspections_entries:
 
 
       Read more about '**How is a Termite Inspection Done**'
-    heading: How often should I get a termite Inspection done?
+    heading: How often should a Termite Inspection be done?
     imageUrl: img/new-image-template-1.jpg
   - text: >-
       To help you, we would like to give you a checklist of questions you should
