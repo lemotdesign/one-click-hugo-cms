@@ -93,9 +93,6 @@ pest_inspections_entries:
 
 
       If you need it, we provide a comprehensive Termite Treatment Proposal alongside our report. It lays out a clear, priced plan for termite treatment, so you know exactly what to expect.
-
-
-      *At Conquer Termites, we're committed to top-notch inspections, giving you both results and reassurance.*
     imageUrl: img/termite-inspection-report.jpg
   - text: >-
       Make sure to get your home checked for termites at least **once a year**,
@@ -114,7 +111,7 @@ pest_inspections_entries:
       Without a chemical barrier around your home, termites can sneak in easily. Regular inspections are key for early detection and prevention, just like regular dental check-ups, especially if you don't have any termite treatment.
 
 
-      See '**How is a Termite Inspection Done**' for more details.
+      Read more about '**How is a Termite Inspection Done**'
     heading: How often should I get a termite Inspection done?
     imageUrl: img/new-image-template-1.jpg
   - text: >-
@@ -150,18 +147,14 @@ pest_inspections_entries:
       Watch out for companies offering a **free** "termite check" and then pushing some expensive and sketchy baiting system. These guys usually aren't licensed or qualified, and you might even be asked to sign a waiver acknowledging it's just a check, not a proper inspection to Australian Standards.
 
 
-      Read more about How to avoid the 'Dodgy Pest Control' companies on the Gold Coast
+      Read more about: **'How to avoid the 'Dodgy Pest Control' companies on the Gold Coast'**
     imageUrl: img/termite-licenses-queensland.png
   - heading: "Some common questions about Termites:"
     text: |-
-      
-
       * What are the signs of termites?
       * What do termites look like?
       * What are the signs of termites in a wall?
       * What do termites sound like?
       * What are flying termites, and what do they look like?
-      * What are dry-wood termites?
-      * How you can check your home and garden for termites
     imageUrl: img/asking-termite-questions-2.jpg
 ---
