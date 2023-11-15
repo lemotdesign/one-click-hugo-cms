@@ -27,9 +27,9 @@ pest_control_entries:
       yuckiness):
 
 
-      *  Spiders Cockroaches, Black Ants & Silverfish
+      * Spiders, Cockroaches, Black Ants & Silverfish
 
-      * ![Pest we treat for general pest control](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
+      *   ![Pest we treat for general pest control](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
 
       *
     imageUrl: img/cockroach-bait-gel-safe-and-effective.jpg
@@ -52,7 +52,7 @@ pest_control_entries:
       * **Mosquitos**
 
 
-      Check our Specialised Pest Treatment page for more information.
+      Check our **'Specialised Pest Treatment'** page for more information.
     imageUrl: img/rodent-control-keep-unwanted-guest-away-.jpg
   - heading: Is there a warranty for pest control treatment?
     text: >-
@@ -105,7 +105,7 @@ pest_control_entries:
       At Conquer, we believe in doing things right the first time, with your family's safety and the environment at the forefront of our operations.
 
 
-      Read more about our Safe Pest Control.
+      Read more: **Is the Pest Control Treatment Safe for my family and pests?**
     imageUrl: img/pest-control-is-safe-for-pets-and-family.png
   - heading: Do I need to leave during the Pest Treatment?
     text: >-
@@ -151,8 +151,5 @@ pest_control_entries:
       * **Average-Sized Homes:** We spend over 1 & 1/2 hours treating standard homes, covering all necessary aspects.
 
       * **Smaller Homes or Apartments:** A full hour is dedicated even to the smallest properties, ensuring Conquer's high standards are met.
-
-
-      Our meticulous approach ensures that your pest control treatment is thorough, effective, and tailored to your home's specific needs.
     imageUrl: img/dusting-treatment-for-difficult-to-get-to-places.jpg
 ---
