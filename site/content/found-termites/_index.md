@@ -45,9 +45,7 @@ found_termites_entries:
       Have you just put a finger through a door frame or turned over a piece of timber in the garden and think you have found Termites? 
 
 
-      ### **Check: Five Signs You Might Have Termites**
-
-
+      ### **What are the Five Signs You Might Have Termites?**
 
 
       ### Here are some more pages you might find informative:
@@ -58,9 +56,6 @@ found_termites_entries:
       * What do termites look like?
 
       * Where do termites come from?
-
-
-      Send us a **photo** for expert identification
     imageUrl: img/found-termites-live-termites.jpg
   - text: >-
       What is the Difference between Termites and White Ants - NOTHING!
