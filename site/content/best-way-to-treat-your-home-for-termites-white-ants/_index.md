@@ -3,6 +3,14 @@ title: Best way to treat your home for Termites – White Ants
 image: img/conquer-termites-gold-coast.png
 white_ants_entries:
   - text: >-
+      Whether your home has already faced a termite infestation or you're
+      proactively seeking treatment for peace of mind, selecting the right
+      treatment company and placing your trust in their advice can be daunting.
+
+
+      Best to do your homework so you can ask the right questions and get the best outcome.
+
+
       #### Start with Choosing the Best Termite Treatment Company
 
 
