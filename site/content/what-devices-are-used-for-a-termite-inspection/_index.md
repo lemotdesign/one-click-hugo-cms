@@ -33,4 +33,7 @@ what_devices_entries:
 
       That's why, at Conquer Termites Gold Coast, we always use both a Thermal Camerar and a moisture meter in every inspection. These tools help us spot termite hangouts more effectively.
     imageUrl: img/moisture-meter-detection-of-termites.jpg
+  - text: "{{< youtube ZE6jMsa2SBs >}}"
+    heading: How we use these Termite Detection Devices
+    imageUrl: img/termite-inspection-video.jpg
 ---
