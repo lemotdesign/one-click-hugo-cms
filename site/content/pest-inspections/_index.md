@@ -70,6 +70,9 @@ pest_inspections_entries:
 
       For more information: **Read More**
     imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
+  - heading: "Termite Detection Devices "
+    imageUrl: img/termite-detection-devices-2.jpg
+    text: j
   - heading: Conquer Termites Digital Report & Treatment Proposal
     text: >-
       Conquer Termites offers easy-to-understand inspection reports. We make
