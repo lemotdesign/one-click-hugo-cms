@@ -83,7 +83,7 @@ home_page_entries:
       * How long does it take to do?
 
       * What are the Pest Control Warranties?
-    imageUrl: img/pest-control-greeting-2.jpg
+    imageUrl: img/pest-control-greeting-3.jpg
 blurb:
   heading: "Trust our team of experts "
   text: At Conquer Termites Gold Coast, we're committed to delivering safe and
