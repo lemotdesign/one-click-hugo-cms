@@ -116,12 +116,10 @@ pest_inspections_entries:
 
       **Consider more often**
 
-
       If your house is older, built a certain way, or close to woods, you might need more frequent inspections.
 
 
       **Current chemical treatment?**
-
 
       Without a chemical barrier around your home, termites can sneak in easily. Regular inspections are key for early detection and prevention, just like regular dental check-ups, especially if you don't have any termite treatment.
 
