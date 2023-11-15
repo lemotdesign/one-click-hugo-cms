@@ -156,5 +156,5 @@ pest_inspections_entries:
       * What are the signs of termites in a wall?
       * What do termites sound like?
       * What are flying termites, and what do they look like?
-    imageUrl: img/asking-termite-questions-2.jpg
+    imageUrl: img/talk-to-a-termite-expert.jpg
 ---
