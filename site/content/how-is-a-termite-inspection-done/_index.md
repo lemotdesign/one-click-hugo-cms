@@ -1,5 +1,5 @@
 ---
-title: Where Do Termites Come From?
+title: How is a Termite Inspection Done - Gold Coast
 image: img/how-is-a-termite-inspection-done-gold-coast.png
 best_termite_inspection_entries: null
 how_is_a_termite_inspection_done_entries:
@@ -116,5 +116,5 @@ how_is_a_termite_inspection_done_entries:
 
        Don't hesitate to reach out to Conquer Termites Gold Coast for expert termite inspections and comprehensive protection against termites.
     heading: "Best Termite Inspections on the Gold Coast:"
-    imageUrl: img/conquer-termites-crew-on-the-gold-coast.jpg
+    imageUrl: img/team-conquer-termites.jpg
 ---
