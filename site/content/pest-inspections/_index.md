@@ -70,21 +70,6 @@ pest_inspections_entries:
 
       For more information: **Read More**
     imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
-  - heading: "Termite Detection Devices "
-    imageUrl: img/termite-detection-devices-2.jpg
-    text: >-
-      To deliver the best termite inspection on the Gold Coast, it is essential
-      to have and use advanced detection tools such as a thermal camera, a
-      Termatrac motion detection device, and a moisture meter. 
-
-
-      When the individual operating these devices is truly proficient in their use and understands the specifics of what to search for, you can expect to receive a comprehensive analysis of your home's termite condition.
-
-
-      *Make sure to verify when booking a company on the Gold Coast; not all of them may have or utilize these devices!*
-
-
-      Read more ...
   - heading: Conquer Termites Digital Report & Treatment Proposal
     text: >-
       Conquer Termites offers easy-to-understand inspection reports. We make
@@ -109,6 +94,21 @@ pest_inspections_entries:
 
       If you need it, we provide a comprehensive Termite Treatment Proposal alongside our report. It lays out a clear, priced plan for termite treatment, so you know exactly what to expect.
     imageUrl: img/termite-inspection-report.jpg
+  - heading: "Termite Detection Devices "
+    imageUrl: img/termite-detection-devices-2.jpg
+    text: >-
+      To deliver the best termite inspection on the Gold Coast, it is essential
+      to have and use advanced detection tools such as a thermal camera, a
+      Termatrac motion detection device, and a moisture meter. 
+
+
+      When the individual operating these devices is truly proficient in their use and understands the specifics of what to search for, you can expect to receive a comprehensive analysis of your home's termite condition.
+
+
+      *Make sure to verify when booking a company on the Gold Coast; not all of them may have or utilize these devices!*
+
+
+      Read more ...
   - text: >-
       Make sure to get your home checked for termites at least **once a year**,
       following the Australian Standards 3660.2.
