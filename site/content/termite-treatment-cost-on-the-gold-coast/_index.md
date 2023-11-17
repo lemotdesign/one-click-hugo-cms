@@ -1,6 +1,6 @@
 ---
 title: Termite Treatment cost on the Gold Coast
-image: img/termite-treatment-how-much-does-it-cost.png
+image: img/termite-treatment-page.jpg
 termite_treatment_gc_entries:
   - text: >-
       Stumbled upon termites around your home? Wondering which treatment will
@@ -21,35 +21,32 @@ termite_treatment_gc_entries:
 
 
       **Combined treatments**: Sometimes, we will recommend combining a chemical treatment with a baiting system for ultimate protection.
-
-
-      ![Termite treatment Barrier Cost](blob:https://stage.termiteandpestcontrolgoldcoast.com.au/dc5ffe04-aed4-4c0a-8d64-04d669920351)
-
-
-      ### Must Do's Before a Termite Treatment
-
-
-      1. A mandatory **Termite Inspection** is essential, not only to meet the Australian Standards but also to adhere to insurance policies. If this isn't part of the plan, be wary. *Typically, a termite inspection falls within the $300 range. This covers a comprehensive inspection of your property to ascertain the infestation's reach and the termite species involved.*
+    heading: How much does a Termite Treatment Cost - Gold Coast?
+    imageUrl: img/termite-treatment-how-much-does-it-cost.png
+  - text: >-
+      1. A mandatory **Termite Inspection** is essential, not only to meet the
+      Australian Standards but also to adhere to insurance policies. If this
+      isn't part of the plan, be wary. *Typically, a termite inspection falls
+      within the $300 range. This covers a comprehensive inspection of your
+      property to ascertain the infestation's reach and the termite species
+      involved.*
 
       2. A **Treatment Proposal** should be provided, outlining costs, strategy, and any constraints.
-
-
-      ### How long does a Termite Treatment Last?
-
-
-      It's an excellent question to ask and crucial for comparing different quotes accurately. Modern termiticides aren't everlasting and need to be refreshed based on the manufacturer's recommended lifespan.
+    heading: Must Do's Before a Termite Treatment
+    imageUrl: img/hernan-termite-inspection.jpg
+  - text: >-
+      It's an excellent question to ask and crucial for comparing different
+      quotes accurately. Modern termiticides aren't everlasting and need to be
+      refreshed based on the manufacturer's recommended lifespan.
 
 
       As an Accredited Installer, Conquer Termites endorses Termidor HE, which offers an eight-year protection span under typical Gold Coast conditions.
-
-
-      ![Termite Treatment Chemical lifespan ](blob:https://stage.termiteandpestcontrolgoldcoast.com.au/b4148455-abe1-48a3-93c6-c6e885c87ce4)
-
-
-      ### How to Select the Right Termite Treatment Company
-
-
-      Choosing the right termite treatment is paramount to safeguard your home from potential termite damage. However, it's equally essential to select a trustworthy company to execute the treatment.
+    heading: How long does a Termite Treatment Last?
+    imageUrl: img/how-long-does-a-termite-inspection-take.jpg
+  - text: >-
+      Choosing the right termite treatment is paramount to safeguard your home
+      from potential termite damage. However, it's equally essential to select a
+      trustworthy company to execute the treatment.
 
 
       It's crucial to compare options comprehensively when deciding on a termite treatment company. Regrettably, there are significant variations in the industry when it comes to quality, expertise, methods, and integrity.
@@ -78,18 +75,18 @@ termite_treatment_gc_entries:
 
 
       Arming yourself with these questions will help you choose a company that not only offers effective termite treatments but also provides a service that's thorough, responsible, and professional.
-
-
-      ### How a termite treatment should be done
-
-
-      ![Youtube Video](https://i3.ytimg.com/vi/jX0IASCNbSA/hqdefault.jpg)
-
-
-      ### Consumer Alerts
-
-
-      • **Beware of Unlicensed Companies** Many firms portray a local facade online, only to redirect to out-of-town call centres and lack the requisite Queensland licenses and credentials. All Queensland-based operations require a QBCC license for termite treatments. Absence of this license signifies a subcontractor role. Lack of QBCC licensing also means no insurance, casting doubt over their termite treatment claims.
+    heading: How to Select the Right Termite Treatment Company
+    imageUrl: img/termite-inspection-who-to-call-on-the-gold-coast.png
+  - text: "![Youtube Video](https://i3.ytimg.com/vi/jX0IASCNbSA/hqdefault.jpg)"
+    heading: How a termite treatment should be done
+    imageUrl: img/conquer-termites-two-utes-treating-a-house.jpg
+  - text: >-
+      • **Beware of Unlicensed Companies** Many firms portray a local facade
+      online, only to redirect to out-of-town call centres and lack the
+      requisite Queensland licenses and credentials. All Queensland-based
+      operations require a QBCC license for termite treatments. Absence of this
+      license signifies a subcontractor role. Lack of QBCC licensing also means
+      no insurance, casting doubt over their termite treatment claims.
 
 
       • **Deceptive Free Check Offers** Some companies entice with "free termite checks" only to hastily propose an overpriced, subpar baiting system priced at $7,000! These operators typically lack proper licensing. Often, a waiver must be signed, clarifying the service as a 'check' rather than a full-fledged inspection meeting Australian Standards.
@@ -99,9 +96,6 @@ termite_treatment_gc_entries:
 
 
       Reach out to Conquer Termites, your neighbourhood expert with 20 years of service on the Gold Coast. Boasting 25 adept, fully licensed technicians, we're adept at spotting and eliminating termites tailored to the unique requirements of South East Queensland homes.
-
-
-      ### Call Conquer Termites & Pest Management on 1300 417 007
-    heading: How much does a Termite Treatment Cost - Gold Coast?
-    imageUrl: img/team-conquer-termites.jpg
+    heading: Consumer Alerts about Termite Companies on the Gold Coast
+    imageUrl: img/termite-licenses-queensland.png
 ---
