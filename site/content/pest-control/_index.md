@@ -54,7 +54,7 @@ pest_control_entries:
 
       Check our **'Specialised Pest Treatment'** page for more information.
     imageUrl: img/rodent-control-keep-unwanted-guest-away-.jpg
-  - heading: Is there a warranty for pest control treatment?
+  - heading: What is the warranty for pest control treatments?
     text: >-
       Yes, we do offer a pest treatment warranty, mean to say, we want you to be
       happy and satisfied. But we don’t want to be the company that overpromises
