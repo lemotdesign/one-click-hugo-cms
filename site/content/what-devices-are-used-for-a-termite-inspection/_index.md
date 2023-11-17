@@ -1,7 +1,24 @@
 ---
 title: Devices Used To Detect Termites
-image: img/termite-detection-devices-2.jpg
+image: img/termite-detection-tools-we-use.jpg
 what_devices_entries:
+  - imageUrl: img/termite-detection-devices-2.jpg
+    heading: Termite Detection Tools we use
+    text: >-
+      For spotting termites, our main tools are just looking and listening. It's
+      not just about tapping around with a golf stick - you've got to notice if
+      wood sounds hollow (maybe termites?) or if there's weird brown spots
+      (termite mudding?).
+
+
+      To transform our inspectors into Termite Detection Superheroes, they're all equipped with and use:
+
+
+      * Thermal Cameras
+
+      * Motion Detectors
+
+      * Moisture Meters
   - heading: Thermal Camera
     text: >-
       Thermal Imaging is essential for finding termites in your home. It detects
