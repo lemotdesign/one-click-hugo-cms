@@ -1,6 +1,6 @@
 ---
 title: Invasive Inspection for Termites
-image: img/hearing-termite-noises-in-your-wall.png
+image: img/invasive-termite-inspection-2.jpg
 invasive_inspection_entries:
   - text: >-
       A big frustration for home buyers is getting a report recommending an
