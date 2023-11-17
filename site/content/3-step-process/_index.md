@@ -1,8 +1,11 @@
 ---
 title: Three Step Process to Remove Termites
-image: img/found-termites-three-step-process.jpg
+image: img/3-step-process-photo.jpg
 3_step_process_entries: null
 three_step_process_entries:
+  - heading: What is the Best Way to Remove Termites?
+    imageUrl: img/found-termites-three-step-process.jpg
+    text: k
   - heading: "Step One: Getting a Termite Inspection Done"
     text: >-
       Time to call in the pros! To truly grasp the scope of the termite problem
