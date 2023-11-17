@@ -1,6 +1,6 @@
 ---
 title: Best Pre-Purchase Inspection on the Gold Coast
-image: img/gold-coast-prepurchase-termite-inspection.png
+image: img/found-termites-page.jpg
 pre_purchase_entries:
   - text: >-
       #### Purchasing Your Dream Home: Secure Your Investment
@@ -18,19 +18,25 @@ pre_purchase_entries:
       However, we won't sugarcoat it: Pre-purchase Timber Pest Inspections have been a point of contention. There have been instances where inspectors, unfortunately, either overlook evident signs or fail to provide the necessary guidance. Such oversights can lead to disputes and, in some cases, legal battles. Some buyers might even perceive this as an opportunity to claim compensation from the inspection company's insurance.
 
 
-      ![Thermal camera - termite detection](img/thermal-camera-termite-detection.png)
+      ### Let it be your dream home
 
 
-      #### The Real Objective of a Pre-Purchase Inspection
-
-
-      Beyond the controversies, the core purpose of this inspection remains clear: to offer a comprehensive insight into the property's condition in terms of timber pest activity. This ensures that you, as a buyer, are well-informed about any potential threats and can make decisions that safeguard your investment.
+      In the end, when you're making such a significant commitment, you deserve to have all the facts at your fingertips. Entrust this task to seasoned experts, and ensure your dream home remains just that – a dream come true.
+    heading: Timber Pest Inspection on the Gold Coast
+    imageUrl: img/gold-coast-prepurchase-termite-inspection.png
+  - text: >-
+      Beyond the controversies, the core purpose of this inspection remains
+      clear: to offer a comprehensive insight into the property's condition in
+      terms of timber pest activity. This ensures that you, as a buyer, are
+      well-informed about any potential threats and can make decisions that
+      safeguard your investment.
 
 
       In the end, when you're making such a significant commitment, you deserve to have all the facts at your fingertips. 
-
-
-      ### Understanding the Pre-purchase Inspection: What It Is and What It Isn't
+    heading: The Real Objective of a Pre-Purchase Inspection
+    imageUrl: img/anton-inspector.jpg
+  - text: >-
+      ### What It Is and What It Isn't
 
 
       Investing in a home is no small feat, and a Pre-purchase Inspection (Timber Pest) can be one of the most crucial steps to ensure that your investment is sound. Here's what you should know about the process:
@@ -53,12 +59,13 @@ pre_purchase_entries:
 
 
       Remember, a home's vulnerability to termites on the Gold Coast isn't just about its location or the time of year. More often than not, the real issue is the absence of a current termite prevention system. Ensure your dream home has the best defence against these unwelcome guests.
-
-
-      ## Invasive Inspection for Termites
-
-
-      A big frustration for home buyers is getting a report recommending an "**Invasive**" inspection. The problem is that it's not your home to pull things away or cut access points to check. And then there's the question; is it really necessary?
+    heading: Understanding the Pre-purchase Inspection
+    imageUrl: img/termite-pest-inspection.png
+  - text: >-
+      A big frustration for home buyers is getting a report recommending an
+      "**Invasive**" inspection. The problem is that it's not your home to pull
+      things away or cut access points to check. And then there's the question;
+      is it really necessary?
 
 
       Normally, an inspector will suggest this invasive approach only when there's a strong suspicion of termite activity in a particular area. It shouldn’t be a generalized recommendation to absolve them of accountability. Instead, it should be grounded in specific observations.
@@ -84,13 +91,7 @@ pre_purchase_entries:
 
       3. Use a Termatrac Motion Detection Device to confirm the presence of live termites.
 
-      4. Engage a qualified Tradesperson to remove the wall lining. Remember, you can only do this with the permission of the Seller. 
-
-
-      ### Let it be your dream home
-
-
-      In the end, when you're making such a significant commitment, you deserve to have all the facts at your fingertips. Entrust this task to seasoned experts, and ensure your dream home remains just that – a dream come true.
-    heading: Timber Pest Inspection on the Gold Coast
-    imageUrl: img/hearing-termite-noises-in-your-wall.png
+      4. Engage a qualified Tradesperson to remove the wall lining. Remember, you can only do this with the permission of the Seller.
+    heading: Invasive Inspection for Termites
+    imageUrl: img/delima-of-doing-an-invasive-termite-inspection.jpg
 ---
