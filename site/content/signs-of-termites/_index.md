@@ -92,7 +92,7 @@ signs_of_termites_entries:
       If you hear [these sounds](https://www.conquertermites.com.au/inspections/found-termites/termite-sounds/), it's a strong indication of a termite infestation and you should have a professional inspect your home as soon as possible.
 
 
-      {{< youtube youtube SjsUfFH22io >}}
+      {{< youtube SjsUfFH22io >}}
     heading: Termite noise - sounds termites make
     imageUrl: img/hearing-termite-noises-in-your-wall.png
   - text: >-
