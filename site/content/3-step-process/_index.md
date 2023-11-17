@@ -1,8 +1,26 @@
 ---
 title: Three Step Process to Remove Termites
-image: img/found-termites-three-step-process.jpg
+image: img/3-step-process-photo.jpg
 3_step_process_entries: null
 three_step_process_entries:
+  - heading: What is the Best Way to Remove Termites?
+    imageUrl: img/found-termites-three-step-process.jpg
+    text: >-
+      If you think you have termites, it's important to act quickly to get rid
+      of them and protect your house.
+
+
+      **Don't Disturb the Termites** - Don't scare them away before we can check everything out. So, hold off on using that spray!
+
+
+      ### The Three Recommended Steps:
+
+
+      1. Full Termite Inspection
+
+      2. Initial Treatment
+
+      3. Chemical Treatment around the house
   - heading: "Step One: Getting a Termite Inspection Done"
     text: >-
       Time to call in the pros! To truly grasp the scope of the termite problem
