@@ -1,8 +1,8 @@
 ---
 title: Best way to treat your home for Termites – White Ants
-image: img/conquer-termites-gold-coast.png
+image: img/termite-treatment-page.jpg
 white_ants_entries:
-  - text: >-
+  - text: >
       Whether your home has already faced a termite infestation or you're
       proactively seeking treatment for peace of mind, selecting the right
       treatment company and placing your trust in their advice can be daunting.
@@ -35,12 +35,14 @@ white_ants_entries:
       * **Home Construction and Foundation Type**: Different building materials and foundation types can influence which treatment methods are most appropriate.
 
       * **Surrounding Landscaping**: Trees, plants, and other landscaping elements around your property can impact termite behaviour and treatment choices.
+    heading: Best way to remove white ants - termites
+    imageUrl: img/conquer-termites-gold-coast.png
+  - text: >-
+      When you're working with a bona fide termite expert, you should expect the
+      following standard of service:
 
 
-      ### Check List - To Choose the Right Pest Company:
-
-
-      When you're working with a bona fide termite expert, you should expect the following standard of service:
+      ### Check List:
 
 
       1. **Termite Inspection:** A requirement of our insurance, QBBC and the Australian Standards, an inspection needs to be done before **any** treatment. 
@@ -61,31 +63,20 @@ white_ants_entries:
 
 
       Ensuring your chosen professional ticks these boxes guarantees a competent, trustworthy, and effective service.
-
-
-      ## Types of Termite Treatments on the Gold Coast
-
-
-      ![Types of Termite Treatments](img/types-of-termite-management-system.jpg)
-
-
-      1. **Chemical Soil Treatment - Barriers**: This is a common and effective treatment method on the Gold Coast. A liquid chemical is applied to the soil around and under a structure. Termites that pass through the treated soil are either repelled or killed.
+    heading: How to Choose the Right Pest Company
+    imageUrl: img/how-to-choose-a-good-termite-company.jpg
+  - text: >-
+      1. **Chemical Soil Treatment - Barriers**: This is a common and effective
+      treatment method on the Gold Coast. A liquid chemical is applied to the
+      soil around and under a structure. Termites that pass through the treated
+      soil are either repelled or killed.
 
       2. **Termite Baiting Systems**: These are plastic stations filled with bait rods, cellulose material that's treated with a slow-acting growth inhibitor agent. Termites consume the bait and share it with their colony, eventually killing the colony over time.
 
       3. **Physical Barriers**: These aren't designed to kill termites but rather deter them from entering the structure. These can include metal or crushed rock barriers, or specially-designed fabrics that are typically installed when a house is being built.
-
-
-      ### What does a Treatment look like:
-
-
-      {{< youtube jX0IASCNbSA >}}
-
-
-      ### Contact a company you can trust
-
-
-      Start with a phone call to Gold Coast's leading Termite Treatment company - Conquer Termites
-    heading: Best way to remove white ants - termites
-    imageUrl: img/conquer-termites-crew-on-the-gold-coast.jpg
+    heading: Types of Termite Treatments on the Gold Coast
+    imageUrl: img/types-of-termite-management-system.jpg
+  - text: "{{< youtube jX0IASCNbSA >}}"
+    heading: " What does a Treatment look like:"
+    imageUrl: img/termite-inspection-video.jpg
 ---
