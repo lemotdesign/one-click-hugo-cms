@@ -23,7 +23,7 @@ termite_treatments_entries:
 
 
       *Count on us for expert termite protection for your home.*
-  - heading: Termite Treatment Cost on the Gold Coast
+  - heading: Termite Treatment Cost - Gold Coast
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
     text: >-
       Dealing with termites on the Gold Coast? You'll want to know what it'll
