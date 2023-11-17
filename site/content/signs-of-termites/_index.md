@@ -42,9 +42,6 @@ signs_of_termites_entries:
       The mud tubes are made by mixing soil and termite saliva to form a paste-like substance that dries to a hardness similar to plaster.
 
 
-      ![Termite lead going over an ant cap](img/termite-mudding-leads.jpg "Termites exposed in their mud tube")
-
-
       If you see mud tubes along your walls or foundation, it's a strong indication of a termite infestation and you should have a professional inspect your home as **soon** as possible.
     heading: Mudding - termite trail, lead
     imageUrl: img/termite-mudding-leads.jpg
