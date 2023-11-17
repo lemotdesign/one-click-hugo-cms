@@ -18,13 +18,11 @@ invasive_inspection_entries:
       In many cases, termite damage could be lurking just beyond view, behind wall linings. Without direct visual access, it’s almost impossible to determine the severity of this damage.
     heading: When is an Invasive Inspection for Termites necessary?
     imageUrl: img/invasive-inspection-for-termites.jpg
-  - text: >+
-      1. The potential cost and aftermath of removing wall linings or fixtures
-      might exceed the actual costs of termite repair.
+  - text: >-
+      1. Delima one: The potential cost and aftermath of removing wall linings
+      or fixtures might exceed the actual costs of termite repair.
 
-
-      2. You could be buying a house with extensive hidden termite damage if you don't check.
-
+      2. Delima two: You could be buying a house with extensive hidden termite damage if you don't check.
     heading: The Two Dilemmas - Should you do it?
     imageUrl: img/delima-of-doing-an-invasive-termite-inspection.jpg
   - text: >-
