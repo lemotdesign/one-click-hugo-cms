@@ -50,6 +50,28 @@ termites_in_garden_entries:
 
       {{< youtube LjtsG1OLH4 >}}
     imageUrl: img/termites-everywhere-in-your-garden.jpg
+  - heading: Treat all Termite activity in your garden
+    text: >-
+      That's a common misconception indeed! It's often believed that if you spot
+      termites in your garden, it's best to leave them be, thinking they'll stay
+      put. But that's not the best approach.
+
+
+      #### Don't let them grow in number!
+
+
+      In reality, ignoring termites in your garden is like rolling out a welcome mat for them to your home. When you leave a termite colony undisturbed, it doesn't just hang around harmlessly; it grows and becomes stronger. As the colony expands, so does its need for food, and what's a bigger, more tempting source of food than your house?
+
+
+      #### Do three things:
+
+
+      1. **Remove conducive conditions:** Grind out that tree stump, remove loose timbers and reduce moisture
+
+      2. **Treat Live Termites**: Get Conquer Termites to apply a controlling agent to any area where live termites were found
+
+      3. **Baiting System:** An in-ground termite baiting system is a good way to intercept foraging termites in your garden
+    imageUrl: img/termites-in-a-fence-paling.jpg
   - text: >-
       **Treating Termites in Tree Trunks**: If termites infest a tree, our
       skilled Technicians will drill into the trunk to locate hollow areas
@@ -70,7 +92,4 @@ termites_in_garden_entries:
       Read about: **Termites Love Hardwood**
     imageUrl: img/treating-termites-in-a-stump.jpg
     heading: Termite Treatment for Trees and Stumps on the Gold Coast
-  - heading: Best to do thing about the Termites in your garden
-    text: k
-    imageUrl: img/hernan-termite-inspection.jpg
 ---
