@@ -44,11 +44,17 @@ where_do_termites_come_from_entries:
     heading: Why are Termites Everywhere!
     imageUrl: img/termites-attacking-a-house.png
   - text: >-
-      ### How much wood is in an average Australian home?
+      ### There is a bonanza of timber in your home for the Termites to eat
 
 
-      The latest data from a long-running FWPA project demonstrates that Australia’s average one- and two-storey detached house used 14.58 m3 of wood (2017-18).
-    heading: Your house is a super buffet for Termites
+      Indeed, your home is like a treasure trove of timber for termites. With the average Australian home containing about 14.58 cubic meters of wood, it presents a vast resource for these wood-eating insects. 
+
+
+      ### How much wood do Termites eat?
+
+
+      Termite workers eat about 5% of their body weight in wood daily. While this might seem small, it adds up quickly in a large colony with around a million workers. In such cases, a nest targeting your home can devour around 100 grams+ of wood each day.
+    heading: Your house is a Yummy Buffet for Termites
     imageUrl: img/how-much-timber-termites-can-eat-in-your-home.png
   - text: >-
       Termites will eat all types of timber, but they are super clever in
