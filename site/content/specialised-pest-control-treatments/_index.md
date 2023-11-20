@@ -32,4 +32,19 @@ specialised_entries:
       **Heads up**: Flea eggs are tough little nuggets, immune to chemicals, and they only hatch when they feel the vibes – like when you walk by. So, if you've got a real flea party going on, we usually suggest hitting them with **two rounds** of treatment to really get the job done.
     heading: Flea Treatments
     imageUrl: img/fleas-love-warm-blood-.jpg
+  - heading: "Lawn Grubs "
+    text: >-
+      Got lawn grubs munching on your grass? In South East Queensland, these
+      pesky critters are a usual headache from November to May, especially for
+      couch lawns (though 'Sir Walter' lawns tend to fare better). 
+
+
+      The good news? They're pretty easy to treat if you catch them early. Prevention and early detection are key. Also, keep an eye out during heavy rain periods, as that's when lawn grub issues usually ramp up.
+
+
+      ### How to Treat Lawn Grubs
+
+
+      {{< youtube mcauzWUpKT8 >}}
+    imageUrl: img/lawn-grubs-2.jpg
 ---
