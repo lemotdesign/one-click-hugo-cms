@@ -82,6 +82,6 @@ termites_in_trees_and_stumps_entries:
 
 
       Read about: **Termites Love Hardwood**
-    heading: l
-    imageUrl: img/termite-love-eucalyptus-trees.jpg
+    heading: Termite Treatment for Trees and Stumps on the Gold Coast
+    imageUrl: img/treating-termites-in-a-stump.jpg
 ---
