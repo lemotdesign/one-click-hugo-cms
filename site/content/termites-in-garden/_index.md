@@ -1,30 +1,77 @@
 ---
-title: Termites in the Garden or in a Tree
-image: img/termites-in-a-tree-stump-1.jpg
+title: Termites in the Garden - They are always there!
+image: img/termites-in-loose-tibers.jpg
 termites_in_garden_entries:
-  - heading: Treating Termites in a Tree & Stump
-    imageUrl: img/termites-in-a-tree-stump-3.jpg
-    text: >+
-      ## **Don't Panic - It's a Natural Occurrence**
+  - heading: "Termites are relentless in their search for food "
+    text: "Almost every garden on the Gold Coast is a playground for termites, or as
+      some call them, white ants. It's like they're having a party underground –
+      on average, there are about six different termite colonies doing their
+      thing near any house at any time.
 
 
-      Finding termites in trees or stumps is a common and natural occurrence on the Gold Coast. While it may be concerning, it's important to understand this is a typical part of the ecosystem. 
+      \r
+
+      \r
+
+      But here's the catch – you hardly ever spot them. These little
+      critters are master hiders, travelling through subterranean tunnels
+      they've made under the ground, usually just a foot below where we walk.
 
 
-      However, appropriate measures should be taken to manage and control termite infestations in these areas to prevent potential damage to other structures.
+      \r
 
-  - text: >-
-      Termites naturally gravitate towards trees and stumps, a relationship that
-      has been ongoing for millions of years. Trees, especially eucalyptus (gum
-      trees) common in Australia, offer an ideal habitat for termites.
+      \r
+
+      Think about it: our homes are like massive tree houses to these
+      termites, a dream come true for their munchies. With the average Aussie
+      home built with over 14 cubic square meters of yummy soft plantation
+      timber, it's no wonder they're tempted. So, while we're chilling above
+      ground, there’s a whole world of termite action happening right beneath
+      us!\""
+    imageUrl: img/foraging-termites-in-a-garden.jpg
+  - heading: Signs of Termites in your garden?
+    text: >-
+      Knowing that pretty much every house on the Gold Coast will have a Termite
+      nest near them. You need to be on the lookout for any signs of termite
+      activity.
 
 
-      They prefer the heartwood at the centre of the trunk, avoiding the sapwood and growth rings. To termites, trees are akin to towering restaurants, providing both nourishment and shelter.
+      Signs of Termites in your garden:
 
 
-      As for tree stumps, they become increasingly attractive to termites as they age. The aging wood becomes more susceptible and appealing to these pests. Aged stumps offer termites a substantial food source and a secure nesting site, making them prime targets for termite colonization.
-    heading: Why Termites Choose Trees and Stumps
-    imageUrl: img/tree-stump-diagram.jpg
+      1. Termite workings on your fence or retaining wall
+
+      2. Arboreal Termite nest in a tree
+
+      3. Termite mound nest
+
+      4. Termites under loose timbers in the garden
+
+
+      {{< youtube LjtsG1OLH4 >}}
+    imageUrl: img/termites-everywhere-in-your-garden.jpg
+  - heading: Treat all Termite activity in your garden
+    text: >-
+      That's a common misconception indeed! It's often believed that if you spot
+      termites in your garden, it's best to leave them be, thinking they'll stay
+      put. But that's not the best approach.
+
+
+      #### Don't let them grow in number!
+
+
+      In reality, ignoring termites in your garden is like rolling out a welcome mat for them to your home. When you leave a termite colony undisturbed, it doesn't just hang around harmlessly; it grows and becomes stronger. As the colony expands, so does its need for food, and what's a bigger, more tempting source of food than your house?
+
+
+      #### Do three things:
+
+
+      1. **Remove conducive conditions:** Grind out that tree stump, remove loose timbers and reduce moisture
+
+      2. **Treat Live Termites**: Get Conquer Termites to apply a controlling agent to any area where live termites were found
+
+      3. **Baiting System:** An in-ground termite baiting system is a good way to intercept foraging termites in your garden
+    imageUrl: img/termites-in-a-fence-paling.jpg
   - text: >-
       **Treating Termites in Tree Trunks**: If termites infest a tree, our
       skilled Technicians will drill into the trunk to locate hollow areas
