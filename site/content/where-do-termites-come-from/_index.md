@@ -60,7 +60,7 @@ where_do_termites_come_from_entries:
 
 
       Eucalyptus timbers are the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
-    heading: Termites eat hardwood 
+    heading: Termites Love to eat Hardwood 
     imageUrl: img/termite-love-eucalyptus-trees.jpg
   - text: >-
       Don't wait until you see evidence of termites - Act now and get your home
