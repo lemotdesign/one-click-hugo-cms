@@ -1,6 +1,6 @@
 ---
 title: Where Do Termites Come From?
-image: img/termites-can-appaer-from-anywhere.png
+image: img/angry-termites.jpg
 where_do_termites_come_from_entries:
   - text: >-
       Termites, often dubbed the "silent destroyers," have a knack for making
@@ -16,7 +16,7 @@ where_do_termites_come_from_entries:
 
       Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
     heading: How do Termites appear out of nowhere!
-    imageUrl: img/termites-attacking-a-house.png
+    imageUrl: img/termites-can-appaer-from-anywhere.png
   - text: >-
       **1. Silent Workers:** Termites are notoriously discreet and enter your
       home in a concealed manner. They operate in the dark, concealed spaces of
