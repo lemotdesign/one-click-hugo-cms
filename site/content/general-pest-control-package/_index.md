@@ -7,5 +7,5 @@ general_pest_entries:
     imageUrl: img/pest-control-photo.jpg
   - heading: Pest Control Video
     imageUrl: img/how-we-do-a-pest-control.jpg
-    text: k
+    text: "{{< youtube OuGdMcjGAVY >}}"
 ---
