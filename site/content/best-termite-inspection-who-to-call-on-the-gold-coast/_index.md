@@ -80,7 +80,7 @@ best_termite_inspection_entries_entries:
       ![Youtube Video](https://i3.ytimg.com/vi/ZE6jMsa2SBs/hqdefault.jpg)
 
     heading: How is a Proper Termite Inspection done?
-    imageUrl: img/termite-inspection-video.jpg
+    imageUrl: img/watch-our-termite-inspection-video-anton.jpg
   - text: Rely on Conquer Termites, your local Gold Coast specialist with two
       decades of unparalleled service. With 20 years of dedication to the Gold
       Coast and a highly trained team of 25 fully licensed professionals, we
