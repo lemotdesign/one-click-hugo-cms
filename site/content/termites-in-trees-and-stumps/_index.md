@@ -52,4 +52,16 @@ termites_in_trees_and_stumps_entries:
       However, appropriate measures should be taken to manage and control termite infestations in these areas to prevent potential damage to other structures.
     heading: Don't Panic - It's a Natural Occurrence
     imageUrl: img/termites-in-a-tree-stump-3.jpg
+  - text: >-
+      Termites naturally gravitate towards trees and stumps, a relationship that
+      has been ongoing for millions of years. Trees, especially eucalyptus (gum
+      trees) common in Australia, offer an ideal habitat for termites.
+
+
+      They prefer the heartwood at the centre of the trunk, avoiding the sapwood and growth rings. To termites, trees are akin to towering restaurants, providing both nourishment and shelter.
+
+
+      As for tree stumps, they become increasingly attractive to termites as they age. The aging wood becomes more susceptible and appealing to these pests. Aged stumps offer termites a substantial food source and a secure nesting site, making them prime targets for termite colonization.
+    imageUrl: img/tree-stump-diagram.jpg
+    heading: k
 ---
