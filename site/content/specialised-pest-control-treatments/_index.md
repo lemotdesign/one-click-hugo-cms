@@ -32,7 +32,7 @@ specialised_entries:
       **Heads up**: Flea eggs are tough little nuggets, immune to chemicals, and they only hatch when they feel the vibes – like when you walk by. So, if you've got a real flea party going on, we usually suggest hitting them with **two rounds** of treatment to really get the job done.
     heading: Flea Treatments
     imageUrl: img/fleas-love-warm-blood-.jpg
-  - heading: "Lawn Grubs "
+  - heading: "Lawn Grubs  "
     text: >-
       Got lawn grubs munching on your grass? In South East Queensland, these
       pesky critters are a usual headache from November to May, especially for
@@ -47,4 +47,19 @@ specialised_entries:
 
       {{< youtube mcauzWUpKT8 >}}
     imageUrl: img/lawn-grubs-2.jpg
+  - heading: Weevils - Unwanted guest in your pantry
+    text: >-
+      You might unknowingly bring weevils into your home with grocery items.
+      They're known for their ability to chew through cardboard and plastic to
+      get to their favourite foods.
+
+
+      Weevils are a type of beetle belonging to the Curculionidae family, which has more species than any other beetle group. With over 1,000 species, weevils vary in shape and size. They're often unnoticed until you spot one in your pantry. These critters typically feed on pantry staples like flour, cereals, rice, nuts, beans, and dried fruit.
+
+
+      Flour weevils are a common type found in homes, especially where flour and rice products are abundant. Sometimes, they might even appear in places with minimal flour storage.
+
+
+      For more detailed information, check our main website: [Weevils - How to treat](https://www.conquertermites.com.au/pest-control/specialised-pest-treatment/weevil-treatments/)
+    imageUrl: img/weevils-in-your-pantry.jpg
 ---
