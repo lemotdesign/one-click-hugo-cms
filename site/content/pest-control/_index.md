@@ -39,17 +39,13 @@ pest_control_entries:
       customers might experience other annoying pests like:
 
 
-      * **Rodents and mice**
+      * **Rodents**
 
       * **Fleas**
 
       * **Lawn grubs**
 
-      * **Bed bugs**
-
       * **Weevils**
-
-      * **Mosquitos**
 
 
       Check our **'Specialised Pest Treatment'** page for more information.
