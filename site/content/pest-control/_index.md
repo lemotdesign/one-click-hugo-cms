@@ -45,11 +45,7 @@ pest_control_entries:
 
       * **Lawn grubs**
 
-      * **Bed bugs**
-
       * **Weevils**
-
-      * **Mosquitos**
 
 
       Check our **'Specialised Pest Treatment'** page for more information.
