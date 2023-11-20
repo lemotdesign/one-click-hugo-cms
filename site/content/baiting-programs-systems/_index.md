@@ -1,6 +1,6 @@
 ---
 title: Baiting Programs - Systems Gold Coast
-image: img/termite-treatment-baiting-system.png
+image: img/trelona-girl.jpg
 baiting_programs_entries:
   - text: >-
       If you're pondering over using baiting systems to shield your home from
@@ -17,12 +17,11 @@ baiting_programs_entries:
 
 
       While it might sound like we're stating the obvious, it's essential to realize that not all baiting systems are made equal. Differences abound when it comes to effectiveness, durability, and pricing, especially here on the Gold Coast.
-
-
-      ### Key Factors to Ponder When Selecting a Termite Baiting System:
-
-
-      1. **Flexibility**: Can you monitor the system yourself, or are you tied to a dedicated monitoring service?
+    imageUrl: img/termite-treatment-baiting-system.png
+    heading: Best Termite Baiting Options on the Gold Coast
+  - text: >-
+      1. **Flexibility**: Can you monitor the system yourself, or are you tied
+      to a dedicated monitoring service?
 
       2. **Bait Appeal**: Is the bait (cellulose material) genuinely enticing to termites? Remember, if they're not attracted to it, they won't consume it.
 
@@ -31,12 +30,12 @@ baiting_programs_entries:
       4. **Durability and Accessibility**: Are the in-ground stations tough and user-friendly? If you have pets or frequent lawn activities, you'll need a resilient station.
 
       5. **Budget Considerations**: What's the initial installation cost? How much does a year-long monitoring service set you back? What about the expenses tied to replacing consumed bait capsules?
-
-
-      ### Termite Baiting System or Chemical Barrier Treatment: Which is Superior?
-
-
-      Before diving into the specifics of termite baiting systems, it's crucial to address this fundamental question: *Is a baiting system inherently better than a chemical barrier treatment?*
+    heading: "Key Factors to Ponder When Selecting a Termite Baiting System:"
+    imageUrl: img/get-rid-of-termites.png
+  - text: >-
+      Before diving into the specifics of termite baiting systems, it's crucial
+      to address this fundamental question: *Is a baiting system inherently
+      better than a chemical barrier treatment?*
 
 
       The suitability of either approach largely hinges on factors like the construction of your property and its termite history. Sometimes, the nature and design of a building may make chemical treatments more effective.
@@ -46,24 +45,20 @@ baiting_programs_entries:
 
 
       If a "Pestie" is exclusively suggesting one method simply because that's their only offering, it could indicate they're not considering the optimal solution for your needs.
-
-
-      ## Conquer Termites Gold Coast's Preferred Baiting System
-
-
-      When it comes to termite protection, Conquer Termites Gold Coast recommends the **Trelona** Advance Termite Baiting System.
+    heading: "Termite Baiting System or Chemical Barrier Treatment: Which is Superior?"
+    imageUrl: img/conquer-termites-two-utes-treating-a-house.jpg
+  - text: >-
+      When it comes to termite protection, Conquer Termites Gold Coast
+      recommends the **Trelona** Advance Termite Baiting System.
 
 
       The Trelona system offers a frontline defence, targeting foraging termites before they infiltrate your home. Developed and brought to Australia by the leading chemical conglomerate, **BASF**, Trelona has established itself as a baiting system of excellence for Australian conditions.
-
-
-      ![Trelona termite baiting system](img/termite-treatment-baiting-system-trelona.png)
-
-
-      #### What Sets Trelona Apart:
-
-
-      1. **Robust and Strong**: It features a durable well-designed bait station, cleverly crafted to promote termite interception and active feeding.
+    heading: Conquer Termites Gold Coast's Preferred Baiting System
+    imageUrl: img/termite-treatment-baiting-system-trelona.png
+  - text: >
+      1. **Robust and Strong**: It features a durable well-designed bait
+      station, cleverly crafted to promote termite interception and active
+      feeding.
 
       2. **Long-lasting bait**: Durable bait capsule that is resilient to endure for over five years. The bait capsules is designed to last and stay effective against diverse weather conditions. Their capsule design ensures straightforward monitoring and hassle-free replenishment.
 
@@ -76,15 +71,20 @@ baiting_programs_entries:
 
 
       {{< youtube 0XtxOUnOzd0 >}}
+    heading: " What Sets Trelona Apart"
+    imageUrl: img/trealona-baiting-station.jpg
+  - text: >-
+      We normally recommend Trelona over Sentrion baiting for three main
+      reasons:
 
 
-      ### Trelona vs. Sentricon: Making the Choice
+      **Integration:** Here at Conquer Termites, we can integrate the Trelona Advance Termite Bait System into a comprehensive termite management plan, complemented by products like Termidor Residual or Termidor HE. 
 
 
-      When stacked against other products, Trelona ATBS showcases several notable merits. It boasts 50% more bait in every application and remains unparalleled in its ability to be used alongside the Termidor range.
+      **Price:** The replenishment of the bait capsules are cheaper than a Sentricon bait rod.
 
 
-      Seasoned Termidor pest professionals can integrate the Trelona Advance Termite Bait System into a comprehensive termite management plan, complemented by products like Termidor Residual or Termidor HE. With a reputation spanning over two decades, Termidor has cemented its place as a reliable termite solution. To connect with a certified Termidor specialist, visit [termidor.com.au](https://www.termidor.com.au/).
-    imageUrl: img/termite-treatment-baiting-system.png
-    heading: Trealona Baiting System
+      **More bait:** When stacked against other products, Trelona ATBS showcases several notable merits. It boasts 50% more bait in every application and remains unparalleled in its ability to be used alongside the Termidor range.
+    heading: "Trelona vs. Sentricon: Making the Choice"
+    imageUrl: img/trelona-vs-sentricon.jpg
 ---
