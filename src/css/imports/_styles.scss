@@ -277,10 +277,9 @@
 /* Dropdown button */
 .dropdown .dropbtn {
   font-size: 18px;
-  color: #684287;
   border: none;
   outline: none;
-  color: white;
+  color: #684287;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
@@ -289,7 +288,7 @@
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #684287;
+  background-color: #a8cc46;
 }
 
 /* Dropdown content (hidden by default) */
