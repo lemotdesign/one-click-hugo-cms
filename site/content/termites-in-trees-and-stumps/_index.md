@@ -43,4 +43,13 @@ termites_in_trees_and_stumps_entries:
       Read about: **Termites Love Hardwood**
     imageUrl: img/treating-termites-in-a-stump.jpg
     heading: Treating Termites in a Tree & Tree Stump
+  - text: >-
+      Finding termites in trees or stumps is a common and natural occurrence on
+      the Gold Coast. While it may be concerning, it's important to understand
+      this is a typical part of the ecosystem. 
+
+
+      However, appropriate measures should be taken to manage and control termite infestations in these areas to prevent potential damage to other structures.
+    heading: Don't Panic - It's a Natural Occurrence
+    imageUrl: img/termites-in-a-tree-stump-3.jpg
 ---
