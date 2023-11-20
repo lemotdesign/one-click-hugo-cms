@@ -64,4 +64,24 @@ termites_in_trees_and_stumps_entries:
       As for tree stumps, they become increasingly attractive to termites as they age. The aging wood becomes more susceptible and appealing to these pests. Aged stumps offer termites a substantial food source and a secure nesting site, making them prime targets for termite colonization.
     imageUrl: img/tree-stump-diagram.jpg
     heading: Why Termites Choose Trees and Stumps
+  - text: >-
+      **Treating Termites in Tree Trunks**: If termites infest a tree, our
+      skilled Technicians will drill into the trunk to locate hollow areas
+      potentially housing termites. Using a borescope for visual confirmation,
+      once termites are detected, we inject a safe, non-repellent transfer
+      chemical (Termidor) directly into the tree. This treatment not only
+      eradicates termites but also benefits the tree's health by halting
+      internal damage. We ensure to seal all drill holes with plugs or sealant
+      for a neat finish.
+
+
+      ![Youtube Video](https://i3.ytimg.com/vi/Opucopp4z-8/hqdefault.jpg)
+
+
+      **Handling Termite-Infested Tree Stumps**: The ideal approach is to prevent termite infestation in tree stumps by removing them entirely. If you've recently had a tree cut down, we recommend having the stump ground out promptly. For stumps already hosting termites or nests, our Technicians can treat them using Termidor before stump removal. This ensures complete termite eradication from your property.
+
+
+      Read about: **Termites Love Hardwood**
+    heading: l
+    imageUrl: img/termite-love-eucalyptus-trees.jpg
 ---
