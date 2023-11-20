@@ -63,5 +63,5 @@ termites_in_trees_and_stumps_entries:
 
       As for tree stumps, they become increasingly attractive to termites as they age. The aging wood becomes more susceptible and appealing to these pests. Aged stumps offer termites a substantial food source and a secure nesting site, making them prime targets for termite colonization.
     imageUrl: img/tree-stump-diagram.jpg
-    heading: k
+    heading: Why Termites Choose Trees and Stumps
 ---
