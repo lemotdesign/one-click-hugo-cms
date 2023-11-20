@@ -33,7 +33,7 @@ termite_treatment_gc_entries:
 
       2. A **Treatment Proposal** should be provided, outlining costs, strategy, and any constraints.
     heading: Must Do's Before a Termite Treatment
-    imageUrl: img/hernan-termite-inspection.jpg
+    imageUrl: img/carol-recommending-a-termite-inspection.jpg
   - text: >-
       It's an excellent question to ask and crucial for comparing different
       quotes accurately. Modern termiticides aren't everlasting and need to be
