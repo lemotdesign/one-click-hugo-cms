@@ -31,7 +31,7 @@ specialised_entries:
 
       **Heads up**: Flea eggs are tough little nuggets, immune to chemicals, and they only hatch when they feel the vibes – like when you walk by. So, if you've got a real flea party going on, we usually suggest hitting them with **two rounds** of treatment to really get the job done.
     heading: Flea Treatments
-    imageUrl: img/fleas-love-warm-blood-.jpg
+    imageUrl: img/flea-diagram.jpg
   - heading: "Lawn Grubs  "
     text: >-
       Got lawn grubs munching on your grass? In South East Queensland, these
@@ -46,7 +46,7 @@ specialised_entries:
 
 
       {{< youtube mcauzWUpKT8 >}}
-    imageUrl: img/lawn-grubs-2.jpg
+    imageUrl: img/lawn-grub-diagram.jpg
   - heading: Weevils - Unwanted guest in your pantry
     text: >-
       You might unknowingly bring weevils into your home with grocery items.
