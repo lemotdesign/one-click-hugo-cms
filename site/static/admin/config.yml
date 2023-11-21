@@ -429,6 +429,58 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/is-this-treatment-safe/_index.md"
+        label: "Is This Treatment Safe"
+        name: "IsThisTreatmentSafePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Is This Treatment Safe Entries
+            name: is_this_treatment_safe_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/do-i-need-to-leave-during-the-pest-control/_index.md"
+        label: "Do I Need To Leave During The Pest Control"
+        name: "DoINeedToLeaveDuringThePestControl"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Do I Need To Leave During The Pest Control Entries
+            name: do_i_need_to_leave_during_the_pest_control_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/visual-inspection-zone-for-termites/_index.md"
+        label: "Visual Inspection Zone For Termites"
+        name: "VisualInspectionZoneForTermitesPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Visual Inspection Zone Entries
+            name: visual_inspection_zone_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/best-chemical-for-termite-treatment/_index.md"
+        label: "Best Cheimical For Termite Treatments"
+        name: "BestCheimicalForTermiteTreatmentsPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Best Cheimical For Termite Treatments Entries
+            name: best_chemical_treatments_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
   - name: "site_settings"
     label: "Site Settings"
     files:

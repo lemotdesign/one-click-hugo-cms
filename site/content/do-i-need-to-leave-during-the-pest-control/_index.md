@@ -1,7 +1,7 @@
 ---
-title: Where Do Termites Come From?
+title: Do I Need To Leave During The Pest Control?
 image: img/angry-termites.jpg
-where_do_termites_come_from_entries:
+do_i_need_to_leave_during_the_pest_control_entries:
   - text: >-
       Termites, often dubbed the "silent destroyers," have a knack for making
       themselves known only after they've caused significant damage. But how do

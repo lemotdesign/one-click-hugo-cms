@@ -1,7 +1,7 @@
 ---
-title: Where Do Termites Come From?
+title: Is this treatment safe?
 image: img/angry-termites.jpg
-where_do_termites_come_from_entries:
+is_this_treatment_safe_entries:
   - text: >-
       Termites, often dubbed the "silent destroyers," have a knack for making
       themselves known only after they've caused significant damage. But how do
