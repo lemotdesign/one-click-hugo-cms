@@ -520,7 +520,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
-      - file: "site/content/do-termites-eat-hardwood/_index.md"
+      - file: "site/content/do-termites-eat-hard-wood/_index.md"
         label: "Do Termites Eat Hardwood"
         name: "DoTermitesEatHardwoodPage"
         fields:
