@@ -1,7 +1,7 @@
 ---
-title: Where Do Termites Come From?
+title: Consumer Warning?
 image: img/angry-termites.jpg
-where_do_termites_come_from_entries:
+consumer_warnings_entries:
   - text: >-
       Termites, often dubbed the "silent destroyers," have a knack for making
       themselves known only after they've caused significant damage. But how do

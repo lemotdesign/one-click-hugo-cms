@@ -585,6 +585,71 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/conquer-termites-digital-report/_index.md"
+        label: "Conquer Termites Digital Report"
+        name: "ConquerTermitesDigitalReportPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Conquer Termites Digital Report
+            name: digital_report_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/how-often-should-you-do-a-termite-inspection/_index.md"
+        label: "How Often SHould You Do a Termite Inspection"
+        name: "HowOftenSHouldYouDoaTermiteInspectionPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: How Often SHould You Do a Termite Inspection
+            name: how_often_termite_inspection_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/five-things-to-consider-selecting-a-company/_index.md"
+        label: "Five Things To Consider Selecting A Company"
+        name: "FiveThingsToConsiderSelectingACompanyPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: How Often SHould You Do a Termite Inspection
+            name: five_things_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/why-to-choose-conquer-termites/_index.md"
+        label: "Why To Choose Conquer Termites"
+        name: "WhyToChooseConquerTermitesPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Why To Choose Conquer Termites
+            name: why_choose_us_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/consumer-warning/_index.md"
+        label: "Consumer Warning"
+        name: "ConsumerWarningPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Consumer Warnings
+            name: consumer_warnings_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
   - name: "site_settings"
     label: "Site Settings"
     files:

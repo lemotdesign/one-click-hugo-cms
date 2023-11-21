@@ -1,7 +1,7 @@
 ---
-title: Where Do Termites Come From?
+title: How Often SHould you Do A Termite Inspection?
 image: img/angry-termites.jpg
-where_do_termites_come_from_entries:
+how_often_termite_inspection_entries:
   - text: >-
       Termites, often dubbed the "silent destroyers," have a knack for making
       themselves known only after they've caused significant damage. But how do
