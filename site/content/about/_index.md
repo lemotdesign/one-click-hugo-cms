@@ -1,5 +1,5 @@
 ---
-title: A Pest Control Company you can Trust.
+title: What makes Conquer Termites the Best
 image: img/conquer-team-looking-normal.jpg
 values:
   - heading: Shade-grown coffee
