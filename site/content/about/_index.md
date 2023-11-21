@@ -66,7 +66,7 @@ about:
 
       Join the ranks of satisfied homeowners who have turned to Conquer Termites for protection. Experience the difference with a company that values quality and trust above all. Conquer Termites Pest Management - Your Trusted Partner in Pest Control.
     heading: Welcome to Conquer Termites Pest Management
-    imageUrl: img/conquer-termites-gold-coast-team.png
+    imageUrl: img/termites-on-holiday-on-the-gold-coast.png
   - heading: What makes Conquer Termites great?
     text: >-
       Great Google Reviews and testimonials – customers like us!
