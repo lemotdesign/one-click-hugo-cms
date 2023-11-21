@@ -1,5 +1,5 @@
 ---
-title: Conquer Termites the Best Pest Control Company on the Gold Coast
+title: Conquer Termites Striving to be the Best on the Gold Coast
 image: img/conquer-team-looking-normal.jpg
 values:
   - heading: Shade-grown coffee
