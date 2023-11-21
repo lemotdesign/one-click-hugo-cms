@@ -1,7 +1,7 @@
 ---
-title: Where Do Termites Come From?
+title: What Kind Of Wood Do Termites Like?
 image: img/angry-termites.jpg
-where_do_termites_come_from_entries:
+what_kind_of_wood_do_termites_like_entries:
   - text: >-
       Termites, often dubbed the "silent destroyers," have a knack for making
       themselves known only after they've caused significant damage. But how do

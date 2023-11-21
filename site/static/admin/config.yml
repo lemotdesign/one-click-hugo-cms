@@ -481,6 +481,110 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/how-often-should-a-termite-treatment-be-done/_index.md"
+        label: "How Often Should A Termite Treatment Be Done"
+        name: "HowOftenShouldATermiteTreatmentBeDonePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: How Often Should A Termite Treatment Be Done Entries
+            name: how_often_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/when-are-termites-most-active/_index.md"
+        label: "When Are Termites Most Active"
+        name: "WhenAreTermitesMostActivePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: When Are Termites Most Active Entries
+            name: most_active_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/flying-termites-on-the-gold-coast/_index.md"
+        label: "Fyling Termites On The Gold Coast"
+        name: "FylingTermitesOnTheGoldCoastPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Fyling Termites On The Gold Coast Entries
+            name: flying_termites_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/do-termites-eat-hardwood/_index.md"
+        label: "Do Termites Eat Hardwood"
+        name: "DoTermitesEatHardwoodPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Do Termites Eat Hardwood Entries
+            name: do_termites_eat_hardwood_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/what-kind-of-wood-do-termites-like/_index.md"
+        label: "What Kind Of Wood Do Termites Like"
+        name: "WhatKindOfWoodDoTermitesLikePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: What Kind Of Wood Do Termites Like Entries
+            name: what_kind_of_wood_do_termites_like_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/common-myths-about-termites/_index.md"
+        label: "Common Myths About Termites"
+        name: "CommonMythsAboutTermitesPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Common Myths About Termites Entries
+            name: common_myths_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/are-termites-a-big-issue-on-the-gold-coast/_index.md"
+        label: "Are Termites A Big Issue On The Gold Coast"
+        name: "AreTermitesABigIssueOnTheGoldCoastPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Are Termites A Big Issue On The Gold Coast Entries
+            name: big_issue_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/difference-between-termites-and-black-ants/_index.md"
+        label: "Difference Between Termites And Black Ants"
+        name: "DifferenceBetweenTermitesAndBlackAntsPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Difference Betweeen Termites and Black Ants
+            name: difference_between_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
   - name: "site_settings"
     label: "Site Settings"
     files:
