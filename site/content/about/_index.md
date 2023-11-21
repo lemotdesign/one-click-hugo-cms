@@ -1,5 +1,5 @@
 ---
-title: A pest control company you can trust.
+title: A Pest Control Company you can Trust.
 image: img/conquer-team-purple.jpg
 values:
   - heading: Shade-grown coffee
@@ -38,20 +38,6 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
 about:
-  - heading: What makes Conquer Termites great?
-    text: >-
-      Great Google Reviews and testimonials – customers like us!
-
-      Insured to the maximum amount – $10,000,000, for Public Liability
-
-      Commitment to excellence – always strive to deliver “best practice”
-
-      Strong emphasis on in-house training to ensure all technicians have the practical knowledge to problem solve all situations
-
-      All our technicians are equipped with the full array of detection devices such as thermal imaging cameras, moisture meters and termitrac detection devices. detection devices we use info
-
-      We have developed our own digital reporting system that goes beyond industry standards to deliver you understandable outcomes.
-    imageUrl: img/conquer-team-lawn-bowls.jpg
   - text: >-
       At Conquer Termites, we're not just a pest control company; we're your
       local guardians against termites and pests. Our commitment to safeguarding
@@ -80,5 +66,22 @@ about:
 
       Join the ranks of satisfied homeowners who have turned to Conquer Termites for protection. Experience the difference with a company that values quality and trust above all. Conquer Termites Pest Management - Your Trusted Partner in Pest Control.
     heading: Welcome to Conquer Termites Pest Management
-    imageUrl: img/team-conquer-termites.jpg
+    imageUrl: img/conquer-termite-treatment-team.jpg
+  - heading: What makes Conquer Termites great?
+    text: >-
+      Great Google Reviews and testimonials – customers like us!
+
+      Insured to the maximum amount – $10,000,000, for Public Liability
+
+      Commitment to excellence – always strive to deliver “best practice”
+
+      Strong emphasis on in-house training to ensure all technicians have the practical knowledge to problem solve all situations
+
+      All our technicians are equipped with the full array of detection devices such as thermal imaging cameras, moisture meters and termatrac detection devices. detection devices we use info
+
+      We have developed our own digital reporting system that goes beyond industry standards to deliver you understandable outcomes.
+
+
+      "We like our Job"
+    imageUrl: img/conquer-team-lawn-bowls.jpg
 ---
