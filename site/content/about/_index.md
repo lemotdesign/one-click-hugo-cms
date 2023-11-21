@@ -1,6 +1,6 @@
 ---
 title: A Pest Control Company you can Trust.
-image: img/conquer-team-purple.jpg
+image: img/conquer-team-looking-normal.jpg
 values:
   - heading: Shade-grown coffee
     text: >
