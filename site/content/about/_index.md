@@ -38,24 +38,30 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
 about:
-  - text: At Conquer Termites, we're not just a pest control company; we're your
-      local guardians against termites and pests. Our commitment to safeguarding
-      homes on the Gold Coast has been recognized with the prestigious AEMPA
-      Pest Industry Award, crowning us as Australia's Best Pest Control Company
-      for 2023.
+  - text: >-
+      At Conquer Termites, we're not just a pest control company; we're your
+      local guardians against termites and pests. 
+
+
+      Our commitment to safeguarding homes on the Gold Coast has been recognized with the prestigious AEMPA Pest Industry Award, crowning us as Australia's Best Pest Control Company for 2023.
     heading: Welcome to Conquer Termites Pest Management
     imageUrl: img/angry-termites-on-the-gold-coast.jpg
   - heading: What makes Conquer Termites great?
     text: >-
       Great Google Reviews and testimonials – customers like us!
 
+
       Insured to the maximum amount – $10,000,000, for Public Liability
+
 
       Commitment to excellence – always strive to deliver “best practice”
 
+
       Strong emphasis on in-house training to ensure all technicians have the practical knowledge to problem solve all situations
 
+
       All our technicians are equipped with the full array of detection devices such as thermal imaging cameras, moisture meters and termatrac detection devices. detection devices we use info
+
 
       We have developed our own digital reporting system that goes beyond industry standards to deliver you understandable outcomes.
 
@@ -64,7 +70,7 @@ about:
     imageUrl: img/conquer-termite-treatment-team.jpg
   - text: >-
       
-      Local Expertise: Deeply rooted in the Brisbane and Gold Coast communities, we understand the unique challenges homeowners face regarding termites and pests in these areas.
+      Local Expertise: Deeply rooted in the Gold Coast community, we understand the unique challenges homeowners face regarding termites and pests.
 
 
       Award-Winning Service: Our recent accolade as Australia's top pest control service is a testament to our dedication to excellence.
@@ -78,8 +84,8 @@ about:
 
       Trust and Quality: At Conquer Termites, we don’t just offer services; we build relationships based on trust and a commitment to quality.
 
-
-      Join the ranks of satisfied homeowners who have turned to Conquer Termites for protection. Experience the difference with a company that values quality and trust above all. Conquer Termites Pest Management - Your Trusted Partner in Pest Control.
+       Experience the difference with a company that values quality and trust above all. 
+      Conquer Termites Pest Management - Your Trusted Partner in Pest Control.
     heading: Why Choose Conquer Termites?
     imageUrl: img/conquer-team-lawn-bowls.jpg
 ---
