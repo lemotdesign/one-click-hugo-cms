@@ -1,6 +1,6 @@
 ---
 title: A pest control company you can trust.
-image: /img/about-jumbotron.jpg
+image: img/conquer-team-purple.jpg
 values:
   - heading: Shade-grown coffee
     text: >
@@ -51,5 +51,34 @@ about:
       All our technicians are equipped with the full array of detection devices such as thermal imaging cameras, moisture meters and termitrac detection devices. detection devices we use info
 
       We have developed our own digital reporting system that goes beyond industry standards to deliver you understandable outcomes.
-    imageUrl: img/about-direct-sourcing.jpg
+    imageUrl: img/conquer-team-lawn-bowls.jpg
+  - text: >-
+      At Conquer Termites, we're not just a pest control company; we're your
+      local guardians against termites and pests. Our commitment to safeguarding
+      homes on the Gold Coast has been recognized with the prestigious AEMPA
+      Pest Industry Award, crowning us as Australia's Best Pest Control Company
+      for 2023.
+
+
+      Why Choose Conquer Termites?
+
+
+      Local Expertise: Deeply rooted in the Brisbane and Gold Coast communities, we understand the unique challenges homeowners face regarding termites and pests in these areas.
+
+
+      Award-Winning Service: Our recent accolade as Australia's top pest control service is a testament to our dedication to excellence.
+
+
+      Comprehensive Solutions: Whether you're battling termites (white ants) or a range of other pests, our solutions are tailored, effective, and safe, ensuring your peace of mind.
+
+
+      Qualified Professionals: Our team isn't just experienced; they're fully qualified and licensed, ensuring that every service meets the highest standards.
+
+
+      Trust and Quality: At Conquer Termites, we don’t just offer services; we build relationships based on trust and a commitment to quality.
+
+
+      Join the ranks of satisfied homeowners who have turned to Conquer Termites for protection. Experience the difference with a company that values quality and trust above all. Conquer Termites Pest Management - Your Trusted Partner in Pest Control.
+    heading: Welcome to Conquer Termites Pest Management
+    imageUrl: img/team-conquer-termites.jpg
 ---
