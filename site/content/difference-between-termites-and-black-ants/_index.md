@@ -1,6 +1,6 @@
 ---
 title: Difference Between Termites And Black Ants?
-image: img/angry-termites.jpg
+image: img/sitting-termites-on-a-sofa.jpg
 difference_between_entries:
   - text: >-
       ## Embrace the Australian Vernacular
@@ -37,6 +37,6 @@ difference_between_entries:
 
 
       {{< youtube 04cg2Sw9wTY >}}
-    heading: How do Termites appear out of nowhere!
-    imageUrl: img/termites-can-appaer-from-anywhere.png
+    heading: The difference between termites & white ants - NOTHING!
+    imageUrl: img/termites-or-white-ants.png
 ---
