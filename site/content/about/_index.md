@@ -86,4 +86,7 @@ about:
        "Experience the difference with a company that values quality and trust above all"
     heading: Why Choose Conquer Termites?
     imageUrl: img/conquer-team-lawn-bowls.jpg
+  - heading: Watch us dance!
+    imageUrl: img/dancing-termites-crew.jpg
+    text: Need a link for the ' Dancing Termites video
 ---
