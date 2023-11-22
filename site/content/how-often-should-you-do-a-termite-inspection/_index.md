@@ -1,5 +1,5 @@
 ---
-title: How Often SHould you Do A Termite Inspection?
+title: How Often Should you do a Termite Inspection?
 image: img/angry-termites.jpg
 how_often_termite_inspection_entries:
   - text: >-
