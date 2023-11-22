@@ -1,85 +1,49 @@
 ---
 title: Are Termites A Big Issue On The Gold Coast?
-image: img/angry-termites.jpg
+image: img/gold-coast.jpg
 big_issue_entries:
   - text: >-
-      Termites, often dubbed the "silent destroyers," have a knack for making
-      themselves known only after they've caused significant damage. But how do
-      these tiny critters seemingly pop up out of nowhere?
+      CSIRO did a survey to map where termites are most active in Australia.
+      Guess what, Gold Coast is bang in the middle of 'High Termite Activity'.
 
 
-      ## Should I panic about termites?
+      A question many homeowners ask our technicians; “Is the Gold Coast a bad area for termites”? Meaning, is their home located in an area where they are more susceptible to a termite attack. 
 
 
-      Have you just found evidence of termites in your home and wondered how they came in? You hadn’t seen any signs of termites, mud leads, or termite trails, but suddenly they appear in your home!
+      **Fact**: Termites can be foraging in **any** suburb on the Gold Coast at **any** time!
 
 
-      Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
-    heading: How do Termites appear out of nowhere!
-    imageUrl: img/termites-can-appaer-from-anywhere.png
+      But to answer that question properly you need to consider the macro and micro environmental factors that influence termites.
+    heading: Gold Coast homes are very vulnerable to Termite Attack
+    imageUrl: img/termite-map-australia.png
   - text: >-
-      **1. Silent Workers:** Termites are notoriously discreet and enter your
-      home in a concealed manner. They operate in the dark, concealed spaces of
-      your home like within walls, under floorboards, or in any other tiny
-      crevice they can find. This means they can be feasting on your home's
-      structure for a long time before any obvious signs emerge.
+      On a **macro level**, Gold Coast is located in a **high-risk** area, as
+      illustrated by the CISRO map. Homes in these areas are at higher risk of
+      being attacked by termites due to the high mean temperature experienced
+      through winter and high rainfalls year round. 
 
 
-      **2. Rapid Reproduction:** One of the reasons termites seem to appear suddenly is their impressive rate of reproduction. A single termite queen can lay thousands of eggs daily, leading to large colonies forming quickly and discreetly. A couple of years ago, there might just not have been a termite nest near your home.
+      Termite nests need to be maintained at a temperature between 25°C - 36°C. (Australian Museum). Basically, the cooler it gets, the fewer the termites. That is why Tasmania and New Zealand are termite-free (lucky them!). 
 
 
-      **3. Swarmers:** On the Gold Coast, from October to February, mature termite colonies release swarmers (Alates) – winged termites whose primary goal is to start new colonies. If you spot a group of winged insects inside or around your home, it's possible they've been there for a while and are now seeking a place to set up home!
+      On a **Micro level**, (these are the factors you can see and deal with around your home). You can actually influence the outcome of your home being, or not being, attacked by termites. 
 
 
-      **4. Underground Movement:** Subterranean (under the ground) termites, are the most common type on the Gold Coast. They construct mud tubes to traverse between their underground home and their food source (your house!). These mud tubes protect them from predators and the environment, making their movement and presence hidden.
+      #### **For example:**
 
 
-      ![Youtube Video](https://i3.ytimg.com/vi/nQrQIAoJwSA/hqdefault.jpg)
+      * Large native trees (Gum Trees) near your home - a favourite nesting place for termites 
+
+      * Moisture in the ground near the house - provides conducive conditions for the termites - that leaking shower or tap
+
+      * Construction of the house - structural timbers might be in direct contact with the soil allowing direct entry.
+
+      * Tree stumps, wooden retaining walls and loose timbers on the ground allow a higher population of termites to thrive near your home.
+
+      * Current chemical treatment - this is the biggest positive or negative factor in preventing termites from attacking your home.
 
 
-      **5. Your home is a Timber Buffet for Termites:** Once the termites have determined a timber structure above them, they will build subterranean tunnels from their nest to gain concealed entry. For them, your house is the trophy tree!
-
-
-      <!--EndFragment-->
-    heading: Why are Termites Everywhere!
-    imageUrl: img/termites-attacking-a-house.png
-  - text: >-
-      ### There is a bonanza of timber in your home for the Termites to eat
-
-
-      Indeed, your home is like a treasure trove of timber for termites. With the average Australian home containing about 14.58 cubic meters of wood, it presents a vast resource for these wood-eating insects. 
-
-
-      ### How much wood do Termites eat?
-
-
-      Termite workers eat about 5% of their body weight in wood daily. While this might seem small, it adds up quickly in a large colony with around a million workers. In such cases, a nest targeting your home can devour around 100 grams+ of wood each day.
-    heading: Your house is a Yummy Buffet for Termites
-    imageUrl: img/how-much-timber-termites-can-eat-in-your-home.png
-  - text: >-
-      Termites will eat all types of timber, but they are super clever in
-      sourcing the wood with the most desirable nutrients and cellulose. It’s
-      all about efficient foraging and a balanced diet for the colony.
-
-
-      A big mistake Australian homeowners make is thinking their home is constructed with hardwood, when in fact, it is just plantation eucalyptus (gum trees). Yes, it is considerably harder than radiata pine, but it is highly desirable timber for termites to eat.
-
-
-      Eucalyptus timbers are the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
-    heading: Termites love to eat Hardwood 
-    imageUrl: img/termite-love-eucalyptus-trees.jpg
-  - text: >-
-      Don't wait until you see evidence of termites - Act now and get your home
-      inspected
-
-
-      Termites don't appear out of nowhere; they've usually been around for longer than you realize. 
-
-
-      Regular home inspections and being aware of the subtle signs of their presence can help in early detection, preventing extensive damage to your home. 
-
-
-      Remember, it's always easier to tackle a termite problem in its early stages than after they've firmly established themselves.
-    heading: "Don't Panic - Get the Right Advice "
-    imageUrl: img/hernan-termite-inspection.jpg
+      Control the things you can control and ensure your home is not one of the thousand attacked by termites on the Gold Coast annually.
+    heading: Gold Coast is in a High-Risk Area for Termites
+    imageUrl: img/gold-coast-beautiful-homes.jpg
 ---
