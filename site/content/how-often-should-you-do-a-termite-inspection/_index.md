@@ -1,6 +1,6 @@
 ---
 title: How often should you do a Termite Inspection?
-image: img/angry-termites.jpg
+image: img/found-termites-page.jpg
 how_often_termite_inspection_entries:
   - text: >-
       It's great that you're being proactive about termite prevention in your
