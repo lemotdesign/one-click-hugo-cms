@@ -38,7 +38,7 @@ flying_termites_entries:
     imageUrl: img/termite-flight-tube-brick-footings.jpg
   - text: "{{< youtube 4ZJcj4T8ulc >}}"
     heading: Found a Swarm of Insects inside your Home?
-    imageUrl: img/flying-termites-gold-coast.png
+    imageUrl: img/flying-termites-around-a-light.png
   - text: >
       #### **Don't panic!**
 
@@ -54,7 +54,7 @@ flying_termites_entries:
     heading: What Should I Do If I Find Winged Termites?
     imageUrl: img/flying-termites.png
   - text: >-
-      {{< youtube vkQheQ42zbxTdv4n >}}
+      {{< youtube 2pXWcDuC-Q8 >}}
 
 
       If you happen to witness winged termites emerging from a hole **within** your home, it's time to act urgently! Contact us right away.
@@ -62,7 +62,7 @@ flying_termites_entries:
 
       For all other situations, we recommend reaching out to us to schedule a comprehensive termite inspection. This will provide you with peace of mind, ensuring there are no termite-related issues in your home or garden.
     heading: Panic a little if you see this
-    imageUrl: img/flying-termites-gold-coast.png
+    imageUrl: img/alates-in-numbers.jpg
   - text: >-
       Typically, termites dwell exclusively within their subterranean tunnels
       underground. However, between November and March, a common sight is the
