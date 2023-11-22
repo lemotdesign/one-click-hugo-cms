@@ -14,7 +14,7 @@ signs_of_termites_entries:
 
       Termites are masters of concealment, navigating through underground tunnels and inside the wooden structures of your home, often undetected. It's not uncommon for their presence to go unnoticed until after they've caused significant damage.
     heading: What are the Signs of Termites?
-    imageUrl: img/found-termites-three-step-process.jpg
+    imageUrl: img/signs-of-termites-2.jpg
   - text: >-
       **1. Termite tubes or leads**: Termites build mud tubes as a protective
       shield to access food. If you see mud tubes along your walls or
