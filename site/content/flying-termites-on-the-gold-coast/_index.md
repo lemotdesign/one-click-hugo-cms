@@ -1,85 +1,89 @@
 ---
-title: Flying Termites On The Gold Coast?
-image: img/angry-termites.jpg
+title: Flying Termites on the Gold Coast?
+image: img/heaps-of-alates.jpg
 flying_termites_entries:
   - text: >-
-      Termites, often dubbed the "silent destroyers," have a knack for making
-      themselves known only after they've caused significant damage. But how do
-      these tiny critters seemingly pop up out of nowhere?
+      Are you discovering a sudden invasion of winged insects within your Gold
+      Coast home? Curious about their identity? 
 
 
-      ## Should I panic about termites?
+      They could be 'Alates' - reproductive winged termites!
 
 
-      Have you just found evidence of termites in your home and wondered how they came in? You hadn’t seen any signs of termites, mud leads, or termite trails, but suddenly they appear in your home!
-
-
-      Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
-    heading: How do Termites appear out of nowhere!
-    imageUrl: img/termites-can-appaer-from-anywhere.png
+      During the spring and early summer months, the Gold Coast experiences warm and humid nights, creating the ideal environment for reproductive termites to embark on mass flights in search of a mate to establish their own colonies. It's almost eerie how colonies throughout South East Queensland synchronize their activities for this night of opportunity!
+    heading: Are Flying Termites common on the Gold Coast?
+    imageUrl: img/flying-termites-gold-coast.png
+  - text: "{{< youtube 4ZJcj4T8ulc >}}"
+    heading: Found a Swarm of Insects inside your Home?
+    imageUrl: img/flying-termites-gold-coast.png
   - text: >-
-      **1. Silent Workers:** Termites are notoriously discreet and enter your
-      home in a concealed manner. They operate in the dark, concealed spaces of
-      your home like within walls, under floorboards, or in any other tiny
-      crevice they can find. This means they can be feasting on your home's
-      structure for a long time before any obvious signs emerge.
+      Throughout the winter and autumn seasons, each termite colony has been
+      diligently breeding thousands upon thousands of winged termites, known as
+      Alates. Once they receive the signal, these Alates emerge from exit holes
+      strategically constructed near their nests.
 
 
-      **2. Rapid Reproduction:** One of the reasons termites seem to appear suddenly is their impressive rate of reproduction. A single termite queen can lay thousands of eggs daily, leading to large colonies forming quickly and discreetly. A couple of years ago, there might just not have been a termite nest near your home.
-
-
-      **3. Swarmers:** On the Gold Coast, from October to February, mature termite colonies release swarmers (Alates) – winged termites whose primary goal is to start new colonies. If you spot a group of winged insects inside or around your home, it's possible they've been there for a while and are now seeking a place to set up home!
-
-
-      **4. Underground Movement:** Subterranean (under the ground) termites, are the most common type on the Gold Coast. They construct mud tubes to traverse between their underground home and their food source (your house!). These mud tubes protect them from predators and the environment, making their movement and presence hidden.
-
-
-      ![Youtube Video](https://i3.ytimg.com/vi/nQrQIAoJwSA/hqdefault.jpg)
-
-
-      **5. Your home is a Timber Buffet for Termites:** Once the termites have determined a timber structure above them, they will build subterranean tunnels from their nest to gain concealed entry. For them, your house is the trophy tree!
-
-
-      <!--EndFragment-->
-    heading: Why are Termites Everywhere!
-    imageUrl: img/termites-attacking-a-house.png
+      You can spot these exit holes high up in gum trees, resembling small wounds, or on the ground as 'mud towers'. The higher the exit hole, the better the chances for the winged termites to launch into the air and catch the breeze since they aren't particularly adept flyers. Essentially, they rely on the wind to carry them wherever it may lead.
+    heading: Flight Tubes - Exit Holes
+    imageUrl: img/termite-flight-tube-brick-footings.jpg
   - text: >-
-      ### There is a bonanza of timber in your home for the Termites to eat
+      #### Three things to look out for:
 
 
-      Indeed, your home is like a treasure trove of timber for termites. With the average Australian home containing about 14.58 cubic meters of wood, it presents a vast resource for these wood-eating insects. 
+      * **Golden body colour** - Most flying termites's bodies are golden brown in colour.
+
+      * **Wings** – flying termites have equal wing lengths, normally grey in colour. They do shed them once they land, so you might find a pile in your bathroom.
+
+      * **Antennae** – flying termites have straight antennae, not bent like black ants'.
+
+      * **Waist** – flying termites have a straight waist like a small cigar. Not pinched waist of flying black ants.
+    heading: What do Winged Termites look like?
+    imageUrl: img/flying-termite-alate.png
+  - text: >
+      #### **Don't panic!**
 
 
-      ### How much wood do Termites eat?
+      If you've come across winged termites (remember, they might have already shed their wings) in your home, follow these steps:
 
 
-      Termite workers eat about 5% of their body weight in wood daily. While this might seem small, it adds up quickly in a large colony with around a million workers. In such cases, a nest targeting your home can devour around 100 grams+ of wood each day.
-    heading: Your house is a Yummy Buffet for Termites
-    imageUrl: img/how-much-timber-termites-can-eat-in-your-home.png
+      1. Collect a few of the winged termites and place them in a sealed plastic bag, then refrigerate them. This will help us accurately identify them as termites and not just ordinary black ants.
+
+      2. Or, take a close-up photo to show us
+
+      3. Now, feel free to grab a can of insect spray and eliminate any termites you see. We understand the urge!
+    heading: What Should I Do If I Find Winged Termites?
+    imageUrl: img/flying-termites.png
   - text: >-
-      Termites will eat all types of timber, but they are super clever in
-      sourcing the wood with the most desirable nutrients and cellulose. It’s
-      all about efficient foraging and a balanced diet for the colony.
+      {{< youtube vkQheQ42zbxTdv4n >}}
 
 
-      A big mistake Australian homeowners make is thinking their home is constructed with hardwood, when in fact, it is just plantation eucalyptus (gum trees). Yes, it is considerably harder than radiata pine, but it is highly desirable timber for termites to eat.
+      If you happen to witness winged termites emerging from a hole **within** your home, it's time to act urgently! Contact us right away.
 
 
-      Eucalyptus timbers are the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
-    heading: Termites love to eat Hardwood 
-    imageUrl: img/termite-love-eucalyptus-trees.jpg
+      For all other situations, we recommend reaching out to us to schedule a comprehensive termite inspection. This will provide you with peace of mind, ensuring there are no termite-related issues in your home or garden.
+    heading: Panic a little if you see this
+    imageUrl: img/flying-termites-gold-coast.png
   - text: >-
-      Don't wait until you see evidence of termites - Act now and get your home
-      inspected
+      Typically, termites dwell exclusively within their subterranean tunnels
+      underground. However, between November and March, a common sight is the
+      emergence of reproductive termites taking flight, especially in the humid
+      regions of South East Queensland. The high humidity during this season is
+      not just attractive but necessary for their reproductive process.
 
 
-      Termites don't appear out of nowhere; they've usually been around for longer than you realize. 
+      During this time of year, these termites vacate their nests, which can be found in trees, tree stumps, bushland, and even within homes, to embark on flights and establish new colonies. 
 
 
-      Regular home inspections and being aware of the subtle signs of their presence can help in early detection, preventing extensive damage to your home. 
+      All termite species function within a caste system, sharing this trait with ants as their only notable commonality. Among their castes are the winged reproductive alates, often referred to as flying termites. While they can be mistaken for flying ants, distinguishing between them is relatively straightforward.
 
 
-      Remember, it's always easier to tackle a termite problem in its early stages than after they've firmly established themselves.
-    heading: "Don't Panic - Get the Right Advice "
-    imageUrl: img/hernan-termite-inspection.jpg
+      When a termite colony reaches a certain size and maturity, several thousand reproductive termites undergo wing development in preparation for a once-in-a-lifetime flight. This process can take several months, during which they receive the best nourishment and care. 
+
+
+      Once they are fully prepared, and under suitable weather conditions (some swarm after rain, but most do so during highly humid conditions, typically at dusk), thousands upon thousands of them take flight from their nests in the area, primed to establish new colonies.
+
+
+      These winged or flying termites are frequently observed swarming around lights, whether they are streetlights or outdoor lights left on. It is here that they encounter other termites of the same species, also swarming from their respective colonies. After this encounter, the fertilized Alates shed their wings and search for a suitable location to create a nest and initiate a new colony.
+    heading: Some More Interesting Information about Winged Termites
+    imageUrl: img/3.png
 ---
