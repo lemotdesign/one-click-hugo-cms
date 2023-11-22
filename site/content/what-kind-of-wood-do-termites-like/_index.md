@@ -3,28 +3,15 @@ title: What Kind of Wood do Termites Like?
 image: img/angry-termites.jpg
 what_kind_of_wood_do_termites_like_entries:
   - text: >-
-      ## What is a termite's favourite wood?
+      ### Termites absolutely relish timber! 
+
+
+      They've mastered the technique of breaking down wood into sugars. It's awe-inspiring how these tiny creatures coordinate their entire colony to forage and transport wood to their nest via their hidden tunnels.
 
 
       If your home is constructed from softwood (pine radiate) or hardwood (eucalyptus - gum tree), it doesn't matter. Termite WILL eat both. The soft pine trim timbers like the skirting boards, door and window frames are exposed and normally easier to detect termite activity.
 
 
-      #### **Why Wood is Termites' Favourite Dish:**
-
-
-      But how do termites manage to devour wood? Their unique digestive system hosts certain microorganisms and protozoa that break down cellulose from the wood, turning it into glucose. This digestion process is vital for their survival. In fact, without the symbiotic relationship with these protozoa, termites wouldn't even exist.
-
-
-      *For a quick biology refresher: Protozoa are single-celled organisms, prevalent worldwide. They can live freely or can be parasitic, feeding on organic matter.*
-
-
-      ![Protozoa are single-celled organisms - help termites eat wood](img/termite-gut.png)
-
-
-      #### **Understanding the Termite Diet:**
-
-
-      Think of it this way: Just as cows graze on grass, termites feast on wood. This gives termites access to cellulose, an essential component in plants, which many organisms can't digest. Cellulose is everywhere - from wood to paper, cardboard, and even books.
 
 
       #### **The Timber in Your Home:**
@@ -62,14 +49,14 @@ what_kind_of_wood_do_termites_like_entries:
       5. Stay alert - if you suspect anything, don't hesitate.
 
 
-      ##### For all your termite concerns, reach out to **Conquer Termites** on 1300 417 007. 
+      ##### For all your termite concerns, reach out to **Conquer Termites** on 1300 417 007.
 
 
       ##### We're here to help!
 
 
       ![](img/conquer-termites-gold-coast-team.png)
-    heading: How do Termites appear out of nowhere!
+    heading: What is a termite's favourite wood?
     imageUrl: img/termites-can-appaer-from-anywhere.png
   - text: >-
       ### There is a bonanza of timber in your home for the Termites to eat
@@ -110,4 +97,21 @@ what_kind_of_wood_do_termites_like_entries:
       Remember, it's always easier to tackle a termite problem in its early stages than after they've firmly established themselves.
     heading: "Don't Panic - Get the Right Advice "
     imageUrl: img/hernan-termite-inspection.jpg
+  - text: >-
+      But how do termites manage to devour wood? Their unique digestive system
+      hosts certain microorganisms and protozoa that break down cellulose from
+      the wood, turning it into glucose. This digestion process is vital for
+      their survival. In fact, without the symbiotic relationship with these
+      protozoa, termites wouldn't even exist.
+
+
+      *For a quick biology refresher: Protozoa are single-celled organisms, prevalent worldwide. They can live freely or can be parasitic, feeding on organic matter.*
+
+
+      #### **Understanding the Termite Diet:**
+
+
+      Think of it this way: Just as cows graze on grass, termites feast on wood. This gives termites access to cellulose, an essential component in plants, which many organisms can't digest. Cellulose is everywhere - from wood to paper, cardboard, and even books.
+    heading: Why Wood is Termites' Favourite Dish
+    imageUrl: img/termite-gut.png
 ---
