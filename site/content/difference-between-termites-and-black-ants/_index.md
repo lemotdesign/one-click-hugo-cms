@@ -37,6 +37,6 @@ difference_between_entries:
 
 
       {{< youtube 04cg2Sw9wTY >}}
-    heading: The difference between termites & white ants - NOTHING!
+    heading: The difference between Termites & White Ants - NOTHING!
     imageUrl: img/termites-or-white-ants.png
 ---
