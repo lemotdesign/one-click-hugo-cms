@@ -1,5 +1,5 @@
 ---
-title: Where Do Termites Come From?
+title: Where do Termites come from?
 image: img/angry-termites.jpg
 where_do_termites_come_from_entries:
   - text: >-
