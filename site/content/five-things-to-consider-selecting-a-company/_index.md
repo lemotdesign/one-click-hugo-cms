@@ -1,5 +1,5 @@
 ---
-title: Five Things To Consider Selecting A Company?
+title: "Five Things to Consider Selecting a Company? "
 image: img/best-termite-inspection.jpg
 five_things_entries:
   - text: >-
