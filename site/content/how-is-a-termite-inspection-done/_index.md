@@ -17,8 +17,8 @@ how_is_a_termite_inspection_done_entries:
     heading: "Best Termite Inspections on the Gold Coast:"
     imageUrl: img/team-conquer-termites.jpg
   - text: "![Youtube Video](https://i3.ytimg.com/vi/ZE6jMsa2SBs/hqdefault.jpg)"
-    heading: Watch our Termite Inspection Video
-    imageUrl: img/termite-inspection-video.jpg
+    heading: Termite Inspection Video - Australia's most watched!
+    imageUrl: img/watch-our-termite-inspection-video-anton-2.jpg
   - text: >-
       ### Termite Inspection - Six Check Points
 
