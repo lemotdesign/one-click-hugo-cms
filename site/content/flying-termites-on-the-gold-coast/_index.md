@@ -2,7 +2,7 @@
 title: Flying Termites on the Gold Coast?
 image: img/heaps-of-alates.jpg
 flying_termites_entries:
-  - text: >-
+  - text: >
       During the spring and early summer months, the Gold Coast experiences warm
       and humid nights, creating the ideal environment for reproductive termites
       to embark on mass flights in search of a mate to establish their own
@@ -26,33 +26,6 @@ flying_termites_entries:
 
 
       {{< youtube vkQheQ42zbxTdv4n >}}
-
-
-      #### Some More Interesting Information about Winged Termites
-
-
-      Typically, termites dwell exclusively within their subterranean tunnels underground. However, between November and March, a common sight is the emergence of reproductive termites taking flight, especially in the humid regions of South East Queensland. The high humidity during this season is not just attractive but necessary for their reproductive process.
-
-
-      During this time of year, these termites vacate their nests, which can be found in trees, tree stumps, bushland, and even within homes, to embark on flights and establish new colonies. 
-
-
-      All termite species function within a caste system, sharing this trait with ants as their only notable commonality. Among their castes are the winged reproductive alates, often referred to as flying termites. While they can be mistaken for flying ants, distinguishing between them is relatively straightforward.
-
-
-      ![Termite Life Cycle](img/3.png)
-
-
-      When a termite colony reaches a certain size and maturity, several thousand reproductive termites undergo wing development in preparation for a once-in-a-lifetime flight. This process can take several months, during which they receive the best nourishment and care. 
-
-
-      Once they are fully prepared, and under suitable weather conditions (some swarm after rain, but most do so during highly humid conditions, typically at dusk), thousands upon thousands of them take flight from their nests in the area, primed to establish new colonies.
-
-
-      ![Winged Termites flying around an outdoor light](img/flying-termites-around-a-light.png)
-
-
-      These winged or flying termites are frequently observed swarming around lights, whether they are streetlights or outdoor lights left on. It is here that they encounter other termites of the same species, also swarming from their respective colonies. After this encounter, the fertilized Alates shed their wings and search for a suitable location to create a nest and initiate a new colony.
     heading: Are Flying Termites common on the Gold Coast?
     imageUrl: img/termites-can-appaer-from-anywhere.png
   - text: "{{< youtube 4ZJcj4T8ulc >}}"
