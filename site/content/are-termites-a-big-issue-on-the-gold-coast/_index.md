@@ -1,5 +1,5 @@
 ---
-title: Are Termites A Big Issue On The Gold Coast?
+title: Are Termites a Big Issue on the Gold Coast?
 image: img/gold-coast.jpg
 big_issue_entries:
   - text: >-
