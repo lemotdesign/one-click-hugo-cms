@@ -13,19 +13,6 @@ flying_termites_entries:
       During the spring and early summer months, the Gold Coast experiences warm and humid nights, creating the ideal environment for reproductive termites to embark on mass flights in search of a mate to establish their own colonies. It's almost eerie how colonies throughout South East Queensland synchronize their activities for this night of opportunity!
     heading: Are Flying Termites common on the Gold Coast?
     imageUrl: img/flying-termites-gold-coast.png
-  - text: "{{< youtube 4ZJcj4T8ulc >}}"
-    heading: Found a Swarm of Insects inside your Home?
-    imageUrl: img/flying-termites-gold-coast.png
-  - text: >-
-      Throughout the winter and autumn seasons, each termite colony has been
-      diligently breeding thousands upon thousands of winged termites, known as
-      Alates. Once they receive the signal, these Alates emerge from exit holes
-      strategically constructed near their nests.
-
-
-      You can spot these exit holes high up in gum trees, resembling small wounds, or on the ground as 'mud towers'. The higher the exit hole, the better the chances for the winged termites to launch into the air and catch the breeze since they aren't particularly adept flyers. Essentially, they rely on the wind to carry them wherever it may lead.
-    heading: Flight Tubes - Exit Holes
-    imageUrl: img/termite-flight-tube-brick-footings.jpg
   - text: >-
       #### Three things to look out for:
 
@@ -39,6 +26,19 @@ flying_termites_entries:
       * **Waist** – flying termites have a straight waist like a small cigar. Not pinched waist of flying black ants.
     heading: What do Winged Termites look like?
     imageUrl: img/flying-termite-alate.png
+  - text: >-
+      Throughout the winter and autumn seasons, each termite colony has been
+      diligently breeding thousands upon thousands of winged termites, known as
+      Alates. Once they receive the signal, these Alates emerge from exit holes
+      strategically constructed near their nests.
+
+
+      You can spot these exit holes high up in gum trees, resembling small wounds, or on the ground as 'mud towers'. The higher the exit hole, the better the chances for the winged termites to launch into the air and catch the breeze since they aren't particularly adept flyers. Essentially, they rely on the wind to carry them wherever it may lead.
+    heading: Flight Tubes - Exit Holes
+    imageUrl: img/termite-flight-tube-brick-footings.jpg
+  - text: "{{< youtube 4ZJcj4T8ulc >}}"
+    heading: Found a Swarm of Insects inside your Home?
+    imageUrl: img/flying-termites-gold-coast.png
   - text: >
       #### **Don't panic!**
 
