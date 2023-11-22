@@ -1,85 +1,90 @@
 ---
-title: Common Myths?
-image: img/angry-termites.jpg
+title: Common Myths about Termites?
+image: img/fact-or-myths.jpg
 common_myths_entries:
   - text: >-
-      Termites, often dubbed the "silent destroyers," have a knack for making
-      themselves known only after they've caused significant damage. But how do
-      these tiny critters seemingly pop up out of nowhere?
+      ### Your neighbour or family friend isn't the expert!
 
 
-      ## Should I panic about termites?
+      So old Tom over the back fence might be telling you something that his dad did back on the farm last century, but now, as then, it has no relevance and is just right out dangerous and inappropriate. 
 
 
-      Have you just found evidence of termites in your home and wondered how they came in? You hadn’t seen any signs of termites, mud leads, or termite trails, but suddenly they appear in your home!
+      Don't get information from amateurs, get advice from termite experts.    
 
 
-      Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
-    heading: How do Termites appear out of nowhere!
-    imageUrl: img/termites-can-appaer-from-anywhere.png
-  - text: >-
-      **1. Silent Workers:** Termites are notoriously discreet and enter your
-      home in a concealed manner. They operate in the dark, concealed spaces of
-      your home like within walls, under floorboards, or in any other tiny
-      crevice they can find. This means they can be feasting on your home's
-      structure for a long time before any obvious signs emerge.
+      ## Let us debunk termite myths:
 
 
-      **2. Rapid Reproduction:** One of the reasons termites seem to appear suddenly is their impressive rate of reproduction. A single termite queen can lay thousands of eggs daily, leading to large colonies forming quickly and discreetly. A couple of years ago, there might just not have been a termite nest near your home.
+      **1. "White Ants" are Actually Termites**
 
 
-      **3. Swarmers:** On the Gold Coast, from October to February, mature termite colonies release swarmers (Alates) – winged termites whose primary goal is to start new colonies. If you spot a group of winged insects inside or around your home, it's possible they've been there for a while and are now seeking a place to set up home!
+      Contrary to popular belief, termites, colloquially known as "White Ants" in Australia, aren't ants at all. The similarity in appearance between Black Ants and Termites can lead to this confusion. Both species have six legs, antennas, and live in colonies. Yet, they differ in many ways, from body shape to behaviour. 
 
 
-      **4. Underground Movement:** Subterranean (under the ground) termites, are the most common type on the Gold Coast. They construct mud tubes to traverse between their underground home and their food source (your house!). These mud tubes protect them from predators and the environment, making their movement and presence hidden.
+      ![Termite identification diagram](img/black-ant-vs-termite-body-shape.png)
 
 
-      ![Youtube Video](https://i3.ytimg.com/vi/nQrQIAoJwSA/hqdefault.jpg)
+      WHAT DO TERMITE WHITE ANTS ) LOOK LIKE PAGE LINK-
 
 
-      **5. Your home is a Timber Buffet for Termites:** Once the termites have determined a timber structure above them, they will build subterranean tunnels from their nest to gain concealed entry. For them, your house is the trophy tree!
+      **2. Termites in the Garden - Should leave them alone.**\
+
+      Wrong! Ignoring termites in your garden can have disastrous consequences. Environments with timber, old tree stumps, and moisture act as termite magnets. Left unchecked, these critters can advance from feasting on your fences to threatening your home. Act promptly!
 
 
-      <!--EndFragment-->
-    heading: Why are Termites Everywhere!
-    imageUrl: img/termites-attacking-a-house.png
-  - text: >-
-      ### There is a bonanza of timber in your home for the Termites to eat
+      **3. A brick house on a concrete slab is safe from termites**\
+
+      Think again. Most homes have wooden internal frames, making them vulnerable to termites. Concrete slabs may not offer as much protection as you think; termites can find their way through cracks, pipes, and even the mortar gap between bricks.
 
 
-      Indeed, your home is like a treasure trove of timber for termites. With the average Australian home containing about 14.58 cubic meters of wood, it presents a vast resource for these wood-eating insects. 
+      **4. Termites Can Chew Through Concrete**\
+
+      A popular misconception. While termites can't eat through concrete, they're experts at exploiting minuscule cracks. Over time, as they travel back and forth, these cracks can widen, giving the illusion of them "eating" through. 
 
 
-      ### How much wood do Termites eat?
+      The thing you need to be worried about the most is termites building mud leads up and over the slab edge.
 
 
-      Termite workers eat about 5% of their body weight in wood daily. While this might seem small, it adds up quickly in a large colony with around a million workers. In such cases, a nest targeting your home can devour around 100 grams+ of wood each day.
-    heading: Your house is a Yummy Buffet for Termites
-    imageUrl: img/how-much-timber-termites-can-eat-in-your-home.png
-  - text: >-
-      Termites will eat all types of timber, but they are super clever in
-      sourcing the wood with the most desirable nutrients and cellulose. It’s
-      all about efficient foraging and a balanced diet for the colony.
+      **5. Hardwood Homes are Immune to Termites**\
+
+      While it's true that some hardwoods are naturally resistant, not all are. Homes built on the Gold Coast before the 1960s were constructed using *eucalyptus* timbers (gum trees). A timber that termites have been eating and nesting in for millions of years.
 
 
-      A big mistake Australian homeowners make is thinking their home is constructed with hardwood, when in fact, it is just plantation eucalyptus (gum trees). Yes, it is considerably harder than radiata pine, but it is highly desirable timber for termites to eat.
+      I﻿f your home was built after the 1970s, there is a good chance the builder used *pine radiata*, a soft wood, that termites can quickly consume. 
 
 
-      Eucalyptus timbers are the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
-    heading: Termites love to eat Hardwood 
-    imageUrl: img/termite-love-eucalyptus-trees.jpg
-  - text: >-
-      Don't wait until you see evidence of termites - Act now and get your home
-      inspected
+      **6. Baiting Systems are the Ultimate Protection**\
+
+      Baiting systems have their merits, and we install them too. However, they're not the definitive solution. If termites don't discover the bait, it won't help. A comprehensive chemical barrier treatment, like the ones we install using Termidor, is often the most effective method.
 
 
-      Termites don't appear out of nowhere; they've usually been around for longer than you realize. 
+      However, if the construction is complicated and makes it difficult to effectively install a chemical termite treatment, then a baiting program is a better option. 
 
 
-      Regular home inspections and being aware of the subtle signs of their presence can help in early detection, preventing extensive damage to your home. 
+      **7. If My Neighbor's Property Was Treated for Termites, Am I At Risk?**
+
+      Termite colonies are vast and complex and can forage 150 meters from their nest. If the house next to yours has a reported termite infestation, then there is a good chance there is a termite colony foraging near yours'. 
 
 
-      Remember, it's always easier to tackle a termite problem in its early stages than after they've firmly established themselves.
-    heading: "Don't Panic - Get the Right Advice "
-    imageUrl: img/hernan-termite-inspection.jpg
+      The main reason homes get termites is that there isn't appropriate protection in place. 
+
+
+      **8. Termites Are like Mistiquotes - Annoying and Destructive Pests**\
+
+      On the contrary, termites play a vital role in our ecosystem, helping to decompose dead wood. It's only when they enter our homes that they become a problem. Remember, we have moved into their backyard. 
+
+
+      **9. Annual Termite Control is Mandatory**\
+
+      Modern termiticides can last between 5 and 10 years as recommended by the manufacturer. However, **annual** inspections are crucial to ensure there's no breach in the protective barrier.
+
+
+      **10. All Termite Companies Offer the Same Service**\
+
+      Absolutely not. Companies vary in their chemical use, service quality, and warranties. Don't settle for the cheapest option without researching first. Ask for testimonials and recommendations.
+
+
+      Knowledge is power. Equip yourself with accurate information to protect your home effectively.
+    heading: Termite Myths = Not Spending Money
+    imageUrl: img/common-myths-about-termites.png
 ---
