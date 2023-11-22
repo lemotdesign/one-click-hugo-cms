@@ -1,5 +1,5 @@
 ---
-title: What Kind Of Wood Do Termites Like?
+title: What Kind of Wood do Termites Like?
 image: img/angry-termites.jpg
 what_kind_of_wood_do_termites_like_entries:
   - text: >-
@@ -17,32 +17,6 @@ what_kind_of_wood_do_termites_like_entries:
       Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
     heading: How do Termites appear out of nowhere!
     imageUrl: img/termites-can-appaer-from-anywhere.png
-  - text: >-
-      **1. Silent Workers:** Termites are notoriously discreet and enter your
-      home in a concealed manner. They operate in the dark, concealed spaces of
-      your home like within walls, under floorboards, or in any other tiny
-      crevice they can find. This means they can be feasting on your home's
-      structure for a long time before any obvious signs emerge.
-
-
-      **2. Rapid Reproduction:** One of the reasons termites seem to appear suddenly is their impressive rate of reproduction. A single termite queen can lay thousands of eggs daily, leading to large colonies forming quickly and discreetly. A couple of years ago, there might just not have been a termite nest near your home.
-
-
-      **3. Swarmers:** On the Gold Coast, from October to February, mature termite colonies release swarmers (Alates) – winged termites whose primary goal is to start new colonies. If you spot a group of winged insects inside or around your home, it's possible they've been there for a while and are now seeking a place to set up home!
-
-
-      **4. Underground Movement:** Subterranean (under the ground) termites, are the most common type on the Gold Coast. They construct mud tubes to traverse between their underground home and their food source (your house!). These mud tubes protect them from predators and the environment, making their movement and presence hidden.
-
-
-      ![Youtube Video](https://i3.ytimg.com/vi/nQrQIAoJwSA/hqdefault.jpg)
-
-
-      **5. Your home is a Timber Buffet for Termites:** Once the termites have determined a timber structure above them, they will build subterranean tunnels from their nest to gain concealed entry. For them, your house is the trophy tree!
-
-
-      <!--EndFragment-->
-    heading: Why are Termites Everywhere!
-    imageUrl: img/termites-attacking-a-house.png
   - text: >-
       ### There is a bonanza of timber in your home for the Termites to eat
 
