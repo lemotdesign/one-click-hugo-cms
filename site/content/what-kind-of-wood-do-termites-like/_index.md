@@ -3,7 +3,7 @@ title: What Kind of Wood do Termites Like?
 image: img/angry-termites.jpg
 what_kind_of_wood_do_termites_like_entries:
   - text: >-
-      ### Termites absolutely relish timber! 
+      ### Termites absolutely relish timber!
 
 
       They've mastered the technique of breaking down wood into sugars. It's awe-inspiring how these tiny creatures coordinate their entire colony to forage and transport wood to their nest via their hidden tunnels.
@@ -12,27 +12,6 @@ what_kind_of_wood_do_termites_like_entries:
       If your home is constructed from softwood (pine radiate) or hardwood (eucalyptus - gum tree), it doesn't matter. Termite WILL eat both. The soft pine trim timbers like the skirting boards, door and window frames are exposed and normally easier to detect termite activity.
 
 
-
-
-      #### **The Timber in Your Home:**
-
-
-      Did you know? On average, an Australian single or two-storey house contains about 14.58 m3 of wood (based on 2017-18 data). Once termites sense this timber treasure trove, they quickly create concealed pathways from their nest to access it. For termites, your home is essentially a gourmet meal!
-
-
-      ![How much timber termites can eat in your home](img/how-much-timber-termites-can-eat-in-your-home.png)
-
-
-      #### **Busting the Hardwood Myth:**
-
-
-      Contrary to popular belief, termites don't shy away from hardwood. They're smart about selecting the most nutritious timber, aiming for efficient foraging and ensuring a balanced diet for the colony. Many Australians mistakenly believe their homes are made of hardwood, but it's often just eucalyptus. Although tougher than pine, eucalyptus is a termite delight.
-
-
-      Eucalyptus timber is highly attractive to termites and is used effectively in bait stations. While we're not implying that your home is a massive bait, to termites, it's a sumptuous buffet.
-
-
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/xWYY5tW5muQ?si=QQizZDUVuQfk3A3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
       #### **Your Action Plan:**
@@ -114,4 +93,18 @@ what_kind_of_wood_do_termites_like_entries:
       Think of it this way: Just as cows graze on grass, termites feast on wood. This gives termites access to cellulose, an essential component in plants, which many organisms can't digest. Cellulose is everywhere - from wood to paper, cardboard, and even books.
     heading: Why Wood is Termites' Favourite Dish
     imageUrl: img/termite-gut.png
+  - text: >-
+      Contrary to popular belief, termites don't shy away from hardwood. They're
+      smart about selecting the most nutritious timber, aiming for efficient
+      foraging and ensuring a balanced diet for the colony. Many Australians
+      mistakenly believe their homes are made of hardwood, but it's often just
+      eucalyptus. Although tougher than pine, eucalyptus is a termite delight.
+
+
+      Eucalyptus timber is highly attractive to termites and is used effectively in bait stations. While we're not implying that your home is a massive bait, to termites, it's a sumptuous buffet.
+
+
+      {{< youtube xWYY5tW5muQ >}}
+    heading: Busting the Hardwood Myth
+    imageUrl: img/fact-or-myths.jpg
 ---
