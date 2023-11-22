@@ -18,18 +18,14 @@ pest_inspections_entries:
 
       Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
     imageUrl: img/team-conquer-termites.jpg
-  - heading: How Conquer Termites conducts a Termite Inspection
-    text: >-
-      Check out this video for a real look at how we tackle Termite Inspections.
-      We hope it gives you a clear view of our dedication to providing the most
-      comprehensive inspection we can. Seeing is believing!
-
+  - heading: Termite Inspection Video
+    text: |-
+      Australia's most watched inspection video!
 
       {{< youtube ZE6jMsa2SBs >}}
 
-
       Check: **'How is a Termite Inspection Done - Gold Coast'**
-    imageUrl: img/termite-inspection-conquer-termites-2.jpg
+    imageUrl: img/termite-inspection-video.jpg
   - text: >-
       ## Buying a Home? Watch Out for Those Termites!
 
@@ -53,8 +49,8 @@ pest_inspections_entries:
 
       Read More.....
     heading: Pre-purchase Termite Inspection – Timber Pest Inspection
-    imageUrl: img/anton-inspector.jpg
-  - heading: Termite Inspection Cost on the Gold Coast
+    imageUrl: img/gold-coast-prepurchase-termite-inspection.png
+  - heading: Termite Inspection Cost - Gold Coast
     text: >-
       ## How much does a Termite (White Ant) inspection cost?
 
