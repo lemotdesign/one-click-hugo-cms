@@ -1,5 +1,5 @@
 ---
-title: Termites Love Trees and Tree Stumps
+title: Termites Love Trees and Stumps
 image: img/termites-in-a-tree-stump-1.jpg
 termites_in_tree_stumps_entries: null
 termites_in_trees_and_stumps_entries:
