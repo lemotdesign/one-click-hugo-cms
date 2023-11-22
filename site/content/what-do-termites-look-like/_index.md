@@ -26,11 +26,12 @@ what_do_termites_look_like_entries:
 
     heading: What does a Termite Look Like?
     imageUrl: img/new-image-template.jpg
-  - text: A lot of the lime homeowners confused termites with Black Ants. The
-      confusion stems from their uncanny physical similarities. Both species
-      boast six legs, sport antennae, and live in tight-knit colonies. However,
-      that's where the similarities end, as they differ substantially in body
-      structure and behaviour.
+  - text: >-
+      A lot of the lime homeowners confused termites with Black Ants. The
+      confusion stems from their uncanny physical similarities. 
+
+
+      Both species boast six legs, sport antennae, and live in tight-knit colonies. However, that's where the similarities end, as they differ substantially in body structure and behaviour.
     heading: Are they Termites or White Ants?
     imageUrl: img/black-ant-vs-termite-body-shape.png
   - text: >-
