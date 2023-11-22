@@ -2,32 +2,17 @@
 title: Flying Termites on the Gold Coast?
 image: img/heaps-of-alates.jpg
 flying_termites_entries:
-  - text: >
-      During the spring and early summer months, the Gold Coast experiences warm
-      and humid nights, creating the ideal environment for reproductive termites
-      to embark on mass flights in search of a mate to establish their own
-      colonies. It's almost eerie how colonies throughout South East Queensland
-      synchronize their activities for this night of opportunity!
+  - text: >-
+      Are you discovering a sudden invasion of winged insects within your Gold
+      Coast home? Curious about their identity? 
 
 
+      They could be 'Alates' - reproductive winged termites!
 
 
-
-      #### Panic a little if you see this:
-
-
-      If you happen to witness winged termites emerging from a hole **within** your home, it's time to act urgently! Contact us right away.
-
-
-      For all other situations, we recommend reaching out to us to schedule a comprehensive termite inspection. This will provide you with peace of mind, ensuring there are no termite-related issues in your home or garden.
-
-
-      ##### Winged Termites coming out of a hole in a tree stump
-
-
-      {{< youtube vkQheQ42zbxTdv4n >}}
+      During the spring and early summer months, the Gold Coast experiences warm and humid nights, creating the ideal environment for reproductive termites to embark on mass flights in search of a mate to establish their own colonies. It's almost eerie how colonies throughout South East Queensland synchronize their activities for this night of opportunity!
     heading: Are Flying Termites common on the Gold Coast?
-    imageUrl: img/termites-can-appaer-from-anywhere.png
+    imageUrl: img/flying-termites-gold-coast.png
   - text: "{{< youtube 4ZJcj4T8ulc >}}"
     heading: Found a Swarm of Insects inside your Home?
     imageUrl: img/flying-termites-gold-coast.png
