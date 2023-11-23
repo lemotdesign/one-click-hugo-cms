@@ -10,7 +10,7 @@ pest_inspections_entries:
       sort out the problem can be just as daunting.
 
 
-      *All you want to know is, ‘Can I trust them, and will they give me the right advice’?*
+      *All **you** want to know is, ‘Can I trust them, and will they give me the right advice’?*
 
 
       You can trust Conquer Termites for your termite inspection and treatment needs. Our team of fully licensed technicians are experts in the field, with exceptional skills and extensive experience to deliver reliable termite detection and effective treatment solutions. 
