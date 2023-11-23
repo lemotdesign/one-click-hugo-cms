@@ -1,6 +1,6 @@
 ---
 title: Where do Termites come from?
-image: img/angry-termites.jpg
+image: img/where-do-termites-come-from.jpg
 where_do_termites_come_from_entries:
   - text: >-
       Termites, often dubbed the "silent destroyers," have a knack for making
@@ -8,13 +8,13 @@ where_do_termites_come_from_entries:
       these tiny critters seemingly pop up out of nowhere?
 
 
+      Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
+
+
       ## Should I panic about termites?
 
 
       Have you just found evidence of termites in your home and wondered how they came in? You hadn’t seen any signs of termites, mud leads, or termite trails, but suddenly they appear in your home!
-
-
-      Termites are **constantly** foraging around your house in subterranean tunnels that are usually only a foot under the ground. First, they might seek moisture in your home, like a leaky shower tray or dripping tap. But the main prize is all the edible timber in your house. Mean to say, termites regard your home as ‘one large tree’.
     heading: How do Termites appear out of nowhere!
     imageUrl: img/termites-can-appaer-from-anywhere.png
   - text: >-
@@ -54,7 +54,7 @@ where_do_termites_come_from_entries:
 
 
       Termite workers eat about 5% of their body weight in wood daily. While this might seem small, it adds up quickly in a large colony with around a million workers. In such cases, a nest targeting your home can devour around 100 grams+ of wood each day.
-    heading: Your house is a Yummy Buffet for Termites
+    heading: Your house is a 'Yummy Buffet' for Termites
     imageUrl: img/how-much-timber-termites-can-eat-in-your-home.png
   - text: >-
       Termites will eat all types of timber, but they are super clever in
@@ -66,6 +66,9 @@ where_do_termites_come_from_entries:
 
 
       Eucalyptus timbers are the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
+
+
+      Read more
     heading: Termites love to eat Hardwood 
     imageUrl: img/termite-love-eucalyptus-trees.jpg
   - text: >-
