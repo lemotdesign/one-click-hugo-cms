@@ -1,5 +1,5 @@
 ---
-title: Do I Need To Leave During The Pest Control?
+title: Do I need to Leave during the Pest Control?
 image: img/consumer-warnings.jpg
 do_i_need_to_leave_during_the_pest_control_entries:
   - text: >-
