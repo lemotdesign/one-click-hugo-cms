@@ -1,5 +1,5 @@
 ---
-title: Difference Between Termites And Black Ants?
+title: Difference between Termites and White Ants?
 image: img/sitting-termites-on-a-sofa.jpg
 difference_between_entries:
   - text: >-
