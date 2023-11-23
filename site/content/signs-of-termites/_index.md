@@ -32,7 +32,7 @@ signs_of_termites_entries:
 
       **5. Winged Termites -** **Swarms:** Occasionally, termites swarm to start new colonies. If you see a swarm of winged termites (Alates) or find discarded wings, especially near light sources, this could indicate a termite presence.
     heading: Five Signs of Termites
-    imageUrl: img/signs-of-termites-2.jpg
+    imageUrl: img/hope-you-don-t-have-5-signs-of-termites.jpg
   - text: >-
       Termites build mud tubes as a protective shield from the elements and
       predators as they travel from their colony to the food source. These tubes
