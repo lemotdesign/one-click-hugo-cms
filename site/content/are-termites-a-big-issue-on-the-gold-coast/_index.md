@@ -1,6 +1,6 @@
 ---
 title: Are Termites a Big Issue on the Gold Coast?
-image: img/gold-coast.jpg
+image: img/gold-coast-2.jpg
 big_issue_entries:
   - text: >-
       CSIRO did a survey to map where termites are most active in Australia.
