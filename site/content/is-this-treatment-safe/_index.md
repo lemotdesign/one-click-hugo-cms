@@ -1,6 +1,6 @@
 ---
 title: Is the Pest Control Treatment Safe for my Family and Pets?
-image: img/angry-termites-on-the-gold-coast.jpg
+image: img/friendly-pest-control-guy.jpg
 is_this_treatment_safe_entries:
   - text: >-
       At Conquer Termites, we truly get the worries Gold Coast homeowners face
@@ -18,41 +18,6 @@ is_this_treatment_safe_entries:
 
 
       Before we dive into the nitty-gritty of our general pest control, we wanted to give you a heads-up on what to expect and how to prepare. 
-
-
-      ### How long does it take?
-
-
-      The treatment will be straightforward, usually wrapping up in about 1 to 1.5 hours.
-
-
-      ### Do I need to stay away?
-
-
-      Where possible we ask that you go outside while we spray inside and stay inside while we spray the outside. You should keep all people and pets away from treated areas until dry. 
-
-
-      Re-entry is fine after a short time and our technician will let you know when it is okay to do so.
-
-
-      ### How long will the treatment last?
-
-
-      We back our treatment with a 12-month call-back warranty for cockroaches & silverfish.       3 months for ants, and 6 months for webbing spiders. 
-
-      Just a small note, if your place is a commercial premise or if we're dealing with rodents, fleas or other nuisance pests, the treatment and warranty work a tad differently.
-
-
-      ![Conquer Termites pest control warranties](img/pest-control-warranties-chart.jpg)
-
-
-      ### Talk to us
-
-
-      Let us know what is really 'bugging' you. That way, we can really target our treatment to get the best outcomes for you. 
-
-
-      Also, please let our technician know if you have any allergies or have particular areas that you don’t want to be treated.
 
 
       ### General Information about our Pest Control Treatment:
