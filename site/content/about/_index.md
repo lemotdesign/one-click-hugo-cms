@@ -48,7 +48,7 @@ about:
       Our commitment to safeguarding homes on the Gold Coast has been recognized with the prestigious AEMPA Pest Industry Award, crowning us as Australia's Best Pest Control Company for 2023.
     heading: Welcome to Conquer Termites Pest Management - Gold Coast
     imageUrl: img/angry-termites-on-the-gold-coast.jpg
-  - heading: What makes Conquer Termites great?
+  - heading: What makes Conquer Termites Great?
     text: >-
       Great Google Reviews and testimonials – customers like us!
 
@@ -65,7 +65,7 @@ about:
       All our technicians are equipped with the full array of detection devices such as thermal imaging cameras, moisture meters and termatrac detection devices. detection devices we use info
 
 
-      "We like our Job"
+      "Basically, we like our Job"
     imageUrl: img/conquer-termite-treatment-team.jpg
   - text: >
       
