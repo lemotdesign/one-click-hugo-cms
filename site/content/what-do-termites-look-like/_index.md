@@ -32,7 +32,7 @@ what_do_termites_look_like_entries:
 
 
       Both species boast six legs, sport antennae, and live in tight-knit colonies. However, that's where the similarities end, as they differ substantially in body structure and behaviour.
-    heading: Are they Termites or White Ants?
+    heading: Are they Termites or Black Ants?
     imageUrl: img/black-ant-vs-termite-body-shape.png
   - text: >-
       Termite appearance can vary slightly depending on their role within the
