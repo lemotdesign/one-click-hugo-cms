@@ -1,6 +1,6 @@
 ---
 title: Pre-construction Treatments on the Gold Coast
-image: img/pre-con-homeguard-install.png
+image: img/pre-con-treatments.png
 pre_contruction_treatments_entries:
   - text: >-
       At Conquer Termites, we vouch for several products tailored for New
