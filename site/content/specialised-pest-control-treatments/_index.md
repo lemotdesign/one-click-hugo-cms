@@ -1,6 +1,6 @@
 ---
 title: Specialised Pest Control Treatments
-image: img/specialised-pest-control.jpg
+image: img/specialised-pest-control-2.jpg
 specialised_entries:
   - heading: Rodent Baiting
     text: >-
