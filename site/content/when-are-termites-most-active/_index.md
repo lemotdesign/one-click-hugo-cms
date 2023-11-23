@@ -1,6 +1,6 @@
 ---
 title: When are Termites Most Active on the Gold Coast?
-image: img/angry-termites.jpg
+image: img/gold-coast.jpg
 most_active_entries:
   - text: "## Are Termites an Issue on the Gold Coast?
 
