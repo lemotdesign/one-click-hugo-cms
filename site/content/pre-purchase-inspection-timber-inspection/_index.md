@@ -1,6 +1,6 @@
 ---
 title: Best Pre-Purchase Inspection on the Gold Coast
-image: img/found-termites-page.jpg
+image: img/prepurchase-greeting.jpg
 pre_purchase_entries:
   - text: >-
       #### Purchasing Your Dream Home: Secure Your Investment
