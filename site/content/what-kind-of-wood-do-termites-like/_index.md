@@ -23,7 +23,7 @@ what_kind_of_wood_do_termites_like_entries:
 
 
       Termite workers eat about 5% of their body weight in wood daily. While this might seem small, it adds up quickly in a large colony with around a million workers. In such cases, a nest targeting your home can devour around 100 grams+ of wood each day.
-    heading: Your house is a Yummy Buffet for Termites
+    heading: Your house is a 'Yummy Buffet' for Termites
     imageUrl: img/how-much-timber-termites-can-eat-in-your-home.png
   - text: >-
       But how do termites manage to devour wood? Their unique digestive system
