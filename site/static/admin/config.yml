@@ -397,7 +397,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Concrete Slab Cut Out Protection Entries
-            name: concrete_slab_entries_entries
+            name: concrete_slab_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
@@ -429,9 +429,9 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
-      - file: "site/content/is-this-treatment-safe/_index.md"
-        label: "Is This Treatment Safe"
-        name: "IsThisTreatmentSafePage"
+      - file: "site/content/is-the-treatment-safe/_index.md"
+        label: "Is The Treatment Safe"
+        name: "IsTheTreatmentSafePage"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
@@ -572,13 +572,13 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
-      - file: "site/content/difference-between-termites-and-black-ants/_index.md"
-        label: "Difference Between Termites And Black Ants"
-        name: "DifferenceBetweenTermitesAndBlackAntsPage"
+      - file: "site/content/difference-between-termites-and-white-ants/_index.md"
+        label: "Difference Between Termites And White Ants"
+        name: "DifferenceBetweenTermitesAndWhiteAntsPage"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: Difference Betweeen Termites and Black Ants
+          - label: Difference Betweeen Termites and White Ants
             name: difference_between_entries
             widget: list
             fields:
@@ -644,7 +644,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Consumer Warnings
-            name: consumer_warnings_entries
+            name: consumer_warning_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
