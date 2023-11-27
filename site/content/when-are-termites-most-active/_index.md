@@ -58,7 +58,7 @@ most_active_entries:
       Flying termite swarms are commonly observed during spring and summer evenings, especially after rain showers. If you see a termite swarm around your property, it's a clear indication of nearby termite activity.
 
 
-      Read more
+      [Read more](https://termiteandpestcontrolgoldcoast.com.au/flying-termites-on-the-gold-coast/)
     heading: Flying Termites (Alates)
     imageUrl: img/flying-termites.png
   - text: >-
