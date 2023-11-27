@@ -46,10 +46,13 @@ what_do_termites_look_like_entries:
       3. **Reproductive Termites**: These include the king, queen, and alates (winged termites). The queen is much larger than the other termites and can live for several years, laying thousands of eggs. Alates are the ones you might see during certain times of the year when they swarm to start new colonies.
     heading: Termite Life Cycle
     imageUrl: img/3.png
-  - text: |-
-      1. What are the signs of Termites?
-      2. The Three-Step Process if you have Termites
-      3. Best Way to Treat Termites
+  - text: >-
+      1. [What are the signs of
+      Termites?](https://termiteandpestcontrolgoldcoast.com.au/signs-of-termites/)
+
+      2. [The Three-Step Process if you have Termites](https://termiteandpestcontrolgoldcoast.com.au/3-step-process/)
+
+      3. [Best Way to Treat Termites](https://termiteandpestcontrolgoldcoast.com.au/what-is-the-best-termite-control-treatment-barrier/)
     heading: "Here are some more useful pages you might want to check:"
     imageUrl: img/steph-more-information.jpg
 ---
