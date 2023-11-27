@@ -19,12 +19,14 @@ pest_inspections_entries:
       Choose Conquer Termites for 'peace of mind' and the best pest service on the Gold Coast!
     imageUrl: img/team-conquer-termites.jpg
   - heading: Termite Inspection Video
-    text: |-
+    text: >-
       Australia's most watched inspection video!
+
 
       {{< youtube ZE6jMsa2SBs >}}
 
-      Check: **'How is a Termite Inspection Done - Gold Coast'**
+
+      Check: **'[How is a Termite Inspection Done - Gold Coast](https://termiteandpestcontrolgoldcoast.com.au/how-is-a-termite-inspection-done/)'**
     imageUrl: img/termite-inspection-video.jpg
   - text: >-
       ## Buying a Home? Watch Out for Those Termites!
@@ -42,12 +44,12 @@ pest_inspections_entries:
       #### For more information about:
 
 
-      * Timber Pest Inspection - What It Is and What It Isn't
+      * [Timber Pest Inspection](https://termiteandpestcontrolgoldcoast.com.au/pre-purchase-inspection-timber-inspection/) - What It Is and What It Isn't
 
-      * Invasive recommendation - What does that mean?
+      * [Invasive recommendation](https://termiteandpestcontrolgoldcoast.com.au/invasive-inspection-for-termites/) - What does that mean?
 
 
-      Read More.....
+      [Read More.....](https://termiteandpestcontrolgoldcoast.com.au/pre-purchase-inspection-timber-inspection/)
     heading: Pre-purchase Termite Inspection – Timber Pest Inspection
     imageUrl: img/gold-coast-prepurchase-termite-inspection.png
   - heading: Termite Inspection Cost - Gold Coast
@@ -64,7 +66,7 @@ pest_inspections_entries:
       On the Gold Coast, for an average-sized house a termite inspection costs between **$280 and $330.**
 
 
-      For more information: **Read More**
+      For more information: **[Read More](https://termiteandpestcontrolgoldcoast.com.au/termite-inspection-cost-on-the-gold-coast/)**
     imageUrl: img/termite-inspection-cost-on-the-gold-coast.png
   - heading: Conquer Termites Digital Report & Treatment Proposal
     text: >-
@@ -89,6 +91,9 @@ pest_inspections_entries:
 
 
       If you need it, we provide a comprehensive Termite Treatment Proposal alongside our report. It lays out a clear, priced plan for termite treatment, so you know exactly what to expect.
+
+
+      [Read more](https://termiteandpestcontrolgoldcoast.com.au/conquer-termites-digital-report/) ...
     imageUrl: img/termite-inspection-report.jpg
   - heading: "Termite Detection Devices "
     imageUrl: img/termite-detection-devices-2.jpg
@@ -104,7 +109,7 @@ pest_inspections_entries:
       *Make sure to verify when booking a company on the Gold Coast; not all of them may have or utilize these devices!*
 
 
-      Read more ...
+      [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/what-devices-are-used-for-a-termite-inspection/)
   - text: >-
       Make sure to get your home checked for termites at least **once a year**,
       following the Australian Standards 3660.2.
@@ -120,7 +125,7 @@ pest_inspections_entries:
       Without a chemical barrier around your home, termites can sneak in easily. Regular inspections are key for early detection and prevention, just like regular dental check-ups, especially if you don't have any termite treatment.
 
 
-      Read more about '**How is a Termite Inspection Done**'
+      [Read more ](https://termiteandpestcontrolgoldcoast.com.au/how-often-should-you-do-a-termite-inspection/)
     heading: How often should a Termite Inspection be done?
     imageUrl: img/new-image-template-1.jpg
   - text: >-
@@ -139,7 +144,7 @@ pest_inspections_entries:
       5. Are they licensed under the [QBCC](https://www.qbcc.qld.gov.au/node/2526) (Queensland Building Construction Commission)?
 
 
-      Check: **Termite Inspection - Who to call on the Gold Coast?**
+      Check: **[Termite Inspection - Who to call on the Gold Coast?](https://termiteandpestcontrolgoldcoast.com.au/best-termite-inspection-who-to-call-on-the-gold-coast/)**
     heading: Five points to consider when choosing a Gold Coast Termite Company
     imageUrl: img/when-choosing-a-pest-inspection-compare-apples-with-apples.png
   - heading: Consumer Warning about Termite Inspections on the Gold Coast
@@ -156,14 +161,19 @@ pest_inspections_entries:
       Watch out for companies offering a **free** "termite check" and then pushing some expensive and sketchy baiting system. These guys usually aren't licensed or qualified, and you might even be asked to sign a waiver acknowledging it's just a check, not a proper inspection to Australian Standards.
 
 
-      Read more about: **'How to avoid the 'Dodgy Pest Control' companies on the Gold Coast'**
+      Read more about: **['How to avoid the 'Dodgy Pest Control' companies on the Gold Coast'](https://termiteandpestcontrolgoldcoast.com.au/consumer-warnings)**
     imageUrl: img/termite-licenses-queensland.png
   - heading: "Some common questions about Termites:"
-    text: |-
-      * What are the signs of termites?
-      * What do termites look like?
-      * What are the signs of termites in a wall?
+    text: >-
+      * [What are the signs of
+      termites?](https://termiteandpestcontrolgoldcoast.com.au/signs-of-termites/)
+
+      * [What do termites look like?](https://termiteandpestcontrolgoldcoast.com.au/what-do-termites-look-like/)
+
+      * [What are the signs of termites in a wall?](https://termiteandpestcontrolgoldcoast.com.au/what-do-termites-look-like/)
+
       * What do termites sound like?
-      * What are flying termites, and what do they look like?
+
+      * [What are flying termites, and what do they look like?](https://termiteandpestcontrolgoldcoast.com.au/flying-termites-on-the-gold-coast/)
     imageUrl: img/talk-to-a-termite-expert.jpg
 ---
