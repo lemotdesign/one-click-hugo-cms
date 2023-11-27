@@ -38,9 +38,6 @@ why_choose_us_entries:
 
 
       **5. Your home is a Timber Buffet for Termites:** Once the termites have determined a timber structure above them, they will build subterranean tunnels from their nest to gain concealed entry. For them, your house is the trophy tree!
-
-
-      <!--EndFragment-->
     heading: Why are Termites Everywhere!
     imageUrl: img/termites-attacking-a-house.png
   - text: >-
