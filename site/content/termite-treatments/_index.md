@@ -1,6 +1,6 @@
 ---
 title: Termite Treatment Control Gold Coast
-image: img/termite-treatment-photo-green.jpg
+image: img/termite-treatment-page.jpg
 termite_treatments_entries:
   - heading: Best Termite Treatments on the Gold Coast
     imageUrl: img/conquer-termites-two-utes-treating-a-house.jpg
@@ -40,7 +40,7 @@ termite_treatments_entries:
       3. **Physical Barriers**: These are priced per project for pre-construction protection.
 
 
-      For more on costs, check out **Termite Treatment Barrier Cost - Gold Coast**.
+      For more on costs, check out **[Termite Treatment Barrier Cost - Gold Coast](https://termiteandpestcontrolgoldcoast.com.au/termite-treatment-cost-on-the-gold-coast/)**.
   - heading: Termite Baiting on the Gold Coast
     imageUrl: img/termite-treatment-baiting-system.png
     text: >-
@@ -56,7 +56,7 @@ termite_treatments_entries:
       Here at Conquer Termites, we understand that the Gold Coast's unique climate and termite species require a baiting system that is robust and reliable. 
 
 
-      Read more about our recommended Baiting System; **BASF Trelona**
+      Read more about our recommended Baiting System; **[BASF Trelona](https://termiteandpestcontrolgoldcoast.com.au/baiting-programs-systems/)**
   - heading: Pre-Construction Termite Protection Gold Coast
     imageUrl: img/pre-con-homeguard-install.png
     text: >-
@@ -76,9 +76,9 @@ termite_treatments_entries:
       ### **Learn More About:**
 
 
-      * Termite Treatment Certification
+      * [Termite Treatment Certification](https://termiteandpestcontrolgoldcoast.com.au/pre-construction-treatments/)
 
-      * Visual Inspection Zones
+      * [Visual Inspection Zones](https://termiteandpestcontrolgoldcoast.com.au/visual-inspection-zone-for-termites/)
 
-      * Concrete Cut-Out Protection
+      * [Concrete Cut-Out Protection](https://termiteandpestcontrolgoldcoast.com.au/concrete-slab-cut-out-protection/)
 ---
