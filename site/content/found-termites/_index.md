@@ -22,13 +22,13 @@ found_termites_entries:
       3. Chemical Treatment around the house
 
 
-      For further details, visit our page: "**Remove Termites - Three Step Process**".
+      For further details, visit our page: "**[Remove Termites - Three Step Process](https://termiteandpestcontrolgoldcoast.com.au/3-step-process/)**".
   - text: >-
       Ran into a little critter and can't tell if it's just a pesky black ant or
       a home-chomping termite?
 
 
-      No worries, we've got you covered. Swing by our easy-to-follow "**What Do Termites Look Like**" page for some handy tips.
+      No worries, we've got you covered. Swing by our easy-to-follow "**[What Do Termites Look Like](https://termiteandpestcontrolgoldcoast.com.au/what-do-termites-look-like/)**" page for some handy tips.
 
 
       ### Send us a Photo
@@ -37,7 +37,7 @@ found_termites_entries:
       Still scratching your head? Just snap a **photo** and shoot it over to us. Our savvy technicians will have a look and get back to you with an answer in no time.
 
 
-      [\\[src='https://www.servicem8.com/images/plugin_online_booking/Booking-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/>](<<a style='border:none;' href='https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab'><img src='https://www.servicem8.com/images/plugin_online_booking/Booking-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/></a>>)](<\[src='https://www.servicem8.com/images/plugin_online_booking/Booking-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/>](<<a style='border:none;' href='https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab'><img src='https://www.servicem8.com/images/plugin_online_booking/Booking-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/></a>>)>)
+      \[\[src='https://www.servicem8.com/images/plugin_online_booking/Booking-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/>](<<a style='border:none;' href='https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab'><img src='https://www.servicem8.com/images/plugin_online_booking/Booking-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/></a>>)](<\[src='https://www.servicem8.com/images/plugin_online_booking/Booking-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/>](<<a style='border:none;' href='https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab'><img src='https://www.servicem8.com/images/plugin_online_booking/Booking-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/></a>>)>)
     heading: What do Termites look like?
     imageUrl: img/new-image-template.jpg
   - heading: What are the Signs of Termites?
@@ -54,11 +54,11 @@ found_termites_entries:
       ### Here are some more pages you might find informative:
 
 
-      * The 3 Step process to remove termites
+      * [The 3 Step process to remove termites](https://termiteandpestcontrolgoldcoast.com.au/3-step-process/)
 
-      * What do termites look like?
+      * [What do termites look like?](https://termiteandpestcontrolgoldcoast.com.au/what-do-termites-look-like/)
 
-      * Where do termites come from?
+      * [Where do termites come from?](https://termiteandpestcontrolgoldcoast.com.au/where-do-termites-come-from/)
     imageUrl: img/found-termites-live-termites.jpg
   - text: >-
       What is the Difference between Termites and White Ants - NOTHING!
@@ -76,7 +76,7 @@ found_termites_entries:
       But here's the fun fact: what we casually call "White Ants" are actually termites. They're not even close to being real ants, despite looking similar with their six legs and antennae. They live in groups, sure, but that's about all they share. When it comes to body shape and how they behave, they're totally different beasts!
 
 
-      Read more about this topic: **What is the Difference between Termites and White Ants?**
+      Read more about this topic: **[What is the Difference between Termites and White Ants?](https://termiteandpestcontrolgoldcoast.com.au/difference-between-termites-and-white-ants)**
     heading: What is the Difference between Termites and White Ants?
     imageUrl: img/black-ant-vs-termite-body-shape.png
   - text: >-
@@ -95,7 +95,7 @@ found_termites_entries:
       Termites have been munching on trees for ages, especially our Aussie eucalypts. They love the tree's heartwood – it's like their own skyscraper buffet. They get all the food and home they need. But at some stage, they will forage to your home.
 
 
-      Click **here** more information about how to check and treat trees & stumps for termites
+      Click [**here** ](https://termiteandpestcontrolgoldcoast.com.au/termites-in-trees-and-stumps/)more information about how to check and treat trees & stumps for termites
     imageUrl: img/termites-in-a-tree-stump-3.jpg
     heading: Termites in Trees - What should you do?
   - heading: Where do Termites come from?
@@ -109,6 +109,6 @@ found_termites_entries:
       In areas like the Gold Coast, termites are always on the hunt for cellulose materials to consume and bring back to their colony. Without proper protection, your home can quickly become a target for these voracious pests.
 
 
-      Read more: **How and why do Termites suddenly appear out of nowhere**
+      Read more: **[How and why do Termites suddenly appear out of nowhere](https://termiteandpestcontrolgoldcoast.com.au/where-do-termites-come-from/)**
     imageUrl: img/termites-can-appaer-from-anywhere.png
 ---
