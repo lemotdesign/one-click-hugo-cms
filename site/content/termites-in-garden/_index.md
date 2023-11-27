@@ -89,7 +89,7 @@ termites_in_garden_entries:
       **Handling Termite-Infested Tree Stumps**: The ideal approach is to prevent termite infestation in tree stumps by removing them entirely. If you've recently had a tree cut down, we recommend having the stump ground out promptly. For stumps already hosting termites or nests, our Technicians can treat them using Termidor before stump removal. This ensures complete termite eradication from your property.
 
 
-      Read about: **Termites Love Hardwood**
+      Read about: **[Termites Love Hardwood](https://termiteandpestcontrolgoldcoast.com.au/do-termites-eat-hard-wood/)**
     imageUrl: img/treating-termites-in-a-stump.jpg
     heading: Termite Treatment for Trees and Stumps on the Gold Coast
 ---
