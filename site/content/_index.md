@@ -26,40 +26,58 @@ home_page_entries:
       * Family-owned and operated for 20 years+
     imageUrl: img/conquer-termites-on-the-goild-coast.jpg
   - heading: Found Termites - What to Do
-    text: |-
+    text: >-
       * Found termites? **What to do**
 
-      * The 3 Step process to remove termites
-      * What do termites look like?
-      * What are the signs of termites?
-      * What should to do if I find termites in the garden/trees?
-      * Where do termites come from?
+      * [The 3 Step process to remove termites](https://termiteandpestcontrolgoldcoast.com.au/3-step-process/)
+
+      * [What do termites look like?](https://termiteandpestcontrolgoldcoast.com.au/what-do-termites-look-like/)
+
+      * [What are the signs of termites?](https://termiteandpestcontrolgoldcoast.com.au/signs-of-termites/)
+
+      * [What should to do if I find termites in the garden/trees?](https://termiteandpestcontrolgoldcoast.com.au/termites-in-garden/)
+
+      * [Where do termites come from?](https://termiteandpestcontrolgoldcoast.com.au/where-do-termites-come-from/)
+
 
       Send us a photo for expert identification
     imageUrl: img/hearing-termite-noises-in-your-wall.png
   - heading: Termite Pest Inspection - Best on the Gold Coast
-    text: |-
-      * Best Termite inspection - Who to call on the Gold Coast?
-      * How is a termite inspection done?
-      * What devices are used for a Termite Inspection?
-      * Termite inspection cost on the Gold Coast
-      * How long does a Termite Inspection take?
-      * Pre-purchase Inspection – Timber Pest Inspection
-      * Invasive Inspection for Termites
+    text: >-
+      * [Best Termite inspection - Who to call on the Gold
+      Coast?](https://termiteandpestcontrolgoldcoast.com.au/pest-inspections/)
+
+      * [How is a termite inspection done?](https://termiteandpestcontrolgoldcoast.com.au/how-is-a-termite-inspection-done/)
+
+      * [What devices are used for a Termite Inspection?](https://termiteandpestcontrolgoldcoast.com.au/what-devices-are-used-for-a-termite-inspection/)
+
+      * [Termite inspection cost on the Gold Coast](https://termiteandpestcontrolgoldcoast.com.au/termite-inspection-cost-on-the-gold-coast/)
+
+      * [How long does a Termite Inspection take?](https://termiteandpestcontrolgoldcoast.com.au/how-long-does-a-termite-inspection-take/)
+
+      * [Pre-purchase Inspection – Timber Pest Inspection](https://termiteandpestcontrolgoldcoast.com.au/pre-purchase-inspection-timber-inspection/)
+
+      * [Invasive Inspection for Termites](https://termiteandpestcontrolgoldcoast.com.au/invasive-inspection-for-termites/)
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - heading: Termite Treatment & Control - Gold Coast
-    text: |-
-      Best way to treat your home for Termites – White Ants
+    text: >-
+      [Best way to treat your home for Termites – White
+      Ants](https://termiteandpestcontrolgoldcoast.com.au/what-is-the-best-termite-control-treatment-barrier/)
 
-      What is the best Termite Control - Treatment - Barrier
 
-      Termite Treatment cost on the Gold Coast
+      [What is the best Termite Control - Treatment - Barrier](https://termiteandpestcontrolgoldcoast.com.au/best-chemical-for-termite-treatment)
 
-      Baiting Programs - Systems
 
-      Pre-construction Treatments
+      [Termite Treatment cost on the Gold Coast](https://termiteandpestcontrolgoldcoast.com.au/termite-treatment-cost-on-the-gold-coast/)
 
-      Concrete Slab Cut Out Protection
+
+      [Baiting Programs - Systems](https://termiteandpestcontrolgoldcoast.com.au/baiting-programs-systems/)
+
+
+      [Pre-construction Treatments](https://termiteandpestcontrolgoldcoast.com.au/pre-construction-treatments/)
+
+
+      [Concrete Slab Cut Out Protection](https://termiteandpestcontrolgoldcoast.com.au/concrete-slab-cut-out-protection/)
     imageUrl: img/conquer-termites-gold-coast.png
   - heading: Pest Control Treatments Best on the Gold Coast
     text: >-
@@ -67,18 +85,18 @@ home_page_entries:
       safe.
 
 
-      **General Pest Control Package**
+      **[General Pest Control Package](https://termiteandpestcontrolgoldcoast.com.au/pest-control/)**
 
 
-      **Specialised Pest Control Treatments**
+      **[Specialised Pest Control Treatments](https://termiteandpestcontrolgoldcoast.com.au/specialised-pest-control-treatments/)**
 
 
       ### Do you have some questions?
 
 
-      * What is treated when we do a Pest Control?
+      * [What is treated when we do a Pest Control?](https://termiteandpestcontrolgoldcoast.com.au/pest-control/)
 
-      * Is the treatment safe for my family and pests?
+      * [Is the treatment safe for my family and pests?](https://termiteandpestcontrolgoldcoast.com.au/is-the-treatment-safe/)
 
       * How long does it take to do?
 
