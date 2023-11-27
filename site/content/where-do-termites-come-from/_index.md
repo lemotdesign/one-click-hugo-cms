@@ -38,9 +38,6 @@ where_do_termites_come_from_entries:
 
 
       **5. Your home is a Timber Buffet for Termites:** Once the termites have determined a timber structure above them, they will build subterranean tunnels from their nest to gain concealed entry. For them, your house is the trophy tree!
-
-
-      <!--EndFragment-->
     heading: Why are Termites Everywhere!
     imageUrl: img/termites-attacking-a-house.png
   - text: >-
@@ -68,7 +65,7 @@ where_do_termites_come_from_entries:
       Eucalyptus timbers are the most effective wood to use in bait stations to attract termites. Not saying your home is a big bait station, but it is the ultimate feeding Buffett for termites.
 
 
-      Read more
+      [Read more](https://termiteandpestcontrolgoldcoast.com.au/do-termites-eat-hard-wood/)
     heading: Termites love to eat Hardwood 
     imageUrl: img/termite-love-eucalyptus-trees.jpg
   - text: >-
