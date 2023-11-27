@@ -43,7 +43,7 @@ best_termite_inspection_entries_entries:
 
       * What's the duration of a typical termite inspection?
 
-      * Will I receive a **digital report** on the same day?
+      * Will I receive a **[digital report](https://termiteandpestcontrolgoldcoast.com.au/conquer-termites-digital-report/)** on the same day?
 
       * Can they offer a **treatment proposal** and execute it?
 
