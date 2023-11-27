@@ -72,7 +72,7 @@ termite_cost_gc_entries:
 
       * How many hours do they assign to do a termite inspection?
 
-      * Do I get a **digital report** on the day?
+      * Do I get a **[digital report](https://termiteandpestcontrolgoldcoast.com.au/conquer-termites-digital-report/)** on the day?
 
       * Can they supply a **treatment proposal** and do the work?
 
