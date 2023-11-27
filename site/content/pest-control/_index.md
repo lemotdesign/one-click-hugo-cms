@@ -48,7 +48,7 @@ pest_control_entries:
       * **Weevils**
 
 
-      Check our **'Specialised Pest Treatment'** page for more information.
+      Check our **'[Specialised Pest Treatment](https://termiteandpestcontrolgoldcoast.com.au/specialised-pest-control-treatments/)'** page for more information.
     imageUrl: img/rodent-control-keep-unwanted-guest-away-.jpg
   - heading: What is the warranty for pest control treatments?
     text: >-
@@ -101,7 +101,7 @@ pest_control_entries:
       At Conquer, we believe in doing things right the first time, with your family's safety and the environment at the forefront of our operations.
 
 
-      Read more: **Is the Pest Control Treatment Safe for my family and pests?**
+      Read more: **[Is the Pest Control Treatment Safe for my family and pests](https://termiteandpestcontrolgoldcoast.com.au/is-the-treatment-safe/)?**
     imageUrl: img/pest-control-is-safe-for-pets-and-family.png
   - heading: Do I need to leave during the Pest Treatment?
     text: >-
@@ -126,7 +126,7 @@ pest_control_entries:
       We will email you a "Pest Advice Notice" before the treatment so you know what to do before we come and what to do after the treatment
 
 
-      Read more...
+      [Read more...](https://termiteandpestcontrolgoldcoast.com.au/do-i-need-to-leave-during-the-pest-control/)
     imageUrl: img/pest-control-greeting-2.jpg
   - heading: How long does a Pest Control Treatment take?
     text: >-
