@@ -84,6 +84,6 @@ do_termites_eat_hardwood_entries:
       4. Address potential moisture problems in the framework and roofing.
 
       5. Stay alert, conduct your checks, and should you have concerns, reach out to **Conquer Termites** at the earliest.
-    heading: "Protect your Home from these timber loving destroyers   "
+    heading: "Timber loving destroyers - Stop them   "
     imageUrl: img/angry-termites-on-the-gold-coast.jpg
 ---
