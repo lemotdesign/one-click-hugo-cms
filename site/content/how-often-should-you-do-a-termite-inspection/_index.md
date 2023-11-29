@@ -18,7 +18,7 @@ how_often_termite_inspection_entries:
       Ensuring regular termite inspections, especially in the absence of chemical treatments, is a smart approach to protect your home from potential damage. If you haven't scheduled an inspection recently, it might be a good time to do so.
 
 
-      Read more about '**How is a Termite Inspection Done**'
+      Read more about ['**How is a Termite Inspection Done**'](https://termiteandpestcontrolgoldcoast.com.au/how-is-a-termite-inspection-done/)
     heading: How often should you get your home checked for Termites?
     imageUrl: img/new-image-template-1.jpg
 ---
