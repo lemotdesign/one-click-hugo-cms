@@ -31,7 +31,7 @@ three_step_process_entries:
       Our technicians come prepared with thermal cameras, moisture meters, and a range of other high-tech tools for detection. 
 
 
-      Take a look at our **inspection page** and video to see how we go about examining your home for termites.
+      Take a look at our **[inspection page](https://termiteandpestcontrolgoldcoast.com.au/how-is-a-termite-inspection-done/)** and video to see how we go about examining your home for termites.
     imageUrl: img/termite-inspection-get-the-full-story.jpg
   - heading: "Step Two: Initial Treatment"
     text: >-
@@ -49,4 +49,7 @@ three_step_process_entries:
 
 
       Based on your home's construction and environmental aspects, we'll suggest the most effective termite management system. Keep in mind, termites made their way in because there wasn't anything to block them before!
+
+
+      [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/what-is-the-best-termite-control-treatment-barrier/)
 ---
