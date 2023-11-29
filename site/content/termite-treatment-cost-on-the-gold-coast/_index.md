@@ -41,6 +41,9 @@ termite_treatment_gc_entries:
 
 
       As an Accredited Installer, Conquer Termites endorses Termidor HE, which offers an eight-year protection span under typical Gold Coast conditions.
+
+
+      [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/how-often-should-a-termite-treatment-be-done/)
     heading: How long does a Termite Treatment Last?
     imageUrl: img/how-long-does-a-termite-inspection-take.jpg
   - text: >-
@@ -79,7 +82,7 @@ termite_treatment_gc_entries:
     imageUrl: img/termite-inspection-who-to-call-on-the-gold-coast.png
   - text: "![Youtube Video](https://i3.ytimg.com/vi/jX0IASCNbSA/hqdefault.jpg)"
     heading: How a termite treatment should be done
-    imageUrl: img/conquer-termites-two-utes-treating-a-house.jpg
+    imageUrl: img/new-image-template-3-.jpg
   - text: >-
       • **Beware of Unlicensed Companies** Many firms portray a local facade
       online, only to redirect to out-of-town call centres and lack the
