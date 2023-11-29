@@ -1,7 +1,7 @@
 ---
 title: Consumer Warnings - Termite Companies on the Gold Coast
 image: img/consumer-warnings.jpg
-consumer_warnings_entries:
+consumer_warning_entries:
   - text: >-
       Your consumer warning highlights two important issues that homeowners in
       Queensland should be aware of when seeking termite inspection services:
