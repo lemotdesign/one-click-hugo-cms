@@ -397,7 +397,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Concrete Slab Cut Out Protection Entries
-            name: concrete_slab_entries_entries
+            name: concrete_slab_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
@@ -645,6 +645,32 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - label: Consumer Warnings
             name: consumer_warning_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/how-long-does-it-take/_index.md"
+        label: "How Long Does It Take"
+        name: "HowLongDoesItTakePage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: How Long Does It Take Entries
+            name: how_long_does_it_take_entries
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/best-termite-treatment/_index.md"
+        label: "Best Termite Treatment"
+        name: "BestTermiteTreatmentPage"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Best Termite Treeatment Entries
+            name: best_termite_treatment_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}

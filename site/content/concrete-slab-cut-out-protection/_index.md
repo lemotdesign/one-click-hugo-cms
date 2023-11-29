@@ -1,8 +1,7 @@
 ---
 title: Concrete Slab Cut Out Protection
 image: img/concrete-slab-cut-out.jpg
-concrete_slab_entries: null
-concrete_slab_entries_entries:
+concrete_slab_entries:
   - text: >-
       Whenever a hole or cut-out is made in an existing concrete slab,
       especially for modifications such as repositioning plumbing, it becomes a
