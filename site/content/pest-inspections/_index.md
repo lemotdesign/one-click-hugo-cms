@@ -41,15 +41,15 @@ pest_inspections_entries:
       This isn't just a peek-around. It's a deep dive into the timber's health in your potential home, pointing out any creepy crawlies or issues that could mess with the building's strength.
 
 
+      [Read More.....](https://termiteandpestcontrolgoldcoast.com.au/pre-purchase-inspection-timber-inspection/)
+
+
       #### For more information about:
 
 
       * [Timber Pest Inspection](https://termiteandpestcontrolgoldcoast.com.au/pre-purchase-inspection-timber-inspection/) - What It Is and What It Isn't
 
       * [Invasive recommendation](https://termiteandpestcontrolgoldcoast.com.au/invasive-inspection-for-termites/) - What does that mean?
-
-
-      [Read More.....](https://termiteandpestcontrolgoldcoast.com.au/pre-purchase-inspection-timber-inspection/)
     heading: Pre-purchase Termite Inspection – Timber Pest Inspection
     imageUrl: img/gold-coast-prepurchase-termite-inspection.png
   - heading: Termite Inspection Cost - Gold Coast
@@ -125,7 +125,7 @@ pest_inspections_entries:
       Without a chemical barrier around your home, termites can sneak in easily. Regular inspections are key for early detection and prevention, just like regular dental check-ups, especially if you don't have any termite treatment.
 
 
-      [Read more ](https://termiteandpestcontrolgoldcoast.com.au/how-often-should-you-do-a-termite-inspection/)
+      [Read more ... ](https://termiteandpestcontrolgoldcoast.com.au/how-often-should-you-do-a-termite-inspection/)
     heading: How often should a Termite Inspection be done?
     imageUrl: img/new-image-template-1.jpg
   - text: >-
@@ -171,8 +171,6 @@ pest_inspections_entries:
       * [What do termites look like?](https://termiteandpestcontrolgoldcoast.com.au/what-do-termites-look-like/)
 
       * [What are the signs of termites in a wall?](https://termiteandpestcontrolgoldcoast.com.au/what-do-termites-look-like/)
-
-      * What do termites sound like?
 
       * [What are flying termites, and what do they look like?](https://termiteandpestcontrolgoldcoast.com.au/flying-termites-on-the-gold-coast/)
     imageUrl: img/talk-to-a-termite-expert.jpg
