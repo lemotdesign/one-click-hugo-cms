@@ -397,7 +397,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Concrete Slab Cut Out Protection Entries
-            name: concrete_slab_entries
+            name: concrete_slab_entries_entries
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
