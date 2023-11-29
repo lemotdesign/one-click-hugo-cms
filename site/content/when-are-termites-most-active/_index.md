@@ -139,6 +139,9 @@ most_active_entries:
 
 
       Address moisture issues, fix leaks, and keep the garden away from the perimeter. Moisture attracts termites, so keeping your property dry is crucial.
+
+
+      Read more about [termite treatments](https://termiteandpestcontrolgoldcoast.com.au/what-is-the-best-termite-control-treatment-barrier/)
     heading: Protecting Your Property Year-Round
     imageUrl: img/types-of-termite-management-system.jpg
   - text: >-
