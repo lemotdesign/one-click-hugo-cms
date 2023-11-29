@@ -7,7 +7,7 @@ consumer_warning_entries:
       Queensland should be aware of when seeking termite inspection services:
 
 
-      **Are they really local?**
+      ### **Are they really local?**
 
 
       1. **Misrepresentation**: Some companies may misrepresent themselves as local businesses, whereas they operate from distant interstate call centres.
@@ -16,7 +16,7 @@ consumer_warning_entries:
       **Fake Companies Without QBCC License**:
 
 
-      * **Licensing Requirement**: For legitimate operation in Queensland, it's essential for companies to have a **[QBCC](https://www.qbcc.qld.gov.au/)** (Queensland Building and Construction Commission) license.
+      * **Licensing Requirement**: For legitimate operations in Queensland, it's essential for companies to have a **[QBCC](https://www.qbcc.qld.gov.au/)** (Queensland Building and Construction Commission) license.
 
       * **Risks of Unlicensed Operators**: Companies operating without a QBCC license often function as subcontractors. They may lack proper insurance and are not supposed to advertise termite-related services, posing a risk to consumers.
 
