@@ -74,6 +74,9 @@ how_is_a_termite_inspection_done_entries:
 
 
       When an inspector arrives without essential tools like a Thermal Camera or Termatrac Device, it's a clear indication that they may not deliver the most thorough inspection results.
+
+
+      [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/what-devices-are-used-for-a-termite-inspection/)
     heading: What Termite Detection Devices should be used
     imageUrl: img/termite-detection-devices-2.jpg
   - text: >-
@@ -96,6 +99,8 @@ how_is_a_termite_inspection_done_entries:
       * Recommendations for treatment(s), if necessary.
 
       * Preventative measures to protect your property from future infestations.
+
+      * [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/conquer-termites-digital-report/)
     heading: On the Day - Comprehensive Digital Inspection Report
     imageUrl: img/termite-inspection-report.jpg
   - text: >-
