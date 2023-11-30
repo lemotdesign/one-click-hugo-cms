@@ -1,7 +1,6 @@
 ---
 title: Best Termite Inspection on the Gold Coast
 image: img/best-termite-inspection.jpg
-termite_cost_gc_entries: null
 best_termite_inspection_entries_entries:
   - text: >-
       Discovering potential termite presence in your home can be deeply
