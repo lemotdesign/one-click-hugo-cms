@@ -320,3 +320,9 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    font-size: 16px!important;
+}
