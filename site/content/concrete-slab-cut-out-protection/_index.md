@@ -24,7 +24,7 @@ concrete_slab_entries:
       At Conquer Termites Gold Coast, we're committed to using only the best products and methods to keep your home safe from termites. After extensive evaluation and hands-on experience, we've determined that the FMC Homeguard Collars & Protectacote system stands out as the premier termite treatment for cut-outs in concrete slabs.
 
 
-      Here's why we trust and recommend FMC Homeguard for concrete slab cut-outs:
+      Here's why we trust and recommend [FMC Homeguard ](https://fmcaustralasia.com.au/our-products/homeguard/)for concrete slab cut-outs:
 
 
       * **50-Year Manufacturer's Warranty**: FMC Homeguard's enduring efficacy is backed by a manufacturer's warranty that lasts half a century. This speaks volumes about the product's durability and the confidence the manufacturer has in its performance.
