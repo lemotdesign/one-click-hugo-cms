@@ -96,11 +96,11 @@ home_page_entries:
 
       * [What is treated when we do a Pest Control?](https://termiteandpestcontrolgoldcoast.com.au/pest-control/)
 
-      * [Is the treatment safe for my family and pests?](https://termiteandpestcontrolgoldcoast.com.au/is-the-treatment-safe/)
+      * [Is the treatment safe for my family and pests?](https://termiteandpestcontrolgoldcoast.com.au/is-this-treatment-safe/)
 
-      * How long does it take to do?
+      * [How long does it take to do?](https://termiteandpestcontrolgoldcoast.com.au/how-long-does-it-take/)
 
-      * What are the Pest Control Warranties?
+      * [What are the Pest Control Warranties?](https://termiteandpestcontrolgoldcoast.com.au/pest-control/)
     imageUrl: img/pest-control-greeting-3.jpg
 blurb:
   heading: "Trust our team of experts "
