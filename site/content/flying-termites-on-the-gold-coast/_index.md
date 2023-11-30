@@ -84,6 +84,6 @@ flying_termites_entries:
 
 
       These winged or flying termites are frequently observed swarming around lights, whether they are streetlights or outdoor lights left on. It is here that they encounter other termites of the same species, also swarming from their respective colonies. After this encounter, the fertilized Alates shed their wings and search for a suitable location to create a nest and initiate a new colony.
-    heading: Some More Interesting Information about Winged Termites
+    heading: Some more Interesting Information about Winged Termites
     imageUrl: img/3.png
 ---
