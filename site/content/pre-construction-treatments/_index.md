@@ -8,9 +8,9 @@ pre_contruction_treatments_entries:
       combination of products or just one solitary application.
 
 
-      1. **FMC Homeguard**: This product comes in two forms - as sheeting or as a parging paint. It's designed to provide a reliable barrier against termites, ensuring they don't gain access to the property.
+      1. **[FMC Homeguard](https://fmcaustralasia.com.au/our-products/homeguard/)**: This product comes in two forms - as sheeting or as a parging paint. It's designed to provide a reliable barrier against termites, ensuring they don't gain access to the property.
 
-      2. **Greenzone**: This is an Ableflex expansion foam insert embedded with termite-repellent properties. Not only does it serve as a cushioning insert, but it also actively deters termites from encroaching upon the property.
+      2. **[Greenzone](https://www.greenzonebarrier.com/)**: This is an Ableflex expansion foam insert embedded with termite-repellent properties. Not only does it serve as a cushioning insert, but it also actively deters termites from encroaching upon the property.
 
       3. **Reticulation System**: This system involves the installation of a tube/pipe around the external perimeter of the property. Its primary function is to facilitate the easy redistribution of chemicals at future intervals, ensuring long-term protection against termite invasions.
 
