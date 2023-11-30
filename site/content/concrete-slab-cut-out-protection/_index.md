@@ -16,7 +16,7 @@ concrete_slab_entries:
 
       Ensuring a cut-out in a concrete slab is comprehensively protected from termites involves a multi-step approach. 
     heading: Best Termite Treatment for a Cut-out in a Concrete Slab
-    imageUrl: img/pre-con-homeguard-install.png
+    imageUrl: img/new-image-template-4-.jpg
   - text: >-
       ### The Premier Termite Treatment for Concrete Slab Cut-outs
 
