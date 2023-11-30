@@ -16,7 +16,7 @@ concrete_slab_entries:
 
       Ensuring a cut-out in a concrete slab is comprehensively protected from termites involves a multi-step approach. 
     heading: Best Termite Treatment for a Cut-out in a Concrete Slab
-    imageUrl: img/new-image-template-4-.jpg
+    imageUrl: img/termite-protection-concrete-slab-cut-out.png
   - text: >-
       ### The Premier Termite Treatment for Concrete Slab Cut-outs
 
@@ -35,7 +35,7 @@ concrete_slab_entries:
 
       * **Reputation**: FMC has a longstanding reputation in the industry for producing reliable and effective termite protection products. Their dedication to research and development means that when you choose FMC Homeguard, you're choosing a product at the forefront of termite prevention technology.
     heading: "FMC Homeguard Collars & Protectacote:"
-    imageUrl: img/termite-protection-concrete-slab-cut-out.png
+    imageUrl: img/new-image-template-5-.jpg
   - text: "**First Visit:** Before the fresh concrete is poured, our expert team
       will fit sheeting collars around all plumbing pipes, electrical conduits,
       and other service channels. These collars serve as a preliminary shield
