@@ -2,8 +2,6 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-<div class="center mw8 pv3">
-
   {{ range $index, $element := .Params.signs_of_termites_entries}}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
@@ -12,6 +10,5 @@
     {{ end }}
   {{ end }}
 
-</div>
 
 {{ end }}
