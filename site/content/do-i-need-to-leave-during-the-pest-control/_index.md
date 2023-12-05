@@ -11,7 +11,7 @@ do_i_need_to_leave_during_the_pest_control_entries:
       **Here's what we recommend during treatment:**
 
 
-      * **While Spraying Indoors:** We advise you to step outside. This allows the treatment to settle and minimizes exposure to the application process.
+      * **While Spraying Indoors:** We advise you to step outside. This allows the treatment to settle and dry to minimise exposure to the application process.
 
       * **While Treating Outdoors:** Conversely, it's best to remain indoors. This helps prevent any direct contact with the treatments and ensures the application is undisturbed.
 

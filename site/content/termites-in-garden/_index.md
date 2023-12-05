@@ -36,7 +36,7 @@ termites_in_garden_entries:
       activity.
 
 
-      Signs of Termites in your garden:
+      ### Signs of Termites in your garden:
 
 
       1. Termite workings on your fence or retaining wall

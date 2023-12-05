@@ -9,7 +9,7 @@ do_termites_eat_hardwood_entries:
       "But my house is built with hardwood, I'm safe from termites" This is a common misunderstanding among many homeowners on the Gold Coast.
 
 
-      #### **Do Termites eat Hardwood? YES**
+      ### **Do Termites eat Hardwood? YES**
 
 
       Sure hardwood is hard to cut and nail into, but Australian termites have been eating eucalyptus wood for millions of years. In fact, their preferred place to set up home is in a gum tree.
@@ -31,7 +31,7 @@ do_termites_eat_hardwood_entries:
       nutritional value and ensuring a balanced diet for their colony.
 
 
-      **Understanding Hardwood**
+      ### **Understanding Hardwood**
 
 
       Hardwood typically comes from slower-growing, angiosperm trees that shed their leaves annually, resulting in denser wood. In contrast, softwoods come from evergreen trees.
@@ -40,7 +40,7 @@ do_termites_eat_hardwood_entries:
       Some examples of Australian hardwoods include Merbau, Tassie Oak, Walnut, Ash, Beech, Mahogany, and Maple.
 
 
-      **Distinguishing Hardwood from Softwood**
+      ### **Distinguishing Hardwood from Softwood**
 
 
       * **Grain:** Softwoods lack vessels, so their grain is less pronounced than the distinctive grain of hardwoods.
@@ -57,7 +57,7 @@ do_termites_eat_hardwood_entries:
       colony to forage and transport wood through their underground tunnels.
 
 
-      **The Science Behind Their Diet**
+      ### The Science Behind Their Diet
 
 
       Termites can digest wood due to their unique digestive system. They house specific microorganisms and protozoa that break down cellulose, turning it into glucose. This symbiotic relationship with protozoa is crucial for their survival.

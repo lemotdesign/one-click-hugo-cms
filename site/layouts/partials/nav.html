@@ -1,9 +1,65 @@
-<div class="navbar">
-    <a href="/" title="Home">
-    <img src="/img/logo.svg" style="width:150px;" alt="Site Name">
-  </a>
+<style type="text/css">
+.navbar a, .dropdown .dropbtn {
+	line-height: 26px;
+}
+.a-home {
+	padding: 0 !important;
+}
+#menu-toggle {
+	display: none;
+}
+@media (max-width: 768px) {
+.dropdown .dropbtn {
+	width: 100%;
+	text-align: left;
+}
+.dropdown .dropbtn:after {
+	content: ">";
+}
+.logo-box {
+	border-bottom: 1px solid #cdcdcd;
+}
+.navbar {
+	flex-direction: column
+}
+.navbar a {
+	flex-basis: 100%;
+	text-align: left;
+}
+.navbar .dropdown {
+	flex-basis: 100%;
+}
+.dropdown-content {
+	position: inherit;
+	border-left: 8px solid #684287;
+	padding-left: 4px;
+}
+.dropdown-content a {
+	border-bottom: 1px solid #cdcdcd;
+}
+.menu-closed {
+	display: none;
+}
+#menu-box {
+flex-basis: 40%;
+flex-grow: 1;
+}
+#menu-toggle {
+	display: block;
+	text-align: right;
+}
+}
+</style>
+<div class="navbar flex flex-wrap justify-around">
+  <div class="logo-box flex">
+  <a href="/" class="flex a-home" title="Home"><img src="/img/logo.svg" style="width:150px;" alt="Site Name"></a>
+  <a href="#" id="menu-toggle">TOG</a>
+  </div>
+  <div id="menu-box" class="flex flex-wrap justify-around">
+
   <a href="/">Home</a>
   <a href="/about" title="About">About</a>
+
   <div class="dropdown">
     <button class="dropbtn">Pest Inspections
       <i class="fa fa-caret-down"></i>
@@ -78,4 +134,23 @@
     </div>
   </div>
   <a href="/contact" title="Articles">Contact</a>
+  </div>
 </div>
+	<script>
+function initMobileMenu(toggle, menu) {
+  menu.classList.add('menu-closed');
+  ['click', 'touchstart'].forEach(function(eventName) {
+    toggle.addEventListener(eventName, function(evt) {
+      evt.preventDefault();
+      menu.classList.toggle('menu-open');
+      menu.classList.toggle('menu-closed');
+    });
+  });
+}
+
+var toggle = document.getElementById('menu-toggle');
+var menu = document.getElementById('menu-box');
+
+initMobileMenu(toggle, menu);
+
+</script>
