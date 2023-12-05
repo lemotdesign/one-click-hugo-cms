@@ -13,7 +13,7 @@ consumer_warning_entries:
       1. **Misrepresentation**: Some companies may misrepresent themselves as local businesses, whereas they operate from distant interstate call centres.
 
 
-      **Fake Companies Without QBCC License**:
+      ### **Fake Companies Without QBCC License**:
 
 
       * **Licensing Requirement**: For legitimate operations in Queensland, it's essential for companies to have a **[QBCC](https://www.qbcc.qld.gov.au/)** (Queensland Building and Construction Commission) license.
@@ -21,7 +21,7 @@ consumer_warning_entries:
       * **Risks of Unlicensed Operators**: Companies operating without a QBCC license often function as subcontractors. They may lack proper insurance and are not supposed to advertise termite-related services, posing a risk to consumers.
 
 
-      **Free Check Offers by Unlicensed Operators**:
+      ### **Free Check Offers by Unlicensed Operators**:
 
 
       * **Deceptive Promotions**: Some businesses offer "free termite checks" as a way to attract customers.
