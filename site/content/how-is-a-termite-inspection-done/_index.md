@@ -27,11 +27,16 @@ how_is_a_termite_inspection_done_entries:
 
 
       1. Qualified and Licensed Inspectors
-         Guidelines: Australian Standards for Termite Inspection & Treatments
-         What Termite Detection Devices should be used
-         How long should a Termite Inspection take?
-         On the Day - Comprehensive Digital Inspection Report
-         Termite Treatment Proposal - supplied on the day Free:
+
+      2. Guidelines: Australian Standards for Termite Inspection & Treatments
+
+      3. What Termite Detection Devices should be used
+
+      4. How long should a Termite Inspection take?
+
+      5. On the Day - Comprehensive Digital Inspection Report
+
+      6. Termite Treatment Proposal - supplied on the day Free:
     heading: How do I know the Termite Inspection has been done correctly?
     imageUrl: img/how-to-choose-a-good-termite-company.jpg
   - text: >-
@@ -98,9 +103,9 @@ how_is_a_termite_inspection_done_entries:
 
       * Recommendations for treatment(s), if necessary.
 
-      * Preventative measures to protect your property from future infestations.
+      * Preventative measures to protect your property from future infestations.\
 
-      * [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/conquer-termites-digital-report/)
+        [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/conquer-termites-digital-report/)
     heading: On the Day - Comprehensive Digital Inspection Report
     imageUrl: img/termite-inspection-report.jpg
   - text: >-
