@@ -9,6 +9,13 @@
 	display: none;
 }
 @media (max-width: 768px) {
+.dropdown .dropbtn {
+	width: 100%;
+	text-align: left;
+}
+.dropdown .dropbtn:after {
+	content: ">";
+}
 .logo-box {
 	border-bottom: 1px solid #cdcdcd;
 }
@@ -23,10 +30,9 @@
 	flex-basis: 100%;
 }
 .dropdown-content {
- 	display: inherit;
 	position: inherit;
-	border-left: 4px solid #684287;
-	padding-left: 8px;
+	border-left: 8px solid #684287;
+	padding-left: 4px;
 }
 .dropdown-content a {
 	border-bottom: 1px solid #cdcdcd;
