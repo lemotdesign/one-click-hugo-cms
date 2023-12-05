@@ -36,7 +36,7 @@ is_this_treatment_safe_entries:
       If you have an issue with pests such as fleas, pantry moths, rodents or any other annoying pest, these will require a special and separate treatment.
 
 
-      ![The four pests we pest control - Conquer Termites Gold Coast](blob:https://stage.termiteandpestcontrolgoldcoast.com.au/a472bdb4-dc6a-425a-b798-d3c33494fed9)
+      ![The four pests we pest control - Conquer Termites Gold Coast](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
     heading: What are we treating?
     imageUrl: img/pest-control-greeting-3.jpg
   - text: >-
