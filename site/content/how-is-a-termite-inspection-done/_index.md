@@ -103,9 +103,9 @@ how_is_a_termite_inspection_done_entries:
 
       * Recommendations for treatment(s), if necessary.
 
-      * Preventative measures to protect your property from future infestations.
+      * Preventative measures to protect your property from future infestations.\
 
-      * [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/conquer-termites-digital-report/)
+        [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/conquer-termites-digital-report/)
     heading: On the Day - Comprehensive Digital Inspection Report
     imageUrl: img/termite-inspection-report.jpg
   - text: >-
