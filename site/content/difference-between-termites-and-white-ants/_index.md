@@ -13,14 +13,9 @@ difference_between_entries:
 
 
       But here's the twist: Termites, affectionately referred to as "White Ants" Down Under, are not ants by any stretch of the imagination. The confusion stems from their uncanny physical similarities. Both species boast six legs, sport antennae, and live in tight-knit colonies. However, that's where the similarities end, as they differ substantially in body structure and behaviour.
-
-
-      ### Difference Between Termites & Black Ants
-
-
-      ![Difference between Black Ants and Termites diagram](img/black-ant-vs-termite-body-shape.png)
-
-
+    heading: The difference between Termites & White Ants - NOTHING!
+    imageUrl: img/termites-or-white-ants.png
+  - text: >-
       ### Let's Dive into the Science
 
 
@@ -37,6 +32,6 @@ difference_between_entries:
 
 
       {{< youtube 04cg2Sw9wTY >}}
-    heading: The difference between Termites & White Ants - NOTHING!
-    imageUrl: img/termites-or-white-ants.png
+    heading: Difference Between Termites & Black Ants
+    imageUrl: img/black-ant-vs-termite-body-shape.png
 ---
