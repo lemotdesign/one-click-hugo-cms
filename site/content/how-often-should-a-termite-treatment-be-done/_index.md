@@ -9,7 +9,7 @@ how_often_entries:
       Many residents on the Gold Coast often wonder about the necessity of topping up their termite treatments and how frequently it should be done. We're here to shed some light on this important topic.
 
 
-      **Here are some crucial facts to keep in mind:**
+      ##### **Here are some crucial facts to keep in mind:**
 
 
       1. **Termites Are A Constant Threat**: It's a fact that all gardens on the Gold Coast have termites foraging from multiple nests nearby or on your property.
@@ -93,6 +93,9 @@ how_often_entries:
 
 
       It's important to note that the maximum recommended lifespan is under ideal conditions, including good soil quality, low surrounding termite pressure (away from bushland), and uncomplicated house construction. In less-than-ideal scenarios, the recommended chemical lifespan may need to be shorter.
+
+
+      [Read more ...](https://termiteandpestcontrolgoldcoast.com.au/termite-treatments/)
     heading: Proper Termite Treatment Procedure
     imageUrl: img/best-chemical-to-use-for-termite-treatment.png
 ---
