@@ -8,7 +8,9 @@ is_this_treatment_safe_entries:
       goodbye without compromising your family's well-being
 
 
-      ### Children or pets, is it safe for them?
+      ## Children or pets, is it safe for them?
+
+
 
 
       Got kiddos or furry friends? No worries! We always adjust our methods based on your home's unique needs, to only apply the safest product available in Australia.
@@ -20,7 +22,9 @@ is_this_treatment_safe_entries:
       Before we dive into the nitty-gritty of our general pest control, we wanted to give you a heads-up on what to expect and how to prepare. 
 
 
-      ### General Information about our Pest Control Treatment:
+      ## General Information about our Pest Control Treatment:
+
+
 
 
       1. The idea of ‘Pest Control’ is about reducing the pesty pests’ population to near zero. It is not about applying a nasty product to keep all insects away for 12 months. Insects will recolonise your home naturally over time.
