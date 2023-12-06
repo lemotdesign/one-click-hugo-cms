@@ -62,23 +62,18 @@ home_page_entries:
     imageUrl: img/termite-inspection-conquer-termites-2.jpg
   - heading: Termite Treatment & Control - Gold Coast
     text: >-
-      [Best way to treat your home for Termites – White
+      * [Best way to treat your home for Termites – White
       Ants](https://termiteandpestcontrolgoldcoast.com.au/what-is-the-best-termite-control-treatment-barrier/)
 
+      * [What is the best Termite Control - Treatment - Barrier](https://termiteandpestcontrolgoldcoast.com.au/best-chemical-for-termite-treatment)
 
-      [What is the best Termite Control - Treatment - Barrier](https://termiteandpestcontrolgoldcoast.com.au/best-chemical-for-termite-treatment)
+      * [Termite Treatment cost on the Gold Coast](https://termiteandpestcontrolgoldcoast.com.au/termite-treatment-cost-on-the-gold-coast/)
 
+      * [Baiting Programs - Systems](https://termiteandpestcontrolgoldcoast.com.au/baiting-programs-systems/)
 
-      [Termite Treatment cost on the Gold Coast](https://termiteandpestcontrolgoldcoast.com.au/termite-treatment-cost-on-the-gold-coast/)
+      * [Pre-construction Treatments](https://termiteandpestcontrolgoldcoast.com.au/pre-construction-treatments/)
 
-
-      [Baiting Programs - Systems](https://termiteandpestcontrolgoldcoast.com.au/baiting-programs-systems/)
-
-
-      [Pre-construction Treatments](https://termiteandpestcontrolgoldcoast.com.au/pre-construction-treatments/)
-
-
-      [Concrete Slab Cut Out Protection](https://termiteandpestcontrolgoldcoast.com.au/concrete-slab-cut-out-protection/)
+      * [Concrete Slab Cut Out Protection](https://termiteandpestcontrolgoldcoast.com.au/concrete-slab-cut-out-protection/)
     imageUrl: img/conquer-termites-gold-coast.png
   - heading: Pest Control Treatments Best on the Gold Coast
     text: >-
