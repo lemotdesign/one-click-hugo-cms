@@ -87,7 +87,7 @@ about:
     heading: Why Choose Conquer Termites?
     imageUrl: img/conquer-team-lawn-bowls.jpg
   - heading: Watch us dance!
-    imageUrl: img/dancing-termites-crew.jpg
+    imageUrl: img/dancing-termites.jpg
     text: |-
       Need a link for the ' Dancing Termites video
       https://youtu.be/HOPekCgosPc?si=i67i_2fDlKln_G02
