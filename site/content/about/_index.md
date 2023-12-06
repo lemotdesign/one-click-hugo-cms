@@ -88,7 +88,5 @@ about:
     imageUrl: img/conquer-team-lawn-bowls.jpg
   - heading: Watch us dance!
     imageUrl: img/dancing-termites.jpg
-    text: |-
-      
-      {{< youtube HOPekCgosPc >}}
+    text: "{{< youtube HOPekCgosPc >}}"
 ---
