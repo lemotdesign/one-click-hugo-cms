@@ -27,8 +27,8 @@ home_page_entries:
     imageUrl: img/conquer-termites-on-the-goild-coast.jpg
   - heading: Found Termites - What to Do
     text: >-
-      Found termites? **What to do**
-
+      * [Found termites? **What to
+      do**](https://termiteandpestcontrolgoldcoast.com.au/found-termites/)
 
       * [The 3 Step process to remove termites](https://termiteandpestcontrolgoldcoast.com.au/3-step-process/)
 
