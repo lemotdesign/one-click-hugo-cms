@@ -90,5 +90,6 @@ about:
     imageUrl: img/dancing-termites.jpg
     text: |-
       Need a link for the ' Dancing Termites video
-      https://youtu.be/HOPekCgosPc?si=i67i_2fDlKln_G02
+
+      {{< youtube HOPekCgosPc >}}
 ---
