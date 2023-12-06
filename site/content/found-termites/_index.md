@@ -9,10 +9,10 @@ found_termites_entries:
       eliminate them and safeguard your home.
 
 
-      **Don't distrub the Termites** - Avoid scaring them off before we can fully assess the situation. Put down that spray can!
+      **Don't disturb the Termites** - Avoid scaring them off before we can fully assess the situation. Put down that spray can!
 
 
-      ### The Three Recommended Steps:
+      ## The Three Recommended Steps:
 
 
       1. Full Termite Inspection
