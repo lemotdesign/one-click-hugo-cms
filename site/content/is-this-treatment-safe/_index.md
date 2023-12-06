@@ -37,7 +37,7 @@ is_this_treatment_safe_entries:
       and silverfish.
 
 
-      If you have an issue with pests such as fleas, pantry moths, rodents or any other annoying pest, these will require a special and separate treatment.
+      If you have an issue with pests such as fleas, pantry moths, rodents or any other annoying pest, these will require a [special and separate treatment](https://termiteandpestcontrolgoldcoast.com.au/specialised-pest-control-treatments/).
 
 
       ![The four pests we pest control - Conquer Termites Gold Coast](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
