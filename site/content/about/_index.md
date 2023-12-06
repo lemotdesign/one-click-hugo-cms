@@ -1,6 +1,6 @@
 ---
 title: Conquer Termites Striving to be the Best on the Gold Coast
-image: img/conquer-team-looking-normal.jpg
+image: img/new-image-template-7-.jpg
 values:
   - heading: Shade-grown coffee
     text: >
