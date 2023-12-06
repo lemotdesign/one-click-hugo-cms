@@ -89,7 +89,6 @@ about:
   - heading: Watch us dance!
     imageUrl: img/dancing-termites.jpg
     text: |-
-      Need a link for the ' Dancing Termites video
-
+      
       {{< youtube HOPekCgosPc >}}
 ---
