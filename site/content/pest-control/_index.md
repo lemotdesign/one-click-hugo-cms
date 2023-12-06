@@ -27,7 +27,13 @@ pest_control_entries:
       yuckiness):
 
 
-      Spiders, Cockroaches, Black Ants & Silverfish
+      * Spiders
+
+      *  Cockroaches
+
+      *  Black Ants
+
+      * Silverfish
 
 
       ![](img/4-types-of-insects-treated-with-our-general-pest-control-treatment.jpg)
