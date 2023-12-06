@@ -41,7 +41,7 @@ home_page_entries:
       * [Where do termites come from?](https://termiteandpestcontrolgoldcoast.com.au/where-do-termites-come-from/)
 
 
-      **[Click Here To Send Us Your Photo](https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab)**
+      **[Click Here To Send Us A Photo](https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab)**
     imageUrl: img/hearing-termite-noises-in-your-wall.png
   - heading: Termite Pest Inspection - Best on the Gold Coast
     text: >-
