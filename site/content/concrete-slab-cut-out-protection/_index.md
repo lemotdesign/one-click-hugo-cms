@@ -87,7 +87,7 @@ concrete_slab_entries:
       quote.
 
 
-      [<a style='border:none;' href='https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab'>](<<a style='border:none;' href='https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab'><img src='https://www.servicem8.com/images/plugin_online_booking/Quote-Request-Button.png' width='250' height='69' alt='Online Enquiry powered by ServiceM8'/>>)
+      **[Send Us A Photo Here](https://book.servicem8.com/request_booking?uuid=79164e5f-75c2-4948-a804-2427fa83b3ab)**
     heading: Send us a photo
     imageUrl: img/send-us-a-photo-2.jpg
 ---
