@@ -10,3 +10,4 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 images = ["img/og-image.jpg"]
+googleAnalyticsID = "G-F8HVQS4TZ6"
