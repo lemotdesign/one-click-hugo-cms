@@ -16,7 +16,7 @@ how_is_a_termite_inspection_done_entries:
       You're not the Termite Expert and you probably don't know what to look for. But you are the person who will face great financial and emotional costs if you don't get the problem fixed.
     heading: "Best Termite Inspections on the Gold Coast:"
     imageUrl: img/team-conquer-termites.jpg
-  - text: "![Youtube Video](https://i3.ytimg.com/vi/ZE6jMsa2SBs/hqdefault.jpg)"
+  - text: "{{< youtube ZE6jMsa2SBs >}}"
     heading: Termite Inspection Video - Australia's most watched!
     imageUrl: img/watch-our-termite-inspection-video-anton-2.jpg
   - text: >-
