@@ -7,7 +7,7 @@
 	height: auto;
 	padding: 10px;
 }
-#menu-toggle {
+#menu-toggle, #menu-phone {
 	display: none;
 }
 @media (max-width: 768px) {
@@ -46,16 +46,20 @@
 flex-basis: 40%;
 flex-grow: 1;
 }
-#menu-toggle {
+#menu-toggle, #menu-phone {
 	display: block;
 	text-align: right;
+}
+#menu-inline-phone {
+	display: none;
 }
 }
 </style>
 <div class="navbar flex flex-wrap justify-around items-center">
   <div class="logo-box flex">
   <a href="/" class="flex a-home" title="Home"><img src="/img/logo.svg" style="width:150px;" alt="Site Name"></a>
-  <a href="#" id="menu-toggle"><span class="burger">&nbsp;</span></a>
+  <a href="tel:1300417007" id="menu-phone"><span class="nav-btn nav-phone">&nbsp;</span></a>
+  <a href="#" id="menu-toggle"><span class="nav-btn nav-burger">&nbsp;</span></a>
   </div>
   <div id="menu-box" class="flex flex-wrap justify-around">
 
@@ -136,6 +140,7 @@ flex-grow: 1;
     </div>
   </div>
   <a href="/contact" title="Articles">Contact</a>
+  <a href="tel:1300417007" id="menu-inline-phone"><span class="nav-btn nav-phone">&nbsp;</span></a>
   </div>
 </div>
 	<script>
