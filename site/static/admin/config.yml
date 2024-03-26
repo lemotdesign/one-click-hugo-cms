@@ -13,6 +13,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Page Meta", name: "description", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
@@ -27,6 +28,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Home Page Content
@@ -72,6 +74,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "about"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: About Us
             name: about
@@ -85,6 +88,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "pestinspectionsPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Pest Inspections
             name: pest-inspections
@@ -105,6 +109,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "PestControlPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Pest Control
             name: pest-control
@@ -128,6 +133,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "TermiteTreatmentsPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Termite Treatments
             name: termite-treatments
@@ -148,6 +154,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "FoundTermitesPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Found Termites Entries
             name: found_termites_entries
@@ -161,6 +168,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "3StepProcessPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: 3 Step Process Entries
             name: three_step_process_entries
@@ -174,6 +182,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "WhatDoTermitesLookLikePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: What Do Termites Look Like Entries
             name: what_do_termites_look_like_entries
@@ -187,6 +196,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "SignsOfTermitesPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Signs Of Termites Entries
             name: signs_of_termites_entries
@@ -200,6 +210,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "TermitesInGardenPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Termites In Garden Entries
             name: termites_in_garden_entries
@@ -213,6 +224,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "TermitesInTreesAndPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Termites In Trees And Stumps Entries
             name: termites_in_trees_and_stumps_entries
@@ -226,6 +238,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "WhereDoTermitesComeFromPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Where Do Termites Come From Entries
             name: where_do_termites_come_from_entries
@@ -239,6 +252,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "BestTermiteInspectionPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Best Termite Inspection Entries
             name: best_termite_inspection_entries_entries
@@ -252,6 +266,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "HowIsATermiteInspectionDonePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: How Is A Termite Inspection Done Entries
             name: how_is_a_termite_inspection_done_entries
@@ -265,6 +280,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "WhatDevicesAreUsedForTermiteInspectionPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: What Devices Are Used For A Termite Inspection
             name: what_devices_entries
@@ -278,6 +294,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "TermiteInspectionCostOnTheGoldCoast"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Termite Inspection Cost On The Gold Coast
             name: termite_cost_gc_entries
@@ -291,6 +308,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "HowLongDoesATermiteInspectionTakePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: How Long Does A Termite Inspection Take Entries
             name: how_long_entries
@@ -304,6 +322,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "InvasiveInspectionForTermitesPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Invasive Inspection Entries
             name: invasive_inspection_entries
@@ -317,6 +336,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "PrePurchaseTimberInspectionPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Invasive Inspection Entries
             name: pre_purchase_entries
@@ -330,6 +350,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "BestWayToTreatForTermitesPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: White Ants Entries
             name: white_ants_entries
@@ -343,6 +364,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "WhatIsTheBestTermiteControlTreatmentBarrierPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Treatment Barrier Entries
             name: treatment_barrier_entries
@@ -356,6 +378,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "TermiteTreatmentCostOnTheGoldCoastPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Termite Treatment Cost GC Entries
             name: termite_treatment_gc_entries
@@ -369,6 +392,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "BaitingProgramsSystemsPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Baiting Programs Systems Entries
             name: baiting_programs_entries
@@ -382,6 +406,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "PreConstructionSystemsPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Pre Construction Treatments Entries
             name: pre_contruction_treatments_entries
@@ -395,6 +420,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "ConcreteSlabCutOutProtectionPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Concrete Slab Cut Out Protection Entries
             name: concrete_slab_entries
@@ -408,6 +434,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "GeneralPestControlPackagePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: General Pest Control Package Entries
             name: general_pest_entries
@@ -421,6 +448,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "SpecialisedPestControlTreatmentsPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Specialised Pest Control Treatments Entries
             name: specialised_entries
@@ -434,6 +462,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "IsTheTreatmentSafePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Is This Treatment Safe Entries
             name: is_this_treatment_safe_entries
@@ -447,6 +476,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "DoINeedToLeaveDuringThePestControl"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Do I Need To Leave During The Pest Control Entries
             name: do_i_need_to_leave_during_the_pest_control_entries
@@ -460,6 +490,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "VisualInspectionZoneForTermitesPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Visual Inspection Zone Entries
             name: visual_inspection_zone_entries
@@ -473,6 +504,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "BestCheimicalForTermiteTreatmentsPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Best Cheimical For Termite Treatments Entries
             name: best_chemical_treatments_entries
@@ -486,6 +518,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "HowOftenShouldATermiteTreatmentBeDonePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: How Often Should A Termite Treatment Be Done Entries
             name: how_often_entries
@@ -499,6 +532,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "WhenAreTermitesMostActivePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: When Are Termites Most Active Entries
             name: most_active_entries
@@ -512,6 +546,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "FylingTermitesOnTheGoldCoastPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Fyling Termites On The Gold Coast Entries
             name: flying_termites_entries
@@ -525,6 +560,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "DoTermitesEatHardwoodPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Do Termites Eat Hardwood Entries
             name: do_termites_eat_hardwood_entries
@@ -538,6 +574,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "WhatKindOfWoodDoTermitesLikePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: What Kind Of Wood Do Termites Like Entries
             name: what_kind_of_wood_do_termites_like_entries
@@ -551,6 +588,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "CommonMythsAboutTermitesPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Common Myths About Termites Entries
             name: common_myths_entries
@@ -564,6 +602,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "AreTermitesABigIssueOnTheGoldCoastPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Are Termites A Big Issue On The Gold Coast Entries
             name: big_issue_entries
@@ -577,6 +616,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "DifferenceBetweenTermitesAndWhiteAntsPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Difference Betweeen Termites and White Ants
             name: difference_between_entries
@@ -590,6 +630,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "ConquerTermitesDigitalReportPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Conquer Termites Digital Report
             name: digital_report_entries
@@ -603,6 +644,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "HowOftenSHouldYouDoaTermiteInspectionPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: How Often SHould You Do a Termite Inspection
             name: how_often_termite_inspection_entries
@@ -616,6 +658,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "FiveThingsToConsiderSelectingACompanyPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: How Often SHould You Do a Termite Inspection
             name: five_things_entries
@@ -629,6 +672,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "WhyToChooseConquerTermitesPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Why To Choose Conquer Termites
             name: why_choose_us_entries
@@ -642,6 +686,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "ConsumerWarningPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Consumer Warnings
             name: consumer_warning_entries
@@ -655,6 +700,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "HowLongDoesItTakePage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: How Long Does It Take Entries
             name: how_long_does_it_take_entries
@@ -668,6 +714,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "BestTermiteTreatmentPage"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Page Meta, name: description, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Best Termite Treeatment Entries
             name: best_termite_treatment_entries
