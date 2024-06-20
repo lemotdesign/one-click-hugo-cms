@@ -58,7 +58,7 @@ On the Gold Coast, a standard termite inspection for an average-sized house rang
 
 ### **Conquer Termites Inspection Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZE6jMsa2SBs?si=ukPwa7HjXuzETfb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube ZE6jMsa2SBs >}}
 
 ### **Your Gold Coast Termite Solution Company: Conquer Termites**
 
