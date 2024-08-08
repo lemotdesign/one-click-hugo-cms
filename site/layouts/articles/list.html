@@ -4,9 +4,9 @@
 {{/* partial "metadata.html" . */}}
 
 <div class="center mw8 pv3">
-  <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
+  <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3" style="justify-content: center;">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <li class="w-70-ns ph1-ns flex">
+          <li class="w-40-ns ph1-ns flex" style="margin-bottom: 2rem;">
             {{ .Render "li"}}
           </li>
       {{ end }}
