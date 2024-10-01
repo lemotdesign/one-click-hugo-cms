@@ -12,8 +12,6 @@ description: >-
   Don’t leave your home vulnerable—contact Conquer Termites today for professional termite solutions!
 image: img/bridging.png
 ---
-
-
 **Is Your Gold Coast Home Safe from Termites with a Physical Barrier? Learn the Risks**
 
 Termites are a constant threat to Gold Coast homes, causing extensive property damage that can go unnoticed until it’s too late. Many homeowners believe their homes are protected because termite sheeting or physical barriers were installed during construction. However, these measures often represent the bare minimum building code requirements, and termites are experts at exploiting weaknesses. At Conquer Termites, we frequently come across homes where owners thought they were safe, only to discover that their barriers were compromised and termites had bridged over them, causing significant damage.
@@ -64,4 +62,4 @@ Call us Now on [1300 417 007](tel:1300417007)
 
 <https://www.conquertermites.com.au/articles/subterranean-termite-infestations-in-brisbane-buildings-bsa-fact-sheet/>
 
-<https://www.conquertermites.com.au/articles/ant-capping-doesnt-stop-termites/>Call us Now on [1300 417 007](tel:1300417007)
+<https://www.conquertermites.com.au/articles/ant-capping-doesnt-stop-termites/>
