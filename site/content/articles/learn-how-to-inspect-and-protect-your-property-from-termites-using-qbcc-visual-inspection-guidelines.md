@@ -12,8 +12,6 @@ description: Protecting your home from termites requires more than just a simple
   measures that can keep termites at bay.
 image: img/heading-2-.png
 ---
-
-
 Termites pose a constant threat to homes in Australia, and inspecting key areas of your property is critical for early detection. One of the most vital areas to monitor is the slab edge, commonly known as the **visual inspection zone**. This article will guide you through how to inspect this critical area, check weep holes in brick homes, and inspect raised homes. We’ll also cover the QBCC’s recommendations for termite protection and explain why relying on visual inspection zones alone may not be enough, especially for brick or rendered homes.
 
 - - -
@@ -24,15 +22,13 @@ The **visual inspection zone** is a clear area around your home’s perimeter, d
 
 - - -
 
- 
-
 **The Risk of Concealed Termite Entry**
 
 Most termite infestations occur in a concealed manner. Operating subterraneanly, termites are constantly seeking small gaps in brickwork embedded in the soil or joins in the concrete slab. These entry points are often invisible and undetectable to the naked eye. This is especially problematic in homes where the external brick wall sits directly on the ground, or where the concrete slab edge is covered or not properly exposed.
 
 If your home’s **visual inspection zone** is obstructed or the slab edge is hidden, you are at a significantly higher risk of concealed termite entry. In such cases, termites can silently enter and cause severe damage without any visible warning signs. Simply relying on a clear inspection zone may give a false sense of security. Instead, a **termite management system**—such as chemical barriers or baiting systems—provides more reliable, long-term protection.
 
-{{< youtube ESCPrlXBPQs >}}
+{{< youtube Q-8ic8p6xQc >}}
 
 - - -
 
