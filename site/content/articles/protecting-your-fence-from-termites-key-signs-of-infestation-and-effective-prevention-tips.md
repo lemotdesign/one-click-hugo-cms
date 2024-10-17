@@ -10,8 +10,6 @@ description: Termites can silently invade your fence, causing significant damage
   investments are safe from these destructive timber pests.
 image: img/worried-about-termites-on-your-fence-give-us-a-call-.png
 ---
-
-
 Fences are an essential part of many homes, offering security, privacy, and enhancing curb appeal. However, they’re also a prime target for termites, especially in warm, humid regions like Brisbane. As more homeowners invest in outdoor living spaces, it's crucial to ensure that termites aren’t silently turning your beautiful timber fences into a feeding ground.
 
 Why Do Termites Target Fences?
@@ -34,10 +32,14 @@ How to Prevent Termites from Attacking Your Fence
 Prevention is your first line of defense against termites. Here’s how to protect your fence in modern, effective ways:
 
 1. Choose Termite-Resistant Materials: If you’re installing a new fence, opt for termite-resistant materials like treated timber, metal, or composite materials. Treated wood is infused with chemicals that deter termites, significantly reducing the risk of infestation.
+
+
 2. Create a Barrier: Installing physical barriers under or around fence posts, like gravel or termite mesh, can make it harder for termites to access the wood. Chemical barriers, such as termite soil treatments, can also protect your fence.
 3. Maintain at least 50mm gap: keeping separation from the soil to discourage foraging termites from reaching the timber fence.
 4. Regular Inspections: Just like your home, your fence needs regular inspections to ensure it’s termite-free. Look for the telltale signs mentioned above and schedule professional inspections at least once a year. Early detection is crucial for preventing termite damage from spreading.
 5. Treat the Soil: Apply termite treatment solutions to the soil around your fence. Modern chemical treatments, like termiticides, can provide long-lasting protection by killing termites upon contact.
+
+{{< youtube BRblZcxFAMw >}}
 
 Don’t Let Termites Spread from Your Fence to Your Home
 
@@ -49,4 +51,8 @@ While there are plenty of DIY termite prevention tips, the most effective way to
 
 Our expert team uses advanced termite detection tools, chemical barriers, and baiting systems to ensure your fence and outdoor structures remain termite-free. We also offer comprehensive inspections, helping you catch termite activity early before it causes serious damage.
 
-<!--EndFragment-->
+Call us Now! 1300 417 007
+
+For more information on termites in fences: 
+
+<https://www.conquertermites.com.au/articles/termites-in-fences-brisbane/>
