@@ -54,7 +54,7 @@ While there are plenty of DIY termite prevention tips, the most effective way to
 
 Our expert team uses advanced termite detection tools, chemical barriers, and baiting systems to ensure your fence and outdoor structures remain termite-free. We also offer comprehensive inspections, helping you catch termite activity early before it causes serious damage.
 
-Call us Now! 1300 417 007
+Call us Now! [1300 417 007](tel:1300417007)
 
 For more information on termites in fences: 
 
