@@ -33,11 +33,14 @@ Prevention is your first line of defense against termites. Here’s how to prote
 
 1. Choose Termite-Resistant Materials: If you’re installing a new fence, opt for termite-resistant materials like treated timber, metal, or composite materials. Treated wood is infused with chemicals that deter termites, significantly reducing the risk of infestation.
 
-
+   ![](img/having-steel-support-posts-instead-of-timber.png)
 2. Create a Barrier: Installing physical barriers under or around fence posts, like gravel or termite mesh, can make it harder for termites to access the wood. Chemical barriers, such as termite soil treatments, can also protect your fence.
 3. Maintain at least 50mm gap: keeping separation from the soil to discourage foraging termites from reaching the timber fence.
-4. Regular Inspections: Just like your home, your fence needs regular inspections to ensure it’s termite-free. Look for the telltale signs mentioned above and schedule professional inspections at least once a year. Early detection is crucial for preventing termite damage from spreading.
-5. Treat the Soil: Apply termite treatment solutions to the soil around your fence. Modern chemical treatments, like termiticides, can provide long-lasting protection by killing termites upon contact.
+
+![](img/having-at-least-50mm-separation-from-soil.png)
+
+1. Regular Inspections: Just like your home, your fence needs regular inspections to ensure it’s termite-free. Look for the telltale signs mentioned above and schedule professional inspections at least once a year. Early detection is crucial for preventing termite damage from spreading.
+2. Treat the Soil: Apply termite treatment solutions to the soil around your fence. Modern chemical treatments, like termiticides, can provide long-lasting protection by killing termites upon contact.
 
 {{< youtube BRblZcxFAMw >}}
 
