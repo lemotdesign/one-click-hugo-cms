@@ -10,11 +10,11 @@ description: "In this DIY guide, learn how to inspect your home’s external
   inspections are still essential. "
 image: img/heading-3-.png
 ---
-
-
 **How to Check Your Home's External Perimeter for Termites and Conducive Conditions: A Step-by-Step Guide**
 
 While professional termite inspections are essential, homeowners can also regularly inspect their home’s perimeter for signs of termites and potential risks like moisture and fungal decay. Here’s how to conduct your own walk-around and reduce the chances of a termite infestation.
+
+{{< youtube c3H1qOXs1CY >}}
 
 **1. Watch for Moisture Build-Up**
 
@@ -59,3 +59,9 @@ Even with regular checks, termites can enter through concealed gaps, especially:
 * Plumbing penetrations through kitchens, laundry and bathroom areas
 
 Professional termite inspections are essential and recommended at least once a year, even if there is a termite management system in place. These inspections provide a thorough assessment of your property and help identify any hidden risks.
+
+Give us a call! 1300 417 007
+
+For more information and guidelines for external inspections: 
+
+https://www.conquertermites.com.au/articles/how-to-do-a-termite-inspection/
