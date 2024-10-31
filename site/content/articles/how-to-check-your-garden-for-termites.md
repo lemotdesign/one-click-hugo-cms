@@ -11,9 +11,8 @@ description: Spotting termites early in your garden can help protect your
   garden and explains the crucial steps to take if you find them, so you can
   protect your home before termites move indoors. Read on to learn effective
   ways to safeguard your property.
+image: img/subheading-1-.png
 ---
-
-
 For homeowners , learning *how to check your garden for termites* can be a vital step in protecting your property. Australia’s warm climate creates ideal conditions for termites, and if left unchecked, garden termites can make their way into your home, causing costly damage. In this guide and video tutorial, we’ll show you *what to look for in your garden* to detect termite activity early and explain *what to do if you find termites* around your property.
 
 - - -
@@ -26,25 +25,25 @@ If you’re wondering, *“What do I do if I think I have termites in my garden?
 
 Termites love damp, hidden timber sources, making loose timbers or logs an ideal spot for termite colonies. Lift any firewood, fallen branches, or loose timbers lying on the soil, and inspect underneath for live termites or termite damage and mud tubes. These are signs that termites are actively feeding on the wood.
 
- 
+![](img/2.png)
 
 **2. Fence Bases in Contact with Soil**
 
 Timber fences that make contact with soil are common entry points for termites. Check each fence post, particularly the base where it touches the soil, for signs of mud tubes. These tubes look like thin, dirt-filled tunnels and are a clear indication of termite activity, as termites use them to travel and stay moist.
 
- 
+![](img/subheading-2-.png)
 
 **3. Mud Trails or Tubes on Surfaces**
 
 Mud tubes are one of the easiest ways to spot termites in your garden. These tubes help termites travel safely between their colony and a food source. Look for them along the base of your fence posts, near tree roots, or on any timber structures in the garden.
 
- 
+![](img/untitled-design-3-.png)
 
 **4. Live Termites or Nests (Mounds and Arboreal Nests)**
 
 Some termite species in Queensland build visible nests, either as mound structures on the ground or arboreal nests in trees. If you’re concerned about *“what to do if you find a termite mound in your yard,”* it’s best to observe without disturbing them and contact a pest professional. Large termite nests often mean an established colony nearby.
 
- 
+![](img/subheading.png)
 
 **5. Around Trees, Tree stumps and Mulched Garden Beds**
 
@@ -76,4 +75,6 @@ It may be tempting to spray termites with standard insecticides, but this can of
 
 If you find termite activity in your garden, it’s essential to get a professional inspection to assess the severity and ensure thorough treatment. At Conquer Termites, we specialize in termite control for Brisbane and Gold Coast homeowners, with comprehensive treatment plans to eliminate termites from your garden and protect your home from further risk.
 
-<!--EndFragment-->
+Call us Now! [1300 417 007](tel:1300417007)
+
+Checkout our treatment videos here: <https://www.conquertermites.com.au/about/videos/>
