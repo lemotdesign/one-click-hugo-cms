@@ -59,6 +59,8 @@ Regular checks and treatment of termites in your garden can reduce termite press
 
 - - -
 
+{{< youtube 8rQgNNnpY1M >}}
+
 **What to Do If You Find Termites in Your Garden**
 
 If you’re asking, *“What should I do if I have termites in my garden?”* follow these steps to ensure effective treatment and avoid aggravating the problem.
