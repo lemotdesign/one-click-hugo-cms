@@ -26,3 +26,11 @@ image: img/how-to-check-for-termites-in-your-house.png
 **3. Look for Mud Tubes**
 
 Subterranean termites build mud tubes to protect themselves as they travel from the soil to timber structures. These tubes can sometimes appear on walls, skirting boards, or even on timber furniture inside your home. The presence of mud tubes is a strong indicator of active termite presence and should be addressed promptly.
+
+**Call us now! [1300 417 007](tel:1300417007)**
+
+For more information on Termite Inspections and what to do if you find them in your home: 
+
+[https://www.conquertermites.com.au/articles/2023-01-24-do-they-need-to-come-inside-for-a-termite-inspection/](https://www.conquertermites.com.au/articles/2023-09-27-termite-control-brisbane/)
+
+<https://www.conquertermites.com.au/articles/2023-09-27-termite-control-brisbane/>
