@@ -8,6 +8,7 @@ description: While termites are often top of mind when it comes to timber damage
   significant harm, even though they don’t cause the extensive structural damage
   of termites. In this article, we’ll explore the signs of borer activity, the
   risks they pose, and how to protect your home from these hidden timber pests.
+image: img/borer-damage-on-bamboo-furniture.png
 ---
 When safeguarding your home’s timber, termites aren’t the only pest to watch out for. Timber borers are a significant issue in Queensland, with their presence often identified during professional inspections. Although borers may not cause the same level of structural damage as termites, their activities can still compromise timber and result in the need for costly replacements.
 
@@ -33,9 +34,7 @@ Spotting borer infestations can be challenging, as visible signs may not appear 
 
 - - -
 
-### A Real-Life Example
-
-Recently, a homeowner discovered very fine timber shavings coming out of their bamboo furniture. Upon further investigation during an inspection, active **Queensland Pine Beetle** activity was identified. This highlights the importance of recognising subtle signs of borer infestations, as they can occur in unexpected places.
+![](img/freeze-frame-photography.png)
 
 - - -
 
