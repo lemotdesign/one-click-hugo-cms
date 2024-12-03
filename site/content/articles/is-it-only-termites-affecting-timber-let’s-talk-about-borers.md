@@ -54,7 +54,7 @@ Regular inspections by professionals can detect borer activity early and provide
 
 At Conquer Termites, we’re dedicated to identifying and managing timber pests, including borers, during our inspections. By staying vigilant and proactive, you can protect your biggest asset—your home—from unwanted pests.
 
-Call us Now![ 1300 417 007](tel:1300417007)
+Call us Now [1300 417 007](tel:1300417007)
 
 For more information on Timber Borers: 
 
