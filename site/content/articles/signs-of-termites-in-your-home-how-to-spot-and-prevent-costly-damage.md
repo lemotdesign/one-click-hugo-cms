@@ -13,8 +13,6 @@ description: >-
   Read on to learn more and see real videos of termite damage across walls, subfloors, and roof voids, helping you stay vigilant this termite season.
 image: img/large-bivouc.png
 ---
-
-
 **Signs of Termites in Your Home: How to Spot and Prevent Costly Damage**
 
 \
@@ -24,7 +22,7 @@ With recent hot, humid weather and rain across Brisbane and the Gold Coast, term
 
 Recently one of our experienced technicians encountered a house on the south side of Brisbane which presented termite infestation in subfloor, walls and roof void as shown on the video below:
 
- 
+{{< youtube RufCmnELbEI >}}
 
 - - -
 
@@ -49,8 +47,6 @@ Subfloors are particularly vulnerable to termite infestations due to their direc
 * **Sagging or uneven floors** – a sign of weakened support structures.
 * **Damaged joists and bearers** – termites often compromise the strength of structural timber.
 * **Mud trails along foundations** – visible evidence of termite activity beneath the home.
-
- 
 
 ![](img/termite-mud-lead-on-subfloor-wall.png)
 
