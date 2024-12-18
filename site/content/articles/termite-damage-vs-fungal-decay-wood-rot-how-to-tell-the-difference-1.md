@@ -69,6 +69,8 @@ Fungal decay occurs when fungi grow in timber exposed to consistent moisture. Un
 
 Both termite damage and wood rot can compromise the safety of your home. However, termite infestations tend to escalate quickly, causing widespread damage if left untreated.
 
+{{< youtube ikwPqq9szMU >}}
+
 ![](img/fungal-decay-or-termite-damage.png)
 
 #### **Termite Damage:**
