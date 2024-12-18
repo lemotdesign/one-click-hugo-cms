@@ -8,6 +8,7 @@ description: >-
 
 
   Act now to protect your biggest asset. Schedule your termite inspection today!
+image: img/fungal-decay-or-termite-damage.png
 ---
 ## **Termite Damage vs. Wood Rot: How to Tell the Difference**
 
