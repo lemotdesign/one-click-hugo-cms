@@ -36,11 +36,13 @@ Termites are silent invaders that consume timber for its cellulose content. They
 * Roof void timbers
 * Subfloor joists and bearers
 
+  ![](img/termite-damage.png)
+
 - - -
 
-### **What is Wood Rot (Fungal Decay)?**
+### **What is Fungal Decay (Wood Rot) ?**
 
-Wood rot occurs when fungi grow in timber exposed to consistent moisture. Unlike termites, fungi do not consume timber but instead break it down, causing it to decay over time.
+Fungal decay occurs when fungi grow in timber exposed to consistent moisture. Unlike termites, fungi do not consume timber but instead break it down, causing it to decay over time.
 
 #### **Signs of Wood Rot:**
 
@@ -55,23 +57,19 @@ Wood rot occurs when fungi grow in timber exposed to consistent moisture. Unlike
 * Subfloor timber with poor ventilation
 * Wooden decking and outdoor timbers exposed to rain
 
+  ![](img/fungal-decay-on-handrails.png)
+
 - - -
 
 ### **How to Tell the Difference Between Termite Damage and Wood Rot**
 
-| **Feature**     | **Termite Damage**              | **Wood Rot (Fungal Decay)**      |
-| --------------- | ------------------------------- | -------------------------------- |
-| **Cause**       | Termites eating the timber      | Fungi breaking down timber       |
-| **Appearance**  | Smooth tunnels and mud tubes    | Soft, spongy, and cracked timber |
-| **Location**    | Can occur in dry or damp timber | Primarily in damp or wet timber  |
-| **Smell**       | None                            | Musty, mouldy odour              |
-| **Progression** | Sudden and often unnoticed      | Gradual, visible over time       |
 
-- - -
 
-### **Why Early Detection is Crucial**
+![](img/wood-rot-fungal-decay-.png)
 
 Both termite damage and wood rot can compromise the safety of your home. However, termite infestations tend to escalate quickly, causing widespread damage if left untreated.
+
+![](img/fungal-decay-or-termite-damage.png)
 
 #### **Termite Damage:**
 
