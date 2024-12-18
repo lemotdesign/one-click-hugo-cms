@@ -88,3 +88,11 @@ Both termite damage and wood rot can compromise the safety of your home. However
 If you suspect termite damage or wood rot in your home, it’s best to consult professionals for an accurate diagnosis. At **Conquer Termites**, we specialise in identifying termite activity and providing comprehensive inspections to protect your property.
 
 **Act now to protect your biggest asset. Schedule your termite inspection today!**
+
+
+
+**Call Us Now! [1300 417 007](tel:1300417007)**
+
+**For more information and photos on Fungal Decay Vs Termite Damage:** 
+
+<https://www.conquertermites.com.au/articles/fungal-decay-or-termite-damage/>
