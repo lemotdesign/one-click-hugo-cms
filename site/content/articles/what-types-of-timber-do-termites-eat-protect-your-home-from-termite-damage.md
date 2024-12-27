@@ -1,5 +1,6 @@
 ---
-title: What Types of Timber Do Termites Eat? Protect Your Home from Termite Damage
+title: What Types of Timber Do Termites Eat? Protect Your Home Gold Coast home
+  from Termite Damage
 date: 2024-12-27T15:48:25.152Z
 description: >-
   Protect Your Property from Termites on the Gold Coast
