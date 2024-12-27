@@ -9,8 +9,6 @@ description: >-
   Termites can cause serious damage to your home or business if left unchecked. Our expert pest control team specialises in termite inspections, treatments, and prevention, ensuring your property stays safe. Whether it’s timber floorboards, decking, or other materials, termites don’t discriminate. Don’t wait until the damage is done—contact us today for a thorough inspection and reliable solutions to keep your Gold Coast property termite-free.
 image: img/heading.png
 ---
-
-
 Termites are among the most destructive pests that homeowners can encounter. These small insects cause significant damage to wooden structures, often before the damage is even noticed. One of the most common questions homeowners have is: What types of timber do termites eat? In this article, we'll explore the types of timber and other materials that termites are likely to target, including floorboards, timber laminate, cardboard, and paper. Understanding termite behaviour is essential for preventing infestations and protecting your home.
 
 - - -
@@ -25,6 +23,8 @@ Termites are tiny insects that feed on cellulose, a fibrous material found in pl
 
 Softwoods such as pine, cedar, and fir are particularly vulnerable to termite infestations. These timbers are commonly used in the framing of homes, roof beams, and furniture. Their soft, porous structure, combined with a high cellulose content, makes them an easy target for termites looking for a food source.
 
+![](img/untitled-1280-x-720-px-2.png)
+
 #### 2. Hardwood Timbers
 
 Hardwoods like oak, mahogany, and teak are more resistant to termites than softwoods, but they are not immune. Termites may still target hardwood timbers, especially if they are damaged or exposed to moisture. While hardwoods are denser and harder, they still provide a food source for termites if no other option is available.
@@ -36,6 +36,8 @@ Timber floorboards are one of the most common targets for termites. Older homes 
 #### 4. Timber Laminate and MDF (Medium Density Fibreboard)
 
 Although timber laminate and MDF are engineered products, they still contain cellulose and can be susceptible to termite damage. These materials are commonly used in interior finishes, including flooring, cabinetry, and furniture. While they may offer more resistance to termites than solid timber, they can still be damaged if termites gain access to the layers beneath the surface.
+
+![](img/heading.png)
 
 #### 5. Timber Decking and External Structures
 
@@ -50,6 +52,8 @@ Termites are not picky eaters. In addition to timber, they will consume any mate
 * Cardboard: Cardboard packaging or old boxes often attract termites, particularly when stored near timber structures.
 * Paper: Newspapers, office documents, books, and other paper products can provide a food source for termites if they are kept in humid conditions.
 * Insulation: Certain types of insulation materials, such as cellulose-based options, can attract termites, especially if exposed to moisture or in contact with timber.
+
+  ![](img/termite-damage-on-book.png)
 
 ### How Do Termites Feed on Timber?
 
