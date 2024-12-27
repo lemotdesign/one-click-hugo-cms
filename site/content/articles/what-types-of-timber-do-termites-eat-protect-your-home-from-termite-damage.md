@@ -43,6 +43,8 @@ Although timber laminate and MDF are engineered products, they still contain cel
 
 Timber decking, pergolas, and other external wooden structures are highly susceptible to termite damage, especially in areas where moisture is present. The combination of timber and exposure to the elements makes these areas a prime target for termites. Wooden posts and beams in direct contact with the soil are at a particularly high risk of infestation.
 
+![](img/termite-damage-on-plaster-and-timber.png)
+
 - - -
 
 ### Not Just Timber: Other Materials Termites Eat
