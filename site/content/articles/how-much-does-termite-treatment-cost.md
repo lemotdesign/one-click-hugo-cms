@@ -17,7 +17,7 @@ As we welcome the New Year 2025, it's the perfect time to ensure your home is sa
 
 #### **1. Termite Inspection Costs**
 
-A professional termite inspection typically ranges from **$250 to $500**, depending on the size and layout of your home. Inspections are essential for identifying active termites, vulnerable areas, and potential risks.
+A professional termite inspection typically ranges from **$300 to $600**, depending on the size and layout of your home. Inspections are essential for identifying active termites, vulnerable areas, and potential risks.
 
 #### **2. Chemical Termite Treatments**
 
