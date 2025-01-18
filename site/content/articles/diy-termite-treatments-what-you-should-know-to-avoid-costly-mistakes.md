@@ -19,6 +19,8 @@ Termites are a persistent and costly problem for homeowners in Brisbane and the 
 While there are various DIY products available in stores and online, such as sprays, traps, and baiting systems, these options come with significant limitations:
 
 1. **Limited Knowledge of Termite Behaviour** Termites are complex social insects. Understanding their behaviour, colony structure, and feeding habits is essential for effective treatment. Additionally, depending on the termite species identified, a professional termite inspector will determine which treatment is most effective. DIY methods often fail because they target only visible termites without addressing the hidden colony, which is the real source of the problem.
+
+   ![]()
 2. **Inadequate Application Techniques** Professional termite treatments require specialised equipment and training to apply termiticides, bait systems, or physical deterrents correctly. Most DIY solutions lack the precision and depth needed to create an effective barrier or reach concealed infestation points.
 3. **False Sense of Security** Many homeowners believe that visible termites or damage are the only indicators of infestation. DIY treatments may temporarily reduce visible activity but leave the underlying colony intact. This can lead to a false sense of security while termites continue causing damage unseen.
 4. **Inconsistent Results** DIY products are not tailored to specific termite species, which can affect their effectiveness. What works for one type of termite may not work for another, and misidentification can lead to wasted time and money.
@@ -35,8 +37,13 @@ We’ve encountered countless situations where DIY termite treatments have led t
 
 1. **Comprehensive Inspections** A professional termite inspection includes an in-depth assessment of your home, including hidden areas like roof voids, door frames, and window frames. This ensures no termite activity goes unnoticed.
 2. **Tailored Treatment Plans** Pest control experts design customised treatment plans based on the type of termite, the extent of the infestation, and the specific characteristics of your property.
-3. **Long-Term Protection** Professionals use proven methods such as termiticides, baiting systems, and treatments for vulnerable entry points to eliminate termites and prevent future infestations.
-4. **Compliance with Regulations** In Brisbane and the Gold Coast, termite treatments must comply with Australian Standards. Professional pest controllers ensure treatments are safe, effective, and meet all legal requirements.
+
+![](img/direct-injection-on-concrete-areas.png)
+
+1. **Long-Term Protection** Professionals use proven methods such as termiticides, baiting systems, and treatments for vulnerable entry points to eliminate termites and prevent future infestations.
+
+   ![](img/pavers-lifted-for-termidor-treatment.png)
+2. **Compliance with Regulations** In Brisbane and the Gold Coast, termite treatments must comply with Australian Standards. Professional pest controllers ensure treatments are safe, effective, and meet all legal requirements.
 
 ![Youtube Video](https://i3.ytimg.com/vi/jX0IASCNbSA/hqdefault.jpg)
 
