@@ -38,5 +38,7 @@ Misidentifying ant frass as termite damage—or vice versa—can lead to unneces
 **Video: Visual Differences Between Ant Frass and Termite Mud Tubes**\
 To help you better understand these differences, we’ve included a video demonstration showing close-up examples of ant frass and termite mud tubes. You’ll see how they differ in texture, composition, and typical locations around the home.
 
+{{< youtube fSDum7Y3c-o >}}
+
 **Contact Conquer Termites Today**\
 If you’re still unsure whether the debris you’ve found is caused by ants or termites, don’t hesitate to reach out. Our experienced team can provide a professional inspection and recommend the best course of action to keep your home pest-free.
