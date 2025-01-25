@@ -18,9 +18,13 @@ Homeowners in Brisbane and the Gold Coast frequently encounter mysterious debris
 Ant frass is the waste material ants produce as they tunnel or build nests. It often consists of chewed-up leaves, saliva, insect parts, and other organic debris. You may find it near ant entry points, such as window frames or cracks in walls.\
 A key characteristic of ant frass is its texture—it’s soft and crumbly, much like finely shredded plant material. If you take a closer look, you might even spot tiny fragments of leaves or insect parts in the pile.
 
+![](img/ant-workings-on-brick-wall.png)
+
 **What are Termite Mud Tubes?**\
 Unlike ants, termites create mud tubes as part of their survival strategy. These tubes act as protective tunnels, allowing termites to travel safely between their colony and timber food sources. Termite mud tubes are made from soil, moisture, and saliva, resulting in a hard, compact structure.\
 You’ll often find these tubes along walls, timber frames, or foundations—anywhere termites may be foraging for timber. Unlike ant frass, termite mud tubes have a smooth, continuous appearance and are an unmistakable sign of termite activity.
+
+![](img/termite-mud-leads-tubes.png)
 
 **Key Differences Between Ant Frass and Termite Mud Tubes**
 
