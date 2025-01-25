@@ -42,3 +42,9 @@ To help you better understand these differences, we’ve included a video demons
 
 **Contact Conquer Termites Today**\
 If you’re still unsure whether the debris you’ve found is caused by ants or termites, don’t hesitate to reach out. Our experienced team can provide a professional inspection and recommend the best course of action to keep your home pest-free.
+
+Call Us Now! [1300 417 007](tel:1300417007)
+
+For more information on Ants and how to tell the difference from Termites: 
+
+> <https://www.conquertermites.com.au/articles/2023-04-14-black-ants-or-termites-how-to-tell/>
