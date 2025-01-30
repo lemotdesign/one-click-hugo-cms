@@ -8,6 +8,7 @@ description: Termites are a serious threat to homes across the Gold Coast,
   chemical treatment, our experienced team has the knowledge, licenses and tools
   to help. Don’t wait for costly termite damage—contact us today for
   professional, reliable termite protection.
+image: img/termite-dust-treatment-to-brick-wall-void.png
 ---
 Termite infestations are a serious issue for homeowners in Brisbane and the Gold Coast. With our warm climate and high humidity, termites thrive, making it essential to have effective control measures in place. This guide explores the most reliable termite treatment options available today, helping you protect your home from costly damage.
 
