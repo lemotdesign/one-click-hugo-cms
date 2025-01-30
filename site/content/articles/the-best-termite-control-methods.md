@@ -14,13 +14,16 @@ Termite infestations are a serious issue for homeowners in Brisbane and the Gold
 
 - - -
 
-### **1. Dust Treatments**
+### **1. Dust and Foam Treatments**
 
 Dust treatments work by allowing termites to ingest and spread insecticide throughout their colony during grooming. This method is particularly useful when applied directly to active termites found inside a structure.
 
 * **Insect Growth Regulator (IGR) Dusts** – These, such as Triflumuron, are among the safest options for human occupants and effectively disrupt termite development.
-* **Non-Repellent Termiticides** – These ensure termites unknowingly spread the treatment to their colony, leading to gradual but effective control.
-* **Arsenic Trioxide Dust** – An older, highly toxic method that is rarely used today due to its environmental and health risks.
+* **Non-Repellent Termiticides (Fipronil)** – These ensure termites unknowingly spread the treatment to their colony, leading to gradual but effective control.
+
+
+
+  ![](img/termidor-foam-treatment-to-termite-nest-in-roof-1-.png)
 
 - - -
 
@@ -31,6 +34,8 @@ Baiting is one of the most effective ways to eliminate an entire termite colony,
 * Bait stations contain cellulose-based materials such as timber or cellulose gel, which are placed in the ground or inside the structure near termite activity.
 * Non-repellent, slow-acting toxins allow termites to carry the poison back to the colony before they detect its effects.
 * Unlike chemical barriers, baiting does not prevent future infestations, making ongoing monitoring and professional treatment essential.
+
+![](img/termite-in-ground-bait-station-installed.png)
 
 - - -
 
@@ -46,6 +51,8 @@ Chemical barriers are a long-lasting method of termite prevention, forming a tre
   * *Non-Repellent Termiticides* (e.g., Imidacloprid, Fipronil) allow termites to move through treated areas, ensuring they carry the toxicant back to the colony for widespread control.
 * **Pre-Construction Protection:** Some chemical barriers, such as Bifenthrin, can be applied before a building is constructed to protect against future infestations.
 
+![](img/chemical-treatment-to-external-perimeter.png)
+
 - - -
 
 ### **4. Physical Barriers**
@@ -59,6 +66,8 @@ Physical barriers are a non-toxic solution, commonly used in new constructions t
   * **Metal Sheeting & Ant Caps:** Installed on brick piers or under suspended timber floors, forcing termites to build visible mud tubes, making detection easier.
   * **Chemically Impregnated Sheets:** Polymer films or fabrics infused with termiticide, such as deltamethrin or bifenthrin, create an additional layer of protection.
 
+  ![](img/termite-pre-construction-protection-sheeting-material-homeguard-1-.png)
+
 - - -
 
 ### **5. Reducing Termite Risk in Your Home**
@@ -66,7 +75,7 @@ Physical barriers are a non-toxic solution, commonly used in new constructions t
 Aside from professional treatments, homeowners can take steps to reduce the risk of termite infestations:
 
 * **Limit moisture** – Ensure proper drainage, fix leaks, and keep subfloors well-ventilated and dry.
-* **Use termite-resistant timber** – Species such as Red Gum and White Cypress Pine offer natural resistance to termites.
+* **Use termite-resistant timber**  – Species such as Red Gum and White Cypress Pine offer natural resistance to termites although in certain circumstances they can still eat it. 
 * **Avoid timber-to-soil contact** – Do not store timber directly on the ground or near your home.
 * **Chemically treated timber** – Modern treatments with quaternary ammonium compounds provide long-term termite protection without the use of arsenic.
 
@@ -77,3 +86,7 @@ Aside from professional treatments, homeowners can take steps to reduce the risk
 Termites are a year-round threat in Brisbane and the Gold Coast. If you suspect termite activity or want to ensure your home is protected, contact Conquer Termites for expert advice and treatment options. Our team uses the latest termite control methods to keep your home safe and secure.
 
 📞 **[Call us today for an inspection! 1300 417 007](tel:1300417007)**
+
+**For more information on best termite treatments:** 
+
+<https://www.conquertermites.com.au/articles/2023-02-28-is-termidor-the-best-termite-treatment-for-my-home-brisbane/>
