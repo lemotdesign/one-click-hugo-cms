@@ -48,3 +48,5 @@ This case serves as a sobering reminder that no property is entirely immune to t
 Living in Brisbane or the Gold Coast means being in a high-risk area for termites. Whether you need an annual inspection or suspect an infestation, Conquer Termites has the expertise and cutting-edge treatments to protect your property.
 
 📞 **Contact Conquer Termites today for expert advice and the best termite solutions tailored to your home! [1300 417 007](tel:1300417007)**
+
+For more information on the chemical used to control termites in this example click : <https://www.conquertermites.com.au/articles/2023-02-28-is-termidor-the-best-termite-treatment-for-my-home-brisbane/>
