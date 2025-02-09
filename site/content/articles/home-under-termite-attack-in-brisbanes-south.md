@@ -25,6 +25,8 @@ The infestation extended outdoors to a nearby tree, where Ben suspected a hidden
 
 
 
+<https://www.youtube.com/watch?v=H5W_zDtF_vY&t=2s>
+
 - - -
 
 ### **Eradicating the Termite Infestation**
