@@ -25,9 +25,7 @@ During the inspection, Ben found active termite activity across multiple areas o
 
 The infestation extended outdoors to a nearby tree, where Ben suspected a hidden termite nest. Using a test drilling technique, he confirmed the presence of a nest at the tree's base. To investigate further, he employed a borescope camera, which revealed a thriving termite population within the tree.
 
-
-
-<https://www.youtube.com/watch?v=H5W_zDtF_vY&t=2s>
+{{< youtube ZNdrIHoGvqU >}}
 
 - - -
 
