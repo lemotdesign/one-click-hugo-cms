@@ -8,13 +8,19 @@ description: >-
   Cane toads are a growing concern for many Gold Coast residents, especially pet owners. These invasive amphibians pose a serious risk due to their highly toxic secretions, which can be fatal to dogs and cats. At Conquer Termites, we often receive questions about managing cane toads. While we don’t treat them directly, we understand the challenges they bring. Learn how to reduce their presence around your home and protect your pets from potential danger.
 image: img/termidor-foam-treatment-to-termite-nest-in-roof-2-.png
 ---
-
-
 **Cane Toads and Pets: What You Need to Know**
 
 Cane toads are a common sight in many parts of Queensland, including Brisbane and the Gold Coast. While these invasive amphibians may seem harmless, they pose a significant risk to pets due to their highly toxic secretions. Homeowners frequently ask us about managing cane toads, and while Conquer Termites does not treat cane toads directly, we understand the concerns they bring to households. Here’s what you need to know about cane toads and how to protect your pets.
 
 - - -
+
+**Invasive pest** 
+
+Cane toads were introduced to Australia in 1935 as a biological control method to combat cane beetles, which were damaging sugarcane crops in Queensland. However, this plan backfired, as the toads failed to control the beetles and instead became an invasive species. With no natural predators in Australia, they spread rapidly, disrupting ecosystems and posing a serious risk to native wildlife and pets due to their toxic secretions.
+
+**Cane Toad Identification**
+
+![](img/cane-toad.png)
 
 **Why Are Cane Toads a Problem?**
 
@@ -58,5 +64,3 @@ Preventing exposure is the best way to keep your pets safe from cane toad poison
 While cane toads are not a pest that Conquer Termites treats, we often receive questions about them from homeowners concerned about their impact. If you need professional pest control for other unwanted invaders like termites, ants, or cockroaches, our team is here to help.
 
 📞 **Contact Conquer Termites today for expert pest control solutions in Brisbane and the Gold Coast!**
-
-<!--EndFragment-->
