@@ -67,4 +67,6 @@ Preventing exposure is the best way to keep your pets safe from cane toad poison
 
 While cane toads are not a pest that Conquer Termites treats, we often receive questions about them from homeowners concerned about their impact. If you need professional pest control for other unwanted invaders like termites, ants, or cockroaches, our team is here to help.
 
-📞 **Contact Conquer Termites today for expert pest control solutions in Brisbane and the Gold Coast!**
+📞 **Contact Conquer Termites today for expert pest control solutions in Brisbane and the Gold Coast! [1300 417 007](tel:1300417007)**
+
+For more  information on Pest Control :[ https://www.conquertermites.com.au/articles/2023-02-09-pest-control-treatment-cannon-hill-brisbane-qld-4170/](https://www.conquertermites.com.au/articles/2023-02-09-pest-control-treatment-cannon-hill-brisbane-qld-4170/)
