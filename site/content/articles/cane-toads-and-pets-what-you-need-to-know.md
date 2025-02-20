@@ -34,6 +34,8 @@ Cane toads secrete a potent toxin from glands behind their heads, which can be f
 
 If you suspect your pet has been exposed to cane toad toxin, rinse their mouth out with water (ensuring they don’t swallow) and seek veterinary attention immediately.
 
+![](img/body.png)
+
 - - -
 
 **How to Reduce Cane Toads Around Your Home**
@@ -44,6 +46,8 @@ While professional pest control services do not typically target cane toads, the
 * **Use barriers** – Fine mesh fencing around garden beds or pet areas can help keep cane toads out.
 * **Reduce outdoor lighting** – Lights attract insects, which in turn attract cane toads looking for food.
 * **Keep your yard tidy** – Remove clutter, fallen leaves, and debris where cane toads may hide during the day.
+
+
 
 - - -
 
