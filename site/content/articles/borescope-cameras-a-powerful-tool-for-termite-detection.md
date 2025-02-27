@@ -9,10 +9,6 @@ description: At Conquer Termites, we use cutting-edge technology like borescope
   today!
 image: img/borescope-termite-detection-tool.png
 ---
-
-
-
-
 Detecting termites can be challenging, especially when they invade concealed areas such as wall cavities, timber structures, or even trees. While traditional inspection methods provide valuable insights, advanced tools like borescope cameras have revolutionised the way termite activity is identified. These specialised cameras allow pest control professionals to see inside hidden spaces with minimal disruption, providing a clearer picture of potential infestations.
 
 - - -
@@ -20,6 +16,10 @@ Detecting termites can be challenging, especially when they invade concealed are
 **How Borescope Cameras Work in Termite Inspections**
 
 A borescope camera consists of a flexible probe with a high-resolution camera at the tip. It is designed to be inserted into small holes drilled into suspected infestation points, such as timber beams, walls, or tree trunks. The camera transmits real-time images or videos, enabling technicians to visually confirm termite activity without requiring extensive dismantling or structural damage. While drilling a small hole in plaster or timber is necessary, this method is far less invasive than removing entire wall linings or structural components.
+
+**Typical Borescope used for Termite Detection:** 
+
+![](img/borescope-camera.png)
 
 - - -
 
