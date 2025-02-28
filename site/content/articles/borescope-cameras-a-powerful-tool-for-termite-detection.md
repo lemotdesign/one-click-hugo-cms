@@ -29,6 +29,8 @@ Recently, one of our senior technicians used a borescope camera to inspect a tre
 
 This case highlights the importance of using advanced technology to detect termite nests in unexpected places, ensuring a thorough and effective response to infestations.
 
+<https://youtu.be/RWgVbhlp_TU>
+
 - - -
 
 **Why Borescope Cameras Improve Termite Detection**
@@ -48,4 +50,10 @@ Even with advanced tools like borescope cameras, regular termite inspections rem
 
 If you suspect termites in your home or garden, contact Conquer Termites today. Our team uses the latest technology to provide accurate and effective termite detection and treatment solutions.
 
-<!--EndFragment-->
+Call us on [1300 417 007](tel:1300417007)
+
+For more information on our other technology tools used for Termite Inspection: 
+
+<https://www.conquertermites.com.au/articles/termite-inspections-meet-some-of-the-tools-of-our-trade/>
+
+<https://www.conquertermites.com.au/inspections/termite-inspections/detection-devices/#:~:text=Borescope,insert%20the%20probe%20to%20investigate.>
