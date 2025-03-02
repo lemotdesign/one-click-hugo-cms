@@ -6,7 +6,7 @@ best_chemical_treatments_entries:
       The most effective termite treatment is one that stops termites, right?
       But knowing there are **no** absolutes when protecting a house and that
       treatments can fail, it's crucial to weigh all the factors before you
-      decide on a company to handle your termite situation.
+      decide on a company to handle your termite situation.\n
 
 
       #### The Five Vital Considerations When Choosing Termite Treatment
@@ -20,7 +20,7 @@ best_chemical_treatments_entries:
 
       4. **Cost**: Keep in mind that cheaper will not be better.
 
-      5. **Workmanship:** Will the treatment company leave your home in a tidy condition? 
+      5. **Workmanship:** Will the treatment company leave your home in a tidy condition? \n
 
 
       ### Types of Termite Management Systems
@@ -30,7 +30,7 @@ best_chemical_treatments_entries:
 
       2. **Baiting Systems**
 
-      3. **Physical** (Installed during construction)
+      3. **Physical** (Installed during construction)\n\n 
 
 
       ### Horses for Courses - a tailored approach
