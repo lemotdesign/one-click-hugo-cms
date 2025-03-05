@@ -9,7 +9,7 @@ description: With Cyclone Alfred bringing heavy rain and potential flooding to
   effectiveness. If you’re unsure whether your home’s termite protection has
   been compromised, Conquer Termites can help. Contact us for expert inspections
   and advice to keep your home protected.
-image: img/termite-treatment.png
+image: img/termite-treatment-1-.png
 ---
 
 
