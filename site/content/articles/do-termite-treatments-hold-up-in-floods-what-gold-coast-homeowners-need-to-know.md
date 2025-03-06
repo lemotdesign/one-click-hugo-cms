@@ -31,6 +31,10 @@ A "disturbed termite management system" refers to any disruption in the treated 
 
 Termites thrive in damp, humid environments, making flood-affected areas more susceptible to infestations. When heavy rains soak the ground, moisture levels rise, creating ideal conditions for subterranean termites. These pests are drawn to softened, water-damaged timber and can exploit cracks or weakened areas in structures to gain access. Increased moisture in the soil and around your home's foundation provides an easy entry point for termites, heightening the risk of infestation.
 
+### Check out our YouTube video on Termite Treatments and Flooding here: 
+
+[https://studio.youtube.com/video/_FQdeLMb2_U/edit](https://studio.youtube.com/video/_FQdeLMb2_U/edit)
+
 ### What Should Homeowners Do After Flooding?
 
 If your home has been affected by flooding, it is recommended to:
@@ -38,8 +42,6 @@ If your home has been affected by flooding, it is recommended to:
 * Inspect the perimeter of your home for signs of soil movement or debris accumulation.
 * Contact a professional termite specialist to assess whether the treated zone has been compromised.
 * Schedule a termite inspection to ensure your home remains protected. A licensed and experienced technician will be able to determine if floodwaters have impacted your termite treatment and provide expert recommendations to maintain your home’s defense against termites.
-
-
 
 ### The Importance of Ongoing Termite Protection
 
