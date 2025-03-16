@@ -9,8 +9,6 @@ description: "Termites can cause extensive damage before homeowners even realise
   management system for long-term protection. Don’t let termites threaten your
   home—book a professional inspection with our expert team today. v "
 ---
-
-
 **Termite Attack on a Home in Mount Gravatt: How We Stopped Them with Termidor Foam**
 
 Termites can silently cause significant damage to a home before being discovered. During a **routine termite inspection** at a property in **Mount Gravatt**, our **senior technician, Carlo,** identified an active termite infestation in the structural timbers.
@@ -22,6 +20,8 @@ During the inspection, Carlo identified termite workings inside several **floor 
 ### **Initial Treatment with Termidor Foam**
 
 To target the active termites inside the infested timbers, we applied **Termidor Foam**. This highly effective foam expands within the termite galleries, ensuring deep penetration into hidden areas where termites are actively feeding. Unlike surface sprays, Termidor Foam is designed to be **non-repellent**, meaning termites unknowingly transfer it throughout the colony, leading to colony elimination over time.
+
+![](img/termidor-foam-treatment.png)
 
 #### **Why Termidor Foam?**
 
