@@ -10,9 +10,8 @@ description: >-
 
 
   If you're on the Gold Coast and concerned about termites, book a professional inspection today to protect your property before an infestation takes hold.
+image: img/will-termites-enter-steel-frame-structure-1-.png
 ---
-
-
 **Termites Invading a Shed in Carindale: How We Stopped Them at the Source**
 
 Are you worried about termites sneaking into your property? **Conquer Termites** recently discovered **active termites in a shed in Carindale**, where they were entering through a **cold joint** in the concrete slab. Our senior technician quickly identified the issue and recommended a targeted **termite treatment** to address the infestation.
@@ -21,13 +20,21 @@ Are you worried about termites sneaking into your property? **Conquer Termites**
 
 A **cold joint** is where two concrete pours meet, creating a small gap that termites can exploit to gain access, in this case it was the gap created by the concrete slab pour against a block wall. The termites had built mud tubes through the joint and were spreading inside the shed's timber framing.
 
+{{< youtube Zo4xxyHI1N0 >}}
+
 ### **Treating the Termite Infestation**
 
 To effectively manage the termite activity, we applied a professional-grade **termite treatment** with Termidor designed to reach deep into termite workings and address the infestation. This treatment ensures that termites unknowingly spread the product.
 
+**Damaged timber pallet found inside shed:** 
+
+![](img/live-termites-feeding-on-a-pallet.png)
+
 ### **Termites Can Attack More Than Just Timber Homes**
 
 A common myth is that termites won’t infest **steel-framed homes** or **block wall structures**, but the reality is different. Termites don’t eat steel or concrete, but they will **find and consume any timber elements inside**—including flooring, skirting boards, roof trusses, and furniture. Just because a home isn’t built entirely of timber doesn’t mean it’s safe from termites.
+
+
 
 ### **How to Prevent Termites from Entering Through Cold Joints**
 
