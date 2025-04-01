@@ -9,6 +9,7 @@ description: >-
 
 
   On the Gold Coast, where warm and humid conditions attract termites year-round, regular termite inspections should include checking trees, stumps, and stored timber for signs of activity. If a tree near your home is compromised, it’s also worth reviewing your insurance policy, as many don’t cover damage from fallen trees if live termites were present.
+image: img/large-termite-nest-uncovered-after-tree-fell-during-cyclone-alfred.png
 ---
 
 
