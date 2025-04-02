@@ -11,8 +11,6 @@ description: >-
   On the Gold Coast, where warm and humid conditions attract termites year-round, regular termite inspections should include checking trees, stumps, and stored timber for signs of activity. If a tree near your home is compromised, it’s also worth reviewing your insurance policy, as many don’t cover damage from fallen trees if live termites were present.
 image: img/large-termite-nest-uncovered-after-tree-fell-during-cyclone-alfred.png
 ---
-
-
 After Cyclone Alfred tore through Brisbane, strong winds brought down a large tree blocking a walking track, revealing a large hidden termite nest inside its base. The damage and nest was only visible once the tree split open, exposing how termites had been silently weakening it from the inside. This case is a serious reminder that termite-infested trees can become unstable and dangerous, especially during storms.
 
 While many homeowners focus on termite activity inside their house, trees, stumps, and old logs in the backyard can be hidden nesting sites for termites. If undetected, these colonies can increase termite pressure on your property, leading termites straight to your home in search of food.
@@ -26,6 +24,8 @@ Termites don’t just target houses—they also infest living and dead trees, ho
 ✔️ **Large nests inside trees** – Some termite species, like Nasutitermes, build nests within tree cavities or on the trunk.\
 ✔️ **Branches or entire trees collapsing unexpectedly** – A sign that termites have compromised the tree’s integrity.
 
+{{< youtube YdTFRFAauu4 >}}
+
 ### **Why Backyard Trees Should Be Checked During a Termite Inspection**
 
 If a tree in your yard is infested with termites, it’s only a matter of time before they start searching for **other nearby timber sources—like your home**. A thorough termite inspection should include checking:
@@ -34,17 +34,13 @@ If a tree in your yard is infested with termites, it’s only a matter of time b
 ✅ **Logs and stored firewood** – Timber left in contact with the ground can attract termites.\
 ✅ **Fences and timber garden beds** – Termites can easily spread to other wooden structures.
 
-### **Video of a treatment to a tree that has live termites:** 
+### **Video of a treatment to a tree that has live termites:**
 
 {{< youtube Opucopp4z-8 >}}
-
-
 
 ### **Check Your Insurance and Seek Professional Advice**
 
 If a tree poses a risk to your home or neighbouring properties, it’s always worth checking your home insurance policy. Many policies do not cover damage caused by fallen trees if live termites were found. To reduce risks, it’s best to consult an arborist to assess the tree’s stability and, most importantly, book a **termite inspection** to check for hidden termite activity before it becomes a major problem.
-
-
 
 ### **Book a Termite Inspection to Protect Your Home**
 
