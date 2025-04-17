@@ -12,15 +12,21 @@ termite_treatment_gc_entries:
       ## Termite Treatment Costs
 
 
-      1. **Chemical treatments** (barriers) are a favoured choice for Homeowners on the Gold Coast. A standard chemical termite treatment using Termidor HE is usually between **$3000 to $4000**. Variables such as the home's external perimeter (average is 65 lineal meters) and chemical type can influence the cost.
-
-         See our **Recommended Chemicals** page for a deeper understanding.
-      2. **Baiting Systems** can be a suitable alternative to a chemical option. Depending on property dimensions and the number of bait stations, costs can range from **$1500 to $3000**, with an added annual fee for monitoring. See our page about BASF **Trelona Baiting System**.
-
-      3. **Physical Barriers** act as deterrents, halting termite entry. These systems, are often integrated during construction. It's very much a quote-and-do proposition.
 
 
-      **Combined treatments**: Sometimes, we will recommend combining a chemical treatment with a baiting system for ultimate protection.
+      * **Chemical treatments** (barriers) are a favoured choice for Homeowners on the Gold Coast. A standard chemical termite treatment using Termidor HE is usually between **$3000 to $4000**. Variables such as the home's external perimeter (average is 65 lineal meters) and chemical type can influence the cost.
+
+
+      See our **Recommended Chemicals** page for a deeper understanding.\n\n
+
+
+      * **Baiting Systems** can be a suitable alternative to a chemical option. Depending on property dimensions and the number of bait stations, costs can range from **$1500 to $3000**, with an added annual fee for monitoring. See our page about BASF **Trelona Baiting System**.\n\n 
+
+
+      * **Physical Barriers** act as deterrents, halting termite entry. These systems, are often integrated during construction. It's very much a quote-and-do proposition.\n\n 
+
+
+      * **Combined treatments**: Sometimes, we will recommend combining a chemical treatment with a baiting system for ultimate protection.
     heading: How much does a Termite Treatment Cost - Gold Coast?
     imageUrl: img/termite-treatment-how-much-does-it-cost.png
   - text: >-
