@@ -11,7 +11,7 @@ As we head into the cooler winter months, rodents like rats and mice start looki
 
 Rats and mice may be small, but they can cause big problems in Brisbane and Gold Coast homes—especially as the weather starts to cool and they look for warm places to nest. At Conquer Termites, we often get questions from homeowners who think they might have a rodent problem but aren’t quite sure what to look for or what to expect from a treatment. So, let’s break it down.
 
-
+{{< youtube 1pIhVe1BKTo >}}
 
 ### **Signs You Might Have Rodents in Your Home**
 
@@ -54,4 +54,14 @@ Here are a few tips to make your home less attractive to rodents:
 
 If you’ve heard scratching in the ceiling or noticed any of the signs above, give us a call. Our experienced team can inspect your home and put together a safe and effective rodent control plan—without the worry.
 
+{{< youtube HO2j1JuzzCA >}}
+
 **Conquer Termites** – Helping Brisbane and Gold Coast homeowners live rodent-free, the smart and safe way.
+
+Call us now [1300 417 007](tel:1300417007)
+
+More information:
+
+<https://www.conquertermites.com.au/articles/2024-06-19-the-winter-woes-tackling-rodent-problems-in-brisbane/>
+
+<https://www.conquertermites.com.au/articles/treat-rodents-before-they-cause-significant-damage/>
