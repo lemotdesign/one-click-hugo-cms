@@ -10,8 +10,6 @@ description: The Gold Coast’s warm climate and leafy surrounds create the
   protecting your Gold Coast home.
 image: img/heading-5-.png
 ---
-
-
 Living on the Gold Coast means sun, surf — and unfortunately, a high risk of termites. If you're building or renovating, you’ve likely asked: **Does treated timber really stop termites?** The answer is — it helps significantly, but only when used properly.
 
 - - -
@@ -58,8 +56,6 @@ Timber in Australia is treated to specific Hazard Levels (H-levels) that determi
 
 <https://www.youtube.com/watch?v=M716uK3_jPU>
 
-
-
 - - -
 
 ### ⚠️ Where Treated Timber Can Fail
@@ -72,6 +68,8 @@ Even if your timber is treated, it’s **not invincible** — we see this often 
 * **Timber buried in soil** without proper clearance or protection.
 
 > 🛠️ If you trim or drill into treated timber, always **seal the exposed surfaces** with an approved preservative to prevent termite entry.
+>
+> ![](img/termite-damaged-treated-timber-fence.png)
 
 - - -
 
@@ -89,3 +87,11 @@ Even if your timber is treated, it’s **not invincible** — we see this often 
 Treated timber is a fantastic line of defence, but **termites can still bridge over or bypass it** — especially in coastal climates with high humidity and lush gardens. That’s why **regular termite inspections** remain critical.
 
 At **Conquer Termites Gold Coast**, we inspect hundreds of homes every year — and we know exactly where to look. **Book an inspection today** and make sure your home stays protected for the long term.
+
+Call us on [1300 417 007](tel:1300417007)
+
+For more information:
+
+<https://www.conquertermites.com.au/articles/2024-12-27-what-types-of-timber-do-termites-eat-protect-your-home-from-termite-damage/>
+
+<https://www.business.qld.gov.au/industries/building-property-development/building-construction/laws-codes-standards/using-timber/treated>
