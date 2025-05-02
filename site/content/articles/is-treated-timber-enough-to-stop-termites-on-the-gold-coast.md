@@ -82,7 +82,7 @@ Even if your timber is treated, it’s **not invincible** — we see this often 
 
 - - -
 
-### 🐜 Protect Your Home — Don’t Rely on Treatment Alone
+### 🐜 Protect Your Home — Don’t Rely on Treatment Timber Alone
 
 Treated timber is a fantastic line of defence, but **termites can still bridge over or bypass it** — especially in coastal climates with high humidity and lush gardens. That’s why **regular termite inspections** remain critical.
 
