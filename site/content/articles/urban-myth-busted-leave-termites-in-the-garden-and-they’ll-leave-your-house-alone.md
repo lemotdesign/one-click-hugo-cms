@@ -50,7 +50,7 @@ In the video below, you’ll see just how quickly things can escalate. Despite a
 🪵 *Findings:* Live termites in tree stump + active infestation through the subfloor\
 🧪 *Treatment:* Termidor Foam on the day of inspection
 
-[**Insert Video Here**]
+<https://www.youtube.com/watch?v=G4Dx_CtxtOo>
 
 - - -
 
